@@ -12,11 +12,9 @@ This repository contains a complete **King James Version (KJV)** of the Holy Bib
 ## Format Example
 
 ```
-# John
+# Chapter 3
 
-## Chapter 3
-
-^16^ For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 ```
 
 ## Usage
