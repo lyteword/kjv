@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # Chapter 16
 
 <sup>1</sup> Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar. 

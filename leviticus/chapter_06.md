@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # Chapter 6
 
 <sup>1</sup> And the LORD spake unto Moses, saying, 

@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # Chapter 7
 
 <sup>1</sup> And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet. 

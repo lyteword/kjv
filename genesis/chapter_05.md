@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # Chapter 5
 
 <sup>1</sup> This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him; 

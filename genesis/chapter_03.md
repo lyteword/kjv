@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # Chapter 3
 
 <sup>1</sup> Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? 

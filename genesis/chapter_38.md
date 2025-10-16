@@ -1,3 +1,7 @@
+---
+weight: 38
+---
+
 # Chapter 38
 
 <sup>1</sup> And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah. 

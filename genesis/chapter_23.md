@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # Chapter 23
 
 <sup>1</sup> And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah. 

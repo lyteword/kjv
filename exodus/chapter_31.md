@@ -1,3 +1,7 @@
+---
+weight: 31
+---
+
 # Chapter 31
 
 <sup>1</sup> And the LORD spake unto Moses, saying, 

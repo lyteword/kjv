@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # Chapter 7
 
 <sup>1</sup> And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation. 

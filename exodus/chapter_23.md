@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # Chapter 23
 
 <sup>1</sup> Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness. 

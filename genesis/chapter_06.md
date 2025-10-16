@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # Chapter 6
 
 <sup>1</sup> And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them, 

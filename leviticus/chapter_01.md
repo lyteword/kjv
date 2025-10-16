@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Chapter 1
 
 <sup>1</sup> And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying, 

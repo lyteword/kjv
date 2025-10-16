@@ -1,3 +1,7 @@
+---
+weight: 37
+---
+
 # Chapter 37
 
 <sup>1</sup> And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan. 

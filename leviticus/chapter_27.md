@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # Chapter 27
 
 <sup>1</sup> And the LORD spake unto Moses, saying, 

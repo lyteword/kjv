@@ -1,3 +1,7 @@
+---
+weight: 36
+---
+
 # Chapter 36
 
 <sup>1</sup> Now these are the generations of Esau, who is Edom. 

@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # Chapter 30
 
 <sup>1</sup> And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it. 

@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # Chapter 15
 
 <sup>1</sup> And the LORD spake unto Moses and to Aaron, saying, 

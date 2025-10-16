@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # Chapter 12
 
 <sup>1</sup> Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee: 

@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # Chapter 13
 
 <sup>1</sup> And the LORD spake unto Moses, saying, 

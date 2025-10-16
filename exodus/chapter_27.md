@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # Chapter 27
 
 <sup>1</sup> And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits. 

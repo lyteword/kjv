@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # Chapter 13
 
 <sup>1</sup> And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south. 

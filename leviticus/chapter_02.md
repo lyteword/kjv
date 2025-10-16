@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # Chapter 2
 
 <sup>1</sup> And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon: 

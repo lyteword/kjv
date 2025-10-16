@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # Chapter 20
 
 <sup>1</sup> And the LORD spake unto Moses, saying, 

@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # Chapter 23
 
 <sup>1</sup> And the LORD spake unto Moses, saying, 

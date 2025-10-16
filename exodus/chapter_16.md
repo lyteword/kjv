@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # Chapter 16
 
 <sup>1</sup> And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt. 

@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # Chapter 4
 
 <sup>1</sup> And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee. 

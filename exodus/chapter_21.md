@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # Chapter 21
 
 <sup>1</sup> Now these are the judgments which thou shalt set before them. 

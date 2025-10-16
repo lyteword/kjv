@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # Chapter 15
 
 <sup>1</sup> After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward. 

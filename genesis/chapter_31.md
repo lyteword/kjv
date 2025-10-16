@@ -1,3 +1,7 @@
+---
+weight: 31
+---
+
 # Chapter 31
 
 <sup>1</sup> And he heard the words of Laban’s sons, saying, Jacob hath taken away all that was our father’s; and of that which was our father’s hath he gotten all this glory. 

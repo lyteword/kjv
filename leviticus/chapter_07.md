@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # Chapter 7
 
 <sup>1</sup> Likewise this is the law of the trespass offering: it is most holy. 

@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # Chapter 19
 
 <sup>1</sup> In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai. 

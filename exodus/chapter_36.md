@@ -1,3 +1,7 @@
+---
+weight: 36
+---
+
 # Chapter 36
 
 <sup>1</sup> Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the LORD had commanded. 

@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # Chapter 21
 
 <sup>1</sup> And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people: 

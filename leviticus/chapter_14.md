@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # Chapter 14
 
 <sup>1</sup> And the LORD spake unto Moses, saying, 

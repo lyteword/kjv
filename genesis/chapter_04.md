@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # Chapter 4
 
 <sup>1</sup> And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD. 

@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # Chapter 21
 
 <sup>1</sup> And the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken. 

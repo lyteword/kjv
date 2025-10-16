@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # Chapter 17
 
 <sup>1</sup> And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect. 

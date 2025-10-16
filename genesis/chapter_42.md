@@ -1,3 +1,7 @@
+---
+weight: 42
+---
+
 # Chapter 42
 
 <sup>1</sup> Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another? 

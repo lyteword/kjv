@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # Chapter 29
 
 <sup>1</sup> Then Jacob went on his journey, and came into the land of the people of the east. 

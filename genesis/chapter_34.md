@@ -1,3 +1,7 @@
+---
+weight: 34
+---
+
 # Chapter 34
 
 <sup>1</sup> And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land. 

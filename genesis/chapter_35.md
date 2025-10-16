@@ -1,3 +1,7 @@
+---
+weight: 35
+---
+
 # Chapter 35
 
 <sup>1</sup> And God said unto Jacob, Arise, go up to Beth-el, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother. 

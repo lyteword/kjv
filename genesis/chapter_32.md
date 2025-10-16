@@ -1,3 +1,7 @@
+---
+weight: 32
+---
+
 # Chapter 32
 
 <sup>1</sup> And Jacob went on his way, and the angels of God met him. 

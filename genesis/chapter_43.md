@@ -1,3 +1,7 @@
+---
+weight: 43
+---
+
 # Chapter 43
 
 <sup>1</sup> And the famine was sore in the land. 

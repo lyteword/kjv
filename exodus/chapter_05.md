@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # Chapter 5
 
 <sup>1</sup> And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness. 

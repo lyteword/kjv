@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # Chapter 25
 
 <sup>1</sup> Then again Abraham took a wife, and her name was Keturah. 

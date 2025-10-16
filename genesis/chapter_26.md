@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # Chapter 26
 
 <sup>1</sup> And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar. 

@@ -1,3 +1,7 @@
+---
+weight: 39
+---
+
 # Chapter 39
 
 <sup>1</sup> And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither. 

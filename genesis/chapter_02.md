@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # Chapter 2
 
 <sup>1</sup> Thus the heavens and the earth were finished, and all the host of them. 

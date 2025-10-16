@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # Chapter 24
 
 <sup>1</sup> And Abraham was old, and well stricken in age: and the LORD had blessed Abraham in all things. 

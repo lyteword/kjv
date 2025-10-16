@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # Chapter 19
 
 <sup>1</sup> And the LORD spake unto Moses, saying, 

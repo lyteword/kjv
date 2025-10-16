@@ -1,3 +1,7 @@
+---
+weight: 46
+---
+
 # Chapter 46
 
 <sup>1</sup> And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac. 

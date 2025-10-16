@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # Chapter 9
 
 <sup>1</sup> And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth. 

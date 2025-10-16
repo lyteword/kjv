@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # Chapter 9
 
 <sup>1</sup> Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me. 

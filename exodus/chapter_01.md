@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Chapter 1
 
 <sup>1</sup> Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob. 

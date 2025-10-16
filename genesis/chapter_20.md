@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # Chapter 20
 
 <sup>1</sup> And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar. 

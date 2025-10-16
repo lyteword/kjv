@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # Chapter 11
 
 <sup>1</sup> And the LORD said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether. 

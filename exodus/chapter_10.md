@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # Chapter 10
 
 <sup>1</sup> And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him: 

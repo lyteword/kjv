@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # Chapter 19
 
 <sup>1</sup> And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground; 

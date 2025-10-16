@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # Chapter 27
 
 <sup>1</sup> And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I. 

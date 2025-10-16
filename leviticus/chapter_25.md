@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # Chapter 25
 
 <sup>1</sup> And the LORD spake unto Moses in mount Sinai, saying, 

@@ -1,3 +1,7 @@
+---
+weight: 40
+---
+
 # Chapter 40
 
 <sup>1</sup> And the LORD spake unto Moses, saying, 

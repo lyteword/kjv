@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Chapter 1
 
 <sup>1</sup> In the beginning God created the heaven and the earth. 

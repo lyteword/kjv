@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # Chapter 3
 
 <sup>1</sup> And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the LORD. 

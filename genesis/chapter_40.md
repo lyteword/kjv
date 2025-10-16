@@ -1,3 +1,7 @@
+---
+weight: 40
+---
+
 # Chapter 40
 
 <sup>1</sup> And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt. 

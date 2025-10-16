@@ -1,3 +1,7 @@
+---
+weight: 35
+---
+
 # Chapter 35
 
 <sup>1</sup> And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them. 

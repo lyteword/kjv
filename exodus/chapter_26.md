@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # Chapter 26
 
 <sup>1</sup> Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them. 

@@ -1,3 +1,7 @@
+---
+weight: 34
+---
+
 # Chapter 34
 
 <sup>1</sup> And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest. 

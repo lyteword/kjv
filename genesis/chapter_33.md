@@ -1,3 +1,7 @@
+---
+weight: 33
+---
+
 # Chapter 33
 
 <sup>1</sup> And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids. 

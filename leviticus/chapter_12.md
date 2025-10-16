@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # Chapter 12
 
 <sup>1</sup> And the LORD spake unto Moses, saying, 

@@ -1,3 +1,7 @@
+---
+weight: 41
+---
+
 # Chapter 41
 
 <sup>1</sup> And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river. 

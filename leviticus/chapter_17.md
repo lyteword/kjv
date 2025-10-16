@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # Chapter 17
 
 <sup>1</sup> And the LORD spake unto Moses, saying, 

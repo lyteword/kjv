@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # Chapter 6
 
 <sup>1</sup> Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land. 
