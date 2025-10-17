@@ -9,12 +9,26 @@ This repository contains a complete **King James Version (KJV)** of the Holy Bib
 - Simple and consistent syntax for easy parsing  
 - Fully open-source for use in apps, websites, and study tools  
 
-## Format Example
+## Format Examples
 
+`psalm/psalm-23.md`
 ```
-# Chapter 3
+# Psalm 23
 
-16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+<sup>1</sup> The Lord is my shepherd; I shall not want.
+
+<sup>2</sup> He maketh me to lie down in green pastures: he leadeth me beside the still waters.
+```
+
+`john/chapter-1.md`
+```
+# Chapter 1
+
+<sup>1</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
+
+<sup>2</sup> The same was in the beginning with God.
+
+<sup>3</sup> All things were made by him; and without him was not any thing made that was made.
 ```
 
 ## Usage
