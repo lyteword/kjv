@@ -1,0 +1,75 @@
+---
+weight: 16
+---
+
+# Chapter 16
+
+<sup>1</sup> Then the word of the LORD came to Jehu the son of Hanani against Baasha, saying, 
+
+<sup>2</sup> Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins; 
+
+<sup>3</sup> Behold, I will take away the posterity of Baasha, and the posterity of his house; and will make thy house like the house of Jeroboam the son of Nebat. 
+
+<sup>4</sup> Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the fowls of the air eat. 
+
+<sup>5</sup> Now the rest of the acts of Baasha, and what he did, and his might, are they not written in the book of the chronicles of the kings of Israel? 
+
+<sup>6</sup> So Baasha slept with his fathers, and was buried in Tirzah: and Elah his son reigned in his stead. 
+
+<sup>7</sup> And also by the hand of the prophet Jehu the son of Hanani came the word of the LORD against Baasha, and against his house, even for all the evil that he did in the sight of the LORD, in provoking him to anger with the work of his hands, in being like the house of Jeroboam; and because he killed him. 
+
+<sup>8</sup> ¶ In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years. 
+
+<sup>9</sup> And his servant Zimri, captain of half his chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of his house in Tirzah. 
+
+<sup>10</sup> And Zimri went in and smote him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead. 
+
+<sup>11</sup> ¶ And it came to pass, when he began to reign, as soon as he sat on his throne, that he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends. 
+
+<sup>12</sup> Thus did Zimri destroy all the house of Baasha, according to the word of the LORD, which he spake against Baasha by Jehu the prophet, 
+
+<sup>13</sup> For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the LORD God of Israel to anger with their vanities. 
+
+<sup>14</sup> Now the rest of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel? 
+
+<sup>15</sup> ¶ In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people were encamped against Gibbethon, which belonged to the Philistines. 
+
+<sup>16</sup> And the people that were encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp. 
+
+<sup>17</sup> And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah. 
+
+<sup>18</sup> And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king’s house, and burnt the king’s house over him with fire, and died, 
+
+<sup>19</sup> For his sins which he sinned in doing evil in the sight of the LORD, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin. 
+
+<sup>20</sup> Now the rest of the acts of Zimri, and his treason that he wrought, are they not written in the book of the chronicles of the kings of Israel? 
+
+<sup>21</sup> ¶ Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri. 
+
+<sup>22</sup> But the people that followed Omri prevailed against the people that followed Tibni the son of Ginath: so Tibni died, and Omri reigned. 
+
+<sup>23</sup> ¶ In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah. 
+
+<sup>24</sup> And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria. 
+
+<sup>25</sup> ¶ But Omri wrought evil in the eyes of the LORD, and did worse than all that were before him. 
+
+<sup>26</sup> For he walked in all the way of Jeroboam the son of Nebat, and in his sin wherewith he made Israel to sin, to provoke the LORD God of Israel to anger with their vanities. 
+
+<sup>27</sup> Now the rest of the acts of Omri which he did, and his might that he shewed, are they not written in the book of the chronicles of the kings of Israel? 
+
+<sup>28</sup> So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead. 
+
+<sup>29</sup> ¶ And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years. 
+
+<sup>30</sup> And Ahab the son of Omri did evil in the sight of the LORD above all that were before him. 
+
+<sup>31</sup> And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him. 
+
+<sup>32</sup> And he reared up an altar for Baal in the house of Baal, which he had built in Samaria. 
+
+<sup>33</sup> And Ahab made a grove; and Ahab did more to provoke the LORD God of Israel to anger than all the kings of Israel that were before him. 
+
+<sup>34</sup> ¶ In his days did Hiel the Beth-elite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of the LORD, which he spake by Joshua the son of Nun. 
+
+
