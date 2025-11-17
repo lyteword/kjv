@@ -20,7 +20,7 @@ weight: 40
 
 <sup>8</sup> And thou shalt set up the court round about, and hang up the hanging at the court gate. 
 
-<sup>9</sup> And thou shalt take the anointing oil, and anoint the tabernacle, and all that is therein, and shalt hallow it, and all the vessels thereof: and it shall be holy. 
+<sup>9</sup> And thou shalt take the anointing oil, and anoint the tabernacle, and all that *is* therein, and shalt hallow it, and all the vessels thereof: and it shall be holy. 
 
 <sup>10</sup> And thou shalt anoint the altar of the burnt offering, and all his vessels, and sanctify the altar: and it shall be an altar most holy. 
 
@@ -36,7 +36,7 @@ weight: 40
 
 <sup>16</sup> Thus did Moses: according to all that the LORD commanded him, so did he. 
 
-<sup>17</sup> ¶ And it came to pass in the first month in the second year, on the first day of the month, that the tabernacle was reared up. 
+<sup>17</sup> ¶ And it came to pass in the first month in the second year, on the first *day* of the month, *that* the tabernacle was reared up. 
 
 <sup>18</sup> And Moses reared up the tabernacle, and fastened his sockets, and set up the boards thereof, and put in the bars thereof, and reared up his pillars. 
 
@@ -58,11 +58,11 @@ weight: 40
 
 <sup>27</sup> And he burnt sweet incense thereon; as the LORD commanded Moses. 
 
-<sup>28</sup> ¶ And he set up the hanging at the door of the tabernacle. 
+<sup>28</sup> ¶ And he set up the hanging *at* the door of the tabernacle. 
 
-<sup>29</sup> And he put the altar of burnt offering by the door of the tabernacle of the tent of the congregation, and offered upon it the burnt offering and the meat offering; as the LORD commanded Moses. 
+<sup>29</sup> And he put the altar of burnt offering *by* the door of the tabernacle of the tent of the congregation, and offered upon it the burnt offering and the meat offering; as the LORD commanded Moses. 
 
-<sup>30</sup> ¶ And he set the laver between the tent of the congregation and the altar, and put water there, to wash withal. 
+<sup>30</sup> ¶ And he set the laver between the tent of the congregation and the altar, and put water there, to wash *withal*. 
 
 <sup>31</sup> And Moses and Aaron and his sons washed their hands and their feet thereat: 
 
@@ -78,5 +78,5 @@ weight: 40
 
 <sup>37</sup> But if the cloud were not taken up, then they journeyed not till the day that it was taken up. 
 
-<sup>38</sup> For the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys. 
+<sup>38</sup> For the cloud of the LORD *was* upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys. 
 

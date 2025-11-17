@@ -4,7 +4,7 @@ weight: 34
 
 # Chapter 34
 
-<sup>1</sup> And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest. 
+<sup>1</sup> And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon *these* tables the words that were in the first tables, which thou brakest. 
 
 <sup>2</sup> And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount. 
 
@@ -16,13 +16,13 @@ weight: 34
 
 <sup>6</sup> And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth, 
 
-<sup>7</sup> Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth generation. 
+<sup>7</sup> Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear *the guilty;* visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth *generation*. 
 
 <sup>8</sup> And Moses made haste, and bowed his head toward the earth, and worshipped. 
 
-<sup>9</sup> And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it is a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance. 
+<sup>9</sup> And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it *is* a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance. 
 
-<sup>10</sup> ¶ And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou art shall see the work of the LORD: for it is a terrible thing that I will do with thee. 
+<sup>10</sup> ¶ And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou *art* shall see the work of the LORD: for it *is* a terrible thing that I will do with thee. 
 
 <sup>11</sup> Observe thou that which I command thee this day: behold, I drive out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite. 
 
@@ -30,9 +30,9 @@ weight: 34
 
 <sup>13</sup> But ye shall destroy their altars, break their images, and cut down their groves: 
 
-<sup>14</sup> For thou shalt worship no other god: for the LORD, whose name is Jealous, is a jealous God: 
+<sup>14</sup> For thou shalt worship no other god: for the LORD, whose name *is* Jealous, *is* a jealous God: 
 
-<sup>15</sup> Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice; 
+<sup>15</sup> Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and *one* call thee, and thou eat of his sacrifice; 
 
 <sup>16</sup> And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods. 
 
@@ -40,9 +40,9 @@ weight: 34
 
 <sup>18</sup> ¶ The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt. 
 
-<sup>19</sup> All that openeth the matrix is mine; and every firstling among thy cattle, whether ox or sheep,  that is male. 
+<sup>19</sup> All that openeth the matrix *is* mine; and every firstling among thy cattle, *whether* ox or sheep, **. 
 
-<sup>20</sup> But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem him not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty. 
+<sup>20</sup> But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem *him* not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty. 
 
 <sup>21</sup> ¶ Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest. 
 
@@ -68,10 +68,9 @@ weight: 34
 
 <sup>32</sup> And afterward all the children of Israel came nigh: and he gave them in commandment all that the LORD had spoken with him in mount Sinai. 
 
-<sup>33</sup> And till Moses had done speaking with them, he put a vail on his face. 
+<sup>33</sup> And *till* Moses had done speaking with them, he put a vail on his face. 
 
-<sup>34</sup> But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel that which he was commanded. 
+<sup>34</sup> But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel *that* which he was commanded. 
 
 <sup>35</sup> And the children of Israel saw the face of Moses, that the skin of Moses’ face shone: and Moses put the vail upon his face again, until he went in to speak with him. 
-
 

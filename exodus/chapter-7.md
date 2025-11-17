@@ -10,17 +10,17 @@ weight: 7
 
 <sup>3</sup> And I will harden Pharaoh’s heart, and multiply my signs and my wonders in the land of Egypt. 
 
-<sup>4</sup> But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, and my people the children of Israel, out of the land of Egypt by great judgments. 
+<sup>4</sup> But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, *and* my people the children of Israel, out of the land of Egypt by great judgments. 
 
-<sup>5</sup> And the Egyptians shall know that I am the LORD, when I stretch forth mine hand upon Egypt, and bring out the children of Israel from among them. 
+<sup>5</sup> And the Egyptians shall know that I *am* the LORD, when I stretch forth mine hand upon Egypt, and bring out the children of Israel from among them. 
 
 <sup>6</sup> And Moses and Aaron did as the LORD commanded them, so did they. 
 
-<sup>7</sup> And Moses was fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh. 
+<sup>7</sup> And Moses *was* fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh. 
 
 <sup>8</sup> ¶ And the LORD spake unto Moses and unto Aaron, saying, 
 
-<sup>9</sup> When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast it before Pharaoh, and it shall become a serpent. 
+<sup>9</sup> When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast *it* before Pharaoh, *and* it shall become a serpent. 
 
 <sup>10</sup> ¶ And Moses and Aaron went in unto Pharaoh, and they did so as the LORD had commanded: and Aaron cast down his rod before Pharaoh, and before his servants, and it became a serpent. 
 
@@ -30,21 +30,21 @@ weight: 7
 
 <sup>13</sup> And he hardened Pharaoh’s heart, that he hearkened not unto them; as the LORD had said. 
 
-<sup>14</sup> ¶ And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the people go. 
+<sup>14</sup> ¶ And the LORD said unto Moses, Pharaoh’s heart *is* hardened, he refuseth to let the people go. 
 
 <sup>15</sup> Get thee unto Pharaoh in the morning; lo, he goeth out unto the water; and thou shalt stand by the river’s brink against he come; and the rod which was turned to a serpent shalt thou take in thine hand. 
 
 <sup>16</sup> And thou shalt say unto him, The LORD God of the Hebrews hath sent me unto thee, saying, Let my people go, that they may serve me in the wilderness: and, behold, hitherto thou wouldest not hear. 
 
-<sup>17</sup> Thus saith the LORD, In this thou shalt know that I am the LORD: behold, I will smite with the rod that is in mine hand upon the waters which are in the river, and they shall be turned to blood. 
+<sup>17</sup> Thus saith the LORD, In this thou shalt know that I *am* the LORD: behold, I will smite with the rod that *is* in mine hand upon the waters which *are* in the river, and they shall be turned to blood. 
 
-<sup>18</sup> And the fish that is in the river shall die, and the river shall stink; and the Egyptians shall lothe to drink of the water of the river. 
+<sup>18</sup> And the fish that *is* in the river shall die, and the river shall stink; and the Egyptians shall lothe to drink of the water of the river. 
 
-<sup>19</sup> ¶ And the LORD spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone. 
+<sup>19</sup> ¶ And the LORD spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and *that* there may be blood throughout all the land of Egypt, both in *vessels of* wood, and in *vessels of* stone. 
 
-<sup>20</sup> And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and smote the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood. 
+<sup>20</sup> And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and smote the waters that *were* in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that *were* in the river were turned to blood. 
 
-<sup>21</sup> And the fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt. 
+<sup>21</sup> And the fish that *was* in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt. 
 
 <sup>22</sup> And the magicians of Egypt did so with their enchantments: and Pharaoh’s heart was hardened, neither did he hearken unto them; as the LORD had said. 
 
@@ -53,5 +53,4 @@ weight: 7
 <sup>24</sup> And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river. 
 
 <sup>25</sup> And seven days were fulfilled, after that the LORD had smitten the river. 
-
 

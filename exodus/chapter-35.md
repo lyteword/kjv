@@ -4,17 +4,17 @@ weight: 35
 
 # Chapter 35
 
-<sup>1</sup> And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them. 
+<sup>1</sup> And Moses gathered all the congregation of the children of Israel together, and said unto them, These *are* the words which the LORD hath commanded, that *ye* should do them. 
 
 <sup>2</sup> Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death. 
 
 <sup>3</sup> Ye shall kindle no fire throughout your habitations upon the sabbath day. 
 
-<sup>4</sup> ¶ And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which the LORD commanded, saying, 
+<sup>4</sup> ¶ And Moses spake unto all the congregation of the children of Israel, saying, This *is* the thing which the LORD commanded, saying, 
 
-<sup>5</sup> Take ye from among you an offering unto the LORD: whosoever is of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass, 
+<sup>5</sup> Take ye from among you an offering unto the LORD: whosoever *is* of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass, 
 
-<sup>6</sup> And blue, and purple, and scarlet, and fine linen, and goats’ hair, 
+<sup>6</sup> And blue, and purple, and scarlet, and fine linen, and goats’ *hair*, 
 
 <sup>7</sup> And rams’ skins dyed red, and badgers’ skins, and shittim wood, 
 
@@ -26,7 +26,7 @@ weight: 35
 
 <sup>11</sup> The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets, 
 
-<sup>12</sup> The ark, and the staves thereof, with the mercy seat, and the vail of the covering, 
+<sup>12</sup> The ark, and the staves thereof, *with* the mercy seat, and the vail of the covering, 
 
 <sup>13</sup> The table, and his staves, and all his vessels, and the shewbread, 
 
@@ -40,21 +40,21 @@ weight: 35
 
 <sup>18</sup> The pins of the tabernacle, and the pins of the court, and their cords, 
 
-<sup>19</sup> The cloths of service, to do service in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office. 
+<sup>19</sup> The cloths of service, to do service in the holy *place*, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office. 
 
 <sup>20</sup> ¶ And all the congregation of the children of Israel departed from the presence of Moses. 
 
-<sup>21</sup> And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the LORD’s offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments. 
+<sup>21</sup> And they came, every one whose heart stirred him up, and every one whom his spirit made willing, *and* they brought the LORD’s offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments. 
 
-<sup>22</sup> And they came, both men and women, as many as were willing hearted, and brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered offered an offering of gold unto the LORD. 
+<sup>22</sup> And they came, both men and women, as many as were willing hearted, *and* brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered *offered* an offering of gold unto the LORD. 
 
-<sup>23</sup> And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ hair, and red skins of rams, and badgers’ skins, brought them. 
+<sup>23</sup> And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ *hair*, and red skins of rams, and badgers’ skins, brought *them*. 
 
-<sup>24</sup> Every one that did offer an offering of silver and brass brought the LORD’s offering: and every man, with whom was found shittim wood for any work of the service, brought it. 
+<sup>24</sup> Every one that did offer an offering of silver and brass brought the LORD’s offering: and every man, with whom was found shittim wood for any work of the service, brought *it*. 
 
-<sup>25</sup> And all the women that were wise hearted did spin with their hands, and brought that which they had spun, both of blue, and of purple, and of scarlet, and of fine linen. 
+<sup>25</sup> And all the women that were wise hearted did spin with their hands, and brought that which they had spun, *both* of blue, and of purple, *and* of scarlet, and of fine linen. 
 
-<sup>26</sup> And all the women whose heart stirred them up in wisdom spun goats’ hair. 
+<sup>26</sup> And all the women whose heart stirred them up in wisdom spun goats’ *hair*. 
 
 <sup>27</sup> And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate; 
 
@@ -68,10 +68,9 @@ weight: 35
 
 <sup>32</sup> And to devise curious works, to work in gold, and in silver, and in brass, 
 
-<sup>33</sup> And in the cutting of stones, to set them, and in carving of wood, to make any manner of cunning work. 
+<sup>33</sup> And in the cutting of stones, to set *them*, and in carving of wood, to make any manner of cunning work. 
 
-<sup>34</sup> And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan. 
+<sup>34</sup> And he hath put in his heart that he may teach, *both* he, and Aholiab, the son of Ahisamach, of the tribe of Dan. 
 
-<sup>35</sup> Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any work, and of those that devise cunning work. 
-
+<sup>35</sup> Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, *even* of them that do any work, and of those that devise cunning work. 
 

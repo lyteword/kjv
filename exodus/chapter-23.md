@@ -6,7 +6,7 @@ weight: 23
 
 <sup>1</sup> Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness. 
 
-<sup>2</sup> ¶ Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment: 
+<sup>2</sup> ¶ Thou shalt not follow a multitude to *do* evil; neither shalt thou speak in a cause to decline after many to wrest *judgment:* 
 
 <sup>3</sup> ¶ Neither shalt thou countenance a poor man in his cause. 
 
@@ -24,17 +24,17 @@ weight: 23
 
 <sup>10</sup> And six years thou shalt sow thy land, and shalt gather in the fruits thereof: 
 
-<sup>11</sup> But the seventh year thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, and with thy oliveyard. 
+<sup>11</sup> But the seventh *year* thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, *and* with thy oliveyard. 
 
 <sup>12</sup> Six days thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son of thy handmaid, and the stranger, may be refreshed. 
 
-<sup>13</sup> And in all things that I have said unto you be circumspect: and make no mention of the name of other gods, neither let it be heard out of thy mouth. 
+<sup>13</sup> And in all *things* that I have said unto you be circumspect: and make no mention of the name of other gods, neither let it be heard out of thy mouth. 
 
 <sup>14</sup> ¶ Three times thou shalt keep a feast unto me in the year. 
 
 <sup>15</sup> Thou shalt keep the feast of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none shall appear before me empty:) 
 
-<sup>16</sup> And the feast of harvest, the firstfruits of thy labours, which thou hast sown in the field: and the feast of ingathering, which is in the end of the year, when thou hast gathered in thy labours out of the field. 
+<sup>16</sup> And the feast of harvest, the firstfruits of thy labours, which thou hast sown in the field: and the feast of ingathering, *which is* in the end of the year, when thou hast gathered in thy labours out of the field. 
 
 <sup>17</sup> Three times in the year all thy males shall appear before the Lord GOD. 
 
@@ -44,7 +44,7 @@ weight: 23
 
 <sup>20</sup> ¶ Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared. 
 
-<sup>21</sup> Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him. 
+<sup>21</sup> Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name *is* in him. 
 
 <sup>22</sup> But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries. 
 
@@ -69,5 +69,4 @@ weight: 23
 <sup>32</sup> Thou shalt make no covenant with them, nor with their gods. 
 
 <sup>33</sup> They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee. 
-
 

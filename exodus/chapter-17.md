@@ -4,11 +4,11 @@ weight: 17
 
 # Chapter 17
 
-<sup>1</sup> And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink. 
+<sup>1</sup> And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and *there was* no water for the people to drink. 
 
 <sup>2</sup> Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD? 
 
-<sup>3</sup> And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst? 
+<sup>3</sup> And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore *is* this *that* thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst? 
 
 <sup>4</sup> And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me. 
 
@@ -26,14 +26,13 @@ weight: 17
 
 <sup>11</sup> And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed. 
 
-<sup>12</sup> But Moses’ hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun. 
+<sup>12</sup> But Moses’ hands *were* heavy; and they took a stone, and put *it* under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun. 
 
 <sup>13</sup> And Joshua discomfited Amalek and his people with the edge of the sword. 
 
-<sup>14</sup> And the LORD said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven. 
+<sup>14</sup> And the LORD said unto Moses, Write this *for* a memorial in a book, and rehearse *it* in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven. 
 
 <sup>15</sup> And Moses built an altar, and called the name of it Jehovah-nissi: 
 
-<sup>16</sup> For he said, Because the LORD hath sworn that the LORD will have war with Amalek from generation to generation. 
-
+<sup>16</sup> For he said, Because the LORD hath sworn *that* the LORD *will have* war with Amalek from generation to generation. 
 

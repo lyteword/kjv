@@ -4,7 +4,7 @@ weight: 21
 
 # Chapter 21
 
-<sup>1</sup> Now these are the judgments which thou shalt set before them. 
+<sup>1</sup> Now these *are* the judgments which thou shalt set before them. 
 
 <sup>2</sup> If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing. 
 
@@ -22,13 +22,13 @@ weight: 21
 
 <sup>9</sup> And if he have betrothed her unto his son, he shall deal with her after the manner of daughters. 
 
-<sup>10</sup> If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish. 
+<sup>10</sup> If he take him another *wife;* her food, her raiment, and her duty of marriage, shall he not diminish. 
 
 <sup>11</sup> And if he do not these three unto her, then shall she go out free without money. 
 
 <sup>12</sup> ¶ He that smiteth a man, so that he die, shall be surely put to death. 
 
-<sup>13</sup> And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee. 
+<sup>13</sup> And if a man lie not in wait, but God deliver *him* into his hand; then I will appoint thee a place whither he shall flee. 
 
 <sup>14</sup> But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die. 
 
@@ -38,17 +38,17 @@ weight: 21
 
 <sup>17</sup> ¶ And he that curseth his father, or his mother, shall surely be put to death. 
 
-<sup>18</sup> ¶ And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed: 
+<sup>18</sup> ¶ And if men strive together, and one smite another with a stone, or with *his* fist, and he die not, but keepeth *his* bed: 
 
-<sup>19</sup> If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed. 
+<sup>19</sup> If he rise again, and walk abroad upon his staff, then shall he that smote *him* be quit: only he shall pay *for* the loss of his time, and shall cause *him* to be thoroughly healed. 
 
 <sup>20</sup> ¶ And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished. 
 
-<sup>21</sup> Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money. 
+<sup>21</sup> Notwithstanding, if he continue a day or two, he shall not be punished: for he *is* his money. 
 
-<sup>22</sup> ¶ If men strive, and hurt a woman with child, so that her fruit depart from her, and yet no mischief follow: he shall be surely punished, according as the woman’s husband will lay upon him; and he shall pay as the judges determine. 
+<sup>22</sup> ¶ If men strive, and hurt a woman with child, so that her fruit depart *from her*, and yet no mischief follow: he shall be surely punished, according as the woman’s husband will lay upon him; and he shall pay as the judges *determine*. 
 
-<sup>23</sup> And if any mischief follow, then thou shalt give life for life, 
+<sup>23</sup> And if *any* mischief follow, then thou shalt give life for life, 
 
 <sup>24</sup> Eye for eye, tooth for tooth, hand for hand, foot for foot, 
 
@@ -58,7 +58,7 @@ weight: 21
 
 <sup>27</sup> And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake. 
 
-<sup>28</sup> ¶ If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit. 
+<sup>28</sup> ¶ If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox *shall be* quit. 
 
 <sup>29</sup> But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death. 
 
@@ -70,10 +70,9 @@ weight: 21
 
 <sup>33</sup> ¶ And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein; 
 
-<sup>34</sup> The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his. 
+<sup>34</sup> The owner of the pit shall make *it* good, *and* give money unto the owner of them; and the dead *beast* shall be his. 
 
-<sup>35</sup> ¶ And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide. 
+<sup>35</sup> ¶ And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the money of it; and the dead *ox* also they shall divide. 
 
 <sup>36</sup> Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own. 
-
 

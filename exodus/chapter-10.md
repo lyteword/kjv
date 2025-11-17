@@ -6,7 +6,7 @@ weight: 10
 
 <sup>1</sup> And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him: 
 
-<sup>2</sup> And that thou mayest tell in the ears of thy son, and of thy son’s son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I am the LORD. 
+<sup>2</sup> And that thou mayest tell in the ears of thy son, and of thy son’s son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I *am* the LORD. 
 
 <sup>3</sup> And Moses and Aaron came in unto Pharaoh, and said unto him, Thus saith the LORD God of the Hebrews, How long wilt thou refuse to humble thyself before me? let my people go, that they may serve me. 
 
@@ -18,19 +18,19 @@ weight: 10
 
 <sup>7</sup> And Pharaoh’s servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve the LORD their God: knowest thou not yet that Egypt is destroyed? 
 
-<sup>8</sup> And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve the LORD your God: but who are they that shall go? 
+<sup>8</sup> And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve the LORD your God: *but* who *are* they that shall go? 
 
-<sup>9</sup> And Moses said, We will go with our young and with our old, with our sons and with our daughters, with our flocks and with our herds will we go; for we must hold a feast unto the LORD. 
+<sup>9</sup> And Moses said, We will go with our young and with our old, with our sons and with our daughters, with our flocks and with our herds will we go; for we *must hold* a feast unto the LORD. 
 
-<sup>10</sup> And he said unto them, Let the LORD be so with you, as I will let you go, and your little ones: look to it; for evil is before you. 
+<sup>10</sup> And he said unto them, Let the LORD be so with you, as I will let you go, and your little ones: look *to it;* for evil *is* before you. 
 
-<sup>11</sup> Not so: go now ye that are men, and serve the LORD; for that ye did desire. And they were driven out from Pharaoh’s presence. 
+<sup>11</sup> Not so: go now ye *that are* men, and serve the LORD; for that ye did desire. And they were driven out from Pharaoh’s presence. 
 
-<sup>12</sup> ¶ And the LORD said unto Moses, Stretch out thine hand over the land of Egypt for the locusts, that they may come up upon the land of Egypt, and eat every herb of the land, even all that the hail hath left. 
+<sup>12</sup> ¶ And the LORD said unto Moses, Stretch out thine hand over the land of Egypt for the locusts, that they may come up upon the land of Egypt, and eat every herb of the land, *even* all that the hail hath left. 
 
-<sup>13</sup> And Moses stretched forth his rod over the land of Egypt, and the LORD brought an east wind upon the land all that day, and all that night; and when it was morning, the east wind brought the locusts. 
+<sup>13</sup> And Moses stretched forth his rod over the land of Egypt, and the LORD brought an east wind upon the land all that day, and all *that* night; *and* when it was morning, the east wind brought the locusts. 
 
-<sup>14</sup> And the locusts went up over all the land of Egypt, and rested in all the coasts of Egypt: very grievous were they; before them there were no such locusts as they, neither after them shall be such. 
+<sup>14</sup> And the locusts went up over all the land of Egypt, and rested in all the coasts of Egypt: very grievous *were they;* before them there were no such locusts as they, neither after them shall be such. 
 
 <sup>15</sup> For they covered the face of the whole earth, so that the land was darkened; and they did eat every herb of the land, and all the fruit of the trees which the hail had left: and there remained not any green thing in the trees, or in the herbs of the field, through all the land of Egypt. 
 
@@ -44,7 +44,7 @@ weight: 10
 
 <sup>20</sup> But the LORD hardened Pharaoh’s heart, so that he would not let the children of Israel go. 
 
-<sup>21</sup> ¶ And the LORD said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt. 
+<sup>21</sup> ¶ And the LORD said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness *which* may be felt. 
 
 <sup>22</sup> And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days: 
 
@@ -58,8 +58,7 @@ weight: 10
 
 <sup>27</sup> ¶ But the LORD hardened Pharaoh’s heart, and he would not let them go. 
 
-<sup>28</sup> And Pharaoh said unto him, Get thee from me, take heed to thyself, see my face no more; for in that day thou seest my face thou shalt die. 
+<sup>28</sup> And Pharaoh said unto him, Get thee from me, take heed to thyself, see my face no more; for in *that* day thou seest my face thou shalt die. 
 
 <sup>29</sup> And Moses said, Thou hast spoken well, I will see thy face again no more. 
-
 

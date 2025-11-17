@@ -6,11 +6,11 @@ weight: 9
 
 <sup>1</sup> Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me. 
 
-<sup>2</sup> For if thou refuse to let them go, and wilt hold them still, 
+<sup>2</sup> For if thou refuse to let *them* go, and wilt hold them still, 
 
-<sup>3</sup> Behold, the hand of the LORD is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain. 
+<sup>3</sup> Behold, the hand of the LORD is upon thy cattle which *is* in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: *there shall be* a very grievous murrain. 
 
-<sup>4</sup> And the LORD shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all that is the children’s of Israel. 
+<sup>4</sup> And the LORD shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all *that is* the children’s of Israel. 
 
 <sup>5</sup> And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land. 
 
@@ -20,9 +20,9 @@ weight: 9
 
 <sup>8</sup> ¶ And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh. 
 
-<sup>9</sup> And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth with blains upon man, and upon beast, throughout all the land of Egypt. 
+<sup>9</sup> And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth *with* blains upon man, and upon beast, throughout all the land of Egypt. 
 
-<sup>10</sup> And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man, and upon beast. 
+<sup>10</sup> And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth *with* blains upon man, and upon beast. 
 
 <sup>11</sup> And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians. 
 
@@ -30,17 +30,17 @@ weight: 9
 
 <sup>13</sup> ¶ And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me. 
 
-<sup>14</sup> For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that there is none like me in all the earth. 
+<sup>14</sup> For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that *there is* none like me in all the earth. 
 
 <sup>15</sup> For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth. 
 
-<sup>16</sup> And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth. 
+<sup>16</sup> And in very deed for this *cause* have I raised thee up, for to shew *in* thee my power; and that my name may be declared throughout all the earth. 
 
 <sup>17</sup> As yet exaltest thou thyself against my people, that thou wilt not let them go? 
 
 <sup>18</sup> Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now. 
 
-<sup>19</sup> Send therefore now, and gather thy cattle, and all that thou hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die. 
+<sup>19</sup> Send therefore now, *and* gather thy cattle, and all that thou hast in the field; *for upon* every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die. 
 
 <sup>20</sup> He that feared the word of the LORD among the servants of Pharaoh made his servants and his cattle flee into the houses: 
 
@@ -52,26 +52,25 @@ weight: 9
 
 <sup>24</sup> So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation. 
 
-<sup>25</sup> And the hail smote throughout all the land of Egypt all that was in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field. 
+<sup>25</sup> And the hail smote throughout all the land of Egypt all that *was* in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field. 
 
-<sup>26</sup> Only in the land of Goshen, where the children of Israel were, was there no hail. 
+<sup>26</sup> Only in the land of Goshen, where the children of Israel *were*, was there no hail. 
 
-<sup>27</sup> ¶ And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD is righteous, and I and my people are wicked. 
+<sup>27</sup> ¶ And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD *is* righteous, and I and my people *are* wicked. 
 
-<sup>28</sup> Intreat the LORD (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and ye shall stay no longer. 
+<sup>28</sup> Intreat the LORD(for *it is* enough) that there be no *more* mighty thunderings and hail; and I will let you go, and ye shall stay no longer. 
 
-<sup>29</sup> And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the LORD’s. 
+<sup>29</sup> And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; *and* the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth *is* the LORD’s. 
 
 <sup>30</sup> But as for thee and thy servants, I know that ye will not yet fear the LORD God. 
 
-<sup>31</sup> And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled. 
+<sup>31</sup> And the flax and the barley was smitten: for the barley *was* in the ear, and the flax *was* bolled. 
 
-<sup>32</sup> But the wheat and the rie were not smitten: for they were not grown up. 
+<sup>32</sup> But the wheat and the rie were not smitten: for they *were* not grown up. 
 
 <sup>33</sup> And Moses went out of the city from Pharaoh, and spread abroad his hands unto the LORD: and the thunders and hail ceased, and the rain was not poured upon the earth. 
 
 <sup>34</sup> And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants. 
 
 <sup>35</sup> And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses. 
-
 
