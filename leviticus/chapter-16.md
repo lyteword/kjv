@@ -6,49 +6,49 @@ weight: 16
 
 <sup>1</sup> And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died; 
 
-<sup>2</sup> And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat. 
+<sup>2</sup> And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy *place* within the vail before the mercy seat, which *is* upon the ark; that he die not: for I will appear in the cloud upon the mercy seat. 
 
-<sup>3</sup> Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering. 
+<sup>3</sup> Thus shall Aaron come into the holy *place:* with a young bullock for a sin offering, and a ram for a burnt offering. 
 
-<sup>4</sup> He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these are holy garments; therefore shall he wash his flesh in water, and so put them on. 
+<sup>4</sup> He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these *are* holy garments; therefore shall he wash his flesh in water, and *so* put them on. 
 
 <sup>5</sup> And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering. 
 
-<sup>6</sup> And Aaron shall offer his bullock of the sin offering, which is for himself, and make an atonement for himself, and for his house. 
+<sup>6</sup> And Aaron shall offer his bullock of the sin offering, which *is* for himself, and make an atonement for himself, and for his house. 
 
-<sup>7</sup> And he shall take the two goats, and present them before the LORD at the door of the tabernacle of the congregation. 
+<sup>7</sup> And he shall take the two goats, and present them before the LORD *at* the door of the tabernacle of the congregation. 
 
 <sup>8</sup> And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat. 
 
-<sup>9</sup> And Aaron shall bring the goat upon which the LORD’s lot fell, and offer him for a sin offering. 
+<sup>9</sup> And Aaron shall bring the goat upon which the LORD’s lot fell, and offer him *for* a sin offering. 
 
-<sup>10</sup> But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, and to let him go for a scapegoat into the wilderness. 
+<sup>10</sup> But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, *and* to let him go for a scapegoat into the wilderness. 
 
-<sup>11</sup> And Aaron shall bring the bullock of the sin offering, which is for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which is for himself: 
+<sup>11</sup> And Aaron shall bring the bullock of the sin offering, which *is* for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which *is* for himself: 
 
-<sup>12</sup> And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring it within the vail: 
+<sup>12</sup> And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring *it* within the vail: 
 
-<sup>13</sup> And he shall put the incense upon the fire before the LORD, that the cloud of the incense may cover the mercy seat that is upon the testimony, that he die not: 
+<sup>13</sup> And he shall put the incense upon the fire before the LORD, that the cloud of the incense may cover the mercy seat that *is* upon the testimony, that he die not: 
 
-<sup>14</sup> And he shall take of the blood of the bullock, and sprinkle it with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times. 
+<sup>14</sup> And he shall take of the blood of the bullock, and sprinkle *it* with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times. 
 
-<sup>15</sup> ¶ Then shall he kill the goat of the sin offering, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat: 
+<sup>15</sup> ¶ Then shall he kill the goat of the sin offering, that *is* for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat: 
 
-<sup>16</sup> And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness. 
+<sup>16</sup> And he shall make an atonement for the holy *place*, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness. 
 
-<sup>17</sup> And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy place, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel. 
+<sup>17</sup> And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy *place*, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel. 
 
-<sup>18</sup> And he shall go out unto the altar that is before the LORD, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put it upon the horns of the altar round about. 
+<sup>18</sup> And he shall go out unto the altar that *is* before the LORD, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put *it* upon the horns of the altar round about. 
 
 <sup>19</sup> And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel. 
 
-<sup>20</sup> ¶ And when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat: 
+<sup>20</sup> ¶ And when he hath made an end of reconciling the holy *place*, and the tabernacle of the congregation, and the altar, he shall bring the live goat: 
 
-<sup>21</sup> And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness: 
+<sup>21</sup> And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send *him* away by the hand of a fit man into the wilderness: 
 
 <sup>22</sup> And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness. 
 
-<sup>23</sup> And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy place, and shall leave them there: 
+<sup>23</sup> And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy *place*, and shall leave them there: 
 
 <sup>24</sup> And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people. 
 
@@ -56,20 +56,19 @@ weight: 16
 
 <sup>26</sup> And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp. 
 
-<sup>27</sup> And the bullock for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the holy place, shall one carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung. 
+<sup>27</sup> And the bullock *for* the sin offering, and the goat *for* the sin offering, whose blood was brought in to make atonement in the holy *place*, shall *one* carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung. 
 
 <sup>28</sup> And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp. 
 
-<sup>29</sup> ¶ And this shall be a statute for ever unto you: that in the seventh month, on the tenth day of the month, ye shall afflict your souls, and do no work at all, whether it be one of your own country, or a stranger that sojourneth among you: 
+<sup>29</sup> ¶ And *this* shall be a statute for ever unto you: *that* in the seventh month, on the tenth *day* of the month, ye shall afflict your souls, and do no work at all, *whether it be* one of your own country, or a stranger that sojourneth among you: 
 
-<sup>30</sup> For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD. 
+<sup>30</sup> For on that day shall *the priest* make an atonement for you, to cleanse you, *that* ye may be clean from all your sins before the LORD. 
 
-<sup>31</sup> It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever. 
+<sup>31</sup> It *shall be* a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever. 
 
-<sup>32</sup> And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest’s office in his father’s stead, shall make the atonement, and shall put on the linen clothes, even the holy garments: 
+<sup>32</sup> And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest’s office in his father’s stead, shall make the atonement, and shall put on the linen clothes, *even* the holy garments: 
 
 <sup>33</sup> And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation. 
 
 <sup>34</sup> And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses. 
-
 

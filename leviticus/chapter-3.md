@@ -4,38 +4,37 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the LORD. 
+<sup>1</sup> And if his oblation *be* a sacrifice of peace offering, if he offer *it* of the herd; whether *it be* a male or female, he shall offer it without blemish before the LORD. 
 
-<sup>2</sup> And he shall lay his hand upon the head of his offering, and kill it at the door of the tabernacle of the congregation: and Aaron’s sons the priests shall sprinkle the blood upon the altar round about. 
+<sup>2</sup> And he shall lay his hand upon the head of his offering, and kill it *at* the door of the tabernacle of the congregation: and Aaron’s sons the priests shall sprinkle the blood upon the altar round about. 
 
-<sup>3</sup> And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that is upon the inwards, 
+<sup>3</sup> And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that *is* upon the inwards, 
 
-<sup>4</sup> And the two kidneys, and the fat that is on them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away. 
+<sup>4</sup> And the two kidneys, and the fat that *is* on them, which *is* by the flanks, and the caul above the liver, with the kidneys, it shall he take away. 
 
-<sup>5</sup> And Aaron’s sons shall burn it on the altar upon the burnt sacrifice, which is upon the wood that is on the fire: it is an offering made by fire, of a sweet savour unto the LORD. 
+<sup>5</sup> And Aaron’s sons shall burn it on the altar upon the burnt sacrifice, which *is* upon the wood that *is* on the fire: *it is* an offering made by fire, of a sweet savour unto the LORD. 
 
-<sup>6</sup> ¶ And if his offering for a sacrifice of peace offering unto the LORD be of the flock; male or female, he shall offer it without blemish. 
+<sup>6</sup> ¶ And if his offering for a sacrifice of peace offering unto the LORD *be* of the flock; male or female, he shall offer it without blemish. 
 
 <sup>7</sup> If he offer a lamb for his offering, then shall he offer it before the LORD. 
 
 <sup>8</sup> And he shall lay his hand upon the head of his offering, and kill it before the tabernacle of the congregation: and Aaron’s sons shall sprinkle the blood thereof round about upon the altar. 
 
-<sup>9</sup> And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat thereof, and the whole rump, it shall he take off hard by the backbone; and the fat that covereth the inwards, and all the fat that is upon the inwards, 
+<sup>9</sup> And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat thereof, *and* the whole rump, it shall he take off hard by the backbone; and the fat that covereth the inwards, and all the fat that *is* upon the inwards, 
 
-<sup>10</sup> And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away. 
+<sup>10</sup> And the two kidneys, and the fat that *is* upon them, which *is* by the flanks, and the caul above the liver, with the kidneys, it shall he take away. 
 
-<sup>11</sup> And the priest shall burn it upon the altar: it is the food of the offering made by fire unto the LORD. 
+<sup>11</sup> And the priest shall burn it upon the altar: *it is* the food of the offering made by fire unto the LORD. 
 
-<sup>12</sup> ¶ And if his offering be a goat, then he shall offer it before the LORD. 
+<sup>12</sup> ¶ And if his offering *be* a goat, then he shall offer it before the LORD. 
 
 <sup>13</sup> And he shall lay his hand upon the head of it, and kill it before the tabernacle of the congregation: and the sons of Aaron shall sprinkle the blood thereof upon the altar round about. 
 
-<sup>14</sup> And he shall offer thereof his offering, even an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that is upon the inwards, 
+<sup>14</sup> And he shall offer thereof his offering, *even* an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that *is* upon the inwards, 
 
-<sup>15</sup> And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away. 
+<sup>15</sup> And the two kidneys, and the fat that *is* upon them, which *is* by the flanks, and the caul above the liver, with the kidneys, it shall he take away. 
 
-<sup>16</sup> And the priest shall burn them upon the altar: it is the food of the offering made by fire for a sweet savour: all the fat is the LORD’s. 
+<sup>16</sup> And the priest shall burn them upon the altar: *it is* the food of the offering made by fire for a sweet savour: all the fat *is* the LORD’s. 
 
-<sup>17</sup> It shall be a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood. 
-
+<sup>17</sup> *It shall be* a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood. 
 

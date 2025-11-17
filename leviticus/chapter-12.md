@@ -16,8 +16,7 @@ weight: 12
 
 <sup>6</sup> And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest: 
 
-<sup>7</sup> Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female. 
+<sup>7</sup> Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This *is* the law for her that hath born a male or a female. 
 
 <sup>8</sup> And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean. 
-
 
