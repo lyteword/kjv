@@ -8,33 +8,33 @@ weight: 22
 
 <sup>2</sup> And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel. 
 
-<sup>3</sup> And the king of Israel said unto his servants, Know ye that Ramoth in Gilead is ours, and we be still, and take it not out of the hand of the king of Syria? 
+<sup>3</sup> And the king of Israel said unto his servants, Know ye that Ramoth in Gilead *is* ours, and we *be* still, *and* take it not out of the hand of the king of Syria? 
 
-<sup>4</sup> And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramoth-gilead? And Jehoshaphat said to the king of Israel, I am as thou art, my people as thy people, my horses as thy horses. 
+<sup>4</sup> And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramoth-gilead? And Jehoshaphat said to the king of Israel, I *am* as thou *art*, my people as thy people, my horses as thy horses. 
 
 <sup>5</sup> And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the LORD to day. 
 
-<sup>6</sup> Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramoth-gilead to battle, or shall I forbear? And they said, Go up; for the Lord shall deliver it into the hand of the king. 
+<sup>6</sup> Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramoth-gilead to battle, or shall I forbear? And they said, Go up; for the Lord shall deliver *it* into the hand of the king. 
 
-<sup>7</sup> And Jehoshaphat said, Is there not here a prophet of the LORD besides, that we might enquire of him? 
+<sup>7</sup> And Jehoshaphat said, *Is there* not here a prophet of the LORD besides, that we might enquire of him? 
 
-<sup>8</sup> And the king of Israel said unto Jehoshaphat, There is yet one man, Micaiah the son of Imlah, by whom we may enquire of the LORD: but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so. 
+<sup>8</sup> And the king of Israel said unto Jehoshaphat, *There is* yet one man, Micaiah the son of Imlah, by whom we may enquire of the LORD: but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so. 
 
-<sup>9</sup> Then the king of Israel called an officer, and said, Hasten hither Micaiah the son of Imlah. 
+<sup>9</sup> Then the king of Israel called an officer, and said, Hasten *hither* Micaiah the son of Imlah. 
 
 <sup>10</sup> And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria; and all the prophets prophesied before them. 
 
 <sup>11</sup> And Zedekiah the son of Chenaanah made him horns of iron: and he said, Thus saith the LORD, With these shalt thou push the Syrians, until thou have consumed them. 
 
-<sup>12</sup> And all the prophets prophesied so, saying, Go up to Ramoth-gilead, and prosper: for the LORD shall deliver it into the king’s hand. 
+<sup>12</sup> And all the prophets prophesied so, saying, Go up to Ramoth-gilead, and prosper: for the LORD shall deliver *it* into the king’s hand. 
 
-<sup>13</sup> And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets declare good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak that which is good. 
+<sup>13</sup> And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets *declare* good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak *that which is* good. 
 
-<sup>14</sup> And Micaiah said, As the LORD liveth, what the LORD saith unto me, that will I speak. 
+<sup>14</sup> And Micaiah said, *As* the LORD liveth, what the LORD saith unto me, that will I speak. 
 
-<sup>15</sup> ¶ So he came to the king. And the king said unto him, Micaiah, shall we go against Ramoth-gilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the LORD shall deliver it into the hand of the king. 
+<sup>15</sup> ¶ So he came to the king. And the king said unto him, Micaiah, shall we go against Ramoth-gilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the LORD shall deliver *it* into the hand of the king. 
 
-<sup>16</sup> And the king said unto him, How many times shall I adjure thee that thou tell me nothing but that which is true in the name of the LORD? 
+<sup>16</sup> And the king said unto him, How many times shall I adjure thee that thou tell me nothing but *that which is* true in the name of the LORD? 
 
 <sup>17</sup> And he said, I saw all Israel scattered upon the hills, as sheep that have not a shepherd: and the LORD said, These have no master: let them return every man to his house in peace. 
 
@@ -46,7 +46,7 @@ weight: 22
 
 <sup>21</sup> And there came forth a spirit, and stood before the LORD, and said, I will persuade him. 
 
-<sup>22</sup> And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade him, and prevail also: go forth, and do so. 
+<sup>22</sup> And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade *him*, and prevail also: go forth, and do so. 
 
 <sup>23</sup> Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee. 
 
@@ -56,7 +56,7 @@ weight: 22
 
 <sup>26</sup> And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king’s son; 
 
-<sup>27</sup> And say, Thus saith the king, Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace. 
+<sup>27</sup> And say, Thus saith the king, Put this *fellow* in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace. 
 
 <sup>28</sup> And Micaiah said, If thou return at all in peace, the LORD hath not spoken by me. And he said, Hearken, O people, every one of you. 
 
@@ -66,11 +66,11 @@ weight: 22
 
 <sup>31</sup> But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel. 
 
-<sup>32</sup> And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it is the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out. 
+<sup>32</sup> And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it *is* the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out. 
 
-<sup>33</sup> And it came to pass, when the captains of the chariots perceived that it was not the king of Israel, that they turned back from pursuing him. 
+<sup>33</sup> And it came to pass, when the captains of the chariots perceived that it *was* not the king of Israel, that they turned back from pursuing him. 
 
-<sup>34</sup> And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded. 
+<sup>34</sup> And a *certain* man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded. 
 
 <sup>35</sup> And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot. 
 
@@ -78,25 +78,25 @@ weight: 22
 
 <sup>37</sup> ¶ So the king died, and was brought to Samaria; and they buried the king in Samaria. 
 
-<sup>38</sup> And one washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the LORD which he spake. 
+<sup>38</sup> And *one* washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the LORD which he spake. 
 
-<sup>39</sup> Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, are they not written in the book of the chronicles of the kings of Israel? 
+<sup>39</sup> Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, *are* they not written in the book of the chronicles of the kings of Israel? 
 
 <sup>40</sup> So Ahab slept with his fathers; and Ahaziah his son reigned in his stead. 
 
 <sup>41</sup> ¶ And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel. 
 
-<sup>42</sup> Jehoshaphat was thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name was Azubah the daughter of Shilhi. 
+<sup>42</sup> Jehoshaphat *was* thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name *was* Azubah the daughter of Shilhi. 
 
-<sup>43</sup> And he walked in all the ways of Asa his father; he turned not aside from it, doing that which was right in the eyes of the LORD: nevertheless the high places were not taken away; for the people offered and burnt incense yet in the high places. 
+<sup>43</sup> And he walked in all the ways of Asa his father; he turned not aside from it, doing *that which was* right in the eyes of the LORD: nevertheless the high places were not taken away; *for* the people offered and burnt incense yet in the high places. 
 
 <sup>44</sup> And Jehoshaphat made peace with the king of Israel. 
 
-<sup>45</sup> Now the rest of the acts of Jehoshaphat, and his might that he shewed, and how he warred, are they not written in the book of the chronicles of the kings of Judah? 
+<sup>45</sup> Now the rest of the acts of Jehoshaphat, and his might that he shewed, and how he warred, *are* they not written in the book of the chronicles of the kings of Judah? 
 
 <sup>46</sup> And the remnant of the sodomites, which remained in the days of his father Asa, he took out of the land. 
 
-<sup>47</sup> There was then no king in Edom: a deputy was king. 
+<sup>47</sup> *There was* then no king in Edom: a deputy *was* king. 
 
 <sup>48</sup> Jehoshaphat made ships of Tharshish to go to Ophir for gold: but they went not; for the ships were broken at Ezion-geber. 
 

@@ -4,29 +4,29 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years. 
+<sup>1</sup> In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, *and reigned* seventeen years. 
 
-<sup>2</sup> And he did that which was evil in the sight of the LORD, and followed the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom. 
+<sup>2</sup> And he did *that which was* evil in the sight of the LORD, and followed the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom. 
 
-<sup>3</sup> ¶ And the anger of the LORD was kindled against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Ben-hadad the son of Hazael, all their days. 
+<sup>3</sup> ¶ And the anger of the LORD was kindled against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Ben-hadad the son of Hazael, all *their* days. 
 
 <sup>4</sup> And Jehoahaz besought the LORD, and the LORD hearkened unto him: for he saw the oppression of Israel, because the king of Syria oppressed them. 
 
 <sup>5</sup> (And the LORD gave Israel a saviour, so that they went out from under the hand of the Syrians: and the children of Israel dwelt in their tents, as beforetime. 
 
-<sup>6</sup> Nevertheless they departed not from the sins of the house of Jeroboam, who made Israel sin, but walked therein: and there remained the grove also in Samaria.) 
+<sup>6</sup> Nevertheless they departed not from the sins of the house of Jeroboam, who made Israel sin, *but* walked therein: and there remained the grove also in Samaria.) 
 
 <sup>7</sup> Neither did he leave of the people to Jehoahaz but fifty horsemen, and ten chariots, and ten thousand footmen; for the king of Syria had destroyed them, and had made them like the dust by threshing. 
 
-<sup>8</sup> ¶ Now the rest of the acts of Jehoahaz, and all that he did, and his might, are they not written in the book of the chronicles of the kings of Israel? 
+<sup>8</sup> ¶ Now the rest of the acts of Jehoahaz, and all that he did, and his might, *are* they not written in the book of the chronicles of the kings of Israel? 
 
 <sup>9</sup> And Jehoahaz slept with his fathers; and they buried him in Samaria: and Joash his son reigned in his stead. 
 
-<sup>10</sup> ¶ In the thirty and seventh year of Joash king of Judah began Jehoash the son of Jehoahaz to reign over Israel in Samaria, and reigned sixteen years. 
+<sup>10</sup> ¶ In the thirty and seventh year of Joash king of Judah began Jehoash the son of Jehoahaz to reign over Israel in Samaria, *and reigned* sixteen years. 
 
-<sup>11</sup> And he did that which was evil in the sight of the LORD; he departed not from all the sins of Jeroboam the son of Nebat, who made Israel sin: but he walked therein. 
+<sup>11</sup> And he did *that which was* evil in the sight of the LORD; he departed not from all the sins of Jeroboam the son of Nebat, who made Israel sin: *but* he walked therein. 
 
-<sup>12</sup> And the rest of the acts of Joash, and all that he did, and his might wherewith he fought against Amaziah king of Judah, are they not written in the book of the chronicles of the kings of Israel? 
+<sup>12</sup> And the rest of the acts of Joash, and all that he did, and his might wherewith he fought against Amaziah king of Judah, *are* they not written in the book of the chronicles of the kings of Israel? 
 
 <sup>13</sup> And Joash slept with his fathers; and Jeroboam sat upon his throne: and Joash was buried in Samaria with the kings of Israel. 
 
@@ -34,17 +34,17 @@ weight: 13
 
 <sup>15</sup> And Elisha said unto him, Take bow and arrows. And he took unto him bow and arrows. 
 
-<sup>16</sup> And he said to the king of Israel, Put thine hand upon the bow. And he put his hand upon it: and Elisha put his hands upon the king’s hands. 
+<sup>16</sup> And he said to the king of Israel, Put thine hand upon the bow. And he put his hand *upon it:* and Elisha put his hands upon the king’s hands. 
 
-<sup>17</sup> And he said, Open the window eastward. And he opened it. Then Elisha said, Shoot. And he shot. And he said, The arrow of the LORD’s deliverance, and the arrow of deliverance from Syria: for thou shalt smite the Syrians in Aphek, till thou have consumed them. 
+<sup>17</sup> And he said, Open the window eastward. And he opened *it*. Then Elisha said, Shoot. And he shot. And he said, The arrow of the LORD’s deliverance, and the arrow of deliverance from Syria: for thou shalt smite the Syrians in Aphek, till thou have consumed *them*. 
 
-<sup>18</sup> And he said, Take the arrows. And he took them. And he said unto the king of Israel, Smite upon the ground. And he smote thrice, and stayed. 
+<sup>18</sup> And he said, Take the arrows. And he took *them*. And he said unto the king of Israel, Smite upon the ground. And he smote thrice, and stayed. 
 
-<sup>19</sup> And the man of God was wroth with him, and said, Thou shouldest have smitten five or six times; then hadst thou smitten Syria till thou hadst consumed it: whereas now thou shalt smite Syria but thrice. 
+<sup>19</sup> And the man of God was wroth with him, and said, Thou shouldest have smitten five or six times; then hadst thou smitten Syria till thou hadst consumed *it:* whereas now thou shalt smite Syria *but* thrice. 
 
 <sup>20</sup> ¶ And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year. 
 
-<sup>21</sup> And it came to pass, as they were burying a man, that, behold, they spied a band of men; and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet. 
+<sup>21</sup> And it came to pass, as they were burying a man, that, behold, they spied a band *of men;* and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet. 
 
 <sup>22</sup> ¶ But Hazael king of Syria oppressed Israel all the days of Jehoahaz. 
 
@@ -53,5 +53,4 @@ weight: 13
 <sup>24</sup> So Hazael king of Syria died; and Ben-hadad his son reigned in his stead. 
 
 <sup>25</sup> And Jehoash the son of Jehoahaz took again out of the hand of Ben-hadad the son of Hazael the cities, which he had taken out of the hand of Jehoahaz his father by war. Three times did Joash beat him, and recovered the cities of Israel. 
-
 

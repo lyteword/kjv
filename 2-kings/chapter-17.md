@@ -6,35 +6,35 @@ weight: 17
 
 <sup>1</sup> In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years. 
 
-<sup>2</sup> And he did that which was evil in the sight of the LORD, but not as the kings of Israel that were before him. 
+<sup>2</sup> And he did *that which was* evil in the sight of the LORD, but not as the kings of Israel that were before him. 
 
 <sup>3</sup> ¶ Against him came up Shalmaneser king of Assyria; and Hoshea became his servant, and gave him presents. 
 
-<sup>4</sup> And the king of Assyria found conspiracy in Hoshea: for he had sent messengers to So king of Egypt, and brought no present to the king of Assyria, as he had done year by year: therefore the king of Assyria shut him up, and bound him in prison. 
+<sup>4</sup> And the king of Assyria found conspiracy in Hoshea: for he had sent messengers to So king of Egypt, and brought no present to the king of Assyria, as *he had done* year by year: therefore the king of Assyria shut him up, and bound him in prison. 
 
 <sup>5</sup> ¶ Then the king of Assyria came up throughout all the land, and went up to Samaria, and besieged it three years. 
 
-<sup>6</sup> ¶ In the ninth year of Hoshea the king of Assyria took Samaria, and carried Israel away into Assyria, and placed them in Halah and in Habor by the river of Gozan, and in the cities of the Medes. 
+<sup>6</sup> ¶ In the ninth year of Hoshea the king of Assyria took Samaria, and carried Israel away into Assyria, and placed them in Halah and in Habor *by* the river of Gozan, and in the cities of the Medes. 
 
-<sup>7</sup> For so it was, that the children of Israel had sinned against the LORD their God, which had brought them up out of the land of Egypt, from under the hand of Pharaoh king of Egypt, and had feared other gods, 
+<sup>7</sup> For *so* it was, that the children of Israel had sinned against the LORD their God, which had brought them up out of the land of Egypt, from under the hand of Pharaoh king of Egypt, and had feared other gods, 
 
 <sup>8</sup> And walked in the statutes of the heathen, whom the LORD cast out from before the children of Israel, and of the kings of Israel, which they had made. 
 
-<sup>9</sup> And the children of Israel did secretly those things that were not right against the LORD their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city. 
+<sup>9</sup> And the children of Israel did secretly *those* things that *were* not right against the LORD their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city. 
 
 <sup>10</sup> And they set them up images and groves in every high hill, and under every green tree: 
 
-<sup>11</sup> And there they burnt incense in all the high places, as did the heathen whom the LORD carried away before them; and wrought wicked things to provoke the LORD to anger: 
+<sup>11</sup> And there they burnt incense in all the high places, as *did* the heathen whom the LORD carried away before them; and wrought wicked things to provoke the LORD to anger: 
 
 <sup>12</sup> For they served idols, whereof the LORD had said unto them, Ye shall not do this thing. 
 
-<sup>13</sup> Yet the LORD testified against Israel, and against Judah, by all the prophets, and by all the seers, saying, Turn ye from your evil ways, and keep my commandments and my statutes, according to all the law which I commanded your fathers, and which I sent to you by my servants the prophets. 
+<sup>13</sup> Yet the LORD testified against Israel, and against Judah, by all the prophets, *and by* all the seers, saying, Turn ye from your evil ways, and keep my commandments *and* my statutes, according to all the law which I commanded your fathers, and which I sent to you by my servants the prophets. 
 
 <sup>14</sup> Notwithstanding they would not hear, but hardened their necks, like to the neck of their fathers, that did not believe in the LORD their God. 
 
-<sup>15</sup> And they rejected his statutes, and his covenant that he made with their fathers, and his testimonies which he testified against them; and they followed vanity, and became vain, and went after the heathen that were round about them, concerning whom the LORD had charged them, that they should not do like them. 
+<sup>15</sup> And they rejected his statutes, and his covenant that he made with their fathers, and his testimonies which he testified against them; and they followed vanity, and became vain, and went after the heathen that *were* round about them, *concerning* whom the LORD had charged them, that they should not do like them. 
 
-<sup>16</sup> And they left all the commandments of the LORD their God, and made them molten images, even two calves, and made a grove, and worshipped all the host of heaven, and served Baal. 
+<sup>16</sup> And they left all the commandments of the LORD their God, and made them molten images, *even* two calves, and made a grove, and worshipped all the host of heaven, and served Baal. 
 
 <sup>17</sup> And they caused their sons and their daughters to pass through the fire, and used divination and enchantments, and sold themselves to do evil in the sight of the LORD, to provoke him to anger. 
 
@@ -50,9 +50,9 @@ weight: 17
 
 <sup>23</sup> Until the LORD removed Israel out of his sight, as he had said by all his servants the prophets. So was Israel carried away out of their own land to Assyria unto this day. 
 
-<sup>24</sup> ¶ And the king of Assyria brought men from Babylon, and from Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof. 
+<sup>24</sup> ¶ And the king of Assyria brought *men* from Babylon, and from Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed *them* in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof. 
 
-<sup>25</sup> And so it was at the beginning of their dwelling there, that they feared not the LORD: therefore the LORD sent lions among them, which slew some of them. 
+<sup>25</sup> And *so* it was at the beginning of their dwelling there, *that* they feared not the LORD: therefore the LORD sent lions among them, which slew *some* of them. 
 
 <sup>26</sup> Wherefore they spake to the king of Assyria, saying, The nations which thou hast removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he hath sent lions among them, and, behold, they slay them, because they know not the manner of the God of the land. 
 
@@ -60,7 +60,7 @@ weight: 17
 
 <sup>28</sup> Then one of the priests whom they had carried away from Samaria came and dwelt in Beth-el, and taught them how they should fear the LORD. 
 
-<sup>29</sup> Howbeit every nation made gods of their own, and put them in the houses of the high places which the Samaritans had made, every nation in their cities wherein they dwelt. 
+<sup>29</sup> Howbeit every nation made gods of their own, and put *them* in the houses of the high places which the Samaritans had made, every nation in their cities wherein they dwelt. 
 
 <sup>30</sup> And the men of Babylon made Succoth-benoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima, 
 
@@ -85,5 +85,4 @@ weight: 17
 <sup>40</sup> Howbeit they did not hearken, but they did after their former manner. 
 
 <sup>41</sup> So these nations feared the LORD, and served their graven images, both their children, and their children’s children: as did their fathers, so do they unto this day. 
-
 

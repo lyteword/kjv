@@ -10,15 +10,15 @@ weight: 3
 
 <sup>3</sup> And Solomon loved the LORD, walking in the statutes of David his father: only he sacrificed and burnt incense in high places. 
 
-<sup>4</sup> And the king went to Gibeon to sacrifice there; for that was the great high place: a thousand burnt offerings did Solomon offer upon that altar. 
+<sup>4</sup> And the king went to Gibeon to sacrifice there; for that *was* the great high place: a thousand burnt offerings did Solomon offer upon that altar. 
 
 <sup>5</sup> ¶ In Gibeon the LORD appeared to Solomon in a dream by night: and God said, Ask what I shall give thee. 
 
-<sup>6</sup> And Solomon said, Thou hast shewed unto thy servant David my father great mercy, according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee; and thou hast kept for him this great kindness, that thou hast given him a son to sit on his throne, as it is this day. 
+<sup>6</sup> And Solomon said, Thou hast shewed unto thy servant David my father great mercy, according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee; and thou hast kept for him this great kindness, that thou hast given him a son to sit on his throne, as *it is* this day. 
 
-<sup>7</sup> And now, O LORD my God, thou hast made thy servant king instead of David my father: and I am but a little child: I know not how to go out or come in. 
+<sup>7</sup> And now, O LORD my God, thou hast made thy servant king instead of David my father: and I *am but* a little child: I know not *how* to go out or come in. 
 
-<sup>8</sup> And thy servant is in the midst of thy people which thou hast chosen, a great people, that cannot be numbered nor counted for multitude. 
+<sup>8</sup> And thy servant *is* in the midst of thy people which thou hast chosen, a great people, that cannot be numbered nor counted for multitude. 
 
 <sup>9</sup> Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people? 
 
@@ -32,13 +32,13 @@ weight: 3
 
 <sup>14</sup> And if thou wilt walk in my ways, to keep my statutes and my commandments, as thy father David did walk, then I will lengthen thy days. 
 
-<sup>15</sup> And Solomon awoke; and, behold, it was a dream. And he came to Jerusalem, and stood before the ark of the covenant of the LORD, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants. 
+<sup>15</sup> And Solomon awoke; and, behold, *it was* a dream. And he came to Jerusalem, and stood before the ark of the covenant of the LORD, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants. 
 
-<sup>16</sup> ¶ Then came there two women, that were harlots, unto the king, and stood before him. 
+<sup>16</sup> ¶ Then came there two women, *that were* harlots, unto the king, and stood before him. 
 
 <sup>17</sup> And the one woman said, O my lord, I and this woman dwell in one house; and I was delivered of a child with her in the house. 
 
-<sup>18</sup> And it came to pass the third day after that I was delivered, that this woman was delivered also: and we were together; there was no stranger with us in the house, save we two in the house. 
+<sup>18</sup> And it came to pass the third day after that I was delivered, that this woman was delivered also: and we *were* together; *there was* no stranger with us in the house, save we two in the house. 
 
 <sup>19</sup> And this woman’s child died in the night; because she overlaid it. 
 
@@ -46,18 +46,17 @@ weight: 3
 
 <sup>21</sup> And when I rose in the morning to give my child suck, behold, it was dead: but when I had considered it in the morning, behold, it was not my son, which I did bear. 
 
-<sup>22</sup> And the other woman said, Nay; but the living is my son, and the dead is thy son. And this said, No; but the dead is thy son, and the living is my son. Thus they spake before the king. 
+<sup>22</sup> And the other woman said, Nay; but the living *is* my son, and the dead *is* thy son. And this said, No; but the dead *is* thy son, and the living *is* my son. Thus they spake before the king. 
 
-<sup>23</sup> Then said the king, The one saith, This is my son that liveth, and thy son is the dead: and the other saith, Nay; but thy son is the dead, and my son is the living. 
+<sup>23</sup> Then said the king, The one saith, This *is* my son that liveth, and thy son *is* the dead: and the other saith, Nay; but thy son *is* the dead, and my son *is* the living. 
 
 <sup>24</sup> And the king said, Bring me a sword. And they brought a sword before the king. 
 
 <sup>25</sup> And the king said, Divide the living child in two, and give half to the one, and half to the other. 
 
-<sup>26</sup> Then spake the woman whose the living child was unto the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor thine, but divide it. 
+<sup>26</sup> Then spake the woman whose the living child *was* unto the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor thine, *but* divide *it*. 
 
-<sup>27</sup> Then the king answered and said, Give her the living child, and in no wise slay it: she is the mother thereof. 
+<sup>27</sup> Then the king answered and said, Give her the living child, and in no wise slay it: she *is* the mother thereof. 
 
-<sup>28</sup> And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God was in him, to do judgment. 
-
+<sup>28</sup> And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God *was* in him, to do judgment. 
 
