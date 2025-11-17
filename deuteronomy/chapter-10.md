@@ -8,7 +8,7 @@ weight: 10
 
 <sup>2</sup> And I will write on the tables the words that were in the first tables which thou brakest, and thou shalt put them in the ark. 
 
-<sup>3</sup> And I made an ark of shittim wood, and hewed two tables of stone like unto the first, and went up into the mount, having the two tables in mine hand. 
+<sup>3</sup> And I made an ark *of* shittim wood, and hewed two tables of stone like unto the first, and went up into the mount, having the two tables in mine hand. 
 
 <sup>4</sup> And he wrote on the tables, according to the first writing, the ten commandments, which the LORD spake unto you in the mount out of the midst of the fire in the day of the assembly: and the LORD gave them unto me. 
 
@@ -20,23 +20,23 @@ weight: 10
 
 <sup>8</sup> ¶ At that time the LORD separated the tribe of Levi, to bear the ark of the covenant of the LORD, to stand before the LORD to minister unto him, and to bless in his name, unto this day. 
 
-<sup>9</sup> Wherefore Levi hath no part nor inheritance with his brethren; the LORD is his inheritance, according as the LORD thy God promised him. 
+<sup>9</sup> Wherefore Levi hath no part nor inheritance with his brethren; the LORD *is* his inheritance, according as the LORD thy God promised him. 
 
-<sup>10</sup> And I stayed in the mount, according to the first time, forty days and forty nights; and the LORD hearkened unto me at that time also, and the LORD would not destroy thee. 
+<sup>10</sup> And I stayed in the mount, according to the first time, forty days and forty nights; and the LORD hearkened unto me at that time also, *and* the LORD would not destroy thee. 
 
-<sup>11</sup> And the LORD said unto me, Arise, take thy journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them. 
+<sup>11</sup> And the LORD said unto me, Arise, take *thy* journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them. 
 
 <sup>12</sup> ¶ And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul, 
 
 <sup>13</sup> To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good? 
 
-<sup>14</sup> Behold, the heaven and the heaven of heavens is the LORD’s thy God, the earth also, with all that therein is. 
+<sup>14</sup> Behold, the heaven and the heaven of heavens *is* the LORD’s thy God, the earth *also*, with all that therein *is*. 
 
-<sup>15</sup> Only the LORD had a delight in thy fathers to love them, and he chose their seed after them, even you above all people, as it is this day. 
+<sup>15</sup> Only the LORD had a delight in thy fathers to love them, and he chose their seed after them, *even* you above all people, as *it is* this day. 
 
 <sup>16</sup> Circumcise therefore the foreskin of your heart, and be no more stiffnecked. 
 
-<sup>17</sup> For the LORD your God is God of gods, and Lord of lords, a great God, a mighty, and a terrible, which regardeth not persons, nor taketh reward: 
+<sup>17</sup> For the LORD your God *is* God of gods, and Lord of lords, a great God, a mighty, and a terrible, which regardeth not persons, nor taketh reward: 
 
 <sup>18</sup> He doth execute the judgment of the fatherless and widow, and loveth the stranger, in giving him food and raiment. 
 
@@ -44,8 +44,7 @@ weight: 10
 
 <sup>20</sup> Thou shalt fear the LORD thy God; him shalt thou serve, and to him shalt thou cleave, and swear by his name. 
 
-<sup>21</sup> He is thy praise, and he is thy God, that hath done for thee these great and terrible things, which thine eyes have seen. 
+<sup>21</sup> He *is* thy praise, and he *is* thy God, that hath done for thee these great and terrible things, which thine eyes have seen. 
 
 <sup>22</sup> Thy fathers went down into Egypt with threescore and ten persons; and now the LORD thy God hath made thee as the stars of heaven for multitude. 
-
 

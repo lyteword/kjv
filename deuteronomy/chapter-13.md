@@ -12,11 +12,11 @@ weight: 13
 
 <sup>4</sup> Ye shall walk after the LORD your God, and fear him, and keep his commandments, and obey his voice, and ye shall serve him, and cleave unto him. 
 
-<sup>5</sup> And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn you away from the LORD your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which the LORD thy God commanded thee to walk in. So shalt thou put the evil away from the midst of thee. 
+<sup>5</sup> And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn *you* away from the LORD your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which the LORD thy God commanded thee to walk in. So shalt thou put the evil away from the midst of thee. 
 
-<sup>6</sup> ¶ If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers; 
+<sup>6</sup> ¶ If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which *is* as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers; 
 
-<sup>7</sup> Namely, of the gods of the people which are round about you, nigh unto thee, or far off from thee, from the one end of the earth even unto the other end of the earth; 
+<sup>7</sup> *Namely*, of the gods of the people which *are* round about you, nigh unto thee, or far off from thee, from the *one* end of the earth even unto the *other* end of the earth; 
 
 <sup>8</sup> Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him: 
 
@@ -26,18 +26,17 @@ weight: 13
 
 <sup>11</sup> And all Israel shall hear, and fear, and shall do no more any such wickedness as this is among you. 
 
-<sup>12</sup> ¶ If thou shalt hear say in one of thy cities, which the LORD thy God hath given thee to dwell there, saying, 
+<sup>12</sup> ¶ If thou shalt hear *say* in one of thy cities, which the LORD thy God hath given thee to dwell there, saying, 
 
-<sup>13</sup> Certain men, the children of Belial, are gone out from among you, and have withdrawn the inhabitants of their city, saying, Let us go and serve other gods, which ye have not known; 
+<sup>13</sup> *Certain* men, the children of Belial, are gone out from among you, and have withdrawn the inhabitants of their city, saying, Let us go and serve other gods, which ye have not known; 
 
-<sup>14</sup> Then shalt thou enquire, and make search, and ask diligently; and, behold, if it be truth, and the thing certain, that such abomination is wrought among you; 
+<sup>14</sup> Then shalt thou enquire, and make search, and ask diligently; and, behold, *if it be* truth, *and* the thing certain, *that* such abomination is wrought among you; 
 
-<sup>15</sup> Thou shalt surely smite the inhabitants of that city with the edge of the sword, destroying it utterly, and all that is therein, and the cattle thereof, with the edge of the sword. 
+<sup>15</sup> Thou shalt surely smite the inhabitants of that city with the edge of the sword, destroying it utterly, and all that *is* therein, and the cattle thereof, with the edge of the sword. 
 
 <sup>16</sup> And thou shalt gather all the spoil of it into the midst of the street thereof, and shalt burn with fire the city, and all the spoil thereof every whit, for the LORD thy God: and it shall be an heap for ever; it shall not be built again. 
 
 <sup>17</sup> And there shall cleave nought of the cursed thing to thine hand: that the LORD may turn from the fierceness of his anger, and shew thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers; 
 
-<sup>18</sup> When thou shalt hearken to the voice of the LORD thy God, to keep all his commandments which I command thee this day, to do that which is right in the eyes of the LORD thy God. 
-
+<sup>18</sup> When thou shalt hearken to the voice of the LORD thy God, to keep all his commandments which I command thee this day, to do *that which is* right in the eyes of the LORD thy God. 
 

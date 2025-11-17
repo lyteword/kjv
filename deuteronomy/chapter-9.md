@@ -4,37 +4,37 @@ weight: 9
 
 # Chapter 9
 
-<sup>1</sup> Hear, O Israel: Thou art to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven, 
+<sup>1</sup> Hear, O Israel: Thou *art* to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven, 
 
-<sup>2</sup> A people great and tall, the children of the Anakims, whom thou knowest, and of whom thou hast heard say, Who can stand before the children of Anak! 
+<sup>2</sup> A people great and tall, the children of the Anakims, whom thou knowest, and *of whom* thou hast heard *say*, Who can stand before the children of Anak! 
 
-<sup>3</sup> Understand therefore this day, that the LORD thy God is he which goeth over before thee; as a consuming fire he shall destroy them, and he shall bring them down before thy face: so shalt thou drive them out, and destroy them quickly, as the LORD hath said unto thee. 
+<sup>3</sup> Understand therefore this day, that the LORD thy God *is* he which goeth over before thee; *as* a consuming fire he shall destroy them, and he shall bring them down before thy face: so shalt thou drive them out, and destroy them quickly, as the LORD hath said unto thee. 
 
 <sup>4</sup> Speak not thou in thine heart, after that the LORD thy God hath cast them out from before thee, saying, For my righteousness the LORD hath brought me in to possess this land: but for the wickedness of these nations the LORD doth drive them out from before thee. 
 
 <sup>5</sup> Not for thy righteousness, or for the uprightness of thine heart, dost thou go to possess their land: but for the wickedness of these nations the LORD thy God doth drive them out from before thee, and that he may perform the word which the LORD sware unto thy fathers, Abraham, Isaac, and Jacob. 
 
-<sup>6</sup> Understand therefore, that the LORD thy God giveth thee not this good land to possess it for thy righteousness; for thou art a stiffnecked people. 
+<sup>6</sup> Understand therefore, that the LORD thy God giveth thee not this good land to possess it for thy righteousness; for thou *art* a stiffnecked people. 
 
-<sup>7</sup> ¶ Remember, and forget not, how thou provokedst the LORD thy God to wrath in the wilderness: from the day that thou didst depart out of the land of Egypt, until ye came unto this place, ye have been rebellious against the LORD. 
+<sup>7</sup> ¶ Remember, *and* forget not, how thou provokedst the LORD thy God to wrath in the wilderness: from the day that thou didst depart out of the land of Egypt, until ye came unto this place, ye have been rebellious against the LORD. 
 
 <sup>8</sup> Also in Horeb ye provoked the LORD to wrath, so that the LORD was angry with you to have destroyed you. 
 
-<sup>9</sup> When I was gone up into the mount to receive the tables of stone, even the tables of the covenant which the LORD made with you, then I abode in the mount forty days and forty nights, I neither did eat bread nor drink water: 
+<sup>9</sup> When I was gone up into the mount to receive the tables of stone, *even* the tables of the covenant which the LORD made with you, then I abode in the mount forty days and forty nights, I neither did eat bread nor drink water: 
 
-<sup>10</sup> And the LORD delivered unto me two tables of stone written with the finger of God; and on them was written according to all the words, which the LORD spake with you in the mount out of the midst of the fire in the day of the assembly. 
+<sup>10</sup> And the LORD delivered unto me two tables of stone written with the finger of God; and on them *was written* according to all the words, which the LORD spake with you in the mount out of the midst of the fire in the day of the assembly. 
 
-<sup>11</sup> And it came to pass at the end of forty days and forty nights, that the LORD gave me the two tables of stone, even the tables of the covenant. 
+<sup>11</sup> And it came to pass at the end of forty days and forty nights, *that* the LORD gave me the two tables of stone, *even* the tables of the covenant. 
 
-<sup>12</sup> And the LORD said unto me, Arise, get thee down quickly from hence; for thy people which thou hast brought forth out of Egypt have corrupted themselves; they are quickly turned aside out of the way which I commanded them; they have made them a molten image. 
+<sup>12</sup> And the LORD said unto me, Arise, get thee down quickly from hence; for thy people which thou hast brought forth out of Egypt have corrupted *themselves;* they are quickly turned aside out of the way which I commanded them; they have made them a molten image. 
 
-<sup>13</sup> Furthermore the LORD spake unto me, saying, I have seen this people, and, behold, it is a stiffnecked people: 
+<sup>13</sup> Furthermore the LORD spake unto me, saying, I have seen this people, and, behold, it *is* a stiffnecked people: 
 
 <sup>14</sup> Let me alone, that I may destroy them, and blot out their name from under heaven: and I will make of thee a nation mightier and greater than they. 
 
-<sup>15</sup> So I turned and came down from the mount, and the mount burned with fire: and the two tables of the covenant were in my two hands. 
+<sup>15</sup> So I turned and came down from the mount, and the mount burned with fire: and the two tables of the covenant *were* in my two hands. 
 
-<sup>16</sup> And I looked, and, behold, ye had sinned against the LORD your God, and had made you a molten calf: ye had turned aside quickly out of the way which the LORD had commanded you. 
+<sup>16</sup> And I looked, and, behold, ye had sinned against the LORD your God, *and* had made you a molten calf: ye had turned aside quickly out of the way which the LORD had commanded you. 
 
 <sup>17</sup> And I took the two tables, and cast them out of my two hands, and brake them before your eyes. 
 
@@ -44,7 +44,7 @@ weight: 9
 
 <sup>20</sup> And the LORD was very angry with Aaron to have destroyed him: and I prayed for Aaron also the same time. 
 
-<sup>21</sup> And I took your sin, the calf which ye had made, and burnt it with fire, and stamped it, and ground it very small, even until it was as small as dust: and I cast the dust thereof into the brook that descended out of the mount. 
+<sup>21</sup> And I took your sin, the calf which ye had made, and burnt it with fire, and stamped it, *and* ground *it* very small, *even* until it was as small as dust: and I cast the dust thereof into the brook that descended out of the mount. 
 
 <sup>22</sup> And at Taberah, and at Massah, and at Kibroth-hattaavah, ye provoked the LORD to wrath. 
 
@@ -52,7 +52,7 @@ weight: 9
 
 <sup>24</sup> Ye have been rebellious against the LORD from the day that I knew you. 
 
-<sup>25</sup> Thus I fell down before the LORD forty days and forty nights, as I fell down at the first; because the LORD had said he would destroy you. 
+<sup>25</sup> Thus I fell down before the LORD forty days and forty nights, as I fell down *at the first;* because the LORD had said he would destroy you. 
 
 <sup>26</sup> I prayed therefore unto the LORD, and said, O Lord GOD, destroy not thy people and thine inheritance, which thou hast redeemed through thy greatness, which thou hast brought forth out of Egypt with a mighty hand. 
 
@@ -60,6 +60,5 @@ weight: 9
 
 <sup>28</sup> Lest the land whence thou broughtest us out say, Because the LORD was not able to bring them into the land which he promised them, and because he hated them, he hath brought them out to slay them in the wilderness. 
 
-<sup>29</sup> Yet they are thy people and thine inheritance, which thou broughtest out by thy mighty power and by thy stretched out arm. 
-
+<sup>29</sup> Yet they *are* thy people and thine inheritance, which thou broughtest out by thy mighty power and by thy stretched out arm. 
 

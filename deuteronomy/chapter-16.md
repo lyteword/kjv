@@ -8,35 +8,35 @@ weight: 16
 
 <sup>2</sup> Thou shalt therefore sacrifice the passover unto the LORD thy God, of the flock and the herd, in the place which the LORD shall choose to place his name there. 
 
-<sup>3</sup> Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, even the bread of affliction; for thou camest forth out of the land of Egypt in haste: that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life. 
+<sup>3</sup> Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, *even* the bread of affliction; for thou camest forth out of the land of Egypt in haste: that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life. 
 
-<sup>4</sup> And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there any thing of the flesh, which thou sacrificedst the first day at even, remain all night until the morning. 
+<sup>4</sup> And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there *any thing* of the flesh, which thou sacrificedst the first day at even, remain all night until the morning. 
 
 <sup>5</sup> Thou mayest not sacrifice the passover within any of thy gates, which the LORD thy God giveth thee: 
 
 <sup>6</sup> But at the place which the LORD thy God shall choose to place his name in, there thou shalt sacrifice the passover at even, at the going down of the sun, at the season that thou camest forth out of Egypt. 
 
-<sup>7</sup> And thou shalt roast and eat it in the place which the LORD thy God shall choose: and thou shalt turn in the morning, and go unto thy tents. 
+<sup>7</sup> And thou shalt roast and eat *it* in the place which the LORD thy God shall choose: and thou shalt turn in the morning, and go unto thy tents. 
 
-<sup>8</sup> Six days thou shalt eat unleavened bread: and on the seventh day shall be a solemn assembly to the LORD thy God: thou shalt do no work therein. 
+<sup>8</sup> Six days thou shalt eat unleavened bread: and on the seventh day *shall be* a solemn assembly to the LORD thy God: thou shalt do no work *therein*. 
 
-<sup>9</sup> ¶ Seven weeks shalt thou number unto thee: begin to number the seven weeks from such time as thou beginnest to put the sickle to the corn. 
+<sup>9</sup> ¶ Seven weeks shalt thou number unto thee: begin to number the seven weeks from *such time as* thou beginnest *to put* the sickle to the corn. 
 
-<sup>10</sup> And thou shalt keep the feast of weeks unto the LORD thy God with a tribute of a freewill offering of thine hand, which thou shalt give unto the Lord thy God, according as the LORD thy God hath blessed thee: 
+<sup>10</sup> And thou shalt keep the feast of weeks unto the LORD thy God with a tribute of a freewill offering of thine hand, which thou shalt give *unto the*, according as the LORD thy God hath blessed thee: 
 
-<sup>11</sup> And thou shalt rejoice before the LORD thy God, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that is within thy gates, and the stranger, and the fatherless, and the widow, that are among you, in the place which the LORD thy God hath chosen to place his name there. 
+<sup>11</sup> And thou shalt rejoice before the LORD thy God, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that *is* within thy gates, and the stranger, and the fatherless, and the widow, that *are* among you, in the place which the LORD thy God hath chosen to place his name there. 
 
 <sup>12</sup> And thou shalt remember that thou wast a bondman in Egypt: and thou shalt observe and do these statutes. 
 
 <sup>13</sup> ¶ Thou shalt observe the feast of tabernacles seven days, after that thou hast gathered in thy corn and thy wine: 
 
-<sup>14</sup> And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite, the stranger, and the fatherless, and the widow, that are within thy gates. 
+<sup>14</sup> And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite, the stranger, and the fatherless, and the widow, that *are* within thy gates. 
 
 <sup>15</sup> Seven days shalt thou keep a solemn feast unto the LORD thy God in the place which the LORD shall choose: because the LORD thy God shall bless thee in all thine increase, and in all the works of thine hands, therefore thou shalt surely rejoice. 
 
 <sup>16</sup> ¶ Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty: 
 
-<sup>17</sup> Every man shall give as he is able, according to the blessing of the LORD thy God which he hath given thee. 
+<sup>17</sup> Every man *shall give* as he is able, according to the blessing of the LORD thy God which he hath given thee. 
 
 <sup>18</sup> ¶ Judges and officers shalt thou make thee in all thy gates, which the LORD thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment. 
 
@@ -46,6 +46,5 @@ weight: 16
 
 <sup>21</sup> ¶ Thou shalt not plant thee a grove of any trees near unto the altar of the LORD thy God, which thou shalt make thee. 
 
-<sup>22</sup> Neither shalt thou set thee up any image; which the LORD thy God hateth. 
-
+<sup>22</sup> Neither shalt thou set thee up *any* image; which the LORD thy God hateth. 
 

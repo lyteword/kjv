@@ -4,21 +4,21 @@ weight: 25
 
 # Chapter 25
 
-<sup>1</sup> If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked. 
+<sup>1</sup> If there be a controversy between men, and they come unto judgment, that *the judges* may judge them; then they shall justify the righteous, and condemn the wicked. 
 
-<sup>2</sup> And it shall be, if the wicked man be worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number. 
+<sup>2</sup> And it shall be, if the wicked man *be* worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number. 
 
-<sup>3</sup> Forty stripes he may give him, and not exceed: lest, if he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee. 
+<sup>3</sup> Forty stripes he may give him, *and* not exceed: lest, *if* he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee. 
 
-<sup>4</sup> ¶ Thou shalt not muzzle the ox when he treadeth out the corn. 
+<sup>4</sup> ¶ Thou shalt not muzzle the ox when he treadeth out *the corn*. 
 
 <sup>5</sup> ¶ If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband’s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband’s brother unto her. 
 
-<sup>6</sup> And it shall be, that the firstborn which she beareth shall succeed in the name of his brother which is dead, that his name be not put out of Israel. 
+<sup>6</sup> And it shall be, *that* the firstborn which she beareth shall succeed in the name of his brother *which is* dead, that his name be not put out of Israel. 
 
 <sup>7</sup> And if the man like not to take his brother’s wife, then let his brother’s wife go up to the gate unto the elders, and say, My husband’s brother refuseth to raise up unto his brother a name in Israel, he will not perform the duty of my husband’s brother. 
 
-<sup>8</sup> Then the elders of his city shall call him, and speak unto him: and if he stand to it, and say, I like not to take her; 
+<sup>8</sup> Then the elders of his city shall call him, and speak unto him: and *if* he stand *to it*, and say, I like not to take her; 
 
 <sup>9</sup> Then shall his brother’s wife come unto him in the presence of the elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say, So shall it be done unto that man that will not build up his brother’s house. 
 
@@ -26,20 +26,19 @@ weight: 25
 
 <sup>11</sup> ¶ When men strive together one with another, and the wife of the one draweth near for to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets: 
 
-<sup>12</sup> Then thou shalt cut off her hand, thine eye shall not pity her. 
+<sup>12</sup> Then thou shalt cut off her hand, thine eye shall not pity *her*. 
 
 <sup>13</sup> ¶ Thou shalt not have in thy bag divers weights, a great and a small. 
 
 <sup>14</sup> Thou shalt not have in thine house divers measures, a great and a small. 
 
-<sup>15</sup> But thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days may be lengthened in the land which the LORD thy God giveth thee. 
+<sup>15</sup> *But* thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days may be lengthened in the land which the LORD thy God giveth thee. 
 
-<sup>16</sup> For all that do such things, and all that do unrighteously, are an abomination unto the LORD thy God. 
+<sup>16</sup> For all that do such things, *and* all that do unrighteously, *are* an abomination unto the LORD thy God. 
 
 <sup>17</sup> ¶ Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt; 
 
-<sup>18</sup> How he met thee by the way, and smote the hindmost of thee, even all that were feeble behind thee, when thou wast faint and weary; and he feared not God. 
+<sup>18</sup> How he met thee by the way, and smote the hindmost of thee, *even* all *that were* feeble behind thee, when thou *wast* faint and weary; and he feared not God. 
 
-<sup>19</sup> Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it. 
-
+<sup>19</sup> Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee *for* an inheritance to possess it, *that* thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget *it*. 
 
