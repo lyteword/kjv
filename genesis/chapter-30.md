@@ -2,91 +2,91 @@
 weight: 30
 ---
 
-# Chapter 30 
+# Chapter 30
 
-<sup>1</sup> And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
+<sup>1</sup> And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die. 
 
-<sup>2</sup> And Jacob’s anger was kindled against Rachel: and he said, *Am* I in I in God’s stead, who hath withheld from thee the fruit of the womb?
+<sup>2</sup> And Jacob’s anger was kindled against Rachel: and he said, *Am* I in God’s stead, who hath withheld from thee the fruit of the womb? 
 
-<sup>3</sup> And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her.
+<sup>3</sup> And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her. 
 
-<sup>4</sup> And she gave him Bilhah her handmaid to wife: and Jacob went in unto her.
+<sup>4</sup> And she gave him Bilhah her handmaid to wife: and Jacob went in unto her. 
 
-<sup>5</sup> And Bilhah conceived, and bare Jacob a son.
+<sup>5</sup> And Bilhah conceived, and bare Jacob a son. 
 
-<sup>6</sup> And Rachel said, God hath judged me, and hath also heard my voice, and hath given me a son: therefore called she his name Dan.
+<sup>6</sup> And Rachel said, God hath judged me, and hath also heard my voice, and hath given me a son: therefore called she his name Dan. 
 
-<sup>7</sup> And Bilhah Rachel’s maid conceived again, and bare Jacob a second son.
+<sup>7</sup> And Bilhah Rachel’s maid conceived again, and bare Jacob a second son. 
 
-<sup>8</sup> And Rachel said, With great wrestlings have I wrestled with my sister, and I have prevailed: and she called his name Naphtali.
+<sup>8</sup> And Rachel said, With great wrestlings have I wrestled with my sister, and I have prevailed: and she called his name Naphtali. 
 
-<sup>9</sup> When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife.
+<sup>9</sup> When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife. 
 
-<sup>10</sup> And Zilpah Leah’s maid bare Jacob a son.
+<sup>10</sup> And Zilpah Leah’s maid bare Jacob a son. 
 
-<sup>11</sup> And Leah said, A troop cometh: and she called his name Gad.
+<sup>11</sup> And Leah said, A troop cometh: and she called his name Gad. 
 
-<sup>12</sup> And Zilpah Leah’s maid bare Jacob a second son.
+<sup>12</sup> And Zilpah Leah’s maid bare Jacob a second son. 
 
-<sup>13</sup> And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher.
+<sup>13</sup> And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher. 
 
-<sup>14</sup> ¶ And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray thee, of thy son’s mandrakes.
+<sup>14</sup> ¶ And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray thee, of thy son’s mandrakes. 
 
-<sup>15</sup> And she said unto her, *Is it* a small a small matter that thou hast taken my husband? and wouldest thou take away my son’s mandrakes also? And Rachel said, Therefore he shall lie with thee to night for thy son’s mandrakes.
+<sup>15</sup> And she said unto her, *Is it* a small matter that thou hast taken my husband? and wouldest thou take away my son’s mandrakes also? And Rachel said, Therefore he shall lie with thee to night for thy son’s mandrakes. 
 
-<sup>16</sup> And Jacob came out of the field in the evening, and Leah went out to meet him, and said, Thou must come in unto me; for surely I have hired thee with my son’s mandrakes. And he lay with her that night.
+<sup>16</sup> And Jacob came out of the field in the evening, and Leah went out to meet him, and said, Thou must come in unto me; for surely I have hired thee with my son’s mandrakes. And he lay with her that night. 
 
-<sup>17</sup> And God hearkened unto Leah, and she conceived, and bare Jacob the fifth son.
+<sup>17</sup> And God hearkened unto Leah, and she conceived, and bare Jacob the fifth son. 
 
-<sup>18</sup> And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar.
+<sup>18</sup> And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar. 
 
-<sup>19</sup> And Leah conceived again, and bare Jacob the sixth son.
+<sup>19</sup> And Leah conceived again, and bare Jacob the sixth son. 
 
-<sup>20</sup> And Leah said, God hath endued me *with* a a good dowry; now will my husband dwell with me, because I have born him six sons: and she called his name Zebulun.
+<sup>20</sup> And Leah said, God hath endued me *with* a good dowry; now will my husband dwell with me, because I have born him six sons: and she called his name Zebulun. 
 
-<sup>21</sup> And afterwards she bare a daughter, and called her name Dinah.
+<sup>21</sup> And afterwards she bare a daughter, and called her name Dinah. 
 
-<sup>22</sup> ¶ And God remembered Rachel, and God hearkened to her, and opened her womb.
+<sup>22</sup> ¶ And God remembered Rachel, and God hearkened to her, and opened her womb. 
 
-<sup>23</sup> And she conceived, and bare a son; and said, God hath taken away my reproach:
+<sup>23</sup> And she conceived, and bare a son; and said, God hath taken away my reproach: 
 
-<sup>24</sup> And she called his name Joseph; and said, The LORD shall add to me another son.
+<sup>24</sup> And she called his name Joseph; and said, The LORD shall add to me another son. 
 
-<sup>25</sup> ¶ And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country.
+<sup>25</sup> ¶ And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country. 
 
-<sup>26</sup> Give *me* my my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee.
+<sup>26</sup> Give *me* my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee. 
 
-<sup>27</sup> And Laban said unto him, I pray thee, if I have found favour in thine eyes, *tarry: for* I have learned by I have learned by experience that the LORD hath blessed me for thy sake.
+<sup>27</sup> And Laban said unto him, I pray thee, if I have found favour in thine eyes, *tarry: for* I have learned by experience that the LORD hath blessed me for thy sake. 
 
-<sup>28</sup> And he said, Appoint me thy wages, and I will give *it* ..
+<sup>28</sup> And he said, Appoint me thy wages, and I will give *it*. 
 
-<sup>29</sup> And he said unto him, Thou knowest how I have served thee, and how thy cattle was with me.
+<sup>29</sup> And he said unto him, Thou knowest how I have served thee, and how thy cattle was with me. 
 
-<sup>30</sup> For *it was* little which thou hadst before I *came* , and it is, and it is *now* increased unto a multitude; and the LORD hath blessed thee since my coming: and now when shall I provide for mine own house also?
+<sup>30</sup> For *it was* little which thou hadst before I *came*, and it is *now* increased unto a multitude; and the LORD hath blessed thee since my coming: and now when shall I provide for mine own house also? 
 
-<sup>31</sup> And he said, What shall I give thee? And Jacob said, Thou shalt not give me any thing: if thou wilt do this thing for me, I will again feed *and* keep thy flock:
+<sup>31</sup> And he said, What shall I give thee? And Jacob said, Thou shalt not give me any thing: if thou wilt do this thing for me, I will again feed *and* keep thy flock: 
 
-<sup>32</sup> I will pass through all thy flock to day, removing from thence all the speckled and spotted cattle, and all the brown cattle among the sheep, and the spotted and speckled among the goats: and *of such* shall be my shall be my hire.
+<sup>32</sup> I will pass through all thy flock to day, removing from thence all the speckled and spotted cattle, and all the brown cattle among the sheep, and the spotted and speckled among the goats: and *of such* shall be my hire. 
 
-<sup>33</sup> So shall my righteousness answer for me in time to come, when it shall come for my hire before thy face: every one that *is* not not speckled and spotted among the goats, and brown among the sheep, that shall be counted stolen with me.
+<sup>33</sup> So shall my righteousness answer for me in time to come, when it shall come for my hire before thy face: every one that *is* not speckled and spotted among the goats, and brown among the sheep, that shall be counted stolen with me. 
 
-<sup>34</sup> And Laban said, Behold, I would it might be according to thy word.
+<sup>34</sup> And Laban said, Behold, I would it might be according to thy word. 
 
-<sup>35</sup> And he removed that day the he goats that were ringstraked and spotted, and all the she goats that were speckled and spotted, *and* every one that had every one that had *some* white in it, and all the brown among the sheep, and gave *them* into the into the hand of his sons.
+<sup>35</sup> And he removed that day the he goats that were ringstraked and spotted, and all the she goats that were speckled and spotted, *and* every one that had *some* white in it, and all the brown among the sheep, and gave *them* into the hand of his sons. 
 
-<sup>36</sup> And he set three days’ journey betwixt himself and Jacob: and Jacob fed the rest of Laban’s flocks.
+<sup>36</sup> And he set three days’ journey betwixt himself and Jacob: and Jacob fed the rest of Laban’s flocks. 
 
-<sup>37</sup> ¶ And Jacob took him rods of green poplar, and of the hazel and chesnut tree; and pilled white strakes in them, and made the white appear which *was* in the in the rods.
+<sup>37</sup> ¶ And Jacob took him rods of green poplar, and of the hazel and chesnut tree; and pilled white strakes in them, and made the white appear which *was* in the rods. 
 
-<sup>38</sup> And he set the rods which he had pilled before the flocks in the gutters in the watering troughs when the flocks came to drink, that they should conceive when they came to drink.
+<sup>38</sup> And he set the rods which he had pilled before the flocks in the gutters in the watering troughs when the flocks came to drink, that they should conceive when they came to drink. 
 
-<sup>39</sup> And the flocks conceived before the rods, and brought forth cattle ringstraked, speckled, and spotted.
+<sup>39</sup> And the flocks conceived before the rods, and brought forth cattle ringstraked, speckled, and spotted. 
 
-<sup>40</sup> And Jacob did separate the lambs, and set the faces of the flocks toward the ringstraked, and all the brown in the flock of Laban; and he put his own flocks by themselves, and put them not unto Laban’s cattle.
+<sup>40</sup> And Jacob did separate the lambs, and set the faces of the flocks toward the ringstraked, and all the brown in the flock of Laban; and he put his own flocks by themselves, and put them not unto Laban’s cattle. 
 
-<sup>41</sup> And it came to pass, whensoever the stronger cattle did conceive, that Jacob laid the rods before the eyes of the cattle in the gutters, that they might conceive among the rods.
+<sup>41</sup> And it came to pass, whensoever the stronger cattle did conceive, that Jacob laid the rods before the eyes of the cattle in the gutters, that they might conceive among the rods. 
 
-<sup>42</sup> But when the cattle were feeble, he put *them* not not in: so the feebler were Laban’s, and the stronger Jacob’s.
+<sup>42</sup> But when the cattle were feeble, he put *them* not in: so the feebler were Laban’s, and the stronger Jacob’s. 
 
-<sup>43</sup> And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses.
+<sup>43</sup> And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses. 
 
