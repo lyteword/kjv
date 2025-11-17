@@ -14,9 +14,9 @@ weight: 25
 
 <sup>5</sup> And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baal-peor. 
 
-<sup>6</sup> ¶ And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation. 
+<sup>6</sup> ¶ And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who *were* weeping *before* the door of the tabernacle of the congregation. 
 
-<sup>7</sup> And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from among the congregation, and took a javelin in his hand; 
+<sup>7</sup> And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw *it*, he rose up from among the congregation, and took a javelin in his hand; 
 
 <sup>8</sup> And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel. 
 
@@ -28,16 +28,15 @@ weight: 25
 
 <sup>12</sup> Wherefore say, Behold, I give unto him my covenant of peace: 
 
-<sup>13</sup> And he shall have it, and his seed after him, even the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel. 
+<sup>13</sup> And he shall have it, and his seed after him, *even* the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel. 
 
-<sup>14</sup> Now the name of the Israelite that was slain, even that was slain with the Midianitish woman, was Zimri, the son of Salu, a prince of a chief house among the Simeonites. 
+<sup>14</sup> Now the name of the Israelite that was slain, *even* that was slain with the Midianitish woman, *was* Zimri, the son of Salu, a prince of a chief house among the Simeonites. 
 
-<sup>15</sup> And the name of the Midianitish woman that was slain was Cozbi, the daughter of Zur; he was head over a people, and of a chief house in Midian. 
+<sup>15</sup> And the name of the Midianitish woman that was slain *was* Cozbi, the daughter of Zur; he *was* head over a people, *and* of a chief house in Midian. 
 
 <sup>16</sup> ¶ And the LORD spake unto Moses, saying, 
 
 <sup>17</sup> Vex the Midianites, and smite them: 
 
 <sup>18</sup> For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor’s sake. 
-
 

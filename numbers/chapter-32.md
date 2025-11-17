@@ -4,15 +4,15 @@ weight: 32
 
 # Chapter 32
 
-<sup>1</sup> Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle; 
+<sup>1</sup> Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place *was* a place for cattle; 
 
 <sup>2</sup> The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying, 
 
 <sup>3</sup> Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon, 
 
-<sup>4</sup> Even the country which the LORD smote before the congregation of Israel, is a land for cattle, and thy servants have cattle: 
+<sup>4</sup> *Even* the country which the LORD smote before the congregation of Israel, *is* a land for cattle, and thy servants have cattle: 
 
-<sup>5</sup> Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan. 
+<sup>5</sup> Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, *and* bring us not over Jordan. 
 
 <sup>6</sup> ¶ And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here? 
 
@@ -66,9 +66,9 @@ weight: 32
 
 <sup>31</sup> And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do. 
 
-<sup>32</sup> We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan may be ours. 
+<sup>32</sup> We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan *may be* ours. 
 
-<sup>33</sup> And Moses gave unto them, even to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, even the cities of the country round about. 
+<sup>33</sup> And Moses gave unto them, *even* to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, *even* the cities of the country round about. 
 
 <sup>34</sup> ¶ And the children of Gad built Dibon, and Ataroth, and Aroer, 
 
@@ -80,12 +80,11 @@ weight: 32
 
 <sup>38</sup> And Nebo, and Baal-meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded. 
 
-<sup>39</sup> And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which was in it. 
+<sup>39</sup> And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which *was* in it. 
 
 <sup>40</sup> And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein. 
 
 <sup>41</sup> And Jair the son of Manasseh went and took the small towns thereof, and called them Havoth-jair. 
 
 <sup>42</sup> And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name. 
-
 

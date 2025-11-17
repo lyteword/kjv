@@ -10,19 +10,19 @@ weight: 15
 
 <sup>3</sup> And will make an offering by fire unto the LORD, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the LORD, of the herd, or of the flock: 
 
-<sup>4</sup> Then shall he that offereth his offering unto the LORD bring a meat offering of a tenth deal of flour mingled with the fourth part of an hin of oil. 
+<sup>4</sup> Then shall he that offereth his offering unto the LORD bring a meat offering of a tenth deal of flour mingled with the fourth *part* of an hin of oil. 
 
-<sup>5</sup> And the fourth part of an hin of wine for a drink offering shalt thou prepare with the burnt offering or sacrifice, for one lamb. 
+<sup>5</sup> And the fourth *part* of an hin of wine for a drink offering shalt thou prepare with the burnt offering or sacrifice, for one lamb. 
 
-<sup>6</sup> Or for a ram, thou shalt prepare for a meat offering two tenth deals of flour mingled with the third part of an hin of oil. 
+<sup>6</sup> Or for a ram, thou shalt prepare *for* a meat offering two tenth deals of flour mingled with the third *part* of an hin of oil. 
 
-<sup>7</sup> And for a drink offering thou shalt offer the third part of an hin of wine, for a sweet savour unto the LORD. 
+<sup>7</sup> And for a drink offering thou shalt offer the third *part* of an hin of wine, *for* a sweet savour unto the LORD. 
 
-<sup>8</sup> And when thou preparest a bullock for a burnt offering, or for a sacrifice in performing a vow, or peace offerings unto the LORD: 
+<sup>8</sup> And when thou preparest a bullock *for* a burnt offering, or *for* a sacrifice in performing a vow, or peace offerings unto the LORD: 
 
 <sup>9</sup> Then shall he bring with a bullock a meat offering of three tenth deals of flour mingled with half an hin of oil. 
 
-<sup>10</sup> And thou shalt bring for a drink offering half an hin of wine, for an offering made by fire, of a sweet savour unto the LORD. 
+<sup>10</sup> And thou shalt bring for a drink offering half an hin of wine, *for* an offering made by fire, of a sweet savour unto the LORD. 
 
 <sup>11</sup> Thus shall it be done for one bullock, or for one ram, or for a lamb, or a kid. 
 
@@ -30,9 +30,9 @@ weight: 15
 
 <sup>13</sup> All that are born of the country shall do these things after this manner, in offering an offering made by fire, of a sweet savour unto the LORD. 
 
-<sup>14</sup> And if a stranger sojourn with you, or whosoever be among you in your generations, and will offer an offering made by fire, of a sweet savour unto the LORD; as ye do, so he shall do. 
+<sup>14</sup> And if a stranger sojourn with you, or whosoever *be* among you in your generations, and will offer an offering made by fire, of a sweet savour unto the LORD; as ye do, so he shall do. 
 
-<sup>15</sup> One ordinance shall be both for you of the congregation, and also for the stranger that sojourneth with you, an ordinance for ever in your generations: as ye are, so shall the stranger be before the LORD. 
+<sup>15</sup> One ordinance *shall be both* for you of the congregation, and also for the stranger that sojourneth *with you*, an ordinance for ever in your generations: as ye *are*, so shall the stranger be before the LORD. 
 
 <sup>16</sup> One law and one manner shall be for you, and for the stranger that sojourneth with you. 
 
@@ -42,29 +42,29 @@ weight: 15
 
 <sup>19</sup> Then it shall be, that, when ye eat of the bread of the land, ye shall offer up an heave offering unto the LORD. 
 
-<sup>20</sup> Ye shall offer up a cake of the first of your dough for an heave offering: as ye do the heave offering of the threshingfloor, so shall ye heave it. 
+<sup>20</sup> Ye shall offer up a cake of the first of your dough *for* an heave offering: as *ye do* the heave offering of the threshingfloor, so shall ye heave it. 
 
 <sup>21</sup> Of the first of your dough ye shall give unto the LORD an heave offering in your generations. 
 
 <sup>22</sup> ¶ And if ye have erred, and not observed all these commandments, which the LORD hath spoken unto Moses, 
 
-<sup>23</sup> Even all that the LORD hath commanded you by the hand of Moses, from the day that the LORD commanded Moses, and henceforward among your generations; 
+<sup>23</sup> *Even* all that the LORD hath commanded you by the hand of Moses, from the day that the LORD commanded *Moses*, and henceforward among your generations; 
 
-<sup>24</sup> Then it shall be, if ought be committed by ignorance without the knowledge of the congregation, that all the congregation shall offer one young bullock for a burnt offering, for a sweet savour unto the LORD, with his meat offering, and his drink offering, according to the manner, and one kid of the goats for a sin offering. 
+<sup>24</sup> Then it shall be, if *ought* be committed by ignorance without the knowledge of the congregation, that all the congregation shall offer one young bullock for a burnt offering, for a sweet savour unto the LORD, with his meat offering, and his drink offering, according to the manner, and one kid of the goats for a sin offering. 
 
-<sup>25</sup> And the priest shall make an atonement for all the congregation of the children of Israel, and it shall be forgiven them; for it is ignorance: and they shall bring their offering, a sacrifice made by fire unto the LORD, and their sin offering before the LORD, for their ignorance: 
+<sup>25</sup> And the priest shall make an atonement for all the congregation of the children of Israel, and it shall be forgiven them; for it *is* ignorance: and they shall bring their offering, a sacrifice made by fire unto the LORD, and their sin offering before the LORD, for their ignorance: 
 
-<sup>26</sup> And it shall be forgiven all the congregation of the children of Israel, and the stranger that sojourneth among them; seeing all the people were in ignorance. 
+<sup>26</sup> And it shall be forgiven all the congregation of the children of Israel, and the stranger that sojourneth among them; seeing all the people *were* in ignorance. 
 
 <sup>27</sup> ¶ And if any soul sin through ignorance, then he shall bring a she goat of the first year for a sin offering. 
 
 <sup>28</sup> And the priest shall make an atonement for the soul that sinneth ignorantly, when he sinneth by ignorance before the LORD, to make an atonement for him; and it shall be forgiven him. 
 
-<sup>29</sup> Ye shall have one law for him that sinneth through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourneth among them. 
+<sup>29</sup> Ye shall have one law for him that sinneth through ignorance, *both for* him that is born among the children of Israel, and for the stranger that sojourneth among them. 
 
-<sup>30</sup> ¶ But the soul that doeth ought presumptuously, whether he be born in the land, or a stranger, the same reproacheth the LORD; and that soul shall be cut off from among his people. 
+<sup>30</sup> ¶ But the soul that doeth *ought* presumptuously, *whether he be* born in the land, or a stranger, the same reproacheth the LORD; and that soul shall be cut off from among his people. 
 
-<sup>31</sup> Because he hath despised the word of the LORD, and hath broken his commandment, that soul shall utterly be cut off; his iniquity shall be upon him. 
+<sup>31</sup> Because he hath despised the word of the LORD, and hath broken his commandment, that soul shall utterly be cut off; his iniquity *shall be* upon him. 
 
 <sup>32</sup> ¶ And while the children of Israel were in the wilderness, they found a man that gathered sticks upon the sabbath day. 
 
@@ -84,6 +84,5 @@ weight: 15
 
 <sup>40</sup> That ye may remember, and do all my commandments, and be holy unto your God. 
 
-<sup>41</sup> I am the LORD your God, which brought you out of the land of Egypt, to be your God: I am the LORD your God. 
-
+<sup>41</sup> I *am* the LORD your God, which brought you out of the land of Egypt, to be your God: I *am* the LORD your God. 
 

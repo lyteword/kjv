@@ -4,96 +4,111 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab. 
+<sup>1</sup> And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first *day* of the second month, in the second year after they were come out of the land of Egypt, saying, 
 
-<sup>2</sup> (There are eleven days’ journey from Horeb by the way of mount Seir unto Kadesh-barnea.) 
+<sup>2</sup> Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of *their* names, every male by their polls; 
 
-<sup>3</sup> And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that the LORD had given him in commandment unto them; 
+<sup>3</sup> From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies. 
 
-<sup>4</sup> After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei: 
+<sup>4</sup> And with you there shall be a man of every tribe; every one head of the house of his fathers. 
 
-<sup>5</sup> On this side Jordan, in the land of Moab, began Moses to declare this law, saying, 
+<sup>5</sup> ¶ And these *are* the names of the men that shall stand with you: of *the tribe of* Reuben; Elizur the son of Shedeur. 
 
-<sup>6</sup> The LORD our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount: 
+<sup>6</sup> Of Simeon; Shelumiel the son of Zurishaddai. 
 
-<sup>7</sup> Turn you, and take your journey, and go to the mount of the Amorites, and unto all the places nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates. 
+<sup>7</sup> Of Judah; Nahshon the son of Amminadab. 
 
-<sup>8</sup> Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them. 
+<sup>8</sup> Of Issachar; Nethaneel the son of Zuar. 
 
-<sup>9</sup> ¶ And I spake unto you at that time, saying, I am not able to bear you myself alone: 
+<sup>9</sup> Of Zebulun; Eliab the son of Helon. 
 
-<sup>10</sup> The LORD your God hath multiplied you, and, behold, ye are this day as the stars of heaven for multitude. 
+<sup>10</sup> Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur. 
 
-<sup>11</sup> (The LORD God of your fathers make you a thousand times so many more as ye are, and bless you, as he hath promised you!) 
+<sup>11</sup> Of Benjamin; Abidan the son of Gideoni. 
 
-<sup>12</sup> How can I myself alone bear your cumbrance, and your burden, and your strife? 
+<sup>12</sup> Of Dan; Ahiezer the son of Ammishaddai. 
 
-<sup>13</sup> Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you. 
+<sup>13</sup> Of Asher; Pagiel the son of Ocran. 
 
-<sup>14</sup> And ye answered me, and said, The thing which thou hast spoken is good for us to do. 
+<sup>14</sup> Of Gad; Eliasaph the son of Deuel. 
 
-<sup>15</sup> So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes. 
+<sup>15</sup> Of Naphtali; Ahira the son of Enan. 
 
-<sup>16</sup> And I charged your judges at that time, saying, Hear the causes between your brethren, and judge righteously between every man and his brother, and the stranger that is with him. 
+<sup>16</sup> These ** the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel. 
 
-<sup>17</sup> Ye shall not respect persons in judgment; but ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment is God’s: and the cause that is too hard for you, bring it unto me, and I will hear it. 
+<sup>17</sup> ¶ And Moses and Aaron took these men which are expressed by *their* names: 
 
-<sup>18</sup> And I commanded you at that time all the things which ye should do. 
+<sup>18</sup> And they assembled all the congregation together on the first *day* of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls. 
 
-<sup>19</sup> ¶ And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadesh-barnea. 
+<sup>19</sup> As the LORD commanded Moses, so he numbered them in the wilderness of Sinai. 
 
-<sup>20</sup> And I said unto you, Ye are come unto the mountain of the Amorites, which the LORD our God doth give unto us. 
+<sup>20</sup> And the children of Reuben, Israel’s eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>21</sup> Behold, the LORD thy God hath set the land before thee: go up and possess it, as the LORD God of thy fathers hath said unto thee; fear not, neither be discouraged. 
+<sup>21</sup> Those that were numbered of them, *even* of the tribe of Reuben, *were* forty and six thousand and five hundred. 
 
-<sup>22</sup> ¶ And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come. 
+<sup>22</sup> ¶ Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>23</sup> And the saying pleased me well: and I took twelve men of you, one of a tribe: 
+<sup>23</sup> Those that were numbered of them, *even* of the tribe of Simeon, *were* fifty and nine thousand and three hundred. 
 
-<sup>24</sup> And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out. 
+<sup>24</sup> ¶ Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>25</sup> And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the LORD our God doth give us. 
+<sup>25</sup> Those that were numbered of them, *even* of the tribe of Gad, *were* forty and five thousand six hundred and fifty. 
 
-<sup>26</sup> Notwithstanding ye would not go up, but rebelled against the commandment of the LORD your God: 
+<sup>26</sup> ¶ Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>27</sup> And ye murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us. 
+<sup>27</sup> Those that were numbered of them, *even* of the tribe of Judah, *were* threescore and fourteen thousand and six hundred. 
 
-<sup>28</sup> Whither shall we go up? our brethren have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there. 
+<sup>28</sup> ¶ Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>29</sup> Then I said unto you, Dread not, neither be afraid of them. 
+<sup>29</sup> Those that were numbered of them, *even* of the tribe of Issachar, *were* fifty and four thousand and four hundred. 
 
-<sup>30</sup> The LORD your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes; 
+<sup>30</sup> ¶ Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>31</sup> And in the wilderness, where thou hast seen how that the LORD thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came into this place. 
+<sup>31</sup> Those that were numbered of them, *even* of the tribe of Zebulun, *were* fifty and seven thousand and four hundred. 
 
-<sup>32</sup> Yet in this thing ye did not believe the LORD your God, 
+<sup>32</sup> ¶ Of the children of Joseph, *namely*, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>33</sup> Who went in the way before you, to search you out a place to pitch your tents in, in fire by night, to shew you by what way ye should go, and in a cloud by day. 
+<sup>33</sup> Those that were numbered of them, *even* of the tribe of Ephraim, *were* forty thousand and five hundred. 
 
-<sup>34</sup> And the LORD heard the voice of your words, and was wroth, and sware, saying, 
+<sup>34</sup> ¶ Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>35</sup> Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers, 
+<sup>35</sup> Those that were numbered of them, *even* of the tribe of Manasseh, *were* thirty and two thousand and two hundred. 
 
-<sup>36</sup> Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the LORD. 
+<sup>36</sup> ¶ Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>37</sup> Also the LORD was angry with me for your sakes, saying, Thou also shalt not go in thither. 
+<sup>37</sup> Those that were numbered of them, *even* of the tribe of Benjamin, *were* thirty and five thousand and four hundred. 
 
-<sup>38</sup> But Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it. 
+<sup>38</sup> ¶ Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>39</sup> Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it. 
+<sup>39</sup> Those that were numbered of them, *even* of the tribe of Dan, *were* threescore and two thousand and seven hundred. 
 
-<sup>40</sup> But as for you, turn you, and take your journey into the wilderness by the way of the Red sea. 
+<sup>40</sup> ¶ Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>41</sup> Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill. 
+<sup>41</sup> Those that were numbered of them, *even* of the tribe of Asher, *were* forty and one thousand and five hundred. 
 
-<sup>42</sup> And the LORD said unto me, Say unto them, Go not up, neither fight; for I am not among you; lest ye be smitten before your enemies. 
+<sup>42</sup> ¶ Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
 
-<sup>43</sup> So I spake unto you; and ye would not hear, but rebelled against the commandment of the LORD, and went presumptuously up into the hill. 
+<sup>43</sup> Those that were numbered of them, *even* of the tribe of Naphtali, *were* fifty and three thousand and four hundred. 
 
-<sup>44</sup> And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, even unto Hormah. 
+<sup>44</sup> These *are* those that were numbered, which Moses and Aaron numbered, and the princes of Israel, *being* twelve men: each one was for the house of his fathers. 
 
-<sup>45</sup> And ye returned and wept before the LORD; but the LORD would not hearken to your voice, nor give ear unto you. 
+<sup>45</sup> So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel; 
 
-<sup>46</sup> So ye abode in Kadesh many days, according unto the days that ye abode there. 
+<sup>46</sup> Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty. 
 
+<sup>47</sup> ¶ But the Levites after the tribe of their fathers were not numbered among them. 
+
+<sup>48</sup> For the LORD had spoken unto Moses, saying, 
+
+<sup>49</sup> Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel: 
+
+<sup>50</sup> But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that *belong* to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle. 
+
+<sup>51</sup> And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death. 
+
+<sup>52</sup> And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts. 
+
+<sup>53</sup> But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony. 
+
+<sup>54</sup> And the children of Israel did according to all that the LORD commanded Moses, so did they. 
 

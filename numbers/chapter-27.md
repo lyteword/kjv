@@ -4,13 +4,13 @@ weight: 27
 
 # Chapter 27
 
-<sup>1</sup> Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah. 
+<sup>1</sup> Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these *are* the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah. 
 
-<sup>2</sup> And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying, 
+<sup>2</sup> And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, *by* the door of the tabernacle of the congregation, saying, 
 
 <sup>3</sup> Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the LORD in the company of Korah; but died in his own sin, and had no sons. 
 
-<sup>4</sup> Why should the name of our father be done away from among his family, because he hath no son? Give unto us therefore a possession among the brethren of our father. 
+<sup>4</sup> Why should the name of our father be done away from among his family, because he hath no son? Give unto us *therefore* a possession among the brethren of our father. 
 
 <sup>5</sup> And Moses brought their cause before the LORD. 
 
@@ -30,7 +30,7 @@ weight: 27
 
 <sup>13</sup> And when thou hast seen it, thou also shalt be gathered unto thy people, as Aaron thy brother was gathered. 
 
-<sup>14</sup> For ye rebelled against my commandment in the desert of Zin, in the strife of the congregation, to sanctify me at the water before their eyes: that is the water of Meribah in Kadesh in the wilderness of Zin. 
+<sup>14</sup> For ye rebelled against my commandment in the desert of Zin, in the strife of the congregation, to sanctify me at the water before their eyes: that *is* the water of Meribah in Kadesh in the wilderness of Zin. 
 
 <sup>15</sup> ¶ And Moses spake unto the LORD, saying, 
 
@@ -38,16 +38,15 @@ weight: 27
 
 <sup>17</sup> Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the LORD be not as sheep which have no shepherd. 
 
-<sup>18</sup> ¶ And the LORD said unto Moses, Take thee Joshua the son of Nun, a man in whom is the spirit, and lay thine hand upon him; 
+<sup>18</sup> ¶ And the LORD said unto Moses, Take thee Joshua the son of Nun, a man in whom *is* the spirit, and lay thine hand upon him; 
 
 <sup>19</sup> And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight. 
 
-<sup>20</sup> And thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient. 
+<sup>20</sup> And thou shalt put *some* of thine honour upon him, that all the congregation of the children of Israel may be obedient. 
 
-<sup>21</sup> And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the LORD: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation. 
+<sup>21</sup> And he shall stand before Eleazar the priest, who shall ask *counsel* for him after the judgment of Urim before the LORD: at his word shall they go out, and at his word they shall come in, *both* he, and all the children of Israel with him, even all the congregation. 
 
 <sup>22</sup> And Moses did as the LORD commanded him: and he took Joshua, and set him before Eleazar the priest, and before all the congregation: 
 
 <sup>23</sup> And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses. 
-
 
