@@ -4,15 +4,15 @@ weight: 11
 
 # Chapter 11
 
-<sup>1</sup> Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh. 
+<sup>1</sup> Then all Israel gathered themselves to David unto Hebron, saying, Behold, we *are* thy bone and thy flesh. 
 
-<sup>2</sup> And moreover in time past, even when Saul was king, thou wast he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel. 
+<sup>2</sup> And moreover in time past, even when Saul was king, thou *wast* he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel. 
 
 <sup>3</sup> Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel. 
 
-<sup>4</sup> ¶ And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land. 
+<sup>4</sup> ¶ And David and all Israel went to Jerusalem, which *is* Jebus; where the Jebusites *were*, the inhabitants of the land. 
 
-<sup>5</sup> And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which is the city of David. 
+<sup>5</sup> And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which *is* the city of David. 
 
 <sup>6</sup> And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief. 
 
@@ -20,41 +20,41 @@ weight: 11
 
 <sup>8</sup> And he built the city round about, even from Millo round about: and Joab repaired the rest of the city. 
 
-<sup>9</sup> So David waxed greater and greater: for the LORD of hosts was with him. 
+<sup>9</sup> So David waxed greater and greater: for the LORD of hosts *was* with him. 
 
-<sup>10</sup> ¶ These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the LORD concerning Israel. 
+<sup>10</sup> ¶ These also *are* the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, *and* with all Israel, to make him king, according to the word of the LORD concerning Israel. 
 
-<sup>11</sup> And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time. 
+<sup>11</sup> And this *is* the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain *by him* at one time. 
 
-<sup>12</sup> And after him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighties. 
+<sup>12</sup> And after him *was* Eleazar the son of Dodo, the Ahohite, who *was one* of the three mighties. 
 
 <sup>13</sup> He was with David at Pas-dammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines. 
 
-<sup>14</sup> And they set themselves in the midst of that parcel, and delivered it, and slew the Philistines; and the LORD saved them by a great deliverance. 
+<sup>14</sup> And they set themselves in the midst of *that* parcel, and delivered it, and slew the Philistines; and the LORD saved *them* by a great deliverance. 
 
 <sup>15</sup> ¶ Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim. 
 
-<sup>16</sup> And David was then in the hold, and the Philistines’ garrison was then at Beth-lehem. 
+<sup>16</sup> And David *was* then in the hold, and the Philistines’ garrison *was* then at Beth-lehem. 
 
-<sup>17</sup> And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, that is at the gate! 
+<sup>17</sup> And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, that *is* at the gate! 
 
-<sup>18</sup> And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the LORD, 
+<sup>18</sup> And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that *was* by the gate, and took *it*, and brought *it* to David: but David would not drink *of* it, but poured it out to the LORD, 
 
-<sup>19</sup> And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three mightiest. 
+<sup>19</sup> And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with *the jeopardy of* their lives they brought it. Therefore he would not drink it. These things did these three mightiest. 
 
-<sup>20</sup> ¶ And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew them, and had a name among the three. 
+<sup>20</sup> ¶ And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew *them*, and had a name among the three. 
 
-<sup>21</sup> Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the first three. 
+<sup>21</sup> Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the *first* three. 
 
 <sup>22</sup> Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day. 
 
-<sup>23</sup> And he slew an Egyptian, a man of great stature, five cubits high; and in the Egyptian’s hand was a spear like a weaver’s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear. 
+<sup>23</sup> And he slew an Egyptian, a man of *great* stature, five cubits high; and in the Egyptian’s hand *was* a spear like a weaver’s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear. 
 
-<sup>24</sup> These things did Benaiah the son of Jehoiada, and had the name among the three mighties. 
+<sup>24</sup> These *things* did Benaiah the son of Jehoiada, and had the name among the three mighties. 
 
-<sup>25</sup> Behold, he was honourable among the thirty, but attained not to the first three: and David set him over his guard. 
+<sup>25</sup> Behold, he was honourable among the thirty, but attained not to the *first* three: and David set him over his guard. 
 
-<sup>26</sup> ¶ Also the valiant men of the armies were, Asahel the brother of Joab, Elhanan the son of Dodo of Beth-lehem, 
+<sup>26</sup> ¶ Also the valiant men of the armies *were*, Asahel the brother of Joab, Elhanan the son of Dodo of Beth-lehem, 
 
 <sup>27</sup> Shammoth the Harorite, Helez the Pelonite, 
 
@@ -64,7 +64,7 @@ weight: 11
 
 <sup>30</sup> Maharai the Netophathite, Heled the son of Baanah the Netophathite, 
 
-<sup>31</sup> Ithai the son of Ribai of Gibeah, that pertained to the children of Benjamin, Benaiah the Pirathonite, 
+<sup>31</sup> Ithai the son of Ribai of Gibeah, *that pertained* to the children of Benjamin, Benaiah the Pirathonite, 
 
 <sup>32</sup> Hurai of the brooks of Gaash, Abiel the Arbathite, 
 
@@ -97,5 +97,4 @@ weight: 11
 <sup>46</sup> Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite, 
 
 <sup>47</sup> Eliel, and Obed, and Jasiel the Mesobaite. 
-
 

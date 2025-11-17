@@ -10,7 +10,7 @@ weight: 14
 
 <sup>3</sup> ¶ And David took more wives at Jerusalem: and David begat more sons and daughters. 
 
-<sup>4</sup> Now these are the names of his children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon, 
+<sup>4</sup> Now these *are* the names of *his* children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon, 
 
 <sup>5</sup> And Ibhar, and Elishua, and Elpalet, 
 
@@ -18,7 +18,7 @@ weight: 14
 
 <sup>7</sup> And Elishama, and Beeliada, and Eliphalet. 
 
-<sup>8</sup> ¶ And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard of it, and went out against them. 
+<sup>8</sup> ¶ And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard *of it*, and went out against them. 
 
 <sup>9</sup> And the Philistines came and spread themselves in the valley of Rephaim. 
 
@@ -32,10 +32,9 @@ weight: 14
 
 <sup>14</sup> Therefore David enquired again of God; and God said unto him, Go not up after them; turn away from them, and come upon them over against the mulberry trees. 
 
-<sup>15</sup> And it shall be, when thou shalt hear a sound of going in the tops of the mulberry trees, that then thou shalt go out to battle: for God is gone forth before thee to smite the host of the Philistines. 
+<sup>15</sup> And it shall be, when thou shalt hear a sound of going in the tops of the mulberry trees, *that* then thou shalt go out to battle: for God is gone forth before thee to smite the host of the Philistines. 
 
 <sup>16</sup> David therefore did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gazer. 
 
 <sup>17</sup> And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations. 
-
 

@@ -40,7 +40,7 @@ weight: 1
 
 <sup>18</sup> And Arphaxad begat Shelah, and Shelah begat Eber. 
 
-<sup>19</sup> And unto Eber were born two sons: the name of the one was Peleg; because in his days the earth was divided: and his brother’s name was Joktan. 
+<sup>19</sup> And unto Eber were born two sons: the name of the one *was* Peleg; because in his days the earth was divided: and his brother’s name *was* Joktan. 
 
 <sup>20</sup> And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah, 
 
@@ -48,7 +48,7 @@ weight: 1
 
 <sup>22</sup> And Ebal, and Abimael, and Sheba, 
 
-<sup>23</sup> And Ophir, and Havilah, and Jobab. All these were the sons of Joktan. 
+<sup>23</sup> And Ophir, and Havilah, and Jobab. All these *were* the sons of Joktan. 
 
 <sup>24</sup> ¶ Shem, Arphaxad, Shelah, 
 
@@ -56,11 +56,11 @@ weight: 1
 
 <sup>26</sup> Serug, Nahor, Terah, 
 
-<sup>27</sup> Abram; the same is Abraham. 
+<sup>27</sup> Abram; the same *is* Abraham. 
 
 <sup>28</sup> The sons of Abraham; Isaac, and Ishmael. 
 
-<sup>29</sup> ¶ These are their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam, 
+<sup>29</sup> ¶ These *are* their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam, 
 
 <sup>30</sup> Mishma, and Dumah, Massa, Hadad, and Tema, 
 
@@ -68,7 +68,7 @@ weight: 1
 
 <sup>32</sup> ¶ Now the sons of Keturah, Abraham’s concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan. 
 
-<sup>33</sup> And the sons of Midian; Ephah, and Epher, and Henoch, and Abida, and Eldaah. All these are the sons of Keturah. 
+<sup>33</sup> And the sons of Midian; Ephah, and Epher, and Henoch, and Abida, and Eldaah. All these *are* the sons of Keturah. 
 
 <sup>34</sup> And Abraham begat Isaac. The sons of Isaac; Esau and Israel. 
 
@@ -80,21 +80,21 @@ weight: 1
 
 <sup>38</sup> And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan. 
 
-<sup>39</sup> And the sons of Lotan; Hori, and Homam: and Timna was Lotan’s sister. 
+<sup>39</sup> And the sons of Lotan; Hori, and Homam: and Timna *was* Lotan’s sister. 
 
 <sup>40</sup> The sons of Shobal; Alian, and Manahath, and Ebal, Shephi, and Onam. And the sons of Zibeon; Aiah, and Anah. 
 
 <sup>41</sup> The sons of Anah; Dishon. And the sons of Dishon; Amram, and Eshban, and Ithran, and Cheran. 
 
-<sup>42</sup> The sons of Ezer; Bilhan, and Zavan, and Jakan. The sons of Dishan; Uz, and Aran. 
+<sup>42</sup> The sons of Ezer; Bilhan, and Zavan, *and* Jakan. The sons of Dishan; Uz, and Aran. 
 
-<sup>43</sup> ¶ Now these are the kings that reigned in the land of Edom before any king reigned over the children of Israel; Bela the son of Beor: and the name of his city was Dinhabah. 
+<sup>43</sup> ¶ Now these *are* the kings that reigned in the land of Edom before *any* king reigned over the children of Israel; Bela the son of Beor: and the name of his city *was* Dinhabah. 
 
 <sup>44</sup> And when Bela was dead, Jobab the son of Zerah of Bozrah reigned in his stead. 
 
 <sup>45</sup> And when Jobab was dead, Husham of the land of the Temanites reigned in his stead. 
 
-<sup>46</sup> And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith. 
+<sup>46</sup> And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city *was* Avith. 
 
 <sup>47</sup> And when Hadad was dead, Samlah of Masrekah reigned in his stead. 
 
@@ -102,7 +102,7 @@ weight: 1
 
 <sup>49</sup> And when Shaul was dead, Baal-hanan the son of Achbor reigned in his stead. 
 
-<sup>50</sup> And when Baal-hanan was dead, Hadad reigned in his stead: and the name of his city was Pai; and his wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab. 
+<sup>50</sup> And when Baal-hanan was dead, Hadad reigned in his stead: and the name of his city *was* Pai; and his wife’s name *was* Mehetabel, the daughter of Matred, the daughter of Mezahab. 
 
 <sup>51</sup> ¶ Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth, 
 
@@ -110,6 +110,5 @@ weight: 1
 
 <sup>53</sup> Duke Kenaz, duke Teman, duke Mibzar, 
 
-<sup>54</sup> Duke Magdiel, duke Iram. These are the dukes of Edom. 
-
+<sup>54</sup> Duke Magdiel, duke Iram. These *are* the dukes of Edom. 
 

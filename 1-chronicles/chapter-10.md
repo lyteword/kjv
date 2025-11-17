@@ -16,7 +16,7 @@ weight: 10
 
 <sup>6</sup> So Saul died, and his three sons, and all his house died together. 
 
-<sup>7</sup> And when all the men of Israel that were in the valley saw that they fled, and that Saul and his sons were dead, then they forsook their cities, and fled: and the Philistines came and dwelt in them. 
+<sup>7</sup> And when all the men of Israel that *were* in the valley saw that they fled, and that Saul and his sons were dead, then they forsook their cities, and fled: and the Philistines came and dwelt in them. 
 
 <sup>8</sup> ¶ And it came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his sons fallen in mount Gilboa. 
 
@@ -28,8 +28,7 @@ weight: 10
 
 <sup>12</sup> They arose, all the valiant men, and took away the body of Saul, and the bodies of his sons, and brought them to Jabesh, and buried their bones under the oak in Jabesh, and fasted seven days. 
 
-<sup>13</sup> ¶ So Saul died for his transgression which he committed against the LORD, even against the word of the LORD, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it; 
+<sup>13</sup> ¶ So Saul died for his transgression which he committed against the LORD, *even* against the word of the LORD, which he kept not, and also for asking *counsel* of *one that had* a familiar spirit, to enquire *of it;* 
 
 <sup>14</sup> And enquired not of the LORD: therefore he slew him, and turned the kingdom unto David the son of Jesse. 
-
 

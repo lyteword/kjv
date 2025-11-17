@@ -4,7 +4,7 @@ weight: 11
 
 # Chapter 11
 
-<sup>1</sup> And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen men, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam. 
+<sup>1</sup> And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen *men*, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam. 
 
 <sup>2</sup> But the word of the LORD came to Shemaiah the man of God, saying, 
 
@@ -22,13 +22,13 @@ weight: 11
 
 <sup>9</sup> And Adoraim, and Lachish, and Azekah, 
 
-<sup>10</sup> And Zorah, and Aijalon, and Hebron, which are in Judah and in Benjamin fenced cities. 
+<sup>10</sup> And Zorah, and Aijalon, and Hebron, which *are* in Judah and in Benjamin fenced cities. 
 
 <sup>11</sup> And he fortified the strong holds, and put captains in them, and store of victual, and of oil and wine. 
 
-<sup>12</sup> And in every several city he put shields and spears, and made them exceeding strong, having Judah and Benjamin on his side. 
+<sup>12</sup> And in every several city *he put* shields and spears, and made them exceeding strong, having Judah and Benjamin on his side. 
 
-<sup>13</sup> ¶ And the priests and the Levites that were in all Israel resorted to him out of all their coasts. 
+<sup>13</sup> ¶ And the priests and the Levites that *were* in all Israel resorted to him out of all their coasts. 
 
 <sup>14</sup> For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest’s office unto the LORD: 
 
@@ -38,7 +38,7 @@ weight: 11
 
 <sup>17</sup> So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon. 
 
-<sup>18</sup> ¶ And Rehoboam took him Mahalath the daughter of Jerimoth the son of David to wife, and Abihail the daughter of Eliab the son of Jesse; 
+<sup>18</sup> ¶ And Rehoboam took him Mahalath the daughter of Jerimoth the son of David to wife, *and* Abihail the daughter of Eliab the son of Jesse; 
 
 <sup>19</sup> Which bare him children; Jeush, and Shamariah, and Zaham. 
 
@@ -46,8 +46,7 @@ weight: 11
 
 <sup>21</sup> And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.) 
 
-<sup>22</sup> And Rehoboam made Abijah the son of Maachah the chief, to be ruler among his brethren: for he thought to make him king. 
+<sup>22</sup> And Rehoboam made Abijah the son of Maachah the chief, *to be* ruler among his brethren: for *he thought* to make him king. 
 
 <sup>23</sup> And he dealt wisely, and dispersed of all his children throughout all the countries of Judah and Benjamin, unto every fenced city: and he gave them victual in abundance. And he desired many wives. 
-
 

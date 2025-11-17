@@ -4,9 +4,9 @@ weight: 33
 
 # Chapter 33
 
-<sup>1</sup> Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem: 
+<sup>1</sup> Manasseh *was* twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem: 
 
-<sup>2</sup> But did that which was evil in the sight of the LORD, like unto the abominations of the heathen, whom the LORD had cast out before the children of Israel. 
+<sup>2</sup> But did *that which was* evil in the sight of the LORD, like unto the abominations of the heathen, whom the LORD had cast out before the children of Israel. 
 
 <sup>3</sup> ¶ For he built again the high places which Hezekiah his father had broken down, and he reared up altars for Baalim, and made groves, and worshipped all the host of heaven, and served them. 
 
@@ -20,7 +20,7 @@ weight: 33
 
 <sup>8</sup> Neither will I any more remove the foot of Israel from out of the land which I have appointed for your fathers; so that they will take heed to do all that I have commanded them, according to the whole law and the statutes and the ordinances by the hand of Moses. 
 
-<sup>9</sup> So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the LORD had destroyed before the children of Israel. 
+<sup>9</sup> So Manasseh made Judah and the inhabitants of Jerusalem to err, *and* to do worse than the heathen, whom the LORD had destroyed before the children of Israel. 
 
 <sup>10</sup> And the LORD spake to Manasseh, and to his people: but they would not hearken. 
 
@@ -28,30 +28,29 @@ weight: 33
 
 <sup>12</sup> And when he was in affliction, he besought the LORD his God, and humbled himself greatly before the God of his fathers, 
 
-<sup>13</sup> And prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the LORD he was God. 
+<sup>13</sup> And prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the LORD he *was* God. 
 
 <sup>14</sup> Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah. 
 
-<sup>15</sup> And he took away the strange gods, and the idol out of the house of the LORD, and all the altars that he had built in the mount of the house of the LORD, and in Jerusalem, and cast them out of the city. 
+<sup>15</sup> And he took away the strange gods, and the idol out of the house of the LORD, and all the altars that he had built in the mount of the house of the LORD, and in Jerusalem, and cast *them* out of the city. 
 
 <sup>16</sup> And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel. 
 
-<sup>17</sup> Nevertheless the people did sacrifice still in the high places, yet unto the LORD their God only. 
+<sup>17</sup> Nevertheless the people did sacrifice still in the high places, *yet* unto the LORD their God only. 
 
-<sup>18</sup> ¶ Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spake to him in the name of the LORD God of Israel, behold, they are written in the book of the kings of Israel. 
+<sup>18</sup> ¶ Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spake to him in the name of the LORD God of Israel, behold, they *are written* in the book of the kings of Israel. 
 
-<sup>19</sup> His prayer also, and how God was intreated of him, and all his sin, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he was humbled: behold, they are written among the sayings of the seers. 
+<sup>19</sup> His prayer also, and *how God* was intreated of him, and all his sin, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he was humbled: behold, they *are* written among the sayings of the seers. 
 
 <sup>20</sup> ¶ So Manasseh slept with his fathers, and they buried him in his own house: and Amon his son reigned in his stead. 
 
-<sup>21</sup> ¶ Amon was two and twenty years old when he began to reign, and reigned two years in Jerusalem. 
+<sup>21</sup> ¶ Amon *was* two and twenty years old when he began to reign, and reigned two years in Jerusalem. 
 
-<sup>22</sup> But he did that which was evil in the sight of the LORD, as did Manasseh his father: for Amon sacrificed unto all the carved images which Manasseh his father had made, and served them; 
+<sup>22</sup> But he did *that which was* evil in the sight of the LORD, as did Manasseh his father: for Amon sacrificed unto all the carved images which Manasseh his father had made, and served them; 
 
 <sup>23</sup> And humbled not himself before the LORD, as Manasseh his father had humbled himself; but Amon trespassed more and more. 
 
 <sup>24</sup> And his servants conspired against him, and slew him in his own house. 
 
 <sup>25</sup> ¶ But the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead. 
-
 

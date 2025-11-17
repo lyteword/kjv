@@ -10,21 +10,21 @@ weight: 23
 
 <sup>3</sup> And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as the LORD hath said of the sons of David. 
 
-<sup>4</sup> This is the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, shall be porters of the doors; 
+<sup>4</sup> This *is* the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, *shall be* porters of the doors; 
 
-<sup>5</sup> And a third part shall be at the king’s house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of the LORD. 
+<sup>5</sup> And a third part *shall be* at the king’s house; and a third part at the gate of the foundation: and all the people *shall be* in the courts of the house of the LORD. 
 
-<sup>6</sup> But let none come into the house of the LORD, save the priests, and they that minister of the Levites; they shall go in, for they are holy: but all the people shall keep the watch of the LORD. 
+<sup>6</sup> But let none come into the house of the LORD, save the priests, and they that minister of the Levites; they shall go in, for they *are* holy: but all the people shall keep the watch of the LORD. 
 
-<sup>7</sup> And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever else cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out. 
+<sup>7</sup> And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever *else* cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out. 
 
-<sup>8</sup> So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go out on the sabbath: for Jehoiada the priest dismissed not the courses. 
+<sup>8</sup> So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go *out* on the sabbath: for Jehoiada the priest dismissed not the courses. 
 
-<sup>9</sup> Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that had been king David’s, which were in the house of God. 
+<sup>9</sup> Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that *had been* king David’s, which *were* in the house of God. 
 
 <sup>10</sup> And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about. 
 
-<sup>11</sup> Then they brought out the king’s son, and put upon him the crown, and gave him the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king. 
+<sup>11</sup> Then they brought out the king’s son, and put upon him the crown, and *gave him* the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king. 
 
 <sup>12</sup> ¶ Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the LORD: 
 
@@ -38,12 +38,11 @@ weight: 23
 
 <sup>17</sup> Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars. 
 
-<sup>18</sup> Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David. 
+<sup>18</sup> Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as *it is* written in the law of Moses, with rejoicing and with singing, *as it was ordained* by David. 
 
-<sup>19</sup> And he set the porters at the gates of the house of the LORD, that none which was unclean in any thing should enter in. 
+<sup>19</sup> And he set the porters at the gates of the house of the LORD, that none *which was* unclean in any thing should enter in. 
 
 <sup>20</sup> And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the LORD: and they came through the high gate into the king’s house, and set the king upon the throne of the kingdom. 
 
 <sup>21</sup> And all the people of the land rejoiced: and the city was quiet, after that they had slain Athaliah with the sword. 
-
 

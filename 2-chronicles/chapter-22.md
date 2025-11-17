@@ -6,7 +6,7 @@ weight: 22
 
 <sup>1</sup> And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned. 
 
-<sup>2</sup> Forty and two years old was Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother’s name also was Athaliah the daughter of Omri. 
+<sup>2</sup> Forty and two years old *was* Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother’s name also *was* Athaliah the daughter of Omri. 
 
 <sup>3</sup> He also walked in the ways of the house of Ahab: for his mother was his counsellor to do wickedly. 
 
@@ -20,12 +20,11 @@ weight: 22
 
 <sup>8</sup> And it came to pass, that, when Jehu was executing judgment upon the house of Ahab, and found the princes of Judah, and the sons of the brethren of Ahaziah, that ministered to Ahaziah, he slew them. 
 
-<sup>9</sup> And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom. 
+<sup>9</sup> And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he *is* the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom. 
 
 <sup>10</sup> ¶ But when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal of the house of Judah. 
 
 <sup>11</sup> But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king’s sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not. 
 
 <sup>12</sup> And he was with them hid in the house of God six years: and Athaliah reigned over the land. 
-
 

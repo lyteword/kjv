@@ -10,7 +10,7 @@ weight: 3
 
 <sup>3</sup> The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife. 
 
-<sup>4</sup> These six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years. 
+<sup>4</sup> *These* six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years. 
 
 <sup>5</sup> And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bath-shua the daughter of Ammiel: 
 
@@ -20,9 +20,9 @@ weight: 3
 
 <sup>8</sup> And Elishama, and Eliada, and Eliphelet, nine. 
 
-<sup>9</sup> These were all the sons of David, beside the sons of the concubines, and Tamar their sister. 
+<sup>9</sup> *These were* all the sons of David, beside the sons of the concubines, and Tamar their sister. 
 
-<sup>10</sup> ¶ And Solomon’s son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son, 
+<sup>10</sup> ¶ And Solomon’s son *was* Rehoboam, Abia his son, Asa his son, Jehoshaphat his son, 
 
 <sup>11</sup> Joram his son, Ahaziah his son, Joash his son, 
 
@@ -32,7 +32,7 @@ weight: 3
 
 <sup>14</sup> Amon his son, Josiah his son. 
 
-<sup>15</sup> And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum. 
+<sup>15</sup> And the sons of Josiah *were*, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum. 
 
 <sup>16</sup> And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son. 
 
@@ -40,7 +40,7 @@ weight: 3
 
 <sup>18</sup> Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah. 
 
-<sup>19</sup> And the sons of Pedaiah were, Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister: 
+<sup>19</sup> And the sons of Pedaiah *were*, Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister: 
 
 <sup>20</sup> And Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushab-hesed, five. 
 
@@ -50,6 +50,5 @@ weight: 3
 
 <sup>23</sup> And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three. 
 
-<sup>24</sup> And the sons of Elioenai were, Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven. 
-
+<sup>24</sup> And the sons of Elioenai *were*, Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven. 
 
