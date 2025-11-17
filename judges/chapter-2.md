@@ -8,7 +8,7 @@ weight: 2
 
 <sup>2</sup> And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this? 
 
-<sup>3</sup> Wherefore I also said, I will not drive them out from before you; but they shall be as thorns in your sides, and their gods shall be a snare unto you. 
+<sup>3</sup> Wherefore I also said, I will not drive them out from before you; but they shall be *as thorns* in your sides, and their gods shall be a snare unto you. 
 
 <sup>4</sup> And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept. 
 
@@ -18,7 +18,7 @@ weight: 2
 
 <sup>7</sup> And the people served the LORD all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the LORD, that he did for Israel. 
 
-<sup>8</sup> And Joshua the son of Nun, the servant of the LORD, died, being an hundred and ten years old. 
+<sup>8</sup> And Joshua the son of Nun, the servant of the LORD, died, *being* an hundred and ten years old. 
 
 <sup>9</sup> And they buried him in the border of his inheritance in Timnath-heres, in the mount of Ephraim, on the north side of the hill Gaash. 
 
@@ -26,7 +26,7 @@ weight: 2
 
 <sup>11</sup> ¶ And the children of Israel did evil in the sight of the LORD, and served Baalim: 
 
-<sup>12</sup> And they forsook the LORD God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that were round about them, and bowed themselves unto them, and provoked the LORD to anger. 
+<sup>12</sup> And they forsook the LORD God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that *were* round about them, and bowed themselves unto them, and provoked the LORD to anger. 
 
 <sup>13</sup> And they forsook the LORD, and served Baal and Ashtaroth. 
 
@@ -36,18 +36,17 @@ weight: 2
 
 <sup>16</sup> ¶ Nevertheless the LORD raised up judges, which delivered them out of the hand of those that spoiled them. 
 
-<sup>17</sup> And yet they would not hearken unto their judges, but they went a whoring after other gods, and bowed themselves unto them: they turned quickly out of the way which their fathers walked in, obeying the commandments of the LORD; but they did not so. 
+<sup>17</sup> And yet they would not hearken unto their judges, but they went a whoring after other gods, and bowed themselves unto them: they turned quickly out of the way which their fathers walked in, obeying the commandments of the LORD; *but* they did not so. 
 
 <sup>18</sup> And when the LORD raised them up judges, then the LORD was with the judge, and delivered them out of the hand of their enemies all the days of the judge: for it repented the LORD because of their groanings by reason of them that oppressed them and vexed them. 
 
-<sup>19</sup> And it came to pass, when the judge was dead, that they returned, and corrupted themselves more than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from their own doings, nor from their stubborn way. 
+<sup>19</sup> And it came to pass, when the judge was dead, *that* they returned, and corrupted *themselves* more than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from their own doings, nor from their stubborn way. 
 
 <sup>20</sup> ¶ And the anger of the LORD was hot against Israel; and he said, Because that this people hath transgressed my covenant which I commanded their fathers, and have not hearkened unto my voice; 
 
 <sup>21</sup> I also will not henceforth drive out any from before them of the nations which Joshua left when he died: 
 
-<sup>22</sup> That through them I may prove Israel, whether they will keep the way of the LORD to walk therein, as their fathers did keep it, or not. 
+<sup>22</sup> That through them I may prove Israel, whether they will keep the way of the LORD to walk therein, as their fathers did keep *it*, or not. 
 
 <sup>23</sup> Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua. 
-
 

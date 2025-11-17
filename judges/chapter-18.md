@@ -4,66 +4,65 @@ weight: 18
 
 # Chapter 18
 
-<sup>1</sup> In those days there was no king in Israel: and in those days the tribe of the Danites sought them an inheritance to dwell in; for unto that day all their inheritance had not fallen unto them among the tribes of Israel. 
+<sup>1</sup> In those days *there was* no king in Israel: and in those days the tribe of the Danites sought them an inheritance to dwell in; for unto that day *all their* inheritance had not fallen unto them among the tribes of Israel. 
 
 <sup>2</sup> And the children of Dan sent of their family five men from their coasts, men of valour, from Zorah, and from Eshtaol, to spy out the land, and to search it; and they said unto them, Go, search the land: who when they came to mount Ephraim, to the house of Micah, they lodged there. 
 
-<sup>3</sup> When they were by the house of Micah, they knew the voice of the young man the Levite: and they turned in thither, and said unto him, Who brought thee hither? and what makest thou in this place? and what hast thou here? 
+<sup>3</sup> When they *were* by the house of Micah, they knew the voice of the young man the Levite: and they turned in thither, and said unto him, Who brought thee hither? and what makest thou in this *place*? and what hast thou here? 
 
 <sup>4</sup> And he said unto them, Thus and thus dealeth Micah with me, and hath hired me, and I am his priest. 
 
 <sup>5</sup> And they said unto him, Ask counsel, we pray thee, of God, that we may know whether our way which we go shall be prosperous. 
 
-<sup>6</sup> And the priest said unto them, Go in peace: before the LORD is your way wherein ye go. 
+<sup>6</sup> And the priest said unto them, Go in peace: before the LORD *is* your way wherein ye go. 
 
-<sup>7</sup> ¶ Then the five men departed, and came to Laish, and saw the people that were therein, how they dwelt careless, after the manner of the Zidonians, quiet and secure; and there was no magistrate in the land, that might put them to shame in any thing; and they were far from the Zidonians, and had no business with any man. 
+<sup>7</sup> ¶ Then the five men departed, and came to Laish, and saw the people that *were* therein, how they dwelt careless, after the manner of the Zidonians, quiet and secure; and *there was* no magistrate in the land, that might put *them* to shame in *any* thing; and they *were* far from the Zidonians, and had no business with *any* man. 
 
-<sup>8</sup> And they came unto their brethren to Zorah and Eshtaol: and their brethren said unto them, What say ye? 
+<sup>8</sup> And they came unto their brethren to Zorah and Eshtaol: and their brethren said unto them, What *say* ye? 
 
-<sup>9</sup> And they said, Arise, that we may go up against them: for we have seen the land, and, behold, it is very good: and are ye still? be not slothful to go, and to enter to possess the land. 
+<sup>9</sup> And they said, Arise, that we may go up against them: for we have seen the land, and, behold, it *is* very good: and *are* ye still? be not slothful to go, *and* to enter to possess the land. 
 
-<sup>10</sup> When ye go, ye shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where there is no want of any thing that is in the earth. 
+<sup>10</sup> When ye go, ye shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where *there is* no want of any thing that *is* in the earth. 
 
 <sup>11</sup> ¶ And there went from thence of the family of the Danites, out of Zorah and out of Eshtaol, six hundred men appointed with weapons of war. 
 
-<sup>12</sup> And they went up, and pitched in Kirjath-jearim, in Judah: wherefore they called that place Mahaneh-dan unto this day: behold, it is behind Kirjath-jearim. 
+<sup>12</sup> And they went up, and pitched in Kirjath-jearim, in Judah: wherefore they called that place Mahaneh-dan unto this day: behold, *it is* behind Kirjath-jearim. 
 
 <sup>13</sup> And they passed thence unto mount Ephraim, and came unto the house of Micah. 
 
 <sup>14</sup> ¶ Then answered the five men that went to spy out the country of Laish, and said unto their brethren, Do ye know that there is in these houses an ephod, and teraphim, and a graven image, and a molten image? now therefore consider what ye have to do. 
 
-<sup>15</sup> And they turned thitherward, and came to the house of the young man the Levite, even unto the house of Micah, and saluted him. 
+<sup>15</sup> And they turned thitherward, and came to the house of the young man the Levite, *even* unto the house of Micah, and saluted him. 
 
-<sup>16</sup> And the six hundred men appointed with their weapons of war, which were of the children of Dan, stood by the entering of the gate. 
+<sup>16</sup> And the six hundred men appointed with their weapons of war, which *were* of the children of Dan, stood by the entering of the gate. 
 
-<sup>17</sup> And the five men that went to spy out the land went up, and came in thither, and took the graven image, and the ephod, and the teraphim, and the molten image: and the priest stood in the entering of the gate with the six hundred men that were appointed with weapons of war. 
+<sup>17</sup> And the five men that went to spy out the land went up, *and* came in thither, *and* took the graven image, and the ephod, and the teraphim, and the molten image: and the priest stood in the entering of the gate with the six hundred men *that were* appointed with weapons of war. 
 
 <sup>18</sup> And these went into Micah’s house, and fetched the carved image, the ephod, and the teraphim, and the molten image. Then said the priest unto them, What do ye? 
 
-<sup>19</sup> And they said unto him, Hold thy peace, lay thine hand upon thy mouth, and go with us, and be to us a father and a priest: is it better for thee to be a priest unto the house of one man, or that thou be a priest unto a tribe and a family in Israel? 
+<sup>19</sup> And they said unto him, Hold thy peace, lay thine hand upon thy mouth, and go with us, and be to us a father and a priest: *is it* better for thee to be a priest unto the house of one man, or that thou be a priest unto a tribe and a family in Israel? 
 
 <sup>20</sup> And the priest’s heart was glad, and he took the ephod, and the teraphim, and the graven image, and went in the midst of the people. 
 
 <sup>21</sup> So they turned and departed, and put the little ones and the cattle and the carriage before them. 
 
-<sup>22</sup> ¶ And when they were a good way from the house of Micah, the men that were in the houses near to Micah’s house were gathered together, and overtook the children of Dan. 
+<sup>22</sup> ¶ *And* when they were a good way from the house of Micah, the men that *were* in the houses near to Micah’s house were gathered together, and overtook the children of Dan. 
 
 <sup>23</sup> And they cried unto the children of Dan. And they turned their faces, and said unto Micah, What aileth thee, that thou comest with such a company? 
 
-<sup>24</sup> And he said, Ye have taken away my gods which I made, and the priest, and ye are gone away: and what have I more? and what is this that ye say unto me, What aileth thee? 
+<sup>24</sup> And he said, Ye have taken away my gods which I made, and the priest, and ye are gone away: and what have I more? and what *is* this *that* ye say unto me, What aileth thee? 
 
 <sup>25</sup> And the children of Dan said unto him, Let not thy voice be heard among us, lest angry fellows run upon thee, and thou lose thy life, with the lives of thy household. 
 
-<sup>26</sup> And the children of Dan went their way: and when Micah saw that they were too strong for him, he turned and went back unto his house. 
+<sup>26</sup> And the children of Dan went their way: and when Micah saw that they *were* too strong for him, he turned and went back unto his house. 
 
-<sup>27</sup> And they took the things which Micah had made, and the priest which he had, and came unto Laish, unto a people that were at quiet and secure: and they smote them with the edge of the sword, and burnt the city with fire. 
+<sup>27</sup> And they took *the things* which Micah had made, and the priest which he had, and came unto Laish, unto a people *that were* at quiet and secure: and they smote them with the edge of the sword, and burnt the city with fire. 
 
-<sup>28</sup> And there was no deliverer, because it was far from Zidon, and they had no business with any man; and it was in the valley that lieth by Beth-rehob. And they built a city, and dwelt therein. 
+<sup>28</sup> And *there was* no deliverer, because it *was* far from Zidon, and they had no business with *any* man; and it was in the valley that *lieth* by Beth-rehob. And they built a city, and dwelt therein. 
 
-<sup>29</sup> And they called the name of the city Dan, after the name of Dan their father, who was born unto Israel: howbeit the name of the city was Laish at the first. 
+<sup>29</sup> And they called the name of the city Dan, after the name of Dan their father, who was born unto Israel: howbeit the name of the city *was* Laish at the first. 
 
 <sup>30</sup> ¶ And the children of Dan set up the graven image: and Jonathan, the son of Gershom, the son of Manasseh, he and his sons were priests to the tribe of Dan until the day of the captivity of the land. 
 
 <sup>31</sup> And they set them up Micah’s graven image, which he made, all the time that the house of God was in Shiloh. 
-
 

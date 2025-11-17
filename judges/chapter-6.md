@@ -6,13 +6,13 @@ weight: 6
 
 <sup>1</sup> And the children of Israel did evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years. 
 
-<sup>2</sup> And the hand of Midian prevailed against Israel: and because of the Midianites the children of Israel made them the dens which are in the mountains, and caves, and strong holds. 
+<sup>2</sup> And the hand of Midian prevailed against Israel: *and* because of the Midianites the children of Israel made them the dens which *are* in the mountains, and caves, and strong holds. 
 
-<sup>3</sup> And so it was, when Israel had sown, that the Midianites came up, and the Amalekites, and the children of the east, even they came up against them; 
+<sup>3</sup> And *so* it was, when Israel had sown, that the Midianites came up, and the Amalekites, and the children of the east, even they came up against them; 
 
 <sup>4</sup> And they encamped against them, and destroyed the increase of the earth, till thou come unto Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass. 
 
-<sup>5</sup> For they came up with their cattle and their tents, and they came as grasshoppers for multitude; for both they and their camels were without number: and they entered into the land to destroy it. 
+<sup>5</sup> For they came up with their cattle and their tents, and they came as grasshoppers for multitude; *for* both they and their camels were without number: and they entered into the land to destroy it. 
 
 <sup>6</sup> And Israel was greatly impoverished because of the Midianites; and the children of Israel cried unto the LORD. 
 
@@ -22,49 +22,49 @@ weight: 6
 
 <sup>9</sup> And I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drave them out from before you, and gave you their land; 
 
-<sup>10</sup> And I said unto you, I am the LORD your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice. 
+<sup>10</sup> And I said unto you, I *am* the LORD your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice. 
 
-<sup>11</sup> ¶ And there came an angel of the LORD, and sat under an oak which was in Ophrah, that pertained unto Joash the Abi-ezrite: and his son Gideon threshed wheat by the winepress, to hide it from the Midianites. 
+<sup>11</sup> ¶ And there came an angel of the LORD, and sat under an oak which *was* in Ophrah, that *pertained* unto Joash the Abi-ezrite: and his son Gideon threshed wheat by the winepress, to hide *it* from the Midianites. 
 
-<sup>12</sup> And the angel of the LORD appeared unto him, and said unto him, The LORD is with thee, thou mighty man of valour. 
+<sup>12</sup> And the angel of the LORD appeared unto him, and said unto him, The LORD *is* with thee, thou mighty man of valour. 
 
-<sup>13</sup> And Gideon said unto him, Oh my Lord, if the LORD be with us, why then is all this befallen us? and where be all his miracles which our fathers told us of, saying, Did not the LORD bring us up from Egypt? but now the LORD hath forsaken us, and delivered us into the hands of the Midianites. 
+<sup>13</sup> And Gideon said unto him, Oh my Lord, if the LORD be with us, why then is all this befallen us? and where *be* all his miracles which our fathers told us of, saying, Did not the LORD bring us up from Egypt? but now the LORD hath forsaken us, and delivered us into the hands of the Midianites. 
 
 <sup>14</sup> And the LORD looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee? 
 
-<sup>15</sup> And he said unto him, Oh my Lord, wherewith shall I save Israel? behold, my family is poor in Manasseh, and I am the least in my father’s house. 
+<sup>15</sup> And he said unto him, Oh my Lord, wherewith shall I save Israel? behold, my family *is* poor in Manasseh, and I *am* the least in my father’s house. 
 
 <sup>16</sup> And the LORD said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man. 
 
 <sup>17</sup> And he said unto him, If now I have found grace in thy sight, then shew me a sign that thou talkest with me. 
 
-<sup>18</sup> Depart not hence, I pray thee, until I come unto thee, and bring forth my present, and set it before thee. And he said, I will tarry until thou come again. 
+<sup>18</sup> Depart not hence, I pray thee, until I come unto thee, and bring forth my present, and set *it* before thee. And he said, I will tarry until thou come again. 
 
-<sup>19</sup> ¶ And Gideon went in, and made ready a kid, and unleavened cakes of an ephah of flour: the flesh he put in a basket, and he put the broth in a pot, and brought it out unto him under the oak, and presented it. 
+<sup>19</sup> ¶ And Gideon went in, and made ready a kid, and unleavened cakes of an ephah of flour: the flesh he put in a basket, and he put the broth in a pot, and brought *it* out unto him under the oak, and presented *it*. 
 
-<sup>20</sup> And the angel of God said unto him, Take the flesh and the unleavened cakes, and lay them upon this rock, and pour out the broth. And he did so. 
+<sup>20</sup> And the angel of God said unto him, Take the flesh and the unleavened cakes, and lay *them* upon this rock, and pour out the broth. And he did so. 
 
-<sup>21</sup> ¶ Then the angel of the LORD put forth the end of the staff that was in his hand, and touched the flesh and the unleavened cakes; and there rose up fire out of the rock, and consumed the flesh and the unleavened cakes. Then the angel of the LORD departed out of his sight. 
+<sup>21</sup> ¶ Then the angel of the LORD put forth the end of the staff that *was* in his hand, and touched the flesh and the unleavened cakes; and there rose up fire out of the rock, and consumed the flesh and the unleavened cakes. Then the angel of the LORD departed out of his sight. 
 
-<sup>22</sup> And when Gideon perceived that he was an angel of the LORD, Gideon said, Alas, O Lord GOD! for because I have seen an angel of the LORD face to face. 
+<sup>22</sup> And when Gideon perceived that he *was* an angel of the LORD, Gideon said, Alas, O Lord GOD! for because I have seen an angel of the LORD face to face. 
 
-<sup>23</sup> And the LORD said unto him, Peace be unto thee; fear not: thou shalt not die. 
+<sup>23</sup> And the LORD said unto him, Peace *be* unto thee; fear not: thou shalt not die. 
 
-<sup>24</sup> Then Gideon built an altar there unto the LORD, and called it Jehovah-shalom: unto this day it is yet in Ophrah of the Abi-ezrites. 
+<sup>24</sup> Then Gideon built an altar there unto the LORD, and called it Jehovah-shalom: unto this day it *is* yet in Ophrah of the Abi-ezrites. 
 
-<sup>25</sup> ¶ And it came to pass the same night, that the LORD said unto him, Take thy father’s young bullock, even the second bullock of seven years old, and throw down the altar of Baal that thy father hath, and cut down the grove that is by it: 
+<sup>25</sup> ¶ And it came to pass the same night, that the LORD said unto him, Take thy father’s young bullock, even the second bullock of seven years old, and throw down the altar of Baal that thy father hath, and cut down the grove that *is* by it: 
 
 <sup>26</sup> And build an altar unto the LORD thy God upon the top of this rock, in the ordered place, and take the second bullock, and offer a burnt sacrifice with the wood of the grove which thou shalt cut down. 
 
-<sup>27</sup> Then Gideon took ten men of his servants, and did as the LORD had said unto him: and so it was, because he feared his father’s household, and the men of the city, that he could not do it by day, that he did it by night. 
+<sup>27</sup> Then Gideon took ten men of his servants, and did as the LORD had said unto him: and *so* it was, because he feared his father’s household, and the men of the city, that he could not do *it* by day, that he did *it* by night. 
 
-<sup>28</sup> ¶ And when the men of the city arose early in the morning, behold, the altar of Baal was cast down, and the grove was cut down that was by it, and the second bullock was offered upon the altar that was built. 
+<sup>28</sup> ¶ And when the men of the city arose early in the morning, behold, the altar of Baal was cast down, and the grove was cut down that *was* by it, and the second bullock was offered upon the altar *that was* built. 
 
 <sup>29</sup> And they said one to another, Who hath done this thing? And when they enquired and asked, they said, Gideon the son of Joash hath done this thing. 
 
-<sup>30</sup> Then the men of the city said unto Joash, Bring out thy son, that he may die: because he hath cast down the altar of Baal, and because he hath cut down the grove that was by it. 
+<sup>30</sup> Then the men of the city said unto Joash, Bring out thy son, that he may die: because he hath cast down the altar of Baal, and because he hath cut down the grove that *was* by it. 
 
-<sup>31</sup> And Joash said unto all that stood against him, Will ye plead for Baal? will ye save him? he that will plead for him, let him be put to death whilst it is yet morning: if he be a god, let him plead for himself, because one hath cast down his altar. 
+<sup>31</sup> And Joash said unto all that stood against him, Will ye plead for Baal? will ye save him? he that will plead for him, let him be put to death whilst *it is yet* morning: if he *be* a god, let him plead for himself, because *one* hath cast down his altar. 
 
 <sup>32</sup> Therefore on that day he called him Jerubbaal, saying, Let Baal plead against him, because he hath thrown down his altar. 
 
@@ -76,12 +76,11 @@ weight: 6
 
 <sup>36</sup> ¶ And Gideon said unto God, If thou wilt save Israel by mine hand, as thou hast said, 
 
-<sup>37</sup> Behold, I will put a fleece of wool in the floor; and if the dew be on the fleece only, and it be dry upon all the earth beside, then shall I know that thou wilt save Israel by mine hand, as thou hast said. 
+<sup>37</sup> Behold, I will put a fleece of wool in the floor; *and* if the dew be on the fleece only, and *it be* dry upon all the earth *beside*, then shall I know that thou wilt save Israel by mine hand, as thou hast said. 
 
 <sup>38</sup> And it was so: for he rose up early on the morrow, and thrust the fleece together, and wringed the dew out of the fleece, a bowl full of water. 
 
 <sup>39</sup> And Gideon said unto God, Let not thine anger be hot against me, and I will speak but this once: let me prove, I pray thee, but this once with the fleece; let it now be dry only upon the fleece, and upon all the ground let there be dew. 
 
 <sup>40</sup> And God did so that night: for it was dry upon the fleece only, and there was dew on all the ground. 
-
 

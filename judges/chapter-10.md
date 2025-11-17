@@ -10,7 +10,7 @@ weight: 10
 
 <sup>3</sup> ¶ And after him arose Jair, a Gileadite, and judged Israel twenty and two years. 
 
-<sup>4</sup> And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havoth-jair unto this day, which are in the land of Gilead. 
+<sup>4</sup> And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havoth-jair unto this day, which *are* in the land of Gilead. 
 
 <sup>5</sup> And Jair died, and was buried in Camon. 
 
@@ -18,13 +18,13 @@ weight: 10
 
 <sup>7</sup> And the anger of the LORD was hot against Israel, and he sold them into the hands of the Philistines, and into the hands of the children of Ammon. 
 
-<sup>8</sup> And that year they vexed and oppressed the children of Israel: eighteen years, all the children of Israel that were on the other side Jordan in the land of the Amorites, which is in Gilead. 
+<sup>8</sup> And that year they vexed and oppressed the children of Israel: eighteen years, all the children of Israel that *were* on the other side Jordan in the land of the Amorites, which *is* in Gilead. 
 
 <sup>9</sup> Moreover the children of Ammon passed over Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; so that Israel was sore distressed. 
 
 <sup>10</sup> ¶ And the children of Israel cried unto the LORD, saying, We have sinned against thee, both because we have forsaken our God, and also served Baalim. 
 
-<sup>11</sup> And the LORD said unto the children of Israel, Did not I deliver you from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines? 
+<sup>11</sup> And the LORD said unto the children of Israel, *Did* not *I deliver you* from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines? 
 
 <sup>12</sup> The Zidonians also, and the Amalekites, and the Maonites, did oppress you; and ye cried to me, and I delivered you out of their hand. 
 
@@ -38,6 +38,5 @@ weight: 10
 
 <sup>17</sup> Then the children of Ammon were gathered together, and encamped in Gilead. And the children of Israel assembled themselves together, and encamped in Mizpeh. 
 
-<sup>18</sup> And the people and princes of Gilead said one to another, What man is he that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead. 
-
+<sup>18</sup> And the people *and* princes of Gilead said one to another, What man *is he* that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead. 
 

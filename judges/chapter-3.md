@@ -4,11 +4,11 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> Now these are the nations which the LORD left, to prove Israel by them, even as many of Israel as had not known all the wars of Canaan; 
+<sup>1</sup> Now these *are* the nations which the LORD left, to prove Israel by them, *even* as many *of Israel* as had not known all the wars of Canaan; 
 
 <sup>2</sup> Only that the generations of the children of Israel might know, to teach them war, at the least such as before knew nothing thereof; 
 
-<sup>3</sup> Namely, five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baal-hermon unto the entering in of Hamath. 
+<sup>3</sup> *Namely*, five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baal-hermon unto the entering in of Hamath. 
 
 <sup>4</sup> And they were to prove Israel by them, to know whether they would hearken unto the commandments of the LORD, which he commanded their fathers by the hand of Moses. 
 
@@ -20,7 +20,7 @@ weight: 3
 
 <sup>8</sup> ¶ Therefore the anger of the LORD was hot against Israel, and he sold them into the hand of Chushan-rishathaim king of Mesopotamia: and the children of Israel served Chushan-rishathaim eight years. 
 
-<sup>9</sup> And when the children of Israel cried unto the LORD, the LORD raised up a deliverer to the children of Israel, who delivered them, even Othniel the son of Kenaz, Caleb’s younger brother. 
+<sup>9</sup> And when the children of Israel cried unto the LORD, the LORD raised up a deliverer to the children of Israel, who delivered them, *even* Othniel the son of Kenaz, Caleb’s younger brother. 
 
 <sup>10</sup> And the Spirit of the LORD came upon him, and he judged Israel, and went out to war: and the LORD delivered Chushan-rishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushan-rishathaim. 
 
@@ -36,13 +36,13 @@ weight: 3
 
 <sup>16</sup> But Ehud made him a dagger which had two edges, of a cubit length; and he did gird it under his raiment upon his right thigh. 
 
-<sup>17</sup> And he brought the present unto Eglon king of Moab: and Eglon was a very fat man. 
+<sup>17</sup> And he brought the present unto Eglon king of Moab: and Eglon *was* a very fat man. 
 
 <sup>18</sup> And when he had made an end to offer the present, he sent away the people that bare the present. 
 
-<sup>19</sup> But he himself turned again from the quarries that were by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence. And all that stood by him went out from him. 
+<sup>19</sup> But he himself turned again from the quarries that *were* by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence. And all that stood by him went out from him. 
 
-<sup>20</sup> And Ehud came unto him; and he was sitting in a summer parlour, which he had for himself alone. And Ehud said, I have a message from God unto thee. And he arose out of his seat. 
+<sup>20</sup> And Ehud came unto him; and he was sitting in a summer parlour, which he had for himself alone. And Ehud said, I have a message from God unto thee. And he arose out of *his* seat. 
 
 <sup>21</sup> And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly: 
 
@@ -50,9 +50,9 @@ weight: 3
 
 <sup>23</sup> Then Ehud went forth through the porch, and shut the doors of the parlour upon him, and locked them. 
 
-<sup>24</sup> When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour were locked, they said, Surely he covereth his feet in his summer chamber. 
+<sup>24</sup> When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour *were* locked, they said, Surely he covereth his feet in his summer chamber. 
 
-<sup>25</sup> And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened them: and, behold, their lord was fallen down dead on the earth. 
+<sup>25</sup> And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened *them:* and, behold, their lord *was* fallen down dead on the earth. 
 
 <sup>26</sup> And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath. 
 
@@ -65,5 +65,4 @@ weight: 3
 <sup>30</sup> So Moab was subdued that day under the hand of Israel. And the land had rest fourscore years. 
 
 <sup>31</sup> ¶ And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel. 
-
 

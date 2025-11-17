@@ -16,47 +16,47 @@ weight: 1
 
 <sup>6</sup> But Adoni-bezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes. 
 
-<sup>7</sup> And Adoni-bezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died. 
+<sup>7</sup> And Adoni-bezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered *their meat* under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died. 
 
 <sup>8</sup> Now the children of Judah had fought against Jerusalem, and had taken it, and smitten it with the edge of the sword, and set the city on fire. 
 
 <sup>9</sup> ¶ And afterward the children of Judah went down to fight against the Canaanites, that dwelt in the mountain, and in the south, and in the valley. 
 
-<sup>10</sup> And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before was Kirjath-arba:) and they slew Sheshai, and Ahiman, and Talmai. 
+<sup>10</sup> And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before *was* Kirjath-arba:) and they slew Sheshai, and Ahiman, and Talmai. 
 
-<sup>11</sup> And from thence he went against the inhabitants of Debir: and the name of Debir before was Kirjath-sepher: 
+<sup>11</sup> And from thence he went against the inhabitants of Debir: and the name of Debir before *was* Kirjath-sepher: 
 
 <sup>12</sup> And Caleb said, He that smiteth Kirjath-sepher, and taketh it, to him will I give Achsah my daughter to wife. 
 
 <sup>13</sup> And Othniel the son of Kenaz, Caleb’s younger brother, took it: and he gave him Achsah his daughter to wife. 
 
-<sup>14</sup> And it came to pass, when she came to him, that she moved him to ask of her father a field: and she lighted from off her ass; and Caleb said unto her, What wilt thou? 
+<sup>14</sup> And it came to pass, when she came *to him*, that she moved him to ask of her father a field: and she lighted from off *her* ass; and Caleb said unto her, What wilt thou? 
 
 <sup>15</sup> And she said unto him, Give me a blessing: for thou hast given me a south land; give me also springs of water. And Caleb gave her the upper springs and the nether springs. 
 
-<sup>16</sup> ¶ And the children of the Kenite, Moses’ father in law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which lieth in the south of Arad; and they went and dwelt among the people. 
+<sup>16</sup> ¶ And the children of the Kenite, Moses’ father in law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which *lieth* in the south of Arad; and they went and dwelt among the people. 
 
 <sup>17</sup> And Judah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and utterly destroyed it. And the name of the city was called Hormah. 
 
 <sup>18</sup> Also Judah took Gaza with the coast thereof, and Askelon with the coast thereof, and Ekron with the coast thereof. 
 
-<sup>19</sup> And the LORD was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron. 
+<sup>19</sup> And the LORD was with Judah; and he drave out *the inhabitants of* the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron. 
 
 <sup>20</sup> And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three sons of Anak. 
 
 <sup>21</sup> And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day. 
 
-<sup>22</sup> ¶ And the house of Joseph, they also went up against Beth-el: and the LORD was with them. 
+<sup>22</sup> ¶ And the house of Joseph, they also went up against Beth-el: and the LORD *was* with them. 
 
-<sup>23</sup> And the house of Joseph sent to descry Beth-el. (Now the name of the city before was Luz.) 
+<sup>23</sup> And the house of Joseph sent to descry Beth-el. (Now the name of the city before *was* Luz.) 
 
 <sup>24</sup> And the spies saw a man come forth out of the city, and they said unto him, Shew us, we pray thee, the entrance into the city, and we will shew thee mercy. 
 
 <sup>25</sup> And when he shewed them the entrance into the city, they smote the city with the edge of the sword; but they let go the man and all his family. 
 
-<sup>26</sup> And the man went into the land of the Hittites, and built a city, and called the name thereof Luz: which is the name thereof unto this day. 
+<sup>26</sup> And the man went into the land of the Hittites, and built a city, and called the name thereof Luz: which *is* the name thereof unto this day. 
 
-<sup>27</sup> ¶ Neither did Manasseh drive out the inhabitants of Beth-shean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land. 
+<sup>27</sup> ¶ Neither did Manasseh drive out *the inhabitants of* Beth-shean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land. 
 
 <sup>28</sup> And it came to pass, when Israel was strong, that they put the Canaanites to tribute, and did not utterly drive them out. 
 
@@ -74,6 +74,5 @@ weight: 1
 
 <sup>35</sup> But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries. 
 
-<sup>36</sup> And the coast of the Amorites was from the going up to Akrabbim, from the rock, and upward. 
-
+<sup>36</sup> And the coast of the Amorites *was* from the going up to Akrabbim, from the rock, and upward. 
 
