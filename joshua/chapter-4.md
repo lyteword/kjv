@@ -14,7 +14,7 @@ weight: 4
 
 <sup>5</sup> And Joshua said unto them, Pass over before the ark of the LORD your God into the midst of Jordan, and take ye up every man of you a stone upon his shoulder, according unto the number of the tribes of the children of Israel: 
 
-<sup>6</sup> That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones? 
+<sup>6</sup> That this may be a sign among you, *that* when your children ask *their fathers* in time to come, saying, What *mean* ye by these stones? 
 
 <sup>7</sup> Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the LORD; when it passed over Jordan, the waters of Jordan were cut off: and these stones shall be for a memorial unto the children of Israel for ever. 
 
@@ -38,18 +38,17 @@ weight: 4
 
 <sup>17</sup> Joshua therefore commanded the priests, saying, Come ye up out of Jordan. 
 
-<sup>18</sup> And it came to pass, when the priests that bare the ark of the covenant of the LORD were come up out of the midst of Jordan, and the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as they did before. 
+<sup>18</sup> And it came to pass, when the priests that bare the ark of the covenant of the LORD were come up out of the midst of Jordan, *and* the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as *they did* before. 
 
-<sup>19</sup> ¶ And the people came up out of Jordan on the tenth day of the first month, and encamped in Gilgal, in the east border of Jericho. 
+<sup>19</sup> ¶ And the people came up out of Jordan on the tenth *day* of the first month, and encamped in Gilgal, in the east border of Jericho. 
 
 <sup>20</sup> And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal. 
 
-<sup>21</sup> And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What mean these stones? 
+<sup>21</sup> And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What *mean* these stones? 
 
 <sup>22</sup> Then ye shall let your children know, saying, Israel came over this Jordan on dry land. 
 
 <sup>23</sup> For the LORD your God dried up the waters of Jordan from before you, until ye were passed over, as the LORD your God did to the Red sea, which he dried up from before us, until we were gone over: 
 
-<sup>24</sup> That all the people of the earth might know the hand of the LORD, that it is mighty: that ye might fear the LORD your God for ever. 
-
+<sup>24</sup> That all the people of the earth might know the hand of the LORD, that it *is* mighty: that ye might fear the LORD your God for ever. 
 
