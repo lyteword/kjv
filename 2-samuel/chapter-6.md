@@ -4,19 +4,19 @@ weight: 6
 
 # Chapter 6
 
-<sup>1</sup> Again, David gathered together all the chosen men of Israel, thirty thousand. 
+<sup>1</sup> Again, David gathered together all *the* chosen *men* of Israel, thirty thousand. 
 
-<sup>2</sup> And David arose, and went with all the people that were with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the LORD of hosts that dwelleth between the cherubims. 
+<sup>2</sup> And David arose, and went with all the people that *were* with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the LORD of hosts that dwelleth *between* the cherubims. 
 
-<sup>3</sup> And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that was in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart. 
+<sup>3</sup> And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that *was* in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart. 
 
-<sup>4</sup> And they brought it out of the house of Abinadab which was at Gibeah, accompanying the ark of God: and Ahio went before the ark. 
+<sup>4</sup> And they brought it out of the house of Abinadab which *was* at Gibeah, accompanying the ark of God: and Ahio went before the ark. 
 
-<sup>5</sup> And David and all the house of Israel played before the LORD on all manner of instruments made of fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals. 
+<sup>5</sup> And David and all the house of Israel played before the LORD on all manner of *instruments made of* fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals. 
 
-<sup>6</sup> ¶ And when they came to Nachon’s threshingfloor, Uzzah put forth his hand to the ark of God, and took hold of it; for the oxen shook it. 
+<sup>6</sup> ¶ And when they came to Nachon’s threshingfloor, Uzzah put forth *his hand* to the ark of God, and took hold of it; for the oxen shook *it*. 
 
-<sup>7</sup> And the anger of the LORD was kindled against Uzzah; and God smote him there for his error; and there he died by the ark of God. 
+<sup>7</sup> And the anger of the LORD was kindled against Uzzah; and God smote him there for *his* error; and there he died by the ark of God. 
 
 <sup>8</sup> And David was displeased, because the LORD had made a breach upon Uzzah: and he called the name of the place Perez-uzzah to this day. 
 
@@ -26,11 +26,11 @@ weight: 6
 
 <sup>11</sup> And the ark of the LORD continued in the house of Obed-edom the Gittite three months: and the LORD blessed Obed-edom, and all his household. 
 
-<sup>12</sup> ¶ And it was told king David, saying, The LORD hath blessed the house of Obed-edom, and all that pertaineth unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obed-edom into the city of David with gladness. 
+<sup>12</sup> ¶ And it was told king David, saying, The LORD hath blessed the house of Obed-edom, and all that *pertaineth* unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obed-edom into the city of David with gladness. 
 
-<sup>13</sup> And it was so, that when they that bare the ark of the LORD had gone six paces, he sacrificed oxen and fatlings. 
+<sup>13</sup> And it was *so*, that when they that bare the ark of the LORD had gone six paces, he sacrificed oxen and fatlings. 
 
-<sup>14</sup> And David danced before the LORD with all his might; and David was girded with a linen ephod. 
+<sup>14</sup> And David danced before the LORD with all *his* might; and David *was* girded with a linen ephod. 
 
 <sup>15</sup> So David and all the house of Israel brought up the ark of the LORD with shouting, and with the sound of the trumpet. 
 
@@ -40,14 +40,13 @@ weight: 6
 
 <sup>18</sup> And as soon as David had made an end of offering burnt offerings and peace offerings, he blessed the people in the name of the LORD of hosts. 
 
-<sup>19</sup> And he dealt among all the people, even among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece of flesh, and a flagon of wine. So all the people departed every one to his house. 
+<sup>19</sup> And he dealt among all the people, *even* among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece *of flesh*, and a flagon *of wine*. So all the people departed every one to his house. 
 
 <sup>20</sup> ¶ Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself! 
 
-<sup>21</sup> And David said unto Michal, It was before the LORD, which chose me before thy father, and before all his house, to appoint me ruler over the people of the LORD, over Israel: therefore will I play before the LORD. 
+<sup>21</sup> And David said unto Michal, *It was* before the LORD, which chose me before thy father, and before all his house, to appoint me ruler over the people of the LORD, over Israel: therefore will I play before the LORD. 
 
 <sup>22</sup> And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour. 
 
 <sup>23</sup> Therefore Michal the daughter of Saul had no child unto the day of her death. 
-
 

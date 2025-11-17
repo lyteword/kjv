@@ -16,11 +16,11 @@ weight: 31
 
 <sup>6</sup> So Saul died, and his three sons, and his armourbearer, and all his men, that same day together. 
 
-<sup>7</sup> ¶ And when the men of Israel that were on the other side of the valley, and they that were on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them. 
+<sup>7</sup> ¶ And when the men of Israel that *were* on the other side of the valley, and *they* that *were* on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them. 
 
 <sup>8</sup> And it came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his three sons fallen in mount Gilboa. 
 
-<sup>9</sup> And they cut off his head, and stripped off his armour, and sent into the land of the Philistines round about, to publish it in the house of their idols, and among the people. 
+<sup>9</sup> And they cut off his head, and stripped off his armour, and sent into the land of the Philistines round about, to publish *it in* the house of their idols, and among the people. 
 
 <sup>10</sup> And they put his armour in the house of Ashtaroth: and they fastened his body to the wall of Beth-shan. 
 
@@ -28,5 +28,5 @@ weight: 31
 
 <sup>12</sup> All the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Beth-shan, and came to Jabesh, and burnt them there. 
 
-<sup>13</sup> And they took their bones, and buried them under a tree at Jabesh, and fasted seven days. 
+<sup>13</sup> And they took their bones, and buried *them* under a tree at Jabesh, and fasted seven days. 
 

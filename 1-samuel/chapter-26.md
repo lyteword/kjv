@@ -4,11 +4,11 @@ weight: 26
 
 # Chapter 26
 
-<sup>1</sup> And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, which is before Jeshimon? 
+<sup>1</sup> And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, *which is* before Jeshimon? 
 
 <sup>2</sup> Then Saul arose, and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph. 
 
-<sup>3</sup> And Saul pitched in the hill of Hachilah, which is before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness. 
+<sup>3</sup> And Saul pitched in the hill of Hachilah, which *is* before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness. 
 
 <sup>4</sup> David therefore sent out spies, and understood that Saul was come in very deed. 
 
@@ -18,29 +18,29 @@ weight: 26
 
 <sup>7</sup> So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him. 
 
-<sup>8</sup> Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not smite him the second time. 
+<sup>8</sup> Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not *smite* him the second time. 
 
 <sup>9</sup> And David said to Abishai, Destroy him not: for who can stretch forth his hand against the LORD’s anointed, and be guiltless? 
 
-<sup>10</sup> David said furthermore, As the LORD liveth, the LORD shall smite him; or his day shall come to die; or he shall descend into battle, and perish. 
+<sup>10</sup> David said furthermore, *As* the LORD liveth, the LORD shall smite him; or his day shall come to die; or he shall descend into battle, and perish. 
 
-<sup>11</sup> The LORD forbid that I should stretch forth mine hand against the LORD’s anointed: but, I pray thee, take thou now the spear that is at his bolster, and the cruse of water, and let us go. 
+<sup>11</sup> The LORD forbid that I should stretch forth mine hand against the LORD’s anointed: but, I pray thee, take thou now the spear that *is* at his bolster, and the cruse of water, and let us go. 
 
-<sup>12</sup> So David took the spear and the cruse of water from Saul’s bolster; and they gat them away, and no man saw it, nor knew it, neither awaked: for they were all asleep; because a deep sleep from the LORD was fallen upon them. 
+<sup>12</sup> So David took the spear and the cruse of water from Saul’s bolster; and they gat them away, and no man saw *it*, nor knew *it*, neither awaked: for they *were* all asleep; because a deep sleep from the LORD was fallen upon them. 
 
-<sup>13</sup> ¶ Then David went over to the other side, and stood on the top of an hill afar off; a great space being between them: 
+<sup>13</sup> ¶ Then David went over to the other side, and stood on the top of an hill afar off; a great space *being* between them: 
 
-<sup>14</sup> And David cried to the people, and to Abner the son of Ner, saying, Answerest thou not, Abner? Then Abner answered and said, Who art thou that criest to the king? 
+<sup>14</sup> And David cried to the people, and to Abner the son of Ner, saying, Answerest thou not, Abner? Then Abner answered and said, Who *art* thou *that* criest to the king? 
 
-<sup>15</sup> And David said to Abner, Art not thou a valiant man? and who is like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord. 
+<sup>15</sup> And David said to Abner, *Art* not thou a *valiant* man? and who *is* like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord. 
 
-<sup>16</sup> This thing is not good that thou hast done. As the LORD liveth, ye are worthy to die, because ye have not kept your master, the LORD’s anointed. And now see where the king’s spear is, and the cruse of water that was at his bolster. 
+<sup>16</sup> This thing *is* not good that thou hast done. *As* the LORD liveth, ye *are* worthy to die, because ye have not kept your master, the LORD’s anointed. And now see where the king’s spear *is*, and the cruse of water that *was* at his bolster. 
 
-<sup>17</sup> And Saul knew David’s voice, and said, Is this thy voice, my son David? And David said, It is my voice, my lord, O king. 
+<sup>17</sup> And Saul knew David’s voice, and said, *Is* this thy voice, my son David? And David said, *It is* my voice, my lord, O king. 
 
-<sup>18</sup> And he said, Wherefore doth my lord thus pursue after his servant? for what have I done? or what evil is in mine hand? 
+<sup>18</sup> And he said, Wherefore doth my lord thus pursue after his servant? for what have I done? or what evil *is* in mine hand? 
 
-<sup>19</sup> Now therefore, I pray thee, let my lord the king hear the words of his servant. If the LORD have stirred thee up against me, let him accept an offering: but if they be the children of men, cursed be they before the LORD; for they have driven me out this day from abiding in the inheritance of the LORD, saying, Go, serve other gods. 
+<sup>19</sup> Now therefore, I pray thee, let my lord the king hear the words of his servant. If the LORD have stirred thee up against me, let him accept an offering: but if *they be* the children of men, cursed *be* they before the LORD; for they have driven me out this day from abiding in the inheritance of the LORD, saying, Go, serve other gods. 
 
 <sup>20</sup> Now therefore, let not my blood fall to the earth before the face of the LORD: for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains. 
 
@@ -48,10 +48,9 @@ weight: 26
 
 <sup>22</sup> And David answered and said, Behold the king’s spear! and let one of the young men come over and fetch it. 
 
-<sup>23</sup> The LORD render to every man his righteousness and his faithfulness: for the LORD delivered thee into my hand to day, but I would not stretch forth mine hand against the LORD’s anointed. 
+<sup>23</sup> The LORD render to every man his righteousness and his faithfulness: for the LORD delivered thee into *my* hand to day, but I would not stretch forth mine hand against the LORD’s anointed. 
 
 <sup>24</sup> And, behold, as thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the LORD, and let him deliver me out of all tribulation. 
 
-<sup>25</sup> Then Saul said to David, Blessed be thou, my son David: thou shalt both do great things, and also shalt still prevail. So David went on his way, and Saul returned to his place. 
-
+<sup>25</sup> Then Saul said to David, Blessed *be* thou, my son David: thou shalt both do great *things*, and also shalt still prevail. So David went on his way, and Saul returned to his place. 
 

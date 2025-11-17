@@ -10,15 +10,15 @@ weight: 4
 
 <sup>3</sup> ¶ And when the people were come into the camp, the elders of Israel said, Wherefore hath the LORD smitten us to day before the Philistines? Let us fetch the ark of the covenant of the LORD out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies. 
 
-<sup>4</sup> So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the LORD of hosts, which dwelleth between the cherubims: and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God. 
+<sup>4</sup> So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the LORD of hosts, which dwelleth *between* the cherubims: and the two sons of Eli, Hophni and Phinehas, *were* there with the ark of the covenant of God. 
 
 <sup>5</sup> And when the ark of the covenant of the LORD came into the camp, all Israel shouted with a great shout, so that the earth rang again. 
 
-<sup>6</sup> And when the Philistines heard the noise of the shout, they said, What meaneth the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the LORD was come into the camp. 
+<sup>6</sup> And when the Philistines heard the noise of the shout, they said, What *meaneth* the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the LORD was come into the camp. 
 
 <sup>7</sup> And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore. 
 
-<sup>8</sup> Woe unto us! who shall deliver us out of the hand of these mighty Gods? these are the Gods that smote the Egyptians with all the plagues in the wilderness. 
+<sup>8</sup> Woe unto us! who shall deliver us out of the hand of these mighty Gods? these *are* the Gods that smote the Egyptians with all the plagues in the wilderness. 
 
 <sup>9</sup> Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight. 
 
@@ -28,24 +28,23 @@ weight: 4
 
 <sup>12</sup> ¶ And there ran a man of Benjamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth upon his head. 
 
-<sup>13</sup> And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told it, all the city cried out. 
+<sup>13</sup> And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told *it*, all the city cried out. 
 
-<sup>14</sup> And when Eli heard the noise of the crying, he said, What meaneth the noise of this tumult? And the man came in hastily, and told Eli. 
+<sup>14</sup> And when Eli heard the noise of the crying, he said, What *meaneth* the noise of this tumult? And the man came in hastily, and told Eli. 
 
 <sup>15</sup> Now Eli was ninety and eight years old; and his eyes were dim, that he could not see. 
 
-<sup>16</sup> And the man said unto Eli, I am he that came out of the army, and I fled to day out of the army. And he said, What is there done, my son? 
+<sup>16</sup> And the man said unto Eli, I *am* he that came out of the army, and I fled to day out of the army. And he said, What is there done, my son? 
 
 <sup>17</sup> And the messenger answered and said, Israel is fled before the Philistines, and there hath been also a great slaughter among the people, and thy two sons also, Hophni and Phinehas, are dead, and the ark of God is taken. 
 
 <sup>18</sup> And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years. 
 
-<sup>19</sup> ¶ And his daughter in law, Phinehas’ wife, was with child, near to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her. 
+<sup>19</sup> ¶ And his daughter in law, Phinehas’ wife, was with child, *near* to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her. 
 
-<sup>20</sup> And about the time of her death the women that stood by her said unto her, Fear not; for thou hast born a son. But she answered not, neither did she regard it. 
+<sup>20</sup> And about the time of her death the women that stood by her said unto her, Fear not; for thou hast born a son. But she answered not, neither did she regard *it*. 
 
 <sup>21</sup> And she named the child I-chabod, saying, The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband. 
 
 <sup>22</sup> And she said, The glory is departed from Israel: for the ark of God is taken. 
-
 

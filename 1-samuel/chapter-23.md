@@ -14,7 +14,7 @@ weight: 23
 
 <sup>5</sup> So David and his men went to Keilah, and fought with the Philistines, and brought away their cattle, and smote them with a great slaughter. So David saved the inhabitants of Keilah. 
 
-<sup>6</sup> And it came to pass, when Abiathar the son of Ahimelech fled to David to Keilah, that he came down with an ephod in his hand. 
+<sup>6</sup> And it came to pass, when Abiathar the son of Ahimelech fled to David to Keilah, *that* he came down *with* an ephod in his hand. 
 
 <sup>7</sup> ¶ And it was told Saul that David was come to Keilah. And Saul said, God hath delivered him into mine hand; for he is shut in, by entering into a town that hath gates and bars. 
 
@@ -26,13 +26,13 @@ weight: 23
 
 <sup>11</sup> Will the men of Keilah deliver me up into his hand? will Saul come down, as thy servant hath heard? O LORD God of Israel, I beseech thee, tell thy servant. And the LORD said, He will come down. 
 
-<sup>12</sup> Then said David, Will the men of Keilah deliver me and my men into the hand of Saul? And the LORD said, They will deliver thee up. 
+<sup>12</sup> Then said David, Will the men of Keilah deliver me and my men into the hand of Saul? And the LORD said, They will deliver *thee* up. 
 
-<sup>13</sup> ¶ Then David and his men, which were about six hundred, arose and departed out of Keilah, and went whithersoever they could go. And it was told Saul that David was escaped from Keilah; and he forbare to go forth. 
+<sup>13</sup> ¶ Then David and his men, *which were* about six hundred, arose and departed out of Keilah, and went whithersoever they could go. And it was told Saul that David was escaped from Keilah; and he forbare to go forth. 
 
 <sup>14</sup> And David abode in the wilderness in strong holds, and remained in a mountain in the wilderness of Ziph. And Saul sought him every day, but God delivered him not into his hand. 
 
-<sup>15</sup> And David saw that Saul was come out to seek his life: and David was in the wilderness of Ziph in a wood. 
+<sup>15</sup> And David saw that Saul was come out to seek his life: and David *was* in the wilderness of Ziph in a wood. 
 
 <sup>16</sup> ¶ And Jonathan Saul’s son arose, and went to David into the wood, and strengthened his hand in God. 
 
@@ -40,19 +40,19 @@ weight: 23
 
 <sup>18</sup> And they two made a covenant before the LORD: and David abode in the wood, and Jonathan went to his house. 
 
-<sup>19</sup> ¶ Then came up the Ziphites to Saul to Gibeah, saying, Doth not David hide himself with us in strong holds in the wood, in the hill of Hachilah, which is on the south of Jeshimon? 
+<sup>19</sup> ¶ Then came up the Ziphites to Saul to Gibeah, saying, Doth not David hide himself with us in strong holds in the wood, in the hill of Hachilah, which *is* on the south of Jeshimon? 
 
-<sup>20</sup> Now therefore, O king, come down according to all the desire of thy soul to come down; and our part shall be to deliver him into the king’s hand. 
+<sup>20</sup> Now therefore, O king, come down according to all the desire of thy soul to come down; and our part *shall be* to deliver him into the king’s hand. 
 
-<sup>21</sup> And Saul said, Blessed be ye of the LORD; for ye have compassion on me. 
+<sup>21</sup> And Saul said, Blessed *be* ye of the LORD; for ye have compassion on me. 
 
-<sup>22</sup> Go, I pray you, prepare yet, and know and see his place where his haunt is, and who hath seen him there: for it is told me that he dealeth very subtilly. 
+<sup>22</sup> Go, I pray you, prepare yet, and know and see his place where his haunt is, *and* who hath seen him there: for it is told me *that* he dealeth very subtilly. 
 
 <sup>23</sup> See therefore, and take knowledge of all the lurking places where he hideth himself, and come ye again to me with the certainty, and I will go with you: and it shall come to pass, if he be in the land, that I will search him out throughout all the thousands of Judah. 
 
-<sup>24</sup> And they arose, and went to Ziph before Saul: but David and his men were in the wilderness of Maon, in the plain on the south of Jeshimon. 
+<sup>24</sup> And they arose, and went to Ziph before Saul: but David and his men *were* in the wilderness of Maon, in the plain on the south of Jeshimon. 
 
-<sup>25</sup> Saul also and his men went to seek him. And they told David: wherefore he came down into a rock, and abode in the wilderness of Maon. And when Saul heard that, he pursued after David in the wilderness of Maon. 
+<sup>25</sup> Saul also and his men went to seek *him*. And they told David: wherefore he came down into a rock, and abode in the wilderness of Maon. And when Saul heard *that*, he pursued after David in the wilderness of Maon. 
 
 <sup>26</sup> And Saul went on this side of the mountain, and David and his men on that side of the mountain: and David made haste to get away for fear of Saul; for Saul and his men compassed David and his men round about to take them. 
 
@@ -61,5 +61,4 @@ weight: 23
 <sup>28</sup> Wherefore Saul returned from pursuing after David, and went against the Philistines: therefore they called that place Sela-hammahlekoth. 
 
 <sup>29</sup> ¶ And David went up from thence, and dwelt in strong holds at En-gedi. 
-
 

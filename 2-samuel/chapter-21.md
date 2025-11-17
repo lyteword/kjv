@@ -4,23 +4,23 @@ weight: 21
 
 # Chapter 21
 
-<sup>1</sup> Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites. 
+<sup>1</sup> Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, *It is* for Saul, and for *his* bloody house, because he slew the Gibeonites. 
 
-<sup>2</sup> And the king called the Gibeonites, and said unto them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.) 
+<sup>2</sup> And the king called the Gibeonites, and said unto them; (now the Gibeonites *were* not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.) 
 
 <sup>3</sup> Wherefore David said unto the Gibeonites, What shall I do for you? and wherewith shall I make the atonement, that ye may bless the inheritance of the LORD? 
 
-<sup>4</sup> And the Gibeonites said unto him, We will have no silver nor gold of Saul, nor of his house; neither for us shalt thou kill any man in Israel. And he said, What ye shall say, that will I do for you. 
+<sup>4</sup> And the Gibeonites said unto him, We will have no silver nor gold of Saul, nor of his house; neither for us shalt thou kill any man in Israel. And he said, What ye shall say, *that* will I do for you. 
 
-<sup>5</sup> And they answered the king, The man that consumed us, and that devised against us that we should be destroyed from remaining in any of the coasts of Israel, 
+<sup>5</sup> And they answered the king, The man that consumed us, and that devised against us *that* we should be destroyed from remaining in any of the coasts of Israel, 
 
-<sup>6</sup> Let seven men of his sons be delivered unto us, and we will hang them up unto the LORD in Gibeah of Saul, whom the LORD did choose. And the king said, I will give them. 
+<sup>6</sup> Let seven men of his sons be delivered unto us, and we will hang them up unto the LORD in Gibeah of Saul, *whom* the LORD did choose. And the king said, I will give *them*. 
 
-<sup>7</sup> But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the LORD’s oath that was between them, between David and Jonathan the son of Saul. 
+<sup>7</sup> But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the LORD’s oath that *was* between them, between David and Jonathan the son of Saul. 
 
 <sup>8</sup> But the king took the two sons of Rizpah the daughter of Aiah, whom she bare unto Saul, Armoni and Mephibosheth; and the five sons of Michal the daughter of Saul, whom she brought up for Adriel the son of Barzillai the Meholathite: 
 
-<sup>9</sup> And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the LORD: and they fell all seven together, and were put to death in the days of harvest, in the first days, in the beginning of barley harvest. 
+<sup>9</sup> And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the LORD: and they fell *all* seven together, and were put to death in the days of harvest, in the first *days*, in the beginning of barley harvest. 
 
 <sup>10</sup> ¶ And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night. 
 
@@ -34,18 +34,17 @@ weight: 21
 
 <sup>15</sup> ¶ Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David waxed faint. 
 
-<sup>16</sup> And Ishbi-benob, which was of the sons of the giant, the weight of whose spear weighed three hundred shekels of brass in weight, he being girded with a new sword, thought to have slain David. 
+<sup>16</sup> And Ishbi-benob, which *was* of the sons of the giant, the weight of whose spear *weighed* three hundred *shekels* of brass in weight, he being girded with a new *sword*, thought to have slain David. 
 
 <sup>17</sup> But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel. 
 
-<sup>18</sup> And it came to pass after this, that there was again a battle with the Philistines at Gob: then Sibbechai the Hushathite slew Saph, which was of the sons of the giant. 
+<sup>18</sup> And it came to pass after this, that there was again a battle with the Philistines at Gob: then Sibbechai the Hushathite slew Saph, which *was* of the sons of the giant. 
 
-<sup>19</sup> And there was again a battle in Gob with the Philistines, where Elhanan the son of Jaare-oregim, a Beth-lehemite, slew the brother of Goliath the Gittite, the staff of whose spear was like a weaver’s beam. 
+<sup>19</sup> And there was again a battle in Gob with the Philistines, where Elhanan the son of Jaare-oregim, a Beth-lehemite, slew *the brother of* Goliath the Gittite, the staff of whose spear *was* like a weaver’s beam. 
 
-<sup>20</sup> And there was yet a battle in Gath, where was a man of great stature, that had on every hand six fingers, and on every foot six toes, four and twenty in number; and he also was born to the giant. 
+<sup>20</sup> And there was yet a battle in Gath, where was a man of *great* stature, that had on every hand six fingers, and on every foot six toes, four and twenty in number; and he also was born to the giant. 
 
 <sup>21</sup> And when he defied Israel, Jonathan the son of Shimea the brother of David slew him. 
 
 <sup>22</sup> These four were born to the giant in Gath, and fell by the hand of David, and by the hand of his servants. 
-
 
