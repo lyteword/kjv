@@ -2,42 +2,41 @@
 weight: 13
 ---
 
-# Chapter 13
+# Chapter 13 
 
-<sup>1</sup> And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south. 
+<sup>1</sup> And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
 
-<sup>2</sup> And Abram was very rich in cattle, in silver, and in gold. 
+<sup>2</sup> And Abram *was* very rich in cattle, in silver, and in gold.
 
-<sup>3</sup> And he went on his journeys from the south even to Beth-el, unto the place where his tent had been at the beginning, between Beth-el and Hai; 
+<sup>3</sup> And he went on his journeys from the south even to Beth-el, unto the place where his tent had been at the beginning, between Beth-el and Hai;
 
-<sup>4</sup> Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD. 
+<sup>4</sup> Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD.
 
-<sup>5</sup> ¶ And Lot also, which went with Abram, had flocks, and herds, and tents. 
+<sup>5</sup> ¶ And Lot also, which went with Abram, had flocks, and herds, and tents.
 
-<sup>6</sup> And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together. 
+<sup>6</sup> And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together.
 
-<sup>7</sup> And there was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land. 
+<sup>7</sup> And there was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land.
 
-<sup>8</sup> And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we be brethren. 
+<sup>8</sup> And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we *be* brethren.
 
-<sup>9</sup> Is not the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left. 
+<sup>9</sup> *Is* not the whole not the whole land before thee? separate thyself, I pray thee, from me: if *thou wilt take* the left the left hand, then I will go to the right; or if *thou depart* to the right to the right hand, then I will go to the left.
 
-<sup>10</sup> And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar. 
+<sup>10</sup> And Lot lifted up his eyes, and beheld all the plain of Jordan, that it *was* well well watered every where, before the LORD destroyed Sodom and Gomorrah, *even* as the as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.
 
-<sup>11</sup> Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other. 
+<sup>11</sup> Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
 
-<sup>12</sup> Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom. 
+<sup>12</sup> Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched *his* tent toward Sodom.
 
-<sup>13</sup> But the men of Sodom were wicked and sinners before the LORD exceedingly. 
+<sup>13</sup> But the men of Sodom *were* wicked and sinners before the LORD exceedingly.
 
-<sup>14</sup> ¶ And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward: 
+<sup>14</sup> ¶ And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:
 
-<sup>15</sup> For all the land which thou seest, to thee will I give it, and to thy seed for ever. 
+<sup>15</sup> For all the land which thou seest, to thee will I give it, and to thy seed for ever.
 
-<sup>16</sup> And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered. 
+<sup>16</sup> And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, *then* shall thy shall thy seed also be numbered.
 
-<sup>17</sup> Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee. 
+<sup>17</sup> Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee.
 
-<sup>18</sup> Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD. 
-
+<sup>18</sup> Then Abram removed *his* tent, and came and dwelt in the plain of Mamre, which *is* in in Hebron, and built there an altar unto the LORD.
 
