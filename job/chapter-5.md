@@ -10,7 +10,7 @@ weight: 5
 
 <sup>3</sup> I have seen the foolish taking root: but suddenly I cursed his habitation. 
 
-<sup>4</sup> His children are far from safety, and they are crushed in the gate, neither is there any to deliver them. 
+<sup>4</sup> His children are far from safety, and they are crushed in the gate, neither *is there* any to deliver *them*. 
 
 <sup>5</sup> Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance. 
 
@@ -26,7 +26,7 @@ weight: 5
 
 <sup>11</sup> To set up on high those that be low; that those which mourn may be exalted to safety. 
 
-<sup>12</sup> He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise. 
+<sup>12</sup> He disappointeth the devices of the crafty, so that their hands cannot perform *their* enterprise. 
 
 <sup>13</sup> He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong. 
 
@@ -36,7 +36,7 @@ weight: 5
 
 <sup>16</sup> So the poor hath hope, and iniquity stoppeth her mouth. 
 
-<sup>17</sup> Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty: 
+<sup>17</sup> Behold, happy *is* the man whom God correcteth: therefore despise not thou the chastening of the Almighty: 
 
 <sup>18</sup> For he maketh sore, and bindeth up: he woundeth, and his hands make whole. 
 
@@ -50,12 +50,11 @@ weight: 5
 
 <sup>23</sup> For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee. 
 
-<sup>24</sup> And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin. 
+<sup>24</sup> And thou shalt know that thy tabernacle *shall be* in peace; and thou shalt visit thy habitation, and shalt not sin. 
 
-<sup>25</sup> Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth. 
+<sup>25</sup> Thou shalt know also that thy seed *shall be* great, and thine offspring as the grass of the earth. 
 
-<sup>26</sup> Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season. 
+<sup>26</sup> Thou shalt come to *thy* grave in a full age, like as a shock of corn cometh in in his season. 
 
-<sup>27</sup> Lo this, we have searched it, so it is; hear it, and know thou it for thy good. 
-
+<sup>27</sup> Lo this, we have searched it, so it *is;* hear it, and know thou *it* for thy good. 
 

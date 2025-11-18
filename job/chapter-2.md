@@ -8,13 +8,13 @@ weight: 2
 
 <sup>2</sup> And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it. 
 
-<sup>3</sup> And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause. 
+<sup>3</sup> And the LORD said unto Satan, Hast thou considered my servant Job, that *there is* none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause. 
 
 <sup>4</sup> And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life. 
 
 <sup>5</sup> But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face. 
 
-<sup>6</sup> And the LORD said unto Satan, Behold, he is in thine hand; but save his life. 
+<sup>6</sup> And the LORD said unto Satan, Behold, he *is* in thine hand; but save his life. 
 
 <sup>7</sup> ¶ So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown. 
 
@@ -28,6 +28,5 @@ weight: 2
 
 <sup>12</sup> And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven. 
 
-<sup>13</sup> So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great. 
-
+<sup>13</sup> So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that *his* grief was very great. 
 

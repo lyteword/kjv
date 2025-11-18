@@ -6,7 +6,7 @@ weight: 37
 
 <sup>1</sup> At this also my heart trembleth, and is moved out of his place. 
 
-<sup>2</sup> Hear attentively the noise of his voice, and the sound that goeth out of his mouth. 
+<sup>2</sup> Hear attentively the noise of his voice, and the sound *that* goeth out of his mouth. 
 
 <sup>3</sup> He directeth it under the whole heaven, and his lightning unto the ends of the earth. 
 
@@ -14,7 +14,7 @@ weight: 37
 
 <sup>5</sup> God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend. 
 
-<sup>6</sup> For he saith to the snow, Be thou on the earth; likewise to the small rain, and to the great rain of his strength. 
+<sup>6</sup> For he saith to the snow, Be thou *on* the earth; likewise to the small rain, and to the great rain of his strength. 
 
 <sup>7</sup> He sealeth up the hand of every man; that all men may know his work. 
 
@@ -36,20 +36,19 @@ weight: 37
 
 <sup>16</sup> Dost thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge? 
 
-<sup>17</sup> How thy garments are warm, when he quieteth the earth by the south wind? 
+<sup>17</sup> How thy garments *are* warm, when he quieteth the earth by the south *wind*? 
 
-<sup>18</sup> Hast thou with him spread out the sky, which is strong, and as a molten looking glass? 
+<sup>18</sup> Hast thou with him spread out the sky, *which is* strong, *and* as a molten looking glass? 
 
-<sup>19</sup> Teach us what we shall say unto him; for we cannot order our speech by reason of darkness. 
+<sup>19</sup> Teach us what we shall say unto him; *for* we cannot order *our speech* by reason of darkness. 
 
 <sup>20</sup> Shall it be told him that I speak? if a man speak, surely he shall be swallowed up. 
 
-<sup>21</sup> And now men see not the bright light which is in the clouds: but the wind passeth, and cleanseth them. 
+<sup>21</sup> And now *men* see not the bright light which *is* in the clouds: but the wind passeth, and cleanseth them. 
 
-<sup>22</sup> Fair weather cometh out of the north: with God is terrible majesty. 
+<sup>22</sup> Fair weather cometh out of the north: with God *is* terrible majesty. 
 
-<sup>23</sup> Touching the Almighty, we cannot find him out: he is excellent in power, and in judgment, and in plenty of justice: he will not afflict. 
+<sup>23</sup> *Touching* the Almighty, we cannot find him out: *he is* excellent in power, and in judgment, and in plenty of justice: he will not afflict. 
 
-<sup>24</sup> Men do therefore fear him: he respecteth not any that are wise of heart. 
-
+<sup>24</sup> Men do therefore fear him: he respecteth not any *that are* wise of heart. 
 

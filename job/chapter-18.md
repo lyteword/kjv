@@ -6,9 +6,9 @@ weight: 18
 
 <sup>1</sup> Then answered Bildad the Shuhite, and said, 
 
-<sup>2</sup> How long will it be ere ye make an end of words? mark, and afterwards we will speak. 
+<sup>2</sup> How long *will it be ere* ye make an end of words? mark, and afterwards we will speak. 
 
-<sup>3</sup> Wherefore are we counted as beasts, and reputed vile in your sight? 
+<sup>3</sup> Wherefore are we counted as beasts, *and* reputed vile in your sight? 
 
 <sup>4</sup> He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place? 
 
@@ -20,19 +20,19 @@ weight: 18
 
 <sup>8</sup> For he is cast into a net by his own feet, and he walketh upon a snare. 
 
-<sup>9</sup> The gin shall take him by the heel, and the robber shall prevail against him. 
+<sup>9</sup> The gin shall take *him* by the heel, *and* the robber shall prevail against him. 
 
-<sup>10</sup> The snare is laid for him in the ground, and a trap for him in the way. 
+<sup>10</sup> The snare *is* laid for him in the ground, and a trap for him in the way. 
 
 <sup>11</sup> Terrors shall make him afraid on every side, and shall drive him to his feet. 
 
-<sup>12</sup> His strength shall be hungerbitten, and destruction shall be ready at his side. 
+<sup>12</sup> His strength shall be hungerbitten, and destruction *shall be* ready at his side. 
 
-<sup>13</sup> It shall devour the strength of his skin: even the firstborn of death shall devour his strength. 
+<sup>13</sup> It shall devour the strength of his skin: *even* the firstborn of death shall devour his strength. 
 
 <sup>14</sup> His confidence shall be rooted out of his tabernacle, and it shall bring him to the king of terrors. 
 
-<sup>15</sup> It shall dwell in his tabernacle, because it is none of his: brimstone shall be scattered upon his habitation. 
+<sup>15</sup> It shall dwell in his tabernacle, because *it is* none of his: brimstone shall be scattered upon his habitation. 
 
 <sup>16</sup> His roots shall be dried up beneath, and above shall his branch be cut off. 
 
@@ -42,8 +42,7 @@ weight: 18
 
 <sup>19</sup> He shall neither have son nor nephew among his people, nor any remaining in his dwellings. 
 
-<sup>20</sup> They that come after him shall be astonied at his day, as they that went before were affrighted. 
+<sup>20</sup> They that come after *him* shall be astonied at his day, as they that went before were affrighted. 
 
-<sup>21</sup> Surely such are the dwellings of the wicked, and this is the place of him that knoweth not God. 
-
+<sup>21</sup> Surely such *are* the dwellings of the wicked, and this *is* the place *of him that* knoweth not God. 
 

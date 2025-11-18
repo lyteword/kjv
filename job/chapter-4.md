@@ -6,7 +6,7 @@ weight: 4
 
 <sup>1</sup> Then Eliphaz the Temanite answered and said, 
 
-<sup>2</sup> If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking? 
+<sup>2</sup> *If* we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking? 
 
 <sup>3</sup> Behold, thou hast instructed many, and thou hast strengthened the weak hands. 
 
@@ -14,9 +14,9 @@ weight: 4
 
 <sup>5</sup> But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled. 
 
-<sup>6</sup> Is not this thy fear, thy confidence, thy hope, and the uprightness of thy ways? 
+<sup>6</sup> *Is* not *this* thy fear, thy confidence, thy hope, and the uprightness of thy ways? 
 
-<sup>7</sup> Remember, I pray thee, who ever perished, being innocent? or where were the righteous cut off? 
+<sup>7</sup> Remember, I pray thee, who *ever* perished, being innocent? or where were the righteous cut off? 
 
 <sup>8</sup> Even as I have seen, they that plow iniquity, and sow wickedness, reap the same. 
 
@@ -34,16 +34,15 @@ weight: 4
 
 <sup>15</sup> Then a spirit passed before my face; the hair of my flesh stood up: 
 
-<sup>16</sup> It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying, 
+<sup>16</sup> It stood still, but I could not discern the form thereof: an image *was* before mine eyes, *there was* silence, and I heard a voice, *saying*, 
 
 <sup>17</sup> Shall mortal man be more just than God? shall a man be more pure than his maker? 
 
 <sup>18</sup> Behold, he put no trust in his servants; and his angels he charged with folly: 
 
-<sup>19</sup> How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth? 
+<sup>19</sup> How much less *in* them that dwell in houses of clay, whose foundation *is* in the dust, *which* are crushed before the moth? 
 
-<sup>20</sup> They are destroyed from morning to evening: they perish for ever without any regarding it. 
+<sup>20</sup> They are destroyed from morning to evening: they perish for ever without any regarding *it*. 
 
-<sup>21</sup> Doth not their excellency which is in them go away? they die, even without wisdom. 
-
+<sup>21</sup> Doth not their excellency *which is* in them go away? they die, even without wisdom. 
 
