@@ -4,7 +4,7 @@ weight: 10
 
 # Chapter 10
 
-<sup>1</sup> Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah, 
+<sup>1</sup> Now those that sealed *were*, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah, 
 
 <sup>2</sup> Seraiah, Azariah, Jeremiah, 
 
@@ -18,7 +18,7 @@ weight: 10
 
 <sup>7</sup> Meshullam, Abijah, Mijamin, 
 
-<sup>8</sup> Maaziah, Bilgai, Shemaiah: these were the priests. 
+<sup>8</sup> Maaziah, Bilgai, Shemaiah: these *were* the priests. 
 
 <sup>9</sup> And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel; 
 
@@ -64,22 +64,21 @@ weight: 10
 
 <sup>30</sup> And that we would not give our daughters unto the people of the land, nor take their daughters for our sons: 
 
-<sup>31</sup> And if the people of the land bring ware or any victuals on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the exaction of every debt. 
+<sup>31</sup> And *if* the people of the land bring ware or any victuals on the sabbath day to sell, *that* we would not buy it of them on the sabbath, or on the holy day: and *that* we would leave the seventh year, and the exaction of every debt. 
 
 <sup>32</sup> Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God; 
 
-<sup>33</sup> For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God. 
+<sup>33</sup> For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy *things*, and for the sin offerings to make an atonement for Israel, and *for* all the work of the house of our God. 
 
-<sup>34</sup> And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as it is written in the law: 
+<sup>34</sup> And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring *it* into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as *it is* written in the law: 
 
 <sup>35</sup> And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD: 
 
-<sup>36</sup> Also the firstborn of our sons, and of our cattle, as it is written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God: 
+<sup>36</sup> Also the firstborn of our sons, and of our cattle, as *it is* written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God: 
 
-<sup>37</sup> And that we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage. 
+<sup>37</sup> And *that* we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage. 
 
 <sup>38</sup> And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house. 
 
-<sup>39</sup> For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God. 
-
+<sup>39</sup> For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where *are* the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God. 
 

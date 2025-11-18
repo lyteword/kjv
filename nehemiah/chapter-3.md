@@ -8,7 +8,7 @@ weight: 3
 
 <sup>2</sup> And next unto him builded the men of Jericho. And next to them builded Zaccur the son of Imri. 
 
-<sup>3</sup> But the fish gate did the sons of Hassenaah build, who also laid the beams thereof, and set up the doors thereof, the locks thereof, and the bars thereof. 
+<sup>3</sup> But the fish gate did the sons of Hassenaah build, who *also* laid the beams thereof, and set up the doors thereof, the locks thereof, and the bars thereof. 
 
 <sup>4</sup> And next unto them repaired Meremoth the son of Urijah, the son of Koz. And next unto them repaired Meshullam the son of Berechiah, the son of Meshezabeel. And next unto them repaired Zadok the son of Baana. 
 
@@ -18,7 +18,7 @@ weight: 3
 
 <sup>7</sup> And next unto them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the men of Gibeon, and of Mizpah, unto the throne of the governor on this side the river. 
 
-<sup>8</sup> Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of one of the apothecaries, and they fortified Jerusalem unto the broad wall. 
+<sup>8</sup> Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of *one of* the apothecaries, and they fortified Jerusalem unto the broad wall. 
 
 <sup>9</sup> And next unto them repaired Rephaiah the son of Hur, the ruler of the half part of Jerusalem. 
 
@@ -34,15 +34,15 @@ weight: 3
 
 <sup>15</sup> But the gate of the fountain repaired Shallun the son of Col-hozeh, the ruler of part of Mizpah; he built it, and covered it, and set up the doors thereof, the locks thereof, and the bars thereof, and the wall of the pool of Siloah by the king’s garden, and unto the stairs that go down from the city of David. 
 
-<sup>16</sup> After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Beth-zur, unto the place over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty. 
+<sup>16</sup> After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Beth-zur, unto *the place* over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty. 
 
 <sup>17</sup> After him repaired the Levites, Rehum the son of Bani. Next unto him repaired Hashabiah, the ruler of the half part of Keilah, in his part. 
 
 <sup>18</sup> After him repaired their brethren, Bavai the son of Henadad, the ruler of the half part of Keilah. 
 
-<sup>19</sup> And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning of the wall. 
+<sup>19</sup> And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning *of the wall*. 
 
-<sup>20</sup> After him Baruch the son of Zabbai earnestly repaired the other piece, from the turning of the wall unto the door of the house of Eliashib the high priest. 
+<sup>20</sup> After him Baruch the son of Zabbai earnestly repaired the other piece, from the turning *of the wall* unto the door of the house of Eliashib the high priest. 
 
 <sup>21</sup> After him repaired Meremoth the son of Urijah the son of Koz another piece, from the door of the house of Eliashib even to the end of the house of Eliashib. 
 
@@ -50,11 +50,11 @@ weight: 3
 
 <sup>23</sup> After him repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house. 
 
-<sup>24</sup> After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning of the wall, even unto the corner. 
+<sup>24</sup> After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning *of the wall*, even unto the corner. 
 
-<sup>25</sup> Palal the son of Uzai, over against the turning of the wall, and the tower which lieth out from the king’s high house, that was by the court of the prison. After him Pedaiah the son of Parosh. 
+<sup>25</sup> Palal the son of Uzai, over against the turning *of the wall*, and the tower which lieth out from the king’s high house, that *was* by the court of the prison. After him Pedaiah the son of Parosh. 
 
-<sup>26</sup> Moreover the Nethinims dwelt in Ophel, unto the place over against the water gate toward the east, and the tower that lieth out. 
+<sup>26</sup> Moreover the Nethinims dwelt in Ophel, unto *the place* over against the water gate toward the east, and the tower that lieth out. 
 
 <sup>27</sup> After them the Tekoites repaired another piece, over against the great tower that lieth out, even unto the wall of Ophel. 
 
@@ -67,5 +67,4 @@ weight: 3
 <sup>31</sup> After him repaired Malchiah the goldsmith’s son unto the place of the Nethinims, and of the merchants, over against the gate Miphkad, and to the going up of the corner. 
 
 <sup>32</sup> And between the going up of the corner unto the sheep gate repaired the goldsmiths and the merchants. 
-
 

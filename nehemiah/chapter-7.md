@@ -6,17 +6,17 @@ weight: 7
 
 <sup>1</sup> Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed, 
 
-<sup>2</sup> That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he was a faithful man, and feared God above many. 
+<sup>2</sup> That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he *was* a faithful man, and feared God above many. 
 
-<sup>3</sup> And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar them: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one to be over against his house. 
+<sup>3</sup> And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar *them:* and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one *to be* over against his house. 
 
-<sup>4</sup> Now the city was large and great: but the people were few therein, and the houses were not builded. 
+<sup>4</sup> Now the city *was* large and great: but the people *were* few therein, and the houses *were* not builded. 
 
 <sup>5</sup> ¶ And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written therein, 
 
-<sup>6</sup> These are the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city; 
+<sup>6</sup> These *are* the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city; 
 
-<sup>7</sup> Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number, I say, of the men of the people of Israel was this; 
+<sup>7</sup> Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number, *I say*, of the men of the people of Israel *was this;* 
 
 <sup>8</sup> The children of Parosh, two thousand an hundred seventy and two. 
 
@@ -24,7 +24,7 @@ weight: 7
 
 <sup>10</sup> The children of Arah, six hundred fifty and two. 
 
-<sup>11</sup> The children of Pahath-moab, of the children of Jeshua and Joab, two thousand and eight hundred and eighteen. 
+<sup>11</sup> The children of Pahath-moab, of the children of Jeshua and Joab, two thousand and eight hundred *and* eighteen. 
 
 <sup>12</sup> The children of Elam, a thousand two hundred fifty and four. 
 
@@ -88,7 +88,7 @@ weight: 7
 
 <sup>42</sup> The children of Harim, a thousand and seventeen. 
 
-<sup>43</sup> ¶ The Levites: the children of Jeshua, of Kadmiel, and of the children of Hodevah, seventy and four. 
+<sup>43</sup> ¶ The Levites: the children of Jeshua, of Kadmiel, *and* of the children of Hodevah, seventy and four. 
 
 <sup>44</sup> ¶ The singers: the children of Asaph, an hundred forty and eight. 
 
@@ -122,32 +122,31 @@ weight: 7
 
 <sup>59</sup> The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Amon. 
 
-<sup>60</sup> All the Nethinims, and the children of Solomon’s servants, were three hundred ninety and two. 
+<sup>60</sup> All the Nethinims, and the children of Solomon’s servants, *were* three hundred ninety and two. 
 
-<sup>61</sup> And these were they which went up also from Tel-melah, Tel-haresha, Cherub, Addon, and Immer: but they could not shew their father’s house, nor their seed, whether they were of Israel. 
+<sup>61</sup> And these *were* they which went up *also* from Tel-melah, Tel-haresha, Cherub, Addon, and Immer: but they could not shew their father’s house, nor their seed, whether they *were* of Israel. 
 
 <sup>62</sup> The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two. 
 
-<sup>63</sup> ¶ And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took one of the daughters of Barzillai the Gileadite to wife, and was called after their name. 
+<sup>63</sup> ¶ And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took *one* of the daughters of Barzillai the Gileadite to wife, and was called after their name. 
 
-<sup>64</sup> These sought their register among those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood. 
+<sup>64</sup> These sought their register *among* those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood. 
 
-<sup>65</sup> And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and Thummim. 
+<sup>65</sup> And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood *up* a priest with Urim and Thummim. 
 
-<sup>66</sup> ¶ The whole congregation together was forty and two thousand three hundred and threescore, 
+<sup>66</sup> ¶ The whole congregation together *was* forty and two thousand three hundred and threescore, 
 
-<sup>67</sup> Beside their manservants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women. 
+<sup>67</sup> Beside their manservants and their maidservants, of whom *there were* seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women. 
 
 <sup>68</sup> Their horses, seven hundred thirty and six: their mules, two hundred forty and five: 
 
-<sup>69</sup> Their camels, four hundred thirty and five: six thousand seven hundred and twenty asses. 
+<sup>69</sup> *Their* camels, four hundred thirty and five: six thousand seven hundred and twenty asses. 
 
 <sup>70</sup> ¶ And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests’ garments. 
 
-<sup>71</sup> And some of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver. 
+<sup>71</sup> And *some* of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver. 
 
-<sup>72</sup> And that which the rest of the people gave was twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests’ garments. 
+<sup>72</sup> And *that* which the rest of the people gave *was* twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests’ garments. 
 
-<sup>73</sup> So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities. 
-
+<sup>73</sup> So the priests, and the Levites, and the porters, and the singers, and *some* of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel *were* in their cities. 
 
