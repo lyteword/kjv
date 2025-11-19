@@ -4,7 +4,7 @@ weight: 143
 
 # Psalm 143
 
-<sup>1</sup> A Psalm of David. Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness. 
+<sup>1</sup> Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, *and* in thy righteousness. 
 
 <sup>2</sup> And enter not into judgment with thy servant: for in thy sight shall no man living be justified. 
 
@@ -14,7 +14,7 @@ weight: 143
 
 <sup>5</sup> I remember the days of old; I meditate on all thy works; I muse on the work of thy hands. 
 
-<sup>6</sup> I stretch forth my hands unto thee: my soul thirsteth after thee, as a thirsty land. Selah. 
+<sup>6</sup> I stretch forth my hands unto thee: my soul *thirsteth* after thee, as a thirsty land. Selah. 
 
 <sup>7</sup> Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit. 
 
@@ -22,10 +22,9 @@ weight: 143
 
 <sup>9</sup> Deliver me, O LORD, from mine enemies: I flee unto thee to hide me. 
 
-<sup>10</sup> Teach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness. 
+<sup>10</sup> Teach me to do thy will; for thou *art* my God: thy spirit *is* good; lead me into the land of uprightness. 
 
 <sup>11</sup> Quicken me, O LORD, for thy name’s sake: for thy righteousness’ sake bring my soul out of trouble. 
 
-<sup>12</sup> And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I am thy servant. 
-
+<sup>12</sup> And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I *am* thy servant. 
 

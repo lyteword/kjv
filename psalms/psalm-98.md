@@ -4,7 +4,7 @@ weight: 98
 
 # Psalm 98
 
-<sup>1</sup> A Psalm. O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory. 
+<sup>1</sup> O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory. 
 
 <sup>2</sup> The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen. 
 
@@ -18,8 +18,7 @@ weight: 98
 
 <sup>7</sup> Let the sea roar, and the fulness thereof; the world, and they that dwell therein. 
 
-<sup>8</sup> Let the floods clap their hands: let the hills be joyful together 
+<sup>8</sup> Let the floods clap *their* hands: let the hills be joyful together 
 
 <sup>9</sup> Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity. 
-
 

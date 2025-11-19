@@ -4,9 +4,9 @@ weight: 44
 
 # Psalm 44
 
-<sup>1</sup> To the chief Musician for the sons of Korah, Maschil. We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old. 
+<sup>1</sup> We have heard with our ears, O God, our fathers have told us, *what* work thou didst in their days, in the times of old. 
 
-<sup>2</sup> How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out. 
+<sup>2</sup> *How* thou didst drive out the heathen with thy hand, and plantedst them; *how* thou didst afflict the people, and cast them out. 
 
 <sup>3</sup> For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them. 
 
@@ -24,15 +24,15 @@ weight: 44
 
 <sup>10</sup> Thou makest us to turn back from the enemy: and they which hate us spoil for themselves. 
 
-<sup>11</sup> Thou hast given us like sheep appointed for meat; and hast scattered us among the heathen. 
+<sup>11</sup> Thou hast given us like sheep *appointed* for meat; and hast scattered us among the heathen. 
 
-<sup>12</sup> Thou sellest thy people for nought, and dost not increase thy wealth by their price. 
+<sup>12</sup> Thou sellest thy people for nought, and dost not increase *thy wealth* by their price. 
 
 <sup>13</sup> Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us. 
 
 <sup>14</sup> Thou makest us a byword among the heathen, a shaking of the head among the people. 
 
-<sup>15</sup> My confusion is continually before me, and the shame of my face hath covered me, 
+<sup>15</sup> My confusion *is* continually before me, and the shame of my face hath covered me, 
 
 <sup>16</sup> For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger. 
 
@@ -48,12 +48,11 @@ weight: 44
 
 <sup>22</sup> Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter. 
 
-<sup>23</sup> Awake, why sleepest thou, O Lord? arise, cast us not off for ever. 
+<sup>23</sup> Awake, why sleepest thou, O Lord? arise, cast *us* not off for ever. 
 
-<sup>24</sup> Wherefore hidest thou thy face, and forgettest our affliction and our oppression? 
+<sup>24</sup> Wherefore hidest thou thy face, *and* forgettest our affliction and our oppression? 
 
 <sup>25</sup> For our soul is bowed down to the dust: our belly cleaveth unto the earth. 
 
 <sup>26</sup> Arise for our help, and redeem us for thy mercies’ sake. 
-
 

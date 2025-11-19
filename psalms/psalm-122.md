@@ -4,7 +4,7 @@ weight: 122
 
 # Psalm 122
 
-<sup>1</sup> A Song of degrees of David. I was glad when they said unto me, Let us go into the house of the LORD. 
+<sup>1</sup> I was glad when they said unto me, Let us go into the house of the LORD. 
 
 <sup>2</sup> Our feet shall stand within thy gates, O Jerusalem. 
 
@@ -16,10 +16,9 @@ weight: 122
 
 <sup>6</sup> Pray for the peace of Jerusalem: they shall prosper that love thee. 
 
-<sup>7</sup> Peace be within thy walls, and prosperity within thy palaces. 
+<sup>7</sup> Peace be within thy walls, *and* prosperity within thy palaces. 
 
-<sup>8</sup> For my brethren and companions’ sakes, I will now say, Peace be within thee. 
+<sup>8</sup> For my brethren and companions’ sakes, I will now say, Peace *be* within thee. 
 
 <sup>9</sup> Because of the house of the LORD our God I will seek thy good. 
-
 

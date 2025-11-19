@@ -12,15 +12,15 @@ weight: 1
 
 <sup>4</sup> To give subtilty to the simple, to the young man knowledge and discretion. 
 
-<sup>5</sup> A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels: 
+<sup>5</sup> A wise *man* will hear, and will increase learning; and a man of understanding shall attain unto wise counsels: 
 
 <sup>6</sup> To understand a proverb, and the interpretation; the words of the wise, and their dark sayings. 
 
-<sup>7</sup> ¶ The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction. 
+<sup>7</sup> ¶ The fear of the LORD *is* the beginning of knowledge: *but* fools despise wisdom and instruction. 
 
 <sup>8</sup> My son, hear the instruction of thy father, and forsake not the law of thy mother: 
 
-<sup>9</sup> For they shall be an ornament of grace unto thy head, and chains about thy neck. 
+<sup>9</sup> For they *shall be* an ornament of grace unto thy head, and chains about thy neck. 
 
 <sup>10</sup> ¶ My son, if sinners entice thee, consent thou not. 
 
@@ -38,13 +38,13 @@ weight: 1
 
 <sup>17</sup> Surely in vain the net is spread in the sight of any bird. 
 
-<sup>18</sup> And they lay wait for their own blood; they lurk privily for their own lives. 
+<sup>18</sup> And they lay wait for their *own* blood; they lurk privily for their *own* lives. 
 
-<sup>19</sup> So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof. 
+<sup>19</sup> So *are* the ways of every one that is greedy of gain; *which* taketh away the life of the owners thereof. 
 
 <sup>20</sup> ¶ Wisdom crieth without; she uttereth her voice in the streets: 
 
-<sup>21</sup> She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying, 
+<sup>21</sup> She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, *saying*, 
 
 <sup>22</sup> How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge? 
 
@@ -69,5 +69,4 @@ weight: 1
 <sup>32</sup> For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them. 
 
 <sup>33</sup> But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil. 
-
 

@@ -26,19 +26,19 @@ weight: 3
 
 <sup>11</sup> ¶ My son, despise not the chastening of the LORD; neither be weary of his correction: 
 
-<sup>12</sup> For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth. 
+<sup>12</sup> For whom the LORD loveth he correcteth; even as a father the son *in whom* he delighteth. 
 
-<sup>13</sup> ¶ Happy is the man that findeth wisdom, and the man that getteth understanding. 
+<sup>13</sup> ¶ Happy *is* the man *that* findeth wisdom, and the man *that* getteth understanding. 
 
-<sup>14</sup> For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold. 
+<sup>14</sup> For the merchandise of it *is* better than the merchandise of silver, and the gain thereof than fine gold. 
 
-<sup>15</sup> She is more precious than rubies: and all the things thou canst desire are not to be compared unto her. 
+<sup>15</sup> She *is* more precious than rubies: and all the things thou canst desire are not to be compared unto her. 
 
-<sup>16</sup> Length of days is in her right hand; and in her left hand riches and honour. 
+<sup>16</sup> Length of days *is* in her right hand; *and* in her left hand riches and honour. 
 
-<sup>17</sup> Her ways are ways of pleasantness, and all her paths are peace. 
+<sup>17</sup> Her ways *are* ways of pleasantness, and all her paths *are* peace. 
 
-<sup>18</sup> She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her. 
+<sup>18</sup> She *is* a tree of life to them that lay hold upon her: and happy *is every one* that retaineth her. 
 
 <sup>19</sup> The LORD by wisdom hath founded the earth; by understanding hath he established the heavens. 
 
@@ -56,7 +56,7 @@ weight: 3
 
 <sup>26</sup> For the LORD shall be thy confidence, and shall keep thy foot from being taken. 
 
-<sup>27</sup> ¶ Withhold not good from them to whom it is due, when it is in the power of thine hand to do it. 
+<sup>27</sup> ¶ Withhold not good from them to whom it is due, when it is in the power of thine hand to do *it*. 
 
 <sup>28</sup> Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee. 
 
@@ -66,12 +66,11 @@ weight: 3
 
 <sup>31</sup> ¶ Envy thou not the oppressor, and choose none of his ways. 
 
-<sup>32</sup> For the froward is abomination to the LORD: but his secret is with the righteous. 
+<sup>32</sup> For the froward *is* abomination to the LORD: but his secret *is* with the righteous. 
 
-<sup>33</sup> ¶ The curse of the LORD is in the house of the wicked: but he blesseth the habitation of the just. 
+<sup>33</sup> ¶ The curse of the LORD *is* in the house of the wicked: but he blesseth the habitation of the just. 
 
 <sup>34</sup> Surely he scorneth the scorners: but he giveth grace unto the lowly. 
 
 <sup>35</sup> The wise shall inherit glory: but shame shall be the promotion of fools. 
-
 

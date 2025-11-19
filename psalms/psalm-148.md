@@ -10,7 +10,7 @@ weight: 148
 
 <sup>3</sup> Praise ye him, sun and moon: praise him, all ye stars of light. 
 
-<sup>4</sup> Praise him, ye heavens of heavens, and ye waters that be above the heavens. 
+<sup>4</sup> Praise him, ye heavens of heavens, and ye waters that *be* above the heavens. 
 
 <sup>5</sup> Let them praise the name of the LORD: for he commanded, and they were created. 
 
@@ -28,8 +28,7 @@ weight: 148
 
 <sup>12</sup> Both young men, and maidens; old men, and children: 
 
-<sup>13</sup> Let them praise the name of the LORD: for his name alone is excellent; his glory is above the earth and heaven. 
+<sup>13</sup> Let them praise the name of the LORD: for his name alone is excellent; his glory *is* above the earth and heaven. 
 
-<sup>14</sup> He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the LORD. 
-
+<sup>14</sup> He also exalteth the horn of his people, the praise of all his saints; *even* of the children of Israel, a people near unto him. Praise ye the LORD. 
 

@@ -4,7 +4,7 @@ weight: 9
 
 # Psalm 9
 
-<sup>1</sup> To the chief Musician upon Muthlabben, A Psalm of David. I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works. 
+<sup>1</sup> I will praise *thee*, O LORD, with my whole heart; I will shew forth all thy marvellous works. 
 
 <sup>2</sup> I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High. 
 
@@ -28,20 +28,19 @@ weight: 9
 
 <sup>12</sup> When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble. 
 
-<sup>13</sup> Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death: 
+<sup>13</sup> Have mercy upon me, O LORD; consider my trouble *which I suffer* of them that hate me, thou that liftest me up from the gates of death: 
 
 <sup>14</sup> That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation. 
 
-<sup>15</sup> The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken. 
+<sup>15</sup> The heathen are sunk down in the pit *that* they made: in the net which they hid is their own foot taken. 
 
-<sup>16</sup> The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah. 
+<sup>16</sup> The LORD is known *by* the judgment *which* he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah. 
 
-<sup>17</sup> The wicked shall be turned into hell, and all the nations that forget God. 
+<sup>17</sup> The wicked shall be turned into hell, *and* all the nations that forget God. 
 
-<sup>18</sup> For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever. 
+<sup>18</sup> For the needy shall not alway be forgotten: the expectation of the poor shall *not* perish for ever. 
 
 <sup>19</sup> Arise, O LORD; let not man prevail: let the heathen be judged in thy sight. 
 
-<sup>20</sup> Put them in fear, O LORD: that the nations may know themselves to be but men. Selah. 
-
+<sup>20</sup> Put them in fear, O LORD: *that* the nations may know themselves *to be but* men. Selah. 
 
