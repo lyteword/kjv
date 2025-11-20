@@ -10,7 +10,7 @@ weight: 24
 
 <sup>3</sup> The land shall be utterly emptied, and utterly spoiled: for the LORD hath spoken this word. 
 
-<sup>4</sup> The earth mourneth and fadeth away, the world languisheth and fadeth away, the haughty people of the earth do languish. 
+<sup>4</sup> The earth mourneth *and* fadeth away, the world languisheth *and* fadeth away, the haughty people of the earth do languish. 
 
 <sup>5</sup> The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant. 
 
@@ -24,30 +24,29 @@ weight: 24
 
 <sup>10</sup> The city of confusion is broken down: every house is shut up, that no man may come in. 
 
-<sup>11</sup> There is a crying for wine in the streets; all joy is darkened, the mirth of the land is gone. 
+<sup>11</sup> *There is* a crying for wine in the streets; all joy is darkened, the mirth of the land is gone. 
 
 <sup>12</sup> In the city is left desolation, and the gate is smitten with destruction. 
 
-<sup>13</sup> ¶ When thus it shall be in the midst of the land among the people, there shall be as the shaking of an olive tree, and as the gleaning grapes when the vintage is done. 
+<sup>13</sup> ¶ When thus it shall be in the midst of the land among the people, *there shall be* as the shaking of an olive tree, *and* as the gleaning grapes when the vintage is done. 
 
 <sup>14</sup> They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea. 
 
-<sup>15</sup> Wherefore glorify ye the LORD in the fires, even the name of the LORD God of Israel in the isles of the sea. 
+<sup>15</sup> Wherefore glorify ye the LORD in the fires, *even* the name of the LORD God of Israel in the isles of the sea. 
 
-<sup>16</sup> ¶ From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously. 
+<sup>16</sup> ¶ From the uttermost part of the earth have we heard songs, *even* glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously. 
 
-<sup>17</sup> Fear, and the pit, and the snare, are upon thee, O inhabitant of the earth. 
+<sup>17</sup> Fear, and the pit, and the snare, *are* upon thee, O inhabitant of the earth. 
 
-<sup>18</sup> And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake. 
+<sup>18</sup> And it shall come to pass, *that* he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake. 
 
 <sup>19</sup> The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly. 
 
 <sup>20</sup> The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again. 
 
-<sup>21</sup> And it shall come to pass in that day, that the LORD shall punish the host of the high ones that are on high, and the kings of the earth upon the earth. 
+<sup>21</sup> And it shall come to pass in that day, *that* the LORD shall punish the host of the high ones *that are* on high, and the kings of the earth upon the earth. 
 
-<sup>22</sup> And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited. 
+<sup>22</sup> And they shall be gathered together, *as* prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited. 
 
 <sup>23</sup> Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously. 
-
 

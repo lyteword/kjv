@@ -16,25 +16,25 @@ weight: 9
 
 <sup>6</sup> Neither have we hearkened unto thy servants the prophets, which spake in thy name to our kings, our princes, and our fathers, and to all the people of the land. 
 
-<sup>7</sup> O Lord, righteousness belongeth unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee. 
+<sup>7</sup> O Lord, righteousness *belongeth* unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, *that are* near, and *that are* far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee. 
 
-<sup>8</sup> O Lord, to us belongeth confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee. 
+<sup>8</sup> O Lord, to us *belongeth* confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee. 
 
-<sup>9</sup> To the Lord our God belong mercies and forgivenesses, though we have rebelled against him; 
+<sup>9</sup> To the Lord our God *belong* mercies and forgivenesses, though we have rebelled against him; 
 
 <sup>10</sup> Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets. 
 
-<sup>11</sup> Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him. 
+<sup>11</sup> Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that *is* written in the law of Moses the servant of God, because we have sinned against him. 
 
 <sup>12</sup> And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem. 
 
-<sup>13</sup> As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth. 
+<sup>13</sup> As *it is* written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth. 
 
-<sup>14</sup> Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God is righteous in all his works which he doeth: for we obeyed not his voice. 
+<sup>14</sup> Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God *is* righteous in all his works which he doeth: for we obeyed not his voice. 
 
 <sup>15</sup> And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly. 
 
-<sup>16</sup> ¶ O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people are become a reproach to all that are about us. 
+<sup>16</sup> ¶ O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people *are become* a reproach to all *that are* about us. 
 
 <sup>17</sup> Now therefore, O our God, hear the prayer of thy servant, and his supplications, and cause thy face to shine upon thy sanctuary that is desolate, for the Lord’s sake. 
 
@@ -42,20 +42,19 @@ weight: 9
 
 <sup>19</sup> O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name. 
 
-<sup>20</sup> ¶ And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God; 
+<sup>20</sup> ¶ And whiles I *was* speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God; 
 
-<sup>21</sup> Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation. 
+<sup>21</sup> Yea, whiles I *was* speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation. 
 
-<sup>22</sup> And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding. 
+<sup>22</sup> And he informed *me*, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding. 
 
-<sup>23</sup> At the beginning of thy supplications the commandment came forth, and I am come to shew thee; for thou art greatly beloved: therefore understand the matter, and consider the vision. 
+<sup>23</sup> At the beginning of thy supplications the commandment came forth, and I am come to shew *thee;* for thou *art* greatly beloved: therefore understand the matter, and consider the vision. 
 
 <sup>24</sup> Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy. 
 
-<sup>25</sup> Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. 
+<sup>25</sup> Know therefore and understand, *that* from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince *shall be* seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. 
 
-<sup>26</sup> And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined. 
+<sup>26</sup> And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof *shall be* with a flood, and unto the end of the war desolations are determined. 
 
-<sup>27</sup> And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate. 
-
+<sup>27</sup> And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make *it* desolate, even until the consummation, and that determined shall be poured upon the desolate. 
 

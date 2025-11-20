@@ -4,29 +4,29 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem: 
+<sup>1</sup> Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, *even* Jerusalem: 
 
-<sup>2</sup> And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about. 
+<sup>2</sup> And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set *battering* rams against it round about. 
 
-<sup>3</sup> Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel. 
+<sup>3</sup> Moreover take thou unto thee an iron pan, and set it *for* a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This *shall be* a sign to the house of Israel. 
 
-<sup>4</sup> Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity. 
+<sup>4</sup> Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: *according* to the number of the days that thou shalt lie upon it thou shalt bear their iniquity. 
 
 <sup>5</sup> For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel. 
 
 <sup>6</sup> And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year. 
 
-<sup>7</sup> Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm shall be uncovered, and thou shalt prophesy against it. 
+<sup>7</sup> Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm *shall be* uncovered, and thou shalt prophesy against it. 
 
 <sup>8</sup> And, behold, I will lay bands upon thee, and thou shalt not turn thee from one side to another, till thou hast ended the days of thy siege. 
 
-<sup>9</sup> ¶ Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, according to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof. 
+<sup>9</sup> ¶ Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, *according* to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof. 
 
-<sup>10</sup> And thy meat which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it. 
+<sup>10</sup> And thy meat which thou shalt eat *shall be* by weight, twenty shekels a day: from time to time shalt thou eat it. 
 
 <sup>11</sup> Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink. 
 
-<sup>12</sup> And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight. 
+<sup>12</sup> And thou shalt eat it *as* barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight. 
 
 <sup>13</sup> And the LORD said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them. 
 
@@ -37,5 +37,4 @@ weight: 4
 <sup>16</sup> Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment: 
 
 <sup>17</sup> That they may want bread and water, and be astonied one with another, and consume away for their iniquity. 
-
 

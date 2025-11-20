@@ -10,7 +10,7 @@ weight: 21
 
 <sup>3</sup> ¶ Then said Jeremiah unto them, Thus shall ye say to Zedekiah: 
 
-<sup>4</sup> Thus saith the LORD God of Israel; Behold, I will turn back the weapons of war that are in your hands, wherewith ye fight against the king of Babylon, and against the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city. 
+<sup>4</sup> Thus saith the LORD God of Israel; Behold, I will turn back the weapons of war that *are* in your hands, wherewith ye fight against the king of Babylon, and *against* the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city. 
 
 <sup>5</sup> And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath. 
 
@@ -24,12 +24,11 @@ weight: 21
 
 <sup>10</sup> For I have set my face against this city for evil, and not for good, saith the LORD: it shall be given into the hand of the king of Babylon, and he shall burn it with fire. 
 
-<sup>11</sup> ¶ And touching the house of the king of Judah, say, Hear ye the word of the LORD; 
+<sup>11</sup> ¶ And touching the house of the king of Judah, *say*, Hear ye the word of the LORD; 
 
-<sup>12</sup> O house of David, thus saith the LORD; Execute judgment in the morning, and deliver him that is spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench it, because of the evil of your doings. 
+<sup>12</sup> O house of David, thus saith the LORD; Execute judgment in the morning, and deliver *him that is* spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench *it*, because of the evil of your doings. 
 
-<sup>13</sup> Behold, I am against thee, O inhabitant of the valley, and rock of the plain, saith the LORD; which say, Who shall come down against us? or who shall enter into our habitations? 
+<sup>13</sup> Behold, I *am* against thee, O inhabitant of the valley, *and* rock of the plain, saith the LORD; which say, Who shall come down against us? or who shall enter into our habitations? 
 
 <sup>14</sup> But I will punish you according to the fruit of your doings, saith the LORD: and I will kindle a fire in the forest thereof, and it shall devour all things round about it. 
-
 

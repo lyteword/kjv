@@ -4,50 +4,49 @@ weight: 47
 
 # Chapter 47
 
-<sup>1</sup> Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar. 
+<sup>1</sup> Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house *stood toward* the east, and the waters came down from under from the right side of the house, at the south *side* of the altar. 
 
 <sup>2</sup> Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looketh eastward; and, behold, there ran out waters on the right side. 
 
-<sup>3</sup> And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters were to the ankles. 
+<sup>3</sup> And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters *were* to the ankles. 
 
-<sup>4</sup> Again he measured a thousand, and brought me through the waters; the waters were to the knees. Again he measured a thousand, and brought me through; the waters were to the loins. 
+<sup>4</sup> Again he measured a thousand, and brought me through the waters; the waters *were* to the knees. Again he measured a thousand, and brought me through; the waters *were* to the loins. 
 
-<sup>5</sup> Afterward he measured a thousand; and it was a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over. 
+<sup>5</sup> Afterward he measured a thousand; *and it was* a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over. 
 
-<sup>6</sup> ¶ And he said unto me, Son of man, hast thou seen this? Then he brought me, and caused me to return to the brink of the river. 
+<sup>6</sup> ¶ And he said unto me, Son of man, hast thou seen *this*? Then he brought me, and caused me to return to the brink of the river. 
 
-<sup>7</sup> Now when I had returned, behold, at the bank of the river were very many trees on the one side and on the other. 
+<sup>7</sup> Now when I had returned, behold, at the bank of the river *were* very many trees on the one side and on the other. 
 
-<sup>8</sup> Then said he unto me, These waters issue out toward the east country, and go down into the desert, and go into the sea: which being brought forth into the sea, the waters shall be healed. 
+<sup>8</sup> Then said he unto me, These waters issue out toward the east country, and go down into the desert, and go into the sea: *which being* brought forth into the sea, the waters shall be healed. 
 
-<sup>9</sup> And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh. 
+<sup>9</sup> And it shall come to pass, *that* every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh. 
 
-<sup>10</sup> And it shall come to pass, that the fishers shall stand upon it from En-gedi even unto En-eglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many. 
+<sup>10</sup> And it shall come to pass, *that* the fishers shall stand upon it from En-gedi even unto En-eglaim; they shall be a *place* to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many. 
 
 <sup>11</sup> But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt. 
 
 <sup>12</sup> And by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters they issued out of the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine. 
 
-<sup>13</sup> ¶ Thus saith the Lord GOD; This shall be the border, whereby ye shall inherit the land according to the twelve tribes of Israel: Joseph shall have two portions. 
+<sup>13</sup> ¶ Thus saith the Lord GOD; This *shall be* the border, whereby ye shall inherit the land according to the twelve tribes of Israel: Joseph *shall have two* portions. 
 
-<sup>14</sup> And ye shall inherit it, one as well as another: concerning the which I lifted up mine hand to give it unto your fathers: and this land shall fall unto you for inheritance. 
+<sup>14</sup> And ye shall inherit it, one as well as another: *concerning* the which I lifted up mine hand to give it unto your fathers: and this land shall fall unto you for inheritance. 
 
-<sup>15</sup> And this shall be the border of the land toward the north side, from the great sea, the way of Hethlon, as men go to Zedad; 
+<sup>15</sup> And this *shall be* the border of the land toward the north side, from the great sea, the way of Hethlon, as men go to Zedad; 
 
-<sup>16</sup> Hamath, Berothah, Sibraim, which is between the border of Damascus and the border of Hamath; Hazar-hatticon, which is by the coast of Hauran. 
+<sup>16</sup> Hamath, Berothah, Sibraim, which *is* between the border of Damascus and the border of Hamath; Hazar-hatticon, which *is* by the coast of Hauran. 
 
-<sup>17</sup> And the border from the sea shall be Hazar-enan, the border of Damascus, and the north northward, and the border of Hamath. And this is the north side. 
+<sup>17</sup> And the border from the sea shall be Hazar-enan, the border of Damascus, and the north northward, and the border of Hamath. And *this is* the north side. 
 
-<sup>18</sup> And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel by Jordan, from the border unto the east sea. And this is the east side. 
+<sup>18</sup> And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel *by* Jordan, from the border unto the east sea. And *this is* the east side. 
 
-<sup>19</sup> And the south side southward, from Tamar even to the waters of strife in Kadesh, the river to the great sea. And this is the south side southward. 
+<sup>19</sup> And the south side southward, from Tamar *even* to the waters of strife *in* Kadesh, the river to the great sea. And *this is* the south side southward. 
 
-<sup>20</sup> The west side also shall be the great sea from the border, till a man come over against Hamath. This is the west side. 
+<sup>20</sup> The west side also *shall be* the great sea from the border, till a man come over against Hamath. This *is* the west side. 
 
 <sup>21</sup> So shall ye divide this land unto you according to the tribes of Israel. 
 
-<sup>22</sup> ¶ And it shall come to pass, that ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel. 
+<sup>22</sup> ¶ And it shall come to pass, *that* ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel. 
 
-<sup>23</sup> And it shall come to pass, that in what tribe the stranger sojourneth, there shall ye give him his inheritance, saith the Lord GOD. 
-
+<sup>23</sup> And it shall come to pass, *that* in what tribe the stranger sojourneth, there shall ye give *him* his inheritance, saith the Lord GOD. 
 

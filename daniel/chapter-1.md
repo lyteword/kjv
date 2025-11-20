@@ -8,21 +8,21 @@ weight: 1
 
 <sup>2</sup> And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god. 
 
-<sup>3</sup> ¶ And the king spake unto Ashpenaz the master of his eunuchs, that he should bring certain of the children of Israel, and of the king’s seed, and of the princes; 
+<sup>3</sup> ¶ And the king spake unto Ashpenaz the master of his eunuchs, that he should bring *certain* of the children of Israel, and of the king’s seed, and of the princes; 
 
-<sup>4</sup> Children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king’s palace, and whom they might teach the learning and the tongue of the Chaldeans. 
+<sup>4</sup> Children in whom *was* no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as *had* ability in them to stand in the king’s palace, and whom they might teach the learning and the tongue of the Chaldeans. 
 
 <sup>5</sup> And the king appointed them a daily provision of the king’s meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king. 
 
 <sup>6</sup> Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah: 
 
-<sup>7</sup> Unto whom the prince of the eunuchs gave names: for he gave unto Daniel the name of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abed-nego. 
+<sup>7</sup> Unto whom the prince of the eunuchs gave names: for he gave unto Daniel *the name* of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abed-nego. 
 
 <sup>8</sup> ¶ But Daniel purposed in his heart that he would not defile himself with the portion of the king’s meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself. 
 
 <sup>9</sup> Now God had brought Daniel into favour and tender love with the prince of the eunuchs. 
 
-<sup>10</sup> And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort? then shall ye make me endanger my head to the king. 
+<sup>10</sup> And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which *are* of your sort? then shall ye make *me* endanger my head to the king. 
 
 <sup>11</sup> Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah, 
 
@@ -42,8 +42,7 @@ weight: 1
 
 <sup>19</sup> And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king. 
 
-<sup>20</sup> And in all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm. 
+<sup>20</sup> And in all matters of wisdom *and* understanding, that the king enquired of them, he found them ten times better than all the magicians *and* astrologers that *were* in all his realm. 
 
-<sup>21</sup> And Daniel continued even unto the first year of king Cyrus. 
-
+<sup>21</sup> And Daniel continued *even* unto the first year of king Cyrus. 
 

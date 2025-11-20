@@ -4,7 +4,7 @@ weight: 28
 
 # Chapter 28
 
-<sup>1</sup> And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying, 
+<sup>1</sup> And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, *and* in the fifth month, *that* Hananiah the son of Azur the prophet, which *was* of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying, 
 
 <sup>2</sup> Thus speaketh the LORD of hosts, the God of Israel, saying, I have broken the yoke of the king of Babylon. 
 
@@ -20,13 +20,13 @@ weight: 28
 
 <sup>8</sup> The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence. 
 
-<sup>9</sup> The prophet which prophesieth of peace, when the word of the prophet shall come to pass,  then shall the prophet be known, that the LORD hath truly sent him. 
+<sup>9</sup> The prophet which prophesieth of peace, when the word of the prophet shall come to pass, ** shall the prophet be known, that the LORD hath truly sent him. 
 
 <sup>10</sup> ¶ Then Hananiah the prophet took the yoke from off the prophet Jeremiah’s neck, and brake it. 
 
 <sup>11</sup> And Hananiah spake in the presence of all the people, saying, Thus saith the LORD; Even so will I break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years. And the prophet Jeremiah went his way. 
 
-<sup>12</sup> ¶ Then the word of the LORD came unto Jeremiah the prophet, after that Hananiah the prophet had broken the yoke from off the neck of the prophet Jeremiah, saying, 
+<sup>12</sup> ¶ Then the word of the LORD came unto Jeremiah *the prophet*, after that Hananiah the prophet had broken the yoke from off the neck of the prophet Jeremiah, saying, 
 
 <sup>13</sup> Go and tell Hananiah, saying, Thus saith the LORD; Thou hast broken the yokes of wood; but thou shalt make for them yokes of iron. 
 
@@ -37,5 +37,4 @@ weight: 28
 <sup>16</sup> Therefore thus saith the LORD; Behold, I will cast thee from off the face of the earth: this year thou shalt die, because thou hast taught rebellion against the LORD. 
 
 <sup>17</sup> So Hananiah the prophet died the same year in the seventh month. 
-
 

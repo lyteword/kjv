@@ -4,23 +4,23 @@ weight: 21
 
 # Chapter 21
 
-<sup>1</sup> The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land. 
+<sup>1</sup> The burden of the desert of the sea. As whirlwinds in the south pass through; *so* it cometh from the desert, from a terrible land. 
 
 <sup>2</sup> A grievous vision is declared unto me; the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease. 
 
-<sup>3</sup> Therefore are my loins filled with pain: pangs have taken hold upon me, as the pangs of a woman that travaileth: I was bowed down at the hearing of it; I was dismayed at the seeing of it. 
+<sup>3</sup> Therefore are my loins filled with pain: pangs have taken hold upon me, as the pangs of a woman that travaileth: I was bowed down at the hearing *of it;* I was dismayed at the seeing *of it*. 
 
 <sup>4</sup> My heart panted, fearfulness affrighted me: the night of my pleasure hath he turned into fear unto me. 
 
-<sup>5</sup> Prepare the table, watch in the watchtower, eat, drink: arise, ye princes, and anoint the shield. 
+<sup>5</sup> Prepare the table, watch in the watchtower, eat, drink: arise, ye princes, *and* anoint the shield. 
 
 <sup>6</sup> For thus hath the Lord said unto me, Go, set a watchman, let him declare what he seeth. 
 
-<sup>7</sup> And he saw a chariot with a couple of horsemen, a chariot of asses, and a chariot of camels; and he hearkened diligently with much heed: 
+<sup>7</sup> And he saw a chariot *with* a couple of horsemen, a chariot of asses, *and* a chariot of camels; and he hearkened diligently with much heed: 
 
 <sup>8</sup> And he cried, A lion: My lord, I stand continually upon the watchtower in the daytime, and I am set in my ward whole nights: 
 
-<sup>9</sup> And, behold, here cometh a chariot of men, with a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground. 
+<sup>9</sup> And, behold, here cometh a chariot of men, *with* a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground. 
 
 <sup>10</sup> O my threshing, and the corn of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you. 
 
@@ -36,6 +36,5 @@ weight: 21
 
 <sup>16</sup> For thus hath the Lord said unto me, Within a year, according to the years of an hireling, and all the glory of Kedar shall fail: 
 
-<sup>17</sup> And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel hath spoken it. 
-
+<sup>17</sup> And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel hath spoken *it*. 
 

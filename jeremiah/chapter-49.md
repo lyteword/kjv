@@ -4,43 +4,43 @@ weight: 49
 
 # Chapter 49
 
-<sup>1</sup> Concerning the Ammonites, thus saith the LORD; Hath Israel no sons? hath he no heir? why then doth their king inherit Gad, and his people dwell in his cities? 
+<sup>1</sup> Concerning the Ammonites, thus saith the LORD; Hath Israel no sons? hath he no heir? why *then* doth their king inherit Gad, and his people dwell in his cities? 
 
 <sup>2</sup> Therefore, behold, the days come, saith the LORD, that I will cause an alarm of war to be heard in Rabbah of the Ammonites; and it shall be a desolate heap, and her daughters shall be burned with fire: then shall Israel be heir unto them that were his heirs, saith the LORD. 
 
-<sup>3</sup> Howl, O Heshbon, for Ai is spoiled: cry, ye daughters of Rabbah, gird you with sackcloth; lament, and run to and fro by the hedges; for their king shall go into captivity, and his priests and his princes together. 
+<sup>3</sup> Howl, O Heshbon, for Ai is spoiled: cry, ye daughters of Rabbah, gird you with sackcloth; lament, and run to and fro by the hedges; for their king shall go into captivity, *and* his priests and his princes together. 
 
-<sup>4</sup> Wherefore gloriest thou in the valleys, thy flowing valley, O backsliding daughter? that trusted in her treasures, saying, Who shall come unto me? 
+<sup>4</sup> Wherefore gloriest thou in the valleys, thy flowing valley, O backsliding daughter? that trusted in her treasures, *saying*, Who shall come unto me? 
 
 <sup>5</sup> Behold, I will bring a fear upon thee, saith the Lord GOD of hosts, from all those that be about thee; and ye shall be driven out every man right forth; and none shall gather up him that wandereth. 
 
 <sup>6</sup> And afterward I will bring again the captivity of the children of Ammon, saith the LORD. 
 
-<sup>7</sup> ¶ Concerning Edom, thus saith the LORD of hosts; Is wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished? 
+<sup>7</sup> ¶ Concerning Edom, thus saith the LORD of hosts; *Is* wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished? 
 
-<sup>8</sup> Flee ye, turn back, dwell deep, O inhabitants of Dedan; for I will bring the calamity of Esau upon him, the time that I will visit him. 
+<sup>8</sup> Flee ye, turn back, dwell deep, O inhabitants of Dedan; for I will bring the calamity of Esau upon him, the time *that* I will visit him. 
 
-<sup>9</sup> If grapegatherers come to thee, would they not leave some gleaning grapes? if thieves by night, they will destroy till they have enough. 
+<sup>9</sup> If grapegatherers come to thee, would they not leave *some* gleaning grapes? if thieves by night, they will destroy till they have enough. 
 
-<sup>10</sup> But I have made Esau bare, I have uncovered his secret places, and he shall not be able to hide himself: his seed is spoiled, and his brethren, and his neighbours, and he is not. 
+<sup>10</sup> But I have made Esau bare, I have uncovered his secret places, and he shall not be able to hide himself: his seed is spoiled, and his brethren, and his neighbours, and he *is* not. 
 
-<sup>11</sup> Leave thy fatherless children, I will preserve them alive; and let thy widows trust in me. 
+<sup>11</sup> Leave thy fatherless children, I will preserve *them* alive; and let thy widows trust in me. 
 
-<sup>12</sup> For thus saith the LORD; Behold, they whose judgment was not to drink of the cup have assuredly drunken; and art thou he that shall altogether go unpunished? thou shalt not go unpunished, but thou shalt surely drink of it. 
+<sup>12</sup> For thus saith the LORD; Behold, they whose judgment *was* not to drink of the cup have assuredly drunken; and *art* thou he *that* shall altogether go unpunished? thou shalt not go unpunished, but thou shalt surely drink *of it*. 
 
 <sup>13</sup> For I have sworn by myself, saith the LORD, that Bozrah shall become a desolation, a reproach, a waste, and a curse; and all the cities thereof shall be perpetual wastes. 
 
-<sup>14</sup> I have heard a rumour from the LORD, and an ambassador is sent unto the heathen, saying, Gather ye together, and come against her, and rise up to the battle. 
+<sup>14</sup> I have heard a rumour from the LORD, and an ambassador is sent unto the heathen, *saying*, Gather ye together, and come against her, and rise up to the battle. 
 
-<sup>15</sup> For, lo, I will make thee small among the heathen, and despised among men. 
+<sup>15</sup> For, lo, I will make thee small among the heathen, *and* despised among men. 
 
-<sup>16</sup> Thy terribleness hath deceived thee, and the pride of thine heart, O thou that dwellest in the clefts of the rock, that holdest the height of the hill: though thou shouldest make thy nest as high as the eagle, I will bring thee down from thence, saith the LORD. 
+<sup>16</sup> Thy terribleness hath deceived thee, *and* the pride of thine heart, O thou that dwellest in the clefts of the rock, that holdest the height of the hill: though thou shouldest make thy nest as high as the eagle, I will bring thee down from thence, saith the LORD. 
 
 <sup>17</sup> Also Edom shall be a desolation: every one that goeth by it shall be astonished, and shall hiss at all the plagues thereof. 
 
-<sup>18</sup> As in the overthrow of Sodom and Gomorrah and the neighbour cities thereof, saith the LORD, no man shall abide there, neither shall a son of man dwell in it. 
+<sup>18</sup> As in the overthrow of Sodom and Gomorrah and the neighbour *cities* thereof, saith the LORD, no man shall abide there, neither shall a son of man dwell in it. 
 
-<sup>19</sup> Behold, he shall come up like a lion from the swelling of Jordan against the habitation of the strong: but I will suddenly make him run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me? 
+<sup>19</sup> Behold, he shall come up like a lion from the swelling of Jordan against the habitation of the strong: but I will suddenly make him run away from her: and who *is* a chosen *man, that* I may appoint over her? for who *is* like me? and who will appoint me the time? and who *is* that shepherd that will stand before me? 
 
 <sup>20</sup> Therefore hear the counsel of the LORD, that he hath taken against Edom; and his purposes, that he hath purposed against the inhabitants of Teman: Surely the least of the flock shall draw them out: surely he shall make their habitations desolate with them. 
 
@@ -48,9 +48,9 @@ weight: 49
 
 <sup>22</sup> Behold, he shall come up and fly as the eagle, and spread his wings over Bozrah: and at that day shall the heart of the mighty men of Edom be as the heart of a woman in her pangs. 
 
-<sup>23</sup> ¶ Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil tidings: they are fainthearted; there is sorrow on the sea; it cannot be quiet. 
+<sup>23</sup> ¶ Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil tidings: they are fainthearted; *there is* sorrow on the sea; it cannot be quiet. 
 
-<sup>24</sup> Damascus is waxed feeble, and turneth herself to flee, and fear hath seized on her: anguish and sorrows have taken her, as a woman in travail. 
+<sup>24</sup> Damascus is waxed feeble, *and* turneth herself to flee, and fear hath seized on *her:* anguish and sorrows have taken her, as a woman in travail. 
 
 <sup>25</sup> How is the city of praise not left, the city of my joy! 
 
@@ -60,15 +60,15 @@ weight: 49
 
 <sup>28</sup> ¶ Concerning Kedar, and concerning the kingdoms of Hazor, which Nebuchadrezzar king of Babylon shall smite, thus saith the LORD; Arise ye, go up to Kedar, and spoil the men of the east. 
 
-<sup>29</sup> Their tents and their flocks shall they take away: they shall take to themselves their curtains, and all their vessels, and their camels; and they shall cry unto them, Fear is on every side. 
+<sup>29</sup> Their tents and their flocks shall they take away: they shall take to themselves their curtains, and all their vessels, and their camels; and they shall cry unto them, Fear *is* on every side. 
 
 <sup>30</sup> ¶ Flee, get you far off, dwell deep, O ye inhabitants of Hazor, saith the LORD; for Nebuchadrezzar king of Babylon hath taken counsel against you, and hath conceived a purpose against you. 
 
-<sup>31</sup> Arise, get you up unto the wealthy nation, that dwelleth without care, saith the LORD, which have neither gates nor bars, which dwell alone. 
+<sup>31</sup> Arise, get you up unto the wealthy nation, that dwelleth without care, saith the LORD, which have neither gates nor bars, *which* dwell alone. 
 
-<sup>32</sup> And their camels shall be a booty, and the multitude of their cattle a spoil: and I will scatter into all winds them that are in the utmost corners; and I will bring their calamity from all sides thereof, saith the LORD. 
+<sup>32</sup> And their camels shall be a booty, and the multitude of their cattle a spoil: and I will scatter into all winds them *that are* in the utmost corners; and I will bring their calamity from all sides thereof, saith the LORD. 
 
-<sup>33</sup> And Hazor shall be a dwelling for dragons, and a desolation for ever: there shall no man abide there, nor any son of man dwell in it. 
+<sup>33</sup> And Hazor shall be a dwelling for dragons, *and* a desolation for ever: there shall no man abide there, nor *any* son of man dwell in it. 
 
 <sup>34</sup> ¶ The word of the LORD that came to Jeremiah the prophet against Elam in the beginning of the reign of Zedekiah king of Judah, saying, 
 
@@ -76,10 +76,9 @@ weight: 49
 
 <sup>36</sup> And upon Elam will I bring the four winds from the four quarters of heaven, and will scatter them toward all those winds; and there shall be no nation whither the outcasts of Elam shall not come. 
 
-<sup>37</sup> For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, even my fierce anger, saith the LORD; and I will send the sword after them, till I have consumed them: 
+<sup>37</sup> For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, *even* my fierce anger, saith the LORD; and I will send the sword after them, till I have consumed them: 
 
 <sup>38</sup> And I will set my throne in Elam, and will destroy from thence the king and the princes, saith the LORD. 
 
-<sup>39</sup> ¶ But it shall come to pass in the latter days, that I will bring again the captivity of Elam, saith the LORD. 
-
+<sup>39</sup> ¶ But it shall come to pass in the latter days, *that* I will bring again the captivity of Elam, saith the LORD. 
 

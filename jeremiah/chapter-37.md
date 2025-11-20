@@ -22,28 +22,27 @@ weight: 37
 
 <sup>9</sup> Thus saith the LORD; Deceive not yourselves, saying, The Chaldeans shall surely depart from us: for they shall not depart. 
 
-<sup>10</sup> For though ye had smitten the whole army of the Chaldeans that fight against you, and there remained but wounded men among them, yet should they rise up every man in his tent, and burn this city with fire. 
+<sup>10</sup> For though ye had smitten the whole army of the Chaldeans that fight against you, and there remained *but* wounded men among them, *yet* should they rise up every man in his tent, and burn this city with fire. 
 
 <sup>11</sup> ¶ And it came to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh’s army, 
 
 <sup>12</sup> Then Jeremiah went forth out of Jerusalem to go into the land of Benjamin, to separate himself thence in the midst of the people. 
 
-<sup>13</sup> And when he was in the gate of Benjamin, a captain of the ward was there, whose name was Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, Thou fallest away to the Chaldeans. 
+<sup>13</sup> And when he was in the gate of Benjamin, a captain of the ward *was* there, whose name *was* Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, Thou fallest away to the Chaldeans. 
 
-<sup>14</sup> Then said Jeremiah, It is false; I fall not away to the Chaldeans. But he hearkened not to him: so Irijah took Jeremiah, and brought him to the princes. 
+<sup>14</sup> Then said Jeremiah, *It is* false; I fall not away to the Chaldeans. But he hearkened not to him: so Irijah took Jeremiah, and brought him to the princes. 
 
 <sup>15</sup> Wherefore the princes were wroth with Jeremiah, and smote him, and put him in prison in the house of Jonathan the scribe: for they had made that the prison. 
 
 <sup>16</sup> ¶ When Jeremiah was entered into the dungeon, and into the cabins, and Jeremiah had remained there many days; 
 
-<sup>17</sup> Then Zedekiah the king sent, and took him out: and the king asked him secretly in his house, and said, Is there any word from the LORD? And Jeremiah said, There is: for, said he, thou shalt be delivered into the hand of the king of Babylon. 
+<sup>17</sup> Then Zedekiah the king sent, and took him out: and the king asked him secretly in his house, and said, Is there *any* word from the LORD? And Jeremiah said, There is: for, said he, thou shalt be delivered into the hand of the king of Babylon. 
 
 <sup>18</sup> Moreover Jeremiah said unto king Zedekiah, What have I offended against thee, or against thy servants, or against this people, that ye have put me in prison? 
 
-<sup>19</sup> Where are now your prophets which prophesied unto you, saying, The king of Babylon shall not come against you, nor against this land? 
+<sup>19</sup> Where *are* now your prophets which prophesied unto you, saying, The king of Babylon shall not come against you, nor against this land? 
 
 <sup>20</sup> Therefore hear now, I pray thee, O my lord the king: let my supplication, I pray thee, be accepted before thee; that thou cause me not to return to the house of Jonathan the scribe, lest I die there. 
 
 <sup>21</sup> Then Zedekiah the king commanded that they should commit Jeremiah into the court of the prison, and that they should give him daily a piece of bread out of the bakers’ street, until all the bread in the city were spent. Thus Jeremiah remained in the court of the prison. 
-
 

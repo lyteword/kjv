@@ -6,7 +6,7 @@ weight: 16
 
 <sup>1</sup> Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion. 
 
-<sup>2</sup> For it shall be, that, as a wandering bird cast out of the nest, so the daughters of Moab shall be at the fords of Arnon. 
+<sup>2</sup> For it shall be, *that*, as a wandering bird cast out of the nest, *so* the daughters of Moab shall be at the fords of Arnon. 
 
 <sup>3</sup> Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth. 
 
@@ -14,22 +14,21 @@ weight: 16
 
 <sup>5</sup> And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness. 
 
-<sup>6</sup> ¶ We have heard of the pride of Moab; he is very proud: even of his haughtiness, and his pride, and his wrath: but his lies shall not be so. 
+<sup>6</sup> ¶ We have heard of the pride of Moab; *he is* very proud: *even* of his haughtiness, and his pride, and his wrath: *but* his lies *shall* not *be* so. 
 
-<sup>7</sup> Therefore shall Moab howl for Moab, every one shall howl: for the foundations of Kir-hareseth shall ye mourn; surely they are stricken. 
+<sup>7</sup> Therefore shall Moab howl for Moab, every one shall howl: for the foundations of Kir-hareseth shall ye mourn; surely *they are* stricken. 
 
-<sup>8</sup> For the fields of Heshbon languish, and the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come even unto Jazer, they wandered through the wilderness: her branches are stretched out, they are gone over the sea. 
+<sup>8</sup> For the fields of Heshbon languish, *and* the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come *even* unto Jazer, they wandered *through* the wilderness: her branches are stretched out, they are gone over the sea. 
 
 <sup>9</sup> ¶ Therefore I will bewail with the weeping of Jazer the vine of Sibmah: I will water thee with my tears, O Heshbon, and Elealeh: for the shouting for thy summer fruits and for thy harvest is fallen. 
 
-<sup>10</sup> And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in their presses; I have made their vintage shouting to cease. 
+<sup>10</sup> And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in *their* presses; I have made *their vintage* shouting to cease. 
 
 <sup>11</sup> Wherefore my bowels shall sound like an harp for Moab, and mine inward parts for Kir-haresh. 
 
 <sup>12</sup> ¶ And it shall come to pass, when it is seen that Moab is weary on the high place, that he shall come to his sanctuary to pray; but he shall not prevail. 
 
-<sup>13</sup> This is the word that the LORD hath spoken concerning Moab since that time. 
+<sup>13</sup> This *is* the word that the LORD hath spoken concerning Moab since that time. 
 
-<sup>14</sup> But now the LORD hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant shall be very small and feeble. 
-
+<sup>14</sup> But now the LORD hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant *shall be* very small *and* feeble. 
 

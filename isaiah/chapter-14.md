@@ -12,21 +12,21 @@ weight: 14
 
 <sup>4</sup> ¶ That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased! 
 
-<sup>5</sup> The LORD hath broken the staff of the wicked, and the sceptre of the rulers. 
+<sup>5</sup> The LORD hath broken the staff of the wicked, *and* the sceptre of the rulers. 
 
-<sup>6</sup> He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth. 
+<sup>6</sup> He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, *and* none hindereth. 
 
-<sup>7</sup> The whole earth is at rest, and is quiet: they break forth into singing. 
+<sup>7</sup> The whole earth is at rest, *and* is quiet: they break forth into singing. 
 
-<sup>8</sup> Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us. 
+<sup>8</sup> Yea, the fir trees rejoice at thee, *and* the cedars of Lebanon, *saying*, Since thou art laid down, no feller is come up against us. 
 
-<sup>9</sup> Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations. 
+<sup>9</sup> Hell from beneath is moved for thee to meet *thee* at thy coming: it stirreth up the dead for thee, *even* all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations. 
 
 <sup>10</sup> All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us? 
 
-<sup>11</sup> Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee. 
+<sup>11</sup> Thy pomp is brought down to the grave, *and* the noise of thy viols: the worm is spread under thee, and the worms cover thee. 
 
-<sup>12</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations! 
+<sup>12</sup> How art thou fallen from heaven, O Lucifer, son of the morning! *how* art thou cut down to the ground, which didst weaken the nations! 
 
 <sup>13</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north: 
 
@@ -34,15 +34,15 @@ weight: 14
 
 <sup>15</sup> Yet thou shalt be brought down to hell, to the sides of the pit. 
 
-<sup>16</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms; 
+<sup>16</sup> They that see thee shall narrowly look upon thee, *and* consider thee, *saying, Is* this the man that made the earth to tremble, that did shake kingdoms; 
 
-<sup>17</sup> That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners? 
+<sup>17</sup> *That* made the world as a wilderness, and destroyed the cities thereof; *that* opened not the house of his prisoners? 
 
-<sup>18</sup> All the kings of the nations, even all of them, lie in glory, every one in his own house. 
+<sup>18</sup> All the kings of the nations, *even* all of them, lie in glory, every one in his own house. 
 
-<sup>19</sup> But thou art cast out of thy grave like an abominable branch, and as the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet. 
+<sup>19</sup> But thou art cast out of thy grave like an abominable branch, *and as* the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet. 
 
-<sup>20</sup> Thou shalt not be joined with them in burial, because thou hast destroyed thy land, and slain thy people: the seed of evildoers shall never be renowned. 
+<sup>20</sup> Thou shalt not be joined with them in burial, because thou hast destroyed thy land, *and* slain thy people: the seed of evildoers shall never be renowned. 
 
 <sup>21</sup> Prepare slaughter for his children for the iniquity of their fathers; that they do not rise, nor possess the land, nor fill the face of the world with cities. 
 
@@ -50,22 +50,21 @@ weight: 14
 
 <sup>23</sup> I will also make it a possession for the bittern, and pools of water: and I will sweep it with the besom of destruction, saith the LORD of hosts. 
 
-<sup>24</sup> ¶ The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, so shall it stand: 
+<sup>24</sup> ¶ The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, *so* shall it stand: 
 
 <sup>25</sup> That I will break the Assyrian in my land, and upon my mountains tread him under foot: then shall his yoke depart from off them, and his burden depart from off their shoulders. 
 
-<sup>26</sup> This is the purpose that is purposed upon the whole earth: and this is the hand that is stretched out upon all the nations. 
+<sup>26</sup> This *is* the purpose that is purposed upon the whole earth: and this *is* the hand that is stretched out upon all the nations. 
 
-<sup>27</sup> For the LORD of hosts hath purposed, and who shall disannul it? and his hand is stretched out, and who shall turn it back? 
+<sup>27</sup> For the LORD of hosts hath purposed, and who shall disannul *it*? and his hand *is* stretched out, and who shall turn it back? 
 
 <sup>28</sup> In the year that king Ahaz died was this burden. 
 
-<sup>29</sup> ¶ Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent’s root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent. 
+<sup>29</sup> ¶ Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent’s root shall come forth a cockatrice, and his fruit *shall be* a fiery flying serpent. 
 
 <sup>30</sup> And the firstborn of the poor shall feed, and the needy shall lie down in safety: and I will kill thy root with famine, and he shall slay thy remnant. 
 
-<sup>31</sup> Howl, O gate; cry, O city; thou, whole Palestina, art dissolved: for there shall come from the north a smoke, and none shall be alone in his appointed times. 
+<sup>31</sup> Howl, O gate; cry, O city; thou, whole Palestina, *art* dissolved: for there shall come from the north a smoke, and none *shall be* alone in his appointed times. 
 
-<sup>32</sup> What shall one then answer the messengers of the nation? That the LORD hath founded Zion, and the poor of his people shall trust in it. 
-
+<sup>32</sup> What shall *one* then answer the messengers of the nation? That the LORD hath founded Zion, and the poor of his people shall trust in it. 
 

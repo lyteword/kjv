@@ -6,13 +6,13 @@ weight: 33
 
 <sup>1</sup> Moreover the word of the LORD came unto Jeremiah the second time, while he was yet shut up in the court of the prison, saying, 
 
-<sup>2</sup> Thus saith the LORD the maker thereof, the LORD that formed it, to establish it; the LORD is his name; 
+<sup>2</sup> Thus saith the LORD the maker thereof, the LORD that formed it, to establish it; the LORD *is* his name; 
 
 <sup>3</sup> Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not. 
 
 <sup>4</sup> For thus saith the LORD, the God of Israel, concerning the houses of this city, and concerning the houses of the kings of Judah, which are thrown down by the mounts, and by the sword; 
 
-<sup>5</sup> They come to fight with the Chaldeans, but it is to fill them with the dead bodies of men, whom I have slain in mine anger and in my fury, and for all whose wickedness I have hid my face from this city. 
+<sup>5</sup> They come to fight with the Chaldeans, but *it is* to fill them with the dead bodies of men, whom I have slain in mine anger and in my fury, and for all whose wickedness I have hid my face from this city. 
 
 <sup>6</sup> Behold, I will bring it health and cure, and I will cure them, and will reveal unto them the abundance of peace and truth. 
 
@@ -22,19 +22,19 @@ weight: 33
 
 <sup>9</sup> ¶ And it shall be to me a name of joy, a praise and an honour before all the nations of the earth, which shall hear all the good that I do unto them: and they shall fear and tremble for all the goodness and for all the prosperity that I procure unto it. 
 
-<sup>10</sup> Thus saith the LORD; Again there shall be heard in this place, which ye say shall be desolate without man and without beast, even in the cities of Judah, and in the streets of Jerusalem, that are desolate, without man, and without inhabitant, and without beast, 
+<sup>10</sup> Thus saith the LORD; Again there shall be heard in this place, which ye say *shall be* desolate without man and without beast, *even* in the cities of Judah, and in the streets of Jerusalem, that are desolate, without man, and without inhabitant, and without beast, 
 
-<sup>11</sup> The voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the voice of them that shall say, Praise the LORD of hosts: for the LORD is good; for his mercy endureth for ever: and of them that shall bring the sacrifice of praise into the house of the LORD. For I will cause to return the captivity of the land, as at the first, saith the LORD. 
+<sup>11</sup> The voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the voice of them that shall say, Praise the LORD of hosts: for the LORD *is* good; for his mercy *endureth* for ever: *and* of them that shall bring the sacrifice of praise into the house of the LORD. For I will cause to return the captivity of the land, as at the first, saith the LORD. 
 
-<sup>12</sup> Thus saith the LORD of hosts; Again in this place, which is desolate without man and without beast, and in all the cities thereof, shall be an habitation of shepherds causing their flocks to lie down. 
+<sup>12</sup> Thus saith the LORD of hosts; Again in this place, which is desolate without man and without beast, and in all the cities thereof, shall be an habitation of shepherds causing *their* flocks to lie down. 
 
-<sup>13</sup> In the cities of the mountains, in the cities of the vale, and in the cities of the south, and in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, shall the flocks pass again under the hands of him that telleth them, saith the LORD. 
+<sup>13</sup> In the cities of the mountains, in the cities of the vale, and in the cities of the south, and in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, shall the flocks pass again under the hands of him that telleth *them*, saith the LORD. 
 
 <sup>14</sup> Behold, the days come, saith the LORD, that I will perform that good thing which I have promised unto the house of Israel and to the house of Judah. 
 
 <sup>15</sup> ¶ In those days, and at that time, will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land. 
 
-<sup>16</sup> In those days shall Judah be saved, and Jerusalem shall dwell safely: and this is the name wherewith she shall be called, The LORD our righteousness. 
+<sup>16</sup> In those days shall Judah be saved, and Jerusalem shall dwell safely: and this *is the name* wherewith she shall be called, The LORD our righteousness. 
 
 <sup>17</sup> ¶ For thus saith the LORD; David shall never want a man to sit upon the throne of the house of Israel; 
 
@@ -44,7 +44,7 @@ weight: 33
 
 <sup>20</sup> Thus saith the LORD; If ye can break my covenant of the day, and my covenant of the night, and that there should not be day and night in their season; 
 
-<sup>21</sup> Then may also my covenant be broken with David my servant, that he should not have a son to reign upon his throne; and with the Levites the priests, my ministers. 
+<sup>21</sup> *Then* may also my covenant be broken with David my servant, that he should not have a son to reign upon his throne; and with the Levites the priests, my ministers. 
 
 <sup>22</sup> As the host of heaven cannot be numbered, neither the sand of the sea measured: so will I multiply the seed of David my servant, and the Levites that minister unto me. 
 
@@ -52,8 +52,7 @@ weight: 33
 
 <sup>24</sup> Considerest thou not what this people have spoken, saying, The two families which the LORD hath chosen, he hath even cast them off? thus they have despised my people, that they should be no more a nation before them. 
 
-<sup>25</sup> Thus saith the LORD; If my covenant be not with day and night, and if I have not appointed the ordinances of heaven and earth; 
+<sup>25</sup> Thus saith the LORD; If my covenant *be* not with day and night, *and if* I have not appointed the ordinances of heaven and earth; 
 
-<sup>26</sup> Then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them. 
-
+<sup>26</sup> Then will I cast away the seed of Jacob, and David my servant, *so* that I will not take *any* of his seed *to be* rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them. 
 

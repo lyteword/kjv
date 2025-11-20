@@ -4,7 +4,7 @@ weight: 7
 
 # Chapter 7
 
-<sup>1</sup> And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it. 
+<sup>1</sup> And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, *that* Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it. 
 
 <sup>2</sup> And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind. 
 
@@ -14,13 +14,13 @@ weight: 7
 
 <sup>5</sup> Because Syria, Ephraim, and the son of Remaliah, have taken evil counsel against thee, saying, 
 
-<sup>6</sup> Let us go up against Judah, and vex it, and let us make a breach therein for us, and set a king in the midst of it, even the son of Tabeal: 
+<sup>6</sup> Let us go up against Judah, and vex it, and let us make a breach therein for us, and set a king in the midst of it, *even* the son of Tabeal: 
 
 <sup>7</sup> Thus saith the Lord GOD, It shall not stand, neither shall it come to pass. 
 
-<sup>8</sup> For the head of Syria is Damascus, and the head of Damascus is Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people. 
+<sup>8</sup> For the head of Syria *is* Damascus, and the head of Damascus *is* Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people. 
 
-<sup>9</sup> And the head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If ye will not believe, surely ye shall not be established. 
+<sup>9</sup> And the head of Ephraim *is* Samaria, and the head of Samaria *is* Remaliah’s son. If ye will not believe, surely ye shall not be established. 
 
 <sup>10</sup> ¶ Moreover the LORD spake again unto Ahaz, saying, 
 
@@ -28,7 +28,7 @@ weight: 7
 
 <sup>12</sup> But Ahaz said, I will not ask, neither will I tempt the LORD. 
 
-<sup>13</sup> And he said, Hear ye now, O house of David; Is it a small thing for you to weary men, but will ye weary my God also? 
+<sup>13</sup> And he said, Hear ye now, O house of David; *Is it* a small thing for you to weary men, but will ye weary my God also? 
 
 <sup>14</sup> Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel. 
 
@@ -36,22 +36,21 @@ weight: 7
 
 <sup>16</sup> For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings. 
 
-<sup>17</sup> ¶ The LORD shall bring upon thee, and upon thy people, and upon thy father’s house, days that have not come, from the day that Ephraim departed from Judah; even the king of Assyria. 
+<sup>17</sup> ¶ The LORD shall bring upon thee, and upon thy people, and upon thy father’s house, days that have not come, from the day that Ephraim departed from Judah; *even* the king of Assyria. 
 
-<sup>18</sup> And it shall come to pass in that day, that the LORD shall hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria. 
+<sup>18</sup> And it shall come to pass in that day, *that* the LORD shall hiss for the fly that *is* in the uttermost part of the rivers of Egypt, and for the bee that *is* in the land of Assyria. 
 
 <sup>19</sup> And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes. 
 
-<sup>20</sup> In the same day shall the Lord shave with a razor that is hired, namely, by them beyond the river, by the king of Assyria, the head, and the hair of the feet: and it shall also consume the beard. 
+<sup>20</sup> In the same day shall the Lord shave with a razor that is hired, *namely*, by them beyond the river, by the king of Assyria, the head, and the hair of the feet: and it shall also consume the beard. 
 
-<sup>21</sup> And it shall come to pass in that day, that a man shall nourish a young cow, and two sheep; 
+<sup>21</sup> And it shall come to pass in that day, *that* a man shall nourish a young cow, and two sheep; 
 
-<sup>22</sup> And it shall come to pass, for the abundance of milk that they shall give he shall eat butter: for butter and honey shall every one eat that is left in the land. 
+<sup>22</sup> And it shall come to pass, for the abundance of milk *that* they shall give he shall eat butter: for butter and honey shall every one eat that is left in the land. 
 
-<sup>23</sup> And it shall come to pass in that day, that every place shall be, where there were a thousand vines at a thousand silverlings, it shall even be for briers and thorns. 
+<sup>23</sup> And it shall come to pass in that day, *that* every place shall be, where there were a thousand vines at a thousand silverlings, it shall *even* be for briers and thorns. 
 
-<sup>24</sup> With arrows and with bows shall men come thither; because all the land shall become briers and thorns. 
+<sup>24</sup> With arrows and with bows shall *men* come thither; because all the land shall become briers and thorns. 
 
-<sup>25</sup> And on all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns: but it shall be for the sending forth of oxen, and for the treading of lesser cattle. 
-
+<sup>25</sup> And *on* all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns: but it shall be for the sending forth of oxen, and for the treading of lesser cattle. 
 

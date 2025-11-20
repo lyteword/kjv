@@ -4,7 +4,7 @@ weight: 54
 
 # Chapter 54
 
-<sup>1</sup> Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith the LORD. 
+<sup>1</sup> Sing, O barren, thou *that* didst not bear; break forth into singing, and cry aloud, thou *that* didst not travail with child: for more *are* the children of the desolate than the children of the married wife, saith the LORD. 
 
 <sup>2</sup> Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes; 
 
@@ -12,7 +12,7 @@ weight: 54
 
 <sup>4</sup> Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more. 
 
-<sup>5</sup> For thy Maker is thine husband; the LORD of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called. 
+<sup>5</sup> For thy Maker *is* thine husband; the LORD of hosts *is* his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called. 
 
 <sup>6</sup> For the LORD hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God. 
 
@@ -20,22 +20,21 @@ weight: 54
 
 <sup>8</sup> In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the LORD thy Redeemer. 
 
-<sup>9</sup> For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee. 
+<sup>9</sup> For this *is as* the waters of Noah unto me: for *as* I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee. 
 
 <sup>10</sup> For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee. 
 
-<sup>11</sup> ¶ O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires. 
+<sup>11</sup> ¶ O thou afflicted, tossed with tempest, *and* not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires. 
 
 <sup>12</sup> And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones. 
 
-<sup>13</sup> And all thy children shall be taught of the LORD; and great shall be the peace of thy children. 
+<sup>13</sup> And all thy children *shall be* taught of the LORD; and great *shall be* the peace of thy children. 
 
 <sup>14</sup> In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee. 
 
-<sup>15</sup> Behold, they shall surely gather together, but not by me: whosoever shall gather together against thee shall fall for thy sake. 
+<sup>15</sup> Behold, they shall surely gather together, *but* not by me: whosoever shall gather together against thee shall fall for thy sake. 
 
 <sup>16</sup> Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy. 
 
-<sup>17</sup> ¶ No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD. 
-
+<sup>17</sup> ¶ No weapon that is formed against thee shall prosper; and every tongue *that* shall rise against thee in judgment thou shalt condemn. This *is* the heritage of the servants of the LORD, and their righteousness *is* of me, saith the LORD. 
 

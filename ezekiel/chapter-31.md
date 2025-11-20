@@ -4,11 +4,11 @@ weight: 31
 
 # Chapter 31
 
-<sup>1</sup> And it came to pass in the eleventh year, in the third month, in the first day of the month, that the word of the LORD came unto me, saying, 
+<sup>1</sup> And it came to pass in the eleventh year, in the third *month*, in the first *day* of the month, *that* the word of the LORD came unto me, saying, 
 
 <sup>2</sup> Son of man, speak unto Pharaoh king of Egypt, and to his multitude; Whom art thou like in thy greatness? 
 
-<sup>3</sup> ¶ Behold, the Assyrian was a cedar in Lebanon with fair branches, and with a shadowing shroud, and of an high stature; and his top was among the thick boughs. 
+<sup>3</sup> ¶ Behold, the Assyrian *was* a cedar in Lebanon with fair branches, and with a shadowing shroud, and of an high stature; and his top was among the thick boughs. 
 
 <sup>4</sup> The waters made him great, the deep set him up on high with her rivers running round about his plants, and sent out her little rivers unto all the trees of the field. 
 
@@ -20,7 +20,7 @@ weight: 31
 
 <sup>8</sup> The cedars in the garden of God could not hide him: the fir trees were not like his boughs, and the chesnut trees were not like his branches; nor any tree in the garden of God was like unto him in his beauty. 
 
-<sup>9</sup> I have made him fair by the multitude of his branches: so that all the trees of Eden, that were in the garden of God, envied him. 
+<sup>9</sup> I have made him fair by the multitude of his branches: so that all the trees of Eden, that *were* in the garden of God, envied him. 
 
 <sup>10</sup> ¶ Therefore thus saith the Lord GOD; Because thou hast lifted up thyself in height, and he hath shot up his top among the thick boughs, and his heart is lifted up in his height; 
 
@@ -36,8 +36,7 @@ weight: 31
 
 <sup>16</sup> I made the nations to shake at the sound of his fall, when I cast him down to hell with them that descend into the pit: and all the trees of Eden, the choice and best of Lebanon, all that drink water, shall be comforted in the nether parts of the earth. 
 
-<sup>17</sup> They also went down into hell with him unto them that be slain with the sword; and they that were his arm, that dwelt under his shadow in the midst of the heathen. 
+<sup>17</sup> They also went down into hell with him unto *them that be* slain with the sword; and *they that were* his arm, *that* dwelt under his shadow in the midst of the heathen. 
 
-<sup>18</sup> ¶ To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised with them that be slain by the sword. This is Pharaoh and all his multitude, saith the Lord GOD. 
-
+<sup>18</sup> ¶ To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised with *them that be* slain by the sword. This *is* Pharaoh and all his multitude, saith the Lord GOD. 
 

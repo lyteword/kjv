@@ -12,17 +12,17 @@ weight: 34
 
 <sup>4</sup> Yet hear the word of the LORD, O Zedekiah king of Judah; Thus saith the LORD of thee, Thou shalt not die by the sword: 
 
-<sup>5</sup> But thou shalt die in peace: and with the burnings of thy fathers, the former kings which were before thee, so shall they burn odours for thee; and they will lament thee, saying, Ah lord! for I have pronounced the word, saith the LORD. 
+<sup>5</sup> *But* thou shalt die in peace: and with the burnings of thy fathers, the former kings which were before thee, so shall they burn *odours* for thee; and they will lament thee, *saying*, Ah lord! for I have pronounced the word, saith the LORD. 
 
 <sup>6</sup> Then Jeremiah the prophet spake all these words unto Zedekiah king of Judah in Jerusalem, 
 
 <sup>7</sup> When the king of Babylon’s army fought against Jerusalem, and against all the cities of Judah that were left, against Lachish, and against Azekah: for these defenced cities remained of the cities of Judah. 
 
-<sup>8</sup> ¶ This is the word that came unto Jeremiah from the LORD, after that the king Zedekiah had made a covenant with all the people which were at Jerusalem, to proclaim liberty unto them; 
+<sup>8</sup> ¶ *This is* the word that came unto Jeremiah from the LORD, after that the king Zedekiah had made a covenant with all the people which *were* at Jerusalem, to proclaim liberty unto them; 
 
-<sup>9</sup> That every man should let his manservant, and every man his maidservant, being an Hebrew or an Hebrewess, go free; that none should serve himself of them, to wit, of a Jew his brother. 
+<sup>9</sup> That every man should let his manservant, and every man his maidservant, *being* an Hebrew or an Hebrewess, go free; that none should serve himself of them, *to wit*, of a Jew his brother. 
 
-<sup>10</sup> Now when all the princes, and all the people, which had entered into the covenant, heard that every one should let his manservant, and every one his maidservant, go free, that none should serve themselves of them any more, then they obeyed, and let them go. 
+<sup>10</sup> Now when all the princes, and all the people, which had entered into the covenant, heard that every one should let his manservant, and every one his maidservant, go free, that none should serve themselves of them any more, then they obeyed, and let *them* go. 
 
 <sup>11</sup> But afterward they turned, and caused the servants and the handmaids, whom they had let go free, to return, and brought them into subjection for servants and for handmaids. 
 
@@ -47,5 +47,4 @@ weight: 34
 <sup>21</sup> And Zedekiah king of Judah and his princes will I give into the hand of their enemies, and into the hand of them that seek their life, and into the hand of the king of Babylon’s army, which are gone up from you. 
 
 <sup>22</sup> Behold, I will command, saith the LORD, and cause them to return to this city; and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Judah a desolation without an inhabitant. 
-
 
