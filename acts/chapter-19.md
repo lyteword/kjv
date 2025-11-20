@@ -12,9 +12,9 @@ weight: 19
 
 <sup>4</sup> Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus. 
 
-<sup>5</sup> When they heard this, they were baptized in the name of the Lord Jesus. 
+<sup>5</sup> When they heard *this*, they were baptized in the name of the Lord Jesus. 
 
-<sup>6</sup> And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied. 
+<sup>6</sup> And when Paul had laid *his* hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied. 
 
 <sup>7</sup> And all the men were about twelve. 
 
@@ -30,7 +30,7 @@ weight: 19
 
 <sup>13</sup> ¶ Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth. 
 
-<sup>14</sup> And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so. 
+<sup>14</sup> And there were seven sons of *one* Sceva, a Jew, *and* chief of the priests, which did so. 
 
 <sup>15</sup> And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye? 
 
@@ -40,7 +40,7 @@ weight: 19
 
 <sup>18</sup> And many that believed came, and confessed, and shewed their deeds. 
 
-<sup>19</sup> Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver. 
+<sup>19</sup> Many of them also which used curious arts brought their books together, and burned them before all *men*: and they counted the price of them, and found *it* fifty thousand *pieces* of silver. 
 
 <sup>20</sup> So mightily grew the word of God and prevailed. 
 
@@ -50,7 +50,7 @@ weight: 19
 
 <sup>23</sup> And the same time there arose no small stir about that way. 
 
-<sup>24</sup> For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen; 
+<sup>24</sup> For a certain *man* named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen; 
 
 <sup>25</sup> Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth. 
 
@@ -58,21 +58,21 @@ weight: 19
 
 <sup>27</sup> So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth. 
 
-<sup>28</sup> And when they heard these sayings, they were full of wrath, and cried out, saying, Great is Diana of the Ephesians. 
+<sup>28</sup> And when they heard *these sayings*, they were full of wrath, and cried out, saying, Great *is* Diana of the Ephesians. 
 
 <sup>29</sup> And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul’s companions in travel, they rushed with one accord into the theatre. 
 
 <sup>30</sup> And when Paul would have entered in unto the people, the disciples suffered him not. 
 
-<sup>31</sup> And certain of the chief of Asia, which were his friends, sent unto him, desiring him that he would not adventure himself into the theatre. 
+<sup>31</sup> And certain of the chief of Asia, which were his friends, sent unto him, desiring *him* that he would not adventure himself into the theatre. 
 
 <sup>32</sup> Some therefore cried one thing, and some another: for the assembly was confused; and the more part knew not wherefore they were come together. 
 
 <sup>33</sup> And they drew Alexander out of the multitude, the Jews putting him forward. And Alexander beckoned with the hand, and would have made his defence unto the people. 
 
-<sup>34</sup> But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great is Diana of the Ephesians. 
+<sup>34</sup> But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great *is* Diana of the Ephesians. 
 
-<sup>35</sup> And when the townclerk had appeased the people, he said, Ye men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the image which fell down from Jupiter? 
+<sup>35</sup> And when the townclerk had appeased the people, he said, *Ye* men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the *image* which fell down from Jupiter? 
 
 <sup>36</sup> Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly. 
 
@@ -85,5 +85,4 @@ weight: 19
 <sup>40</sup> For we are in danger to be called in question for this day’s uproar, there being no cause whereby we may give an account of this concourse. 
 
 <sup>41</sup> And when he had thus spoken, he dismissed the assembly. 
-
 

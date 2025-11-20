@@ -8,17 +8,17 @@ weight: 2
 
 <sup>2</sup> Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him. 
 
-<sup>3</sup> When Herod the king had heard these things, he was troubled, and all Jerusalem with him. 
+<sup>3</sup> When Herod the king had heard *these things*, he was troubled, and all Jerusalem with him. 
 
 <sup>4</sup> And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born. 
 
 <sup>5</sup> And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet, 
 
-<sup>6</sup> And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel. 
+<sup>6</sup> And thou Bethlehem, *in* the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel. 
 
 <sup>7</sup> Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared. 
 
-<sup>8</sup> And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also. 
+<sup>8</sup> And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found *him*, bring me word again, that I may come and worship him also. 
 
 <sup>9</sup> When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was. 
 
@@ -38,7 +38,7 @@ weight: 2
 
 <sup>17</sup> Then was fulfilled that which was spoken by Jeremy the prophet, saying, 
 
-<sup>18</sup> In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not. 
+<sup>18</sup> In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping *for* her children, and would not be comforted, because they are not. 
 
 <sup>19</sup> ¶ But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt, 
 
@@ -49,5 +49,4 @@ weight: 2
 <sup>22</sup> But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee: 
 
 <sup>23</sup> And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene. 
-
 

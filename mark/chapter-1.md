@@ -24,7 +24,7 @@ weight: 1
 
 <sup>10</sup> And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him: 
 
-<sup>11</sup> And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased. 
+<sup>11</sup> And there came a voice from heaven, *saying*, Thou art my beloved Son, in whom I am well pleased. 
 
 <sup>12</sup> And immediately the Spirit driveth him into the wilderness. 
 
@@ -32,15 +32,15 @@ weight: 1
 
 <sup>14</sup> Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God, 
 
-<sup>15</sup> And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel. 
+<sup>15</sup> And saying, The time is fulfilled , and the kingdom of God is at hand : repent ye , and believe the gospel . 
 
 <sup>16</sup> Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers. 
 
-<sup>17</sup> And Jesus said unto them, Come ye after me, and I will make you to become fishers of men. 
+<sup>17</sup> And Jesus said unto them, Come ye after me , and I will make you to become fishers of men . 
 
 <sup>18</sup> And straightway they forsook their nets, and followed him. 
 
-<sup>19</sup> And when he had gone a little further thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets. 
+<sup>19</sup> And when he had gone a little further thence, he saw James the *son* of Zebedee, and John his brother, who also were in the ship mending their nets. 
 
 <sup>20</sup> And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him. 
 
@@ -50,13 +50,13 @@ weight: 1
 
 <sup>23</sup> And there was in their synagogue a man with an unclean spirit; and he cried out, 
 
-<sup>24</sup> Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God. 
+<sup>24</sup> Saying, Let *us* alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God. 
 
-<sup>25</sup> And Jesus rebuked him, saying, Hold thy peace, and come out of him. 
+<sup>25</sup> And Jesus rebuked him, saying, Hold thy peace , and come out of him . 
 
 <sup>26</sup> And when the unclean spirit had torn him, and cried with a loud voice, he came out of him. 
 
-<sup>27</sup> And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him. 
+<sup>27</sup> And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine *is* this? for with authority commandeth he even the unclean spirits, and they do obey him. 
 
 <sup>28</sup> And immediately his fame spread abroad throughout all the region round about Galilee. 
 
@@ -76,22 +76,21 @@ weight: 1
 
 <sup>36</sup> And Simon and they that were with him followed after him. 
 
-<sup>37</sup> And when they had found him, they said unto him, All men seek for thee. 
+<sup>37</sup> And when they had found him, they said unto him, All *men* seek for thee. 
 
-<sup>38</sup> And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth. 
+<sup>38</sup> And he said unto them, Let us go into the next towns , that I may preach there also : for therefore came I forth . 
 
 <sup>39</sup> And he preached in their synagogues throughout all Galilee, and cast out devils. 
 
 <sup>40</sup> And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean. 
 
-<sup>41</sup> And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean. 
+<sup>41</sup> And Jesus, moved with compassion, put forth *his* hand, and touched him, and saith unto him, I will ; be thou clean . 
 
 <sup>42</sup> And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed. 
 
 <sup>43</sup> And he straitly charged him, and forthwith sent him away; 
 
-<sup>44</sup> And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them. 
+<sup>44</sup> And saith unto him, See thou say nothing to any man : but go thy way , shew thyself to the priest , and offer for thy cleansing those things which Moses commanded , for a testimony unto them . 
 
-<sup>45</sup> But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter. 
-
+<sup>45</sup> But he went out, and began to publish *it* much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter. 
 

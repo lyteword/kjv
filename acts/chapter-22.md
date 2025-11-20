@@ -4,11 +4,11 @@ weight: 22
 
 # Chapter 22
 
-<sup>1</sup> Men, brethren, and fathers, hear ye my defence which I make now unto you. 
+<sup>1</sup> Men, brethren, and fathers, hear ye my defence *which I make* now unto you. 
 
-<sup>2</sup> (And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,) 
+<sup>2</sup> ( And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,) 
 
-<sup>3</sup> I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day. 
+<sup>3</sup> I am verily a man *which am* a Jew, born in Tarsus, *a city* in Cilicia, yet brought up in this city at the feet of Gamaliel, *and* taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day. 
 
 <sup>4</sup> And I persecuted this way unto the death, binding and delivering into prisons both men and women. 
 
@@ -16,17 +16,17 @@ weight: 22
 
 <sup>6</sup> And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me. 
 
-<sup>7</sup> And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me? 
+<sup>7</sup> And I fell unto the ground, and heard a voice saying unto me, Saul , Saul , why persecutest thou me ? 
 
-<sup>8</sup> And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest. 
+<sup>8</sup> And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth , whom thou persecutest . 
 
 <sup>9</sup> And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me. 
 
-<sup>10</sup> And I said, What shall I do, Lord? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do. 
+<sup>10</sup> And I said, What shall I do, Lord? And the Lord said unto me, Arise , and go into Damascus ; and there it shall be told thee of all things which are appointed for thee to do . 
 
 <sup>11</sup> And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus. 
 
-<sup>12</sup> And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt there, 
+<sup>12</sup> And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt *there*, 
 
 <sup>13</sup> Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him. 
 
@@ -38,30 +38,29 @@ weight: 22
 
 <sup>17</sup> And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance; 
 
-<sup>18</sup> And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me. 
+<sup>18</sup> And saw him saying unto me, Make haste , and get thee quickly out of Jerusalem : for they will not receive thy testimony concerning me . 
 
 <sup>19</sup> And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee: 
 
 <sup>20</sup> And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him. 
 
-<sup>21</sup> And he said unto me, Depart: for I will send thee far hence unto the Gentiles. 
+<sup>21</sup> And he said unto me, Depart : for I will send thee far hence unto the Gentiles . 
 
-<sup>22</sup> And they gave him audience unto this word, and then lifted up their voices, and said, Away with such a fellow from the earth: for it is not fit that he should live. 
+<sup>22</sup> And they gave him audience unto this word, and *then* lifted up their voices, and said, Away with such a *fellow* from the earth: for it is not fit that he should live. 
 
-<sup>23</sup> And as they cried out, and cast off their clothes, and threw dust into the air, 
+<sup>23</sup> And as they cried out, and cast off *their* clothes, and threw dust into the air, 
 
 <sup>24</sup> The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him. 
 
 <sup>25</sup> And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned? 
 
-<sup>26</sup> When the centurion heard that, he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman. 
+<sup>26</sup> When the centurion heard *that*, he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman. 
 
 <sup>27</sup> Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea. 
 
-<sup>28</sup> And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was free born. 
+<sup>28</sup> And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was *free* born. 
 
 <sup>29</sup> Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him. 
 
-<sup>30</sup> On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them. 
-
+<sup>30</sup> On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from *his* bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them. 
 

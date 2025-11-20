@@ -4,7 +4,7 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour. 
+<sup>1</sup> Now Peter and John went up together into the temple at the hour of prayer, *being* the ninth *hour*. 
 
 <sup>2</sup> And a certain man lame from his mother’s womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms of them that entered into the temple; 
 
@@ -16,7 +16,7 @@ weight: 3
 
 <sup>6</sup> Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk. 
 
-<sup>7</sup> And he took him by the right hand, and lifted him up: and immediately his feet and ankle bones received strength. 
+<sup>7</sup> And he took him by the right hand, and lifted *him* up: and immediately his feet and ankle bones received strength. 
 
 <sup>8</sup> And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God. 
 
@@ -26,9 +26,9 @@ weight: 3
 
 <sup>11</sup> And as the lame man which was healed held Peter and John, all the people ran together unto them in the porch that is called Solomon’s, greatly wondering. 
 
-<sup>12</sup> ¶ And when Peter saw it, he answered unto the people, Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk? 
+<sup>12</sup> ¶ And when Peter saw *it*, he answered unto the people, Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk? 
 
-<sup>13</sup> The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go. 
+<sup>13</sup> The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let *him* go. 
 
 <sup>14</sup> But ye denied the Holy One and the Just, and desired a murderer to be granted unto you; 
 
@@ -36,7 +36,7 @@ weight: 3
 
 <sup>16</sup> And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all. 
 
-<sup>17</sup> And now, brethren, I wot that through ignorance ye did it, as did also your rulers. 
+<sup>17</sup> And now, brethren, I wot that through ignorance ye did *it*, as *did* also your rulers. 
 
 <sup>18</sup> But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled. 
 
@@ -48,12 +48,11 @@ weight: 3
 
 <sup>22</sup> For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you. 
 
-<sup>23</sup> And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people. 
+<sup>23</sup> And it shall come to pass, *that* every soul, which will not hear that prophet, shall be destroyed from among the people. 
 
 <sup>24</sup> Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days. 
 
 <sup>25</sup> Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed. 
 
 <sup>26</sup> Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities. 
-
 

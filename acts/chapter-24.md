@@ -4,19 +4,19 @@ weight: 24
 
 # Chapter 24
 
-<sup>1</sup> And after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul. 
+<sup>1</sup> And after five days Ananias the high priest descended with the elders, and *with* a certain orator *named* Tertullus, who informed the governor against Paul. 
 
-<sup>2</sup> And when he was called forth, Tertullus began to accuse him, saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence, 
+<sup>2</sup> And when he was called forth, Tertullus began to accuse *him*, saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence, 
 
-<sup>3</sup> We accept it always, and in all places, most noble Felix, with all thankfulness. 
+<sup>3</sup> We accept *it* always, and in all places, most noble Felix, with all thankfulness. 
 
 <sup>4</sup> Notwithstanding, that I be not further tedious unto thee, I pray thee that thou wouldest hear us of thy clemency a few words. 
 
-<sup>5</sup> For we have found this man a pestilent fellow, and a mover of sedition among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes: 
+<sup>5</sup> For we have found this man *a* pestilent *fellow*, and a mover of sedition among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes: 
 
 <sup>6</sup> Who also hath gone about to profane the temple: whom we took, and would have judged according to our law. 
 
-<sup>7</sup> But the chief captain Lysias came upon us, and with great violence took him away out of our hands, 
+<sup>7</sup> But the chief captain Lysias came *upon us*, and with great violence took *him* away out of our hands, 
 
 <sup>8</sup> Commanding his accusers to come unto thee: by examining of whom thyself mayest take knowledge of all these things, whereof we accuse him. 
 
@@ -34,7 +34,7 @@ weight: 24
 
 <sup>15</sup> And have hope toward God, which they themselves also allow, that there shall be a resurrection of the dead, both of the just and unjust. 
 
-<sup>16</sup> And herein do I exercise myself, to have always a conscience void of offence toward God, and toward men. 
+<sup>16</sup> And herein do I exercise myself, to have always a conscience void of offence toward God, and *toward* men. 
 
 <sup>17</sup> Now after many years I came to bring alms to my nation, and offerings. 
 
@@ -42,13 +42,13 @@ weight: 24
 
 <sup>19</sup> Who ought to have been here before thee, and object, if they had ought against me. 
 
-<sup>20</sup> Or else let these same here say, if they have found any evil doing in me, while I stood before the council, 
+<sup>20</sup> Or else let these same *here* say, if they have found any evil doing in me, while I stood before the council, 
 
 <sup>21</sup> Except it be for this one voice, that I cried standing among them, Touching the resurrection of the dead I am called in question by you this day. 
 
-<sup>22</sup> And when Felix heard these things, having more perfect knowledge of that way, he deferred them, and said, When Lysias the chief captain shall come down, I will know the uttermost of your matter. 
+<sup>22</sup> And when Felix heard these things, having more perfect knowledge of *that* way, he deferred them, and said, When Lysias the chief captain shall come down, I will know the uttermost of your matter. 
 
-<sup>23</sup> And he commanded a centurion to keep Paul, and to let him have liberty, and that he should forbid none of his acquaintance to minister or come unto him. 
+<sup>23</sup> And he commanded a centurion to keep Paul, and to let *him* have liberty, and that he should forbid none of his acquaintance to minister or come unto him. 
 
 <sup>24</sup> And after certain days, when Felix came with his wife Drusilla, which was a Jewess, he sent for Paul, and heard him concerning the faith in Christ. 
 
@@ -57,5 +57,4 @@ weight: 24
 <sup>26</sup> He hoped also that money should have been given him of Paul, that he might loose him: wherefore he sent for him the oftener, and communed with him. 
 
 <sup>27</sup> But after two years Porcius Festus came into Felix’ room: and Felix, willing to shew the Jews a pleasure, left Paul bound. 
-
 

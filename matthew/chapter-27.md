@@ -6,11 +6,11 @@ weight: 27
 
 <sup>1</sup> When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death: 
 
-<sup>2</sup> And when they had bound him, they led him away, and delivered him to Pontius Pilate the governor. 
+<sup>2</sup> And when they had bound him, they led *him* away, and delivered him to Pontius Pilate the governor. 
 
 <sup>3</sup> ¶ Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders, 
 
-<sup>4</sup> Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that. 
+<sup>4</sup> Saying, I have sinned in that I have betrayed the innocent blood. And they said, What *is that* to us? see thou *to that*. 
 
 <sup>5</sup> And he cast down the pieces of silver in the temple, and departed, and went and hanged himself. 
 
@@ -24,7 +24,7 @@ weight: 27
 
 <sup>10</sup> And gave them for the potter’s field, as the Lord appointed me. 
 
-<sup>11</sup> And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest. 
+<sup>11</sup> And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest . 
 
 <sup>12</sup> And when he was accused of the chief priests and elders, he answered nothing. 
 
@@ -32,7 +32,7 @@ weight: 27
 
 <sup>14</sup> And he answered him to never a word; insomuch that the governor marvelled greatly. 
 
-<sup>15</sup> Now at that feast the governor was wont to release unto the people a prisoner, whom they would. 
+<sup>15</sup> Now at *that* feast the governor was wont to release unto the people a prisoner, whom they would. 
 
 <sup>16</sup> And they had then a notable prisoner, called Barabbas. 
 
@@ -46,31 +46,31 @@ weight: 27
 
 <sup>21</sup> The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas. 
 
-<sup>22</sup> Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified. 
+<sup>22</sup> Pilate saith unto them, What shall I do then with Jesus which is called Christ? *They* all say unto him, Let him be crucified. 
 
 <sup>23</sup> And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified. 
 
-<sup>24</sup> ¶ When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it. 
+<sup>24</sup> ¶ When Pilate saw that he could prevail nothing, but *that* rather a tumult was made, he took water, and washed *his* hands before the multitude, saying, I am innocent of the blood of this just person: see ye *to it*. 
 
-<sup>25</sup> Then answered all the people, and said, His blood be on us, and on our children. 
+<sup>25</sup> Then answered all the people, and said, His blood *be* on us, and on our children. 
 
-<sup>26</sup> ¶ Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified. 
+<sup>26</sup> ¶ Then released he Barabbas unto them: and when he had scourged Jesus, he delivered *him* to be crucified. 
 
-<sup>27</sup> Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers. 
+<sup>27</sup> Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band *of soldiers*. 
 
 <sup>28</sup> And they stripped him, and put on him a scarlet robe. 
 
-<sup>29</sup> ¶ And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews! 
+<sup>29</sup> ¶ And when they had platted a crown of thorns, they put *it* upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews! 
 
 <sup>30</sup> And they spit upon him, and took the reed, and smote him on the head. 
 
-<sup>31</sup> And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him. 
+<sup>31</sup> And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify *him*. 
 
 <sup>32</sup> And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross. 
 
 <sup>33</sup> And when they were come unto a place called Golgotha, that is to say, a place of a skull, 
 
-<sup>34</sup> ¶ They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink. 
+<sup>34</sup> ¶ They gave him vinegar to drink mingled with gall: and when he had tasted *thereof*, he would not drink. 
 
 <sup>35</sup> And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots. 
 
@@ -82,9 +82,9 @@ weight: 27
 
 <sup>39</sup> ¶ And they that passed by reviled him, wagging their heads, 
 
-<sup>40</sup> And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross. 
+<sup>40</sup> And saying, Thou that destroyest the temple, and buildest *it* in three days, save thyself. If thou be the Son of God, come down from the cross. 
 
-<sup>41</sup> Likewise also the chief priests mocking him, with the scribes and elders, said, 
+<sup>41</sup> Likewise also the chief priests mocking *him*, with the scribes and elders, said, 
 
 <sup>42</sup> He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him. 
 
@@ -94,11 +94,11 @@ weight: 27
 
 <sup>45</sup> Now from the sixth hour there was darkness over all the land unto the ninth hour. 
 
-<sup>46</sup> And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me? 
+<sup>46</sup> And about the ninth hour Jesus cried with a loud voice, saying, Eli , Eli , lama sabachthani ? that is to say, My God, my God, why hast thou forsaken me? 
 
-<sup>47</sup> Some of them that stood there, when they heard that, said, This man calleth for Elias. 
+<sup>47</sup> Some of them that stood there, when they heard *that*, said, This *man* calleth for Elias. 
 
-<sup>48</sup> And straightway one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink. 
+<sup>48</sup> And straightway one of them ran, and took a spunge, and filled *it* with vinegar, and put *it* on a reed, and gave him to drink. 
 
 <sup>49</sup> The rest said, Let be, let us see whether Elias will come to save him. 
 
@@ -132,8 +132,7 @@ weight: 27
 
 <sup>64</sup> Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first. 
 
-<sup>65</sup> Pilate said unto them, Ye have a watch: go your way, make it as sure as ye can. 
+<sup>65</sup> Pilate said unto them, Ye have a watch: go your way, make *it* as sure as ye can. 
 
 <sup>66</sup> So they went, and made the sepulchre sure, sealing the stone, and setting a watch. 
-
 

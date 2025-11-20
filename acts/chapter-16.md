@@ -4,7 +4,7 @@ weight: 16
 
 # Chapter 16
 
-<sup>1</sup> Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father was a Greek: 
+<sup>1</sup> Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father *was* a Greek: 
 
 <sup>2</sup> Which was well reported of by the brethren that were at Lystra and Iconium. 
 
@@ -24,15 +24,15 @@ weight: 16
 
 <sup>10</sup> And after he had seen the vision, immediately we endeavoured to go into Macedonia, assuredly gathering that the Lord had called us for to preach the gospel unto them. 
 
-<sup>11</sup> Therefore loosing from Troas, we came with a straight course to Samothracia, and the next day to Neapolis; 
+<sup>11</sup> Therefore loosing from Troas, we came with a straight course to Samothracia, and the next *day* to Neapolis; 
 
-<sup>12</sup> And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days. 
+<sup>12</sup> And from thence to Philippi, which is the chief city of that part of Macedonia, *and* a colony: and we were in that city abiding certain days. 
 
-<sup>13</sup> And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted thither. 
+<sup>13</sup> And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted *thither.* 
 
-<sup>14</sup> ¶ And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she attended unto the things which were spoken of Paul. 
+<sup>14</sup> ¶ And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard *us*: whose heart the Lord opened, that she attended unto the things which were spoken of Paul. 
 
-<sup>15</sup> And when she was baptized, and her household, she besought us, saying, If ye have judged me to be faithful to the Lord, come into my house, and abide there. And she constrained us. 
+<sup>15</sup> And when she was baptized, and her household, she besought *us*, saying, If ye have judged me to be faithful to the Lord, come into my house, and abide *there*. And she constrained us. 
 
 <sup>16</sup> ¶ And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying: 
 
@@ -40,15 +40,15 @@ weight: 16
 
 <sup>18</sup> And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour. 
 
-<sup>19</sup> ¶ And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers, 
+<sup>19</sup> ¶ And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew *them* into the marketplace unto the rulers, 
 
 <sup>20</sup> And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city, 
 
 <sup>21</sup> And teach customs, which are not lawful for us to receive, neither to observe, being Romans. 
 
-<sup>22</sup> And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat them. 
+<sup>22</sup> And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat *them*. 
 
-<sup>23</sup> And when they had laid many stripes upon them, they cast them into prison, charging the jailor to keep them safely: 
+<sup>23</sup> And when they had laid many stripes upon them, they cast *them* into prison, charging the jailor to keep them safely: 
 
 <sup>24</sup> Who, having received such a charge, thrust them into the inner prison, and made their feet fast in the stocks. 
 
@@ -68,7 +68,7 @@ weight: 16
 
 <sup>32</sup> And they spake unto him the word of the Lord, and to all that were in his house. 
 
-<sup>33</sup> And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway. 
+<sup>33</sup> And he took them the same hour of the night, and washed *their* stripes; and was baptized, he and all his, straightway. 
 
 <sup>34</sup> And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house. 
 
@@ -76,12 +76,11 @@ weight: 16
 
 <sup>36</sup> And the keeper of the prison told this saying to Paul, The magistrates have sent to let you go: now therefore depart, and go in peace. 
 
-<sup>37</sup> But Paul said unto them, They have beaten us openly uncondemned, being Romans, and have cast us into prison; and now do they thrust us out privily? nay verily; but let them come themselves and fetch us out. 
+<sup>37</sup> But Paul said unto them, They have beaten us openly uncondemned, being Romans, and have cast *us* into prison; and now do they thrust us out privily? nay verily; but let them come themselves and fetch us out. 
 
 <sup>38</sup> And the serjeants told these words unto the magistrates: and they feared, when they heard that they were Romans. 
 
-<sup>39</sup> And they came and besought them, and brought them out, and desired them to depart out of the city. 
+<sup>39</sup> And they came and besought them, and brought *them* out, and desired *them* to depart out of the city. 
 
-<sup>40</sup> And they went out of the prison, and entered into the house of Lydia: and when they had seen the brethren, they comforted them, and departed. 
-
+<sup>40</sup> And they went out of the prison, and entered into *the house of* Lydia: and when they had seen the brethren, they comforted them, and departed. 
 

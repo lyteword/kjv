@@ -14,7 +14,7 @@ weight: 1
 
 <sup>5</sup> And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse; 
 
-<sup>6</sup> And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias; 
+<sup>6</sup> And Jesse begat David the king; and David the king begat Solomon of her *that had been the wife* of Urias; 
 
 <sup>7</sup> And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa; 
 
@@ -36,11 +36,11 @@ weight: 1
 
 <sup>16</sup> And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ. 
 
-<sup>17</sup> So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations. 
+<sup>17</sup> So all the generations from Abraham to David *are* fourteen generations; and from David until the carrying away into Babylon *are* fourteen generations; and from the carrying away into Babylon unto Christ *are* fourteen generations. 
 
 <sup>18</sup> ¶ Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost. 
 
-<sup>19</sup> Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily. 
+<sup>19</sup> Then Joseph her husband, being a just *man*, and not willing to make her a publick example, was minded to put her away privily. 
 
 <sup>20</sup> But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. 
 
@@ -53,5 +53,4 @@ weight: 1
 <sup>24</sup> Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife: 
 
 <sup>25</sup> And knew her not till she had brought forth her firstborn son: and he called his name JESUS. 
-
 

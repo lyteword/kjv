@@ -10,7 +10,7 @@ weight: 11
 
 <sup>3</sup> Saying, Thou wentest in to men uncircumcised, and didst eat with them. 
 
-<sup>4</sup> But Peter rehearsed the matter from the beginning, and expounded it by order unto them, saying, 
+<sup>4</sup> But Peter rehearsed *the matter* from the beginning, and expounded *it* by order unto them, saying, 
 
 <sup>5</sup> I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me: 
 
@@ -20,7 +20,7 @@ weight: 11
 
 <sup>8</sup> But I said, Not so, Lord: for nothing common or unclean hath at any time entered into my mouth. 
 
-<sup>9</sup> But the voice answered me again from heaven, What God hath cleansed, that call not thou common. 
+<sup>9</sup> But the voice answered me again from heaven, What God hath cleansed, *that* call not thou common. 
 
 <sup>10</sup> And this was done three times: and all were drawn up again into heaven. 
 
@@ -34,9 +34,9 @@ weight: 11
 
 <sup>15</sup> And as I began to speak, the Holy Ghost fell on them, as on us at the beginning. 
 
-<sup>16</sup> Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost. 
+<sup>16</sup> Then remembered I the word of the Lord, how that he said, John indeed baptized with water ; but ye shall be baptized with the Holy Ghost . 
 
-<sup>17</sup> Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God? 
+<sup>17</sup> Forasmuch then as God gave them the like gift as *he did* unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God? 
 
 <sup>18</sup> When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life. 
 
@@ -63,5 +63,4 @@ weight: 11
 <sup>29</sup> Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judæa: 
 
 <sup>30</sup> Which also they did, and sent it to the elders by the hands of Barnabas and Saul. 
-
 

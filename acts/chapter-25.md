@@ -10,9 +10,9 @@ weight: 25
 
 <sup>3</sup> And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him. 
 
-<sup>4</sup> But Festus answered, that Paul should be kept at Cæsarea, and that he himself would depart shortly thither. 
+<sup>4</sup> But Festus answered, that Paul should be kept at Cæsarea, and that he himself would depart shortly *thither*. 
 
-<sup>5</sup> Let them therefore, said he, which among you are able, go down with me, and accuse this man, if there be any wickedness in him. 
+<sup>5</sup> Let them therefore, said he, which among you are able, go down with *me*, and accuse this man, if there be any wickedness in him. 
 
 <sup>6</sup> And when he had tarried among them more than ten days, he went down unto Cæsarea; and the next day sitting on the judgment seat commanded Paul to be brought. 
 
@@ -32,7 +32,7 @@ weight: 25
 
 <sup>14</sup> And when they had been there many days, Festus declared Paul’s cause unto the king, saying, There is a certain man left in bonds by Felix: 
 
-<sup>15</sup> About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him. 
+<sup>15</sup> About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed *me*, desiring *to have* judgment against him. 
 
 <sup>16</sup> To whom I answered, It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him. 
 
@@ -42,7 +42,7 @@ weight: 25
 
 <sup>19</sup> But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive. 
 
-<sup>20</sup> And because I doubted of such manner of questions, I asked him whether he would go to Jerusalem, and there be judged of these matters. 
+<sup>20</sup> And because I doubted of such manner of questions, I asked *him* whether he would go to Jerusalem, and there be judged of these matters. 
 
 <sup>21</sup> But when Paul had appealed to be reserved unto the hearing of Augustus, I commanded him to be kept till I might send him to Cæsar. 
 
@@ -50,12 +50,11 @@ weight: 25
 
 <sup>23</sup> And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus’ commandment Paul was brought forth. 
 
-<sup>24</sup> And Festus said, King Agrippa, and all men which are here present with us, ye see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and also here, crying that he ought not to live any longer. 
+<sup>24</sup> And Festus said, King Agrippa, and all men which are here present with us, ye see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and *also* here, crying that he ought not to live any longer. 
 
 <sup>25</sup> But when I found that he had committed nothing worthy of death, and that he himself hath appealed to Augustus, I have determined to send him. 
 
 <sup>26</sup> Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, O king Agrippa, that, after examination had, I might have somewhat to write. 
 
-<sup>27</sup> For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes laid against him. 
-
+<sup>27</sup> For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes *laid* against him. 
 

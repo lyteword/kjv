@@ -8,7 +8,7 @@ weight: 4
 
 <sup>2</sup> Being grieved that they taught the people, and preached through Jesus the resurrection from the dead. 
 
-<sup>3</sup> And they laid hands on them, and put them in hold unto the next day: for it was now eventide. 
+<sup>3</sup> And they laid hands on them, and put *them* in hold unto the next day: for it was now eventide. 
 
 <sup>4</sup> Howbeit many of them which heard the word believed; and the number of the men was about five thousand. 
 
@@ -22,7 +22,7 @@ weight: 4
 
 <sup>9</sup> If we this day be examined of the good deed done to the impotent man, by what means he is made whole; 
 
-<sup>10</sup> Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole. 
+<sup>10</sup> Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, *even* by him doth this man stand here before you whole. 
 
 <sup>11</sup> This is the stone which was set at nought of you builders, which is become the head of the corner. 
 
@@ -34,7 +34,7 @@ weight: 4
 
 <sup>15</sup> But when they had commanded them to go aside out of the council, they conferred among themselves, 
 
-<sup>16</sup> Saying, What shall we do to these men? for that indeed a notable miracle hath been done by them is manifest to all them that dwell in Jerusalem; and we can not deny it. 
+<sup>16</sup> Saying, What shall we do to these men? for that indeed a notable miracle hath been done by them *is* manifest to all them that dwell in Jerusalem; and we can not deny *it*. 
 
 <sup>17</sup> But that it spread no further among the people, let us straitly threaten them, that they speak henceforth to no man in this name. 
 
@@ -44,13 +44,13 @@ weight: 4
 
 <sup>20</sup> For we can not but speak the things which we have seen and heard. 
 
-<sup>21</sup> So when they had further threatened them, they let them go, finding nothing how they might punish them, because of the people: for all men glorified God for that which was done. 
+<sup>21</sup> So when they had further threatened them, they let them go, finding nothing how they might punish them, because of the people: for all *men* glorified God for that which was done. 
 
 <sup>22</sup> For the man was above forty years old, on whom this miracle of healing was shewed. 
 
 <sup>23</sup> ¶ And being let go, they went to their own company, and reported all that the chief priests and elders had said unto them. 
 
-<sup>24</sup> And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou art God, which hast made heaven, and earth, and the sea, and all that in them is: 
+<sup>24</sup> And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou *art* God, which hast made heaven, and earth, and the sea, and all that in them is: 
 
 <sup>25</sup> Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things? 
 
@@ -66,16 +66,15 @@ weight: 4
 
 <sup>31</sup> ¶ And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness. 
 
-<sup>32</sup> And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common. 
+<sup>32</sup> And the multitude of them that believed were of one heart and of one soul: neither said any *of them* that ought of the things which he possessed was his own; but they had all things common. 
 
 <sup>33</sup> And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all. 
 
 <sup>34</sup> Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold, 
 
-<sup>35</sup> And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need. 
+<sup>35</sup> And laid *them* down at the apostles’ feet: and distribution was made unto every man according as he had need. 
 
-<sup>36</sup> And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, and of the country of Cyprus, 
+<sup>36</sup> And Joses, who by the apostles was surnamed Barnabas, ( which is, being interpreted, The son of consolation,) a Levite, *and* of the country of Cyprus, 
 
-<sup>37</sup> Having land, sold it, and brought the money, and laid it at the apostles’ feet. 
-
+<sup>37</sup> Having land, sold *it*, and brought the money, and laid *it* at the apostles’ feet. 
 

@@ -12,9 +12,9 @@ weight: 14
 
 <sup>4</sup> But the multitude of the city was divided: and part held with the Jews, and part with the apostles. 
 
-<sup>5</sup> And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use them despitefully, and to stone them, 
+<sup>5</sup> And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use *them* despitefully, and to stone them, 
 
-<sup>6</sup> They were ware of it, and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lieth round about: 
+<sup>6</sup> They were ware of *it*, and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lieth round about: 
 
 <sup>7</sup> And there they preached the gospel. 
 
@@ -30,7 +30,7 @@ weight: 14
 
 <sup>13</sup> Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people. 
 
-<sup>14</sup> Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out, 
+<sup>14</sup> *Which* when the apostles, Barnabas and Paul, heard *of*, they rent their clothes, and ran in among the people, crying out, 
 
 <sup>15</sup> And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein: 
 
@@ -40,13 +40,13 @@ weight: 14
 
 <sup>18</sup> And with these sayings scarce restrained they the people, that they had not done sacrifice unto them. 
 
-<sup>19</sup> ¶ And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew him out of the city, supposing he had been dead. 
+<sup>19</sup> ¶ And there came thither *certain* Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew *him* out of the city, supposing he had been dead. 
 
 <sup>20</sup> Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe. 
 
-<sup>21</sup> And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch, 
+<sup>21</sup> And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and *to* Iconium, and Antioch, 
 
-<sup>22</sup> Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God. 
+<sup>22</sup> Confirming the souls of the disciples, *and* exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God. 
 
 <sup>23</sup> And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed. 
 
@@ -59,5 +59,4 @@ weight: 14
 <sup>27</sup> And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles. 
 
 <sup>28</sup> And there they abode long time with the disciples. 
-
 

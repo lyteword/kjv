@@ -8,23 +8,23 @@ weight: 13
 
 <sup>2</sup> As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them. 
 
-<sup>3</sup> And when they had fasted and prayed, and laid their hands on them, they sent them away. 
+<sup>3</sup> And when they had fasted and prayed, and laid *their* hands on them, they sent *them* away. 
 
 <sup>4</sup> ¶ So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus. 
 
-<sup>5</sup> And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister. 
+<sup>5</sup> And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to *their* minister. 
 
-<sup>6</sup> And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Bar-jesus: 
+<sup>6</sup> And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name *was* Bar-jesus: 
 
 <sup>7</sup> Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God. 
 
-<sup>8</sup> But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith. 
+<sup>8</sup> But Elymas the sorcerer( for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith. 
 
-<sup>9</sup> Then Saul, (who also is called Paul,) filled with the Holy Ghost, set his eyes on him, 
+<sup>9</sup> Then Saul, ( who also *is called* Paul,) filled with the Holy Ghost, set his eyes on him, 
 
-<sup>10</sup> And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord? 
+<sup>10</sup> And said, O full of all subtilty and all mischief, *thou* child of the devil, *thou* enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord? 
 
-<sup>11</sup> And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand. 
+<sup>11</sup> And now, behold, the hand of the Lord *is* upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand. 
 
 <sup>12</sup> Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord. 
 
@@ -32,9 +32,9 @@ weight: 13
 
 <sup>14</sup> ¶ But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day, and sat down. 
 
-<sup>15</sup> And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Ye men and brethren, if ye have any word of exhortation for the people, say on. 
+<sup>15</sup> And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, *Ye* men *and* brethren, if ye have any word of exhortation for the people, say on. 
 
-<sup>16</sup> Then Paul stood up, and beckoning with his hand said, Men of Israel, and ye that fear God, give audience. 
+<sup>16</sup> Then Paul stood up, and beckoning with *his* hand said, Men of Israel, and ye that fear God, give audience. 
 
 <sup>17</sup> The God of this people of Israel chose our fathers, and exalted the people when they dwelt as strangers in the land of Egypt, and with an high arm brought he them out of it. 
 
@@ -42,25 +42,25 @@ weight: 13
 
 <sup>19</sup> And when he had destroyed seven nations in the land of Chanaan, he divided their land to them by lot. 
 
-<sup>20</sup> And after that he gave unto them judges about the space of four hundred and fifty years, until Samuel the prophet. 
+<sup>20</sup> And after that he gave *unto them* judges about the space of four hundred and fifty years, until Samuel the prophet. 
 
 <sup>21</sup> And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years. 
 
-<sup>22</sup> And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will. 
+<sup>22</sup> And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the *son* of Jesse, a man after mine own heart, which shall fulfil all my will. 
 
-<sup>23</sup> Of this man’s seed hath God according to his promise raised unto Israel a Saviour, Jesus: 
+<sup>23</sup> Of this man’s seed hath God according to *his* promise raised unto Israel a Saviour, Jesus: 
 
 <sup>24</sup> When John had first preached before his coming the baptism of repentance to all the people of Israel. 
 
-<sup>25</sup> And as John fulfilled his course, he said, Whom think ye that I am? I am not he. But, behold, there cometh one after me, whose shoes of his feet I am not worthy to loose. 
+<sup>25</sup> And as John fulfilled his course, he said, Whom think ye that I am? I am not *he*. But, behold, there cometh one after me, whose shoes of *his* feet I am not worthy to loose. 
 
-<sup>26</sup> Men and brethren, children of the stock of Abraham, and whosoever among you feareth God, to you is the word of this salvation sent. 
+<sup>26</sup> Men *and* brethren, children of the stock of Abraham, and whosoever among you feareth God, to you is the word of this salvation sent. 
 
-<sup>27</sup> For they that dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets which are read every sabbath day, they have fulfilled them in condemning him. 
+<sup>27</sup> For they that dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets which are read every sabbath day, they have fulfilled *them* in condemning *him*. 
 
-<sup>28</sup> And though they found no cause of death in him, yet desired they Pilate that he should be slain. 
+<sup>28</sup> And though they found no cause of death *in him*, yet desired they Pilate that he should be slain. 
 
-<sup>29</sup> And when they had fulfilled all that was written of him, they took him down from the tree, and laid him in a sepulchre. 
+<sup>29</sup> And when they had fulfilled all that was written of him, they took *him* down from the tree, and laid *him* in a sepulchre. 
 
 <sup>30</sup> But God raised him from the dead: 
 
@@ -70,15 +70,15 @@ weight: 13
 
 <sup>33</sup> God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee. 
 
-<sup>34</sup> And as concerning that he raised him up from the dead, now no more to return to corruption, he said on this wise, I will give you the sure mercies of David. 
+<sup>34</sup> And as concerning that he raised him up from the dead, *now* no more to return to corruption, he said on this wise, I will give you the sure mercies of David. 
 
-<sup>35</sup> Wherefore he saith also in another psalm, Thou shalt not suffer thine Holy One to see corruption. 
+<sup>35</sup> Wherefore he saith also in another *psalm*, Thou shalt not suffer thine Holy One to see corruption. 
 
 <sup>36</sup> For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption: 
 
 <sup>37</sup> But he, whom God raised again, saw no corruption. 
 
-<sup>38</sup> ¶ Be it known unto you therefore, men and brethren, that through this man is preached unto you the forgiveness of sins: 
+<sup>38</sup> ¶ Be it known unto you therefore, men *and* brethren, that through this man is preached unto you the forgiveness of sins: 
 
 <sup>39</sup> And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses. 
 
@@ -96,7 +96,7 @@ weight: 13
 
 <sup>46</sup> Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles. 
 
-<sup>47</sup> For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth. 
+<sup>47</sup> For so hath the Lord commanded us, *saying*, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth. 
 
 <sup>48</sup> And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed. 
 
@@ -107,5 +107,4 @@ weight: 13
 <sup>51</sup> But they shook off the dust of their feet against them, and came unto Iconium. 
 
 <sup>52</sup> And the disciples were filled with joy, and with the Holy Ghost. 
-
 

@@ -30,9 +30,9 @@ weight: 2
 
 <sup>13</sup> Others mocking said, These men are full of new wine. 
 
-<sup>14</sup> ¶ But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judæa, and all ye that dwell at Jerusalem, be this known unto you, and hearken to my words: 
+<sup>14</sup> ¶ But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judæa, and all *ye* that dwell at Jerusalem, be this known unto you, and hearken to my words: 
 
-<sup>15</sup> For these are not drunken, as ye suppose, seeing it is but the third hour of the day. 
+<sup>15</sup> For these are not drunken, as ye suppose, seeing it is *but* the third hour of the day. 
 
 <sup>16</sup> But this is that which was spoken by the prophet Joel; 
 
@@ -44,7 +44,7 @@ weight: 2
 
 <sup>20</sup> The sun shall be turned into darkness, and the moon into blood, before that great and notable day of the Lord come: 
 
-<sup>21</sup> And it shall come to pass, that whosoever shall call on the name of the Lord shall be saved. 
+<sup>21</sup> And it shall come to pass, *that* whosoever shall call on the name of the Lord shall be saved. 
 
 <sup>22</sup> Ye men of Israel, hear these words; Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you, as ye yourselves also know: 
 
@@ -60,7 +60,7 @@ weight: 2
 
 <sup>28</sup> Thou hast made known to me the ways of life; thou shalt make me full of joy with thy countenance. 
 
-<sup>29</sup> Men and brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day. 
+<sup>29</sup> Men *and* brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day. 
 
 <sup>30</sup> Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne; 
 
@@ -76,15 +76,15 @@ weight: 2
 
 <sup>36</sup> Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ. 
 
-<sup>37</sup> ¶ Now when they heard this, they were pricked in their heart, and said unto Peter and to the rest of the apostles, Men and brethren, what shall we do? 
+<sup>37</sup> ¶ Now when they heard *this*, they were pricked in their heart, and said unto Peter and to the rest of the apostles, Men *and* brethren, what shall we do? 
 
 <sup>38</sup> Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost. 
 
-<sup>39</sup> For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call. 
+<sup>39</sup> For the promise is unto you, and to your children, and to all that are afar off, *even* as many as the Lord our God shall call. 
 
 <sup>40</sup> And with many other words did he testify and exhort, saying, Save yourselves from this untoward generation. 
 
-<sup>41</sup> ¶ Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls. 
+<sup>41</sup> ¶ Then they that gladly received his word were baptized: and the same day there were added *unto them* about three thousand souls. 
 
 <sup>42</sup> And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers. 
 
@@ -92,10 +92,9 @@ weight: 2
 
 <sup>44</sup> And all that believed were together, and had all things common; 
 
-<sup>45</sup> And sold their possessions and goods, and parted them to all men, as every man had need. 
+<sup>45</sup> And sold their possessions and goods, and parted them to all *men*, as every man had need. 
 
 <sup>46</sup> And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart, 
 
 <sup>47</sup> Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved. 
-
 

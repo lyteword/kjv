@@ -12,11 +12,11 @@ weight: 1
 
 <sup>4</sup> That thou mightest know the certainty of those things, wherein thou hast been instructed. 
 
-<sup>5</sup> ¶ There was in the days of Herod, the king of Judæa, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth. 
+<sup>5</sup> ¶ There was in the days of Herod, the king of Judæa, a certain priest named Zacharias, of the course of Abia: and his wife *was* of the daughters of Aaron, and her name *was* Elisabeth. 
 
 <sup>6</sup> And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless. 
 
-<sup>7</sup> And they had no child, because that Elisabeth was barren, and they both were now well stricken in years. 
+<sup>7</sup> And they had no child, because that Elisabeth was barren, and they both were *now* well stricken in years. 
 
 <sup>8</sup> And it came to pass, that while he executed the priest’s office before God in the order of his course, 
 
@@ -26,7 +26,7 @@ weight: 1
 
 <sup>11</sup> And there appeared unto him an angel of the Lord standing on the right side of the altar of incense. 
 
-<sup>12</sup> And when Zacharias saw him, he was troubled, and fear fell upon him. 
+<sup>12</sup> And when Zacharias saw *him*, he was troubled, and fear fell upon him. 
 
 <sup>13</sup> But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John. 
 
@@ -52,15 +52,15 @@ weight: 1
 
 <sup>24</sup> And after those days his wife Elisabeth conceived, and hid herself five months, saying, 
 
-<sup>25</sup> Thus hath the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men. 
+<sup>25</sup> Thus hath the Lord dealt with me in the days wherein he looked on *me*, to take away my reproach among men. 
 
 <sup>26</sup> And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth, 
 
-<sup>27</sup> To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary. 
+<sup>27</sup> To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name *was* Mary. 
 
-<sup>28</sup> And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women. 
+<sup>28</sup> And the angel came in unto her, and said, Hail, *thou that art* highly favoured, the Lord *is* with thee: blessed *art* thou among women. 
 
-<sup>29</sup> And when she saw him, she was troubled at his saying, and cast in her mind what manner of salutation this should be. 
+<sup>29</sup> And when she saw *him*, she was troubled at his saying, and cast in her mind what manner of salutation this should be. 
 
 <sup>30</sup> And the angel said unto her, Fear not, Mary: for thou hast found favour with God. 
 
@@ -86,13 +86,13 @@ weight: 1
 
 <sup>41</sup> And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost: 
 
-<sup>42</sup> And she spake out with a loud voice, and said, Blessed art thou among women, and blessed is the fruit of thy womb. 
+<sup>42</sup> And she spake out with a loud voice, and said, Blessed *art* thou among women, and blessed *is* the fruit of thy womb. 
 
-<sup>43</sup> And whence is this to me, that the mother of my Lord should come to me? 
+<sup>43</sup> And whence *is* this to me, that the mother of my Lord should come to me? 
 
 <sup>44</sup> For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy. 
 
-<sup>45</sup> And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord. 
+<sup>45</sup> And blessed *is* she that believed: for there shall be a performance of those things which were told her from the Lord. 
 
 <sup>46</sup> And Mary said, My soul doth magnify the Lord, 
 
@@ -100,17 +100,17 @@ weight: 1
 
 <sup>48</sup> For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed. 
 
-<sup>49</sup> For he that is mighty hath done to me great things; and holy is his name. 
+<sup>49</sup> For he that is mighty hath done to me great things; and holy *is* his name. 
 
-<sup>50</sup> And his mercy is on them that fear him from generation to generation. 
+<sup>50</sup> And his mercy *is* on them that fear him from generation to generation. 
 
 <sup>51</sup> He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts. 
 
-<sup>52</sup> He hath put down the mighty from their seats, and exalted them of low degree. 
+<sup>52</sup> He hath put down the mighty from *their* seats, and exalted them of low degree. 
 
 <sup>53</sup> He hath filled the hungry with good things; and the rich he hath sent empty away. 
 
-<sup>54</sup> He hath holpen his servant Israel, in remembrance of his mercy; 
+<sup>54</sup> He hath holpen his servant Israel, in remembrance of *his* mercy; 
 
 <sup>55</sup> As he spake to our fathers, to Abraham, and to his seed for ever. 
 
@@ -122,7 +122,7 @@ weight: 1
 
 <sup>59</sup> And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father. 
 
-<sup>60</sup> And his mother answered and said, Not so; but he shall be called John. 
+<sup>60</sup> And his mother answered and said, Not *so*; but he shall be called John. 
 
 <sup>61</sup> And they said unto her, There is none of thy kindred that is called by this name. 
 
@@ -130,15 +130,15 @@ weight: 1
 
 <sup>63</sup> And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all. 
 
-<sup>64</sup> And his mouth was opened immediately, and his tongue loosed, and he spake, and praised God. 
+<sup>64</sup> And his mouth was opened immediately, and his tongue *loosed*, and he spake, and praised God. 
 
 <sup>65</sup> And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judæa. 
 
-<sup>66</sup> And all they that heard them laid them up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him. 
+<sup>66</sup> And all they that heard *them* laid *them* up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him. 
 
 <sup>67</sup> And his father Zacharias was filled with the Holy Ghost, and prophesied, saying, 
 
-<sup>68</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people, 
+<sup>68</sup> Blessed *be* the Lord God of Israel; for he hath visited and redeemed his people, 
 
 <sup>69</sup> And hath raised up an horn of salvation for us in the house of his servant David; 
 
@@ -146,7 +146,7 @@ weight: 1
 
 <sup>71</sup> That we should be saved from our enemies, and from the hand of all that hate us; 
 
-<sup>72</sup> To perform the mercy promised to our fathers, and to remember his holy covenant; 
+<sup>72</sup> To perform the mercy *promised* to our fathers, and to remember his holy covenant; 
 
 <sup>73</sup> The oath which he sware to our father Abraham, 
 
@@ -160,8 +160,7 @@ weight: 1
 
 <sup>78</sup> Through the tender mercy of our God; whereby the dayspring from on high hath visited us, 
 
-<sup>79</sup> To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace. 
+<sup>79</sup> To give light to them that sit in darkness and *in* the shadow of death, to guide our feet into the way of peace. 
 
 <sup>80</sup> And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel. 
-
 

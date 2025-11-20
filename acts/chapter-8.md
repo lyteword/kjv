@@ -6,9 +6,9 @@ weight: 8
 
 <sup>1</sup> And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judæa and Samaria, except the apostles. 
 
-<sup>2</sup> And devout men carried Stephen to his burial, and made great lamentation over him. 
+<sup>2</sup> And devout men carried Stephen *to his burial*, and made great lamentation over him. 
 
-<sup>3</sup> As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison. 
+<sup>3</sup> As for Saul, he made havock of the church, entering into every house, and haling men and women committed *them* to prison. 
 
 <sup>4</sup> Therefore they that were scattered abroad went every where preaching the word. 
 
@@ -16,7 +16,7 @@ weight: 8
 
 <sup>6</sup> And the people with one accord gave heed unto those things which Philip spake, hearing and seeing the miracles which he did. 
 
-<sup>7</sup> For unclean spirits, crying with loud voice, came out of many that were possessed with them: and many taken with palsies, and that were lame, were healed. 
+<sup>7</sup> For unclean spirits, crying with loud voice, came out of many that were possessed *with them*: and many taken with palsies, and that were lame, were healed. 
 
 <sup>8</sup> And there was great joy in that city. 
 
@@ -34,9 +34,9 @@ weight: 8
 
 <sup>15</sup> Who, when they were come down, prayed for them, that they might receive the Holy Ghost: 
 
-<sup>16</sup> (For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.) 
+<sup>16</sup> ( For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.) 
 
-<sup>17</sup> Then laid they their hands on them, and they received the Holy Ghost. 
+<sup>17</sup> Then laid they *their* hands on them, and they received the Holy Ghost. 
 
 <sup>18</sup> And when Simon saw that through laying on of the apostles’ hands the Holy Ghost was given, he offered them money, 
 
@@ -48,7 +48,7 @@ weight: 8
 
 <sup>22</sup> Repent therefore of this thy wickedness, and pray God, if perhaps the thought of thine heart may be forgiven thee. 
 
-<sup>23</sup> For I perceive that thou art in the gall of bitterness, and in the bond of iniquity. 
+<sup>23</sup> For I perceive that thou art in the gall of bitterness, and *in* the bond of iniquity. 
 
 <sup>24</sup> Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me. 
 
@@ -62,7 +62,7 @@ weight: 8
 
 <sup>29</sup> Then the Spirit said unto Philip, Go near, and join thyself to this chariot. 
 
-<sup>30</sup> And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest? 
+<sup>30</sup> And Philip ran thither to *him*, and heard him read the prophet Esaias, and said, Understandest thou what thou readest? 
 
 <sup>31</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him. 
 
@@ -74,7 +74,7 @@ weight: 8
 
 <sup>35</sup> Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus. 
 
-<sup>36</sup> And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized? 
+<sup>36</sup> And as they went on *their* way, they came unto a certain water: and the eunuch said, See, *here is* water; what doth hinder me to be baptized? 
 
 <sup>37</sup> And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God. 
 
@@ -83,5 +83,4 @@ weight: 8
 <sup>39</sup> And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing. 
 
 <sup>40</sup> But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Cæsarea. 
-
 
