@@ -14,7 +14,7 @@ weight: 3
 
 <sup>5</sup> For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain. 
 
-<sup>6</sup> But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also to see you: 
+<sup>6</sup> But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also *to see* you: 
 
 <sup>7</sup> Therefore, brethren, we were comforted over you in all our affliction and distress by your faith: 
 
@@ -26,8 +26,7 @@ weight: 3
 
 <sup>11</sup> Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you. 
 
-<sup>12</sup> And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you: 
+<sup>12</sup> And the Lord make you to increase and abound in love one toward another, and toward all *men*, even as we *do* toward you: 
 
 <sup>13</sup> To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints. 
-
 

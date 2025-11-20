@@ -12,9 +12,9 @@ weight: 6
 
 <sup>4</sup> Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. 
 
-<sup>5</sup> For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection: 
+<sup>5</sup> For if we have been planted together in the likeness of his death, we shall be also *in the likeness* of *his* resurrection: 
 
-<sup>6</sup> Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin. 
+<sup>6</sup> Knowing this, that our old man is crucified with *him*, that the body of sin might be destroyed, that henceforth we should not serve sin. 
 
 <sup>7</sup> For he that is dead is freed from sin. 
 
@@ -28,7 +28,7 @@ weight: 6
 
 <sup>12</sup> Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof. 
 
-<sup>13</sup> Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God. 
+<sup>13</sup> Neither yield ye your members *as* instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members *as* instruments of righteousness unto God. 
 
 <sup>14</sup> For sin shall not have dominion over you: for ye are not under the law, but under grace. 
 
@@ -44,10 +44,9 @@ weight: 6
 
 <sup>20</sup> For when ye were the servants of sin, ye were free from righteousness. 
 
-<sup>21</sup> What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death. 
+<sup>21</sup> What fruit had ye then in those things whereof ye are now ashamed? for the end of those things *is* death. 
 
 <sup>22</sup> But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life. 
 
-<sup>23</sup> For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. 
-
+<sup>23</sup> For the wages of sin *is* death; but the gift of God *is* eternal life through Jesus Christ our Lord. 
 

@@ -18,7 +18,7 @@ weight: 18
 
 <sup>7</sup> How much she hath glorified herself, and lived deliciously, so much torment and sorrow give her: for she saith in her heart, I sit a queen, and am no widow, and shall see no sorrow. 
 
-<sup>8</sup> Therefore shall her plagues come in one day, death, and mourning, and famine; and she shall be utterly burned with fire: for strong is the Lord God who judgeth her. 
+<sup>8</sup> Therefore shall her plagues come in one day, death, and mourning, and famine; and she shall be utterly burned with fire: for strong *is* the Lord God who judgeth her. 
 
 <sup>9</sup> And the kings of the earth, who have committed fornication and lived deliciously with her, shall bewail her, and lament for her, when they shall see the smoke of her burning, 
 
@@ -38,18 +38,17 @@ weight: 18
 
 <sup>17</sup> For in one hour so great riches is come to nought. And every shipmaster, and all the company in ships, and sailors, and as many as trade by sea, stood afar off, 
 
-<sup>18</sup> And cried when they saw the smoke of her burning, saying, What city is like unto this great city! 
+<sup>18</sup> And cried when they saw the smoke of her burning, saying, What *city is* like unto this great city! 
 
 <sup>19</sup> And they cast dust on their heads, and cried, weeping and wailing, saying, Alas, alas, that great city, wherein were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate. 
 
-<sup>20</sup> Rejoice over her, thou heaven, and ye holy apostles and prophets; for God hath avenged you on her. 
+<sup>20</sup> Rejoice over her, *thou* heaven, and *ye* holy apostles and prophets; for God hath avenged you on her. 
 
-<sup>21</sup> And a mighty angel took up a stone like a great millstone, and cast it into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all. 
+<sup>21</sup> And a mighty angel took up a stone like a great millstone, and cast *it* into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all. 
 
-<sup>22</sup> And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft he be, shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee; 
+<sup>22</sup> And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft *he be*, shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee; 
 
 <sup>23</sup> And the light of a candle shall shine no more at all in thee; and the voice of the bridegroom and of the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth; for by thy sorceries were all nations deceived. 
 
 <sup>24</sup> And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth. 
-
 

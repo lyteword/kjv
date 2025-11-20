@@ -4,19 +4,19 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God, 
+<sup>1</sup> Paul, a servant of Jesus Christ, called *to be* an apostle, separated unto the gospel of God, 
 
-<sup>2</sup> (Which he had promised afore by his prophets in the holy scriptures,) 
+<sup>2</sup> ( Which he had promised afore by his prophets in the holy scriptures,) 
 
 <sup>3</sup> Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh; 
 
-<sup>4</sup> And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead: 
+<sup>4</sup> And declared *to be* the Son of God with power, according to the spirit of holiness, by the resurrection from the dead: 
 
 <sup>5</sup> By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name: 
 
 <sup>6</sup> Among whom are ye also the called of Jesus Christ: 
 
-<sup>7</sup> To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ. 
+<sup>7</sup> To all that be in Rome, beloved of God, called *to be* saints: Grace to you and peace from God our Father, and the Lord Jesus Christ. 
 
 <sup>8</sup> First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world. 
 
@@ -28,7 +28,7 @@ weight: 1
 
 <sup>12</sup> That is, that I may be comforted together with you by the mutual faith both of you and me. 
 
-<sup>13</sup> Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles. 
+<sup>13</sup> Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, ( but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles. 
 
 <sup>14</sup> I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise. 
 
@@ -40,11 +40,11 @@ weight: 1
 
 <sup>18</sup> For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness; 
 
-<sup>19</sup> Because that which may be known of God is manifest in them; for God hath shewed it unto them. 
+<sup>19</sup> Because that which may be known of God is manifest in them; for God hath shewed *it* unto them. 
 
-<sup>20</sup> For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse: 
+<sup>20</sup> For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, *even* his eternal power and Godhead; so that they are without excuse: 
 
-<sup>21</sup> Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened. 
+<sup>21</sup> Because that, when they knew God, they glorified *him* not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened. 
 
 <sup>22</sup> Professing themselves to be wise, they became fools, 
 
@@ -58,7 +58,7 @@ weight: 1
 
 <sup>27</sup> And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet. 
 
-<sup>28</sup> And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient; 
+<sup>28</sup> And even as they did not like to retain God in *their* knowledge, God gave them over to a reprobate mind, to do those things which are not convenient; 
 
 <sup>29</sup> Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers, 
 
@@ -67,5 +67,4 @@ weight: 1
 <sup>31</sup> Without understanding, covenantbreakers, without natural affection, implacable, unmerciful: 
 
 <sup>32</sup> Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them. 
-
 

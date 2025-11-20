@@ -4,11 +4,11 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you: 
+<sup>1</sup> Finally, brethren, pray for us, that the word of the Lord may have *free* course, and be glorified, even as *it is* with you: 
 
-<sup>2</sup> And that we may be delivered from unreasonable and wicked men: for all men have not faith. 
+<sup>2</sup> And that we may be delivered from unreasonable and wicked men: for all *men* have not faith. 
 
-<sup>3</sup> But the Lord is faithful, who shall stablish you, and keep you from evil. 
+<sup>3</sup> But the Lord is faithful, who shall stablish you, and keep *you* from evil. 
 
 <sup>4</sup> And we have confidence in the Lord touching you, that ye both do and will do the things which we command you. 
 
@@ -32,11 +32,11 @@ weight: 3
 
 <sup>14</sup> And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed. 
 
-<sup>15</sup> Yet count him not as an enemy, but admonish him as a brother. 
+<sup>15</sup> Yet count *him* not as an enemy, but admonish *him* as a brother. 
 
-<sup>16</sup> Now the Lord of peace himself give you peace always by all means. The Lord be with you all. 
+<sup>16</sup> Now the Lord of peace himself give you peace always by all means. The Lord *be* with you all. 
 
 <sup>17</sup> The salutation of Paul with mine own hand, which is the token in every epistle: so I write. 
 
-<sup>18</sup> The grace of our Lord Jesus Christ be with you all. Amen. 
+<sup>18</sup> The grace of our Lord Jesus Christ *be* with you all. Amen. 
 

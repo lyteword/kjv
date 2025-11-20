@@ -18,13 +18,13 @@ weight: 5
 
 <sup>7</sup> Be not ye therefore partakers with them. 
 
-<sup>8</sup> For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light: 
+<sup>8</sup> For ye were sometimes darkness, but now *are ye* light in the Lord: walk as children of light: 
 
-<sup>9</sup> (For the fruit of the Spirit is in all goodness and righteousness and truth;) 
+<sup>9</sup> ( For the fruit of the Spirit *is* in all goodness and righteousness and truth;) 
 
 <sup>10</sup> Proving what is acceptable unto the Lord. 
 
-<sup>11</sup> And have no fellowship with the unfruitful works of darkness, but rather reprove them. 
+<sup>11</sup> And have no fellowship with the unfruitful works of darkness, but rather reprove *them*. 
 
 <sup>12</sup> For it is a shame even to speak of those things which are done of them in secret. 
 
@@ -36,7 +36,7 @@ weight: 5
 
 <sup>16</sup> Redeeming the time, because the days are evil. 
 
-<sup>17</sup> Wherefore be ye not unwise, but understanding what the will of the Lord is. 
+<sup>17</sup> Wherefore be ye not unwise, but understanding what the will of the Lord *is*. 
 
 <sup>18</sup> And be not drunk with wine, wherein is excess; but be filled with the Spirit; 
 
@@ -50,7 +50,7 @@ weight: 5
 
 <sup>23</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body. 
 
-<sup>24</sup> Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing. 
+<sup>24</sup> Therefore as the church is subject unto Christ, so *let* the wives *be* to their own husbands in every thing. 
 
 <sup>25</sup> Husbands, love your wives, even as Christ also loved the church, and gave himself for it; 
 
@@ -68,6 +68,5 @@ weight: 5
 
 <sup>32</sup> This is a great mystery: but I speak concerning Christ and the church. 
 
-<sup>33</sup> Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband. 
-
+<sup>33</sup> Nevertheless let every one of you in particular so love his wife even as himself; and the wife *see* that she reverence *her* husband. 
 

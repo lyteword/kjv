@@ -6,9 +6,9 @@ weight: 16
 
 <sup>1</sup> And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth. 
 
-<sup>2</sup> And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and upon them which worshipped his image. 
+<sup>2</sup> And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and *upon* them which worshipped his image. 
 
-<sup>3</sup> And the second angel poured out his vial upon the sea; and it became as the blood of a dead man: and every living soul died in the sea. 
+<sup>3</sup> And the second angel poured out his vial upon the sea; and it became as the blood of a dead *man*: and every living soul died in the sea. 
 
 <sup>4</sup> And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood. 
 
@@ -16,7 +16,7 @@ weight: 16
 
 <sup>6</sup> For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy. 
 
-<sup>7</sup> And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous are thy judgments. 
+<sup>7</sup> And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous *are* thy judgments. 
 
 <sup>8</sup> And the fourth angel poured out his vial upon the sun; and power was given unto him to scorch men with fire. 
 
@@ -28,22 +28,21 @@ weight: 16
 
 <sup>12</sup> And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared. 
 
-<sup>13</sup> And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet. 
+<sup>13</sup> And I saw three unclean spirits like frogs *come* out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet. 
 
-<sup>14</sup> For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty. 
+<sup>14</sup> For they are the spirits of devils, working miracles, *which* go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty. 
 
-<sup>15</sup> Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame. 
+<sup>15</sup> Behold, I come as a thief. Blessed *is* he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame. 
 
 <sup>16</sup> And he gathered them together into a place called in the Hebrew tongue Armageddon. 
 
 <sup>17</sup> And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done. 
 
-<sup>18</sup> And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, and so great. 
+<sup>18</sup> And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, *and* so great. 
 
 <sup>19</sup> And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath. 
 
 <sup>20</sup> And every island fled away, and the mountains were not found. 
 
-<sup>21</sup> And there fell upon men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great. 
-
+<sup>21</sup> And there fell upon men a great hail out of heaven, *every stone* about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great. 
 

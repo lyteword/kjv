@@ -6,7 +6,7 @@ weight: 15
 
 <sup>1</sup> We then that are strong ought to bear the infirmities of the weak, and not to please ourselves. 
 
-<sup>2</sup> Let every one of us please his neighbour for his good to edification. 
+<sup>2</sup> Let every one of us please *his* neighbour for *his* good to edification. 
 
 <sup>3</sup> For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me. 
 
@@ -14,13 +14,13 @@ weight: 15
 
 <sup>5</sup> Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus: 
 
-<sup>6</sup> That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ. 
+<sup>6</sup> That ye may with one mind *and* one mouth glorify God, even the Father of our Lord Jesus Christ. 
 
 <sup>7</sup> Wherefore receive ye one another, as Christ also received us to the glory of God. 
 
-<sup>8</sup> Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers: 
+<sup>8</sup> Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises *made* unto the fathers: 
 
-<sup>9</sup> And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name. 
+<sup>9</sup> And that the Gentiles might glorify God for *his* mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name. 
 
 <sup>10</sup> And again he saith, Rejoice, ye Gentiles, with his people. 
 
@@ -50,7 +50,7 @@ weight: 15
 
 <sup>23</sup> But now having no more place in these parts, and having a great desire these many years to come unto you; 
 
-<sup>24</sup> Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your company. 
+<sup>24</sup> Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your *company*. 
 
 <sup>25</sup> But now I go unto Jerusalem to minister unto the saints. 
 
@@ -62,12 +62,11 @@ weight: 15
 
 <sup>29</sup> And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Christ. 
 
-<sup>30</sup> Now I beseech you, brethren, for the Lord Jesus Christ’s sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me; 
+<sup>30</sup> Now I beseech you, brethren, for the Lord Jesus Christ’s sake, and for the love of the Spirit, that ye strive together with me in *your* prayers to God for me; 
 
-<sup>31</sup> That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints; 
+<sup>31</sup> That I may be delivered from them that do not believe in Judaea; and that my service which *I have* for Jerusalem may be accepted of the saints; 
 
 <sup>32</sup> That I may come unto you with joy by the will of God, and may with you be refreshed. 
 
-<sup>33</sup> Now the God of peace be with you all. Amen. 
-
+<sup>33</sup> Now the God of peace *be* with you all. Amen. 
 

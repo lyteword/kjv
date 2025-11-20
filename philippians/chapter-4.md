@@ -4,27 +4,27 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved. 
+<sup>1</sup> Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, *my* dearly beloved. 
 
 <sup>2</sup> I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord. 
 
-<sup>3</sup> And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life. 
+<sup>3</sup> And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and *with* other my fellowlabourers, whose names *are* in the book of life. 
 
-<sup>4</sup> Rejoice in the Lord alway: and again I say, Rejoice. 
+<sup>4</sup> Rejoice in the Lord alway: *and* again I say, Rejoice. 
 
-<sup>5</sup> Let your moderation be known unto all men. The Lord is at hand. 
+<sup>5</sup> Let your moderation be known unto all men. The Lord *is* at hand. 
 
 <sup>6</sup> Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. 
 
 <sup>7</sup> And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus. 
 
-<sup>8</sup> Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things. 
+<sup>8</sup> Finally, brethren, whatsoever things are true, whatsoever things *are* honest, whatsoever things *are* just, whatsoever things *are* pure, whatsoever things *are* lovely, whatsoever things *are* of good report; if *there be* any virtue, and if *there be* any praise, think on these things. 
 
 <sup>9</sup> Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you. 
 
-<sup>10</sup> But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity. 
+<sup>10</sup> But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; where in ye were also careful, but ye lacked opportunity. 
 
-<sup>11</sup> Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content. 
+<sup>11</sup> Not that I speak in respect of want: for I have learned, in whatsoever state I am, *therewith* to be content. 
 
 <sup>12</sup> I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need. 
 
@@ -38,15 +38,15 @@ weight: 4
 
 <sup>17</sup> Not because I desire a gift: but I desire fruit that may abound to your account. 
 
-<sup>18</sup> But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God. 
+<sup>18</sup> But I have all, and abound: I am full, having received of Epaphroditus the things *which were sent* from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God. 
 
 <sup>19</sup> But my God shall supply all your need according to his riches in glory by Christ Jesus. 
 
-<sup>20</sup> Now unto God and our Father be glory for ever and ever. Amen. 
+<sup>20</sup> Now unto God and our Father *be* glory for ever and ever. Amen. 
 
 <sup>21</sup> Salute every saint in Christ Jesus. The brethren which are with me greet you. 
 
 <sup>22</sup> All the saints salute you, chiefly they that are of Caesar’s household. 
 
-<sup>23</sup> The grace of our Lord Jesus Christ be with you all. Amen. 
+<sup>23</sup> The grace of our Lord Jesus Christ *be* with you all. Amen. 
 

@@ -10,9 +10,9 @@ weight: 2
 
 <sup>3</sup> Thou therefore endure hardness, as a good soldier of Jesus Christ. 
 
-<sup>4</sup> No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier. 
+<sup>4</sup> No man that warreth entangleth himself with the affairs of *this* life; that he may please him who hath chosen him to be a soldier. 
 
-<sup>5</sup> And if a man also strive for masteries, yet is he not crowned, except he strive lawfully. 
+<sup>5</sup> And if a man also strive for masteries, *yet* is he not crowned, except he strive lawfully. 
 
 <sup>6</sup> The husbandman that laboureth must be first partaker of the fruits. 
 
@@ -20,21 +20,21 @@ weight: 2
 
 <sup>8</sup> Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel: 
 
-<sup>9</sup> Where in I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound. 
+<sup>9</sup> Where in I suffer trouble, as an evil doer, *even* unto bonds; but the word of God is not bound. 
 
 <sup>10</sup> Therefore I endure all things for the elect’s sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory. 
 
-<sup>11</sup> It is a faithful saying: For if we be dead with him, we shall also live with him: 
+<sup>11</sup> *It is* a faithful saying: For if we be dead with *him*, we shall also live with *him*: 
 
-<sup>12</sup> If we suffer, we shall also reign with him: if we deny him, he also will deny us: 
+<sup>12</sup> If we suffer, we shall also reign with *him*: if we deny *him*, he also will deny us: 
 
-<sup>13</sup> If we believe not, yet he abideth faithful: he can not deny himself. 
+<sup>13</sup> If we believe not, *yet* he abideth faithful: he can not deny himself. 
 
-<sup>14</sup> Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers. 
+<sup>14</sup> Of these things put *them* in remembrance, charging *them* before the Lord that they strive not about words to no profit, *but* to the subverting of the hearers. 
 
 <sup>15</sup> Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. 
 
-<sup>16</sup> But shun profane and vain babblings: for they will increase unto more ungodliness. 
+<sup>16</sup> But shun profane *and* vain babblings: for they will increase unto more ungodliness. 
 
 <sup>17</sup> And their word will eat as doth a canker: of whom is Hymenaeus and Philetus; 
 
@@ -44,16 +44,15 @@ weight: 2
 
 <sup>20</sup> But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour. 
 
-<sup>21</sup> If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, and prepared unto every good work. 
+<sup>21</sup> If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, *and* prepared unto every good work. 
 
 <sup>22</sup> Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart. 
 
 <sup>23</sup> But foolish and unlearned questions avoid, knowing that they do gender strifes. 
 
-<sup>24</sup> And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient, 
+<sup>24</sup> And the servant of the Lord must not strive; but be gentle unto all *men*, apt to teach, patient, 
 
 <sup>25</sup> In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth; 
 
-<sup>26</sup> And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will. 
-
+<sup>26</sup> And *that* they may recover themselves out of the snare of the devil, who are taken captive by him at his will. 
 

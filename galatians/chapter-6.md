@@ -18,11 +18,11 @@ weight: 6
 
 <sup>7</sup> Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. 
 
-<sup>8</sup> For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting. 
+<sup>8</sup> For he that soweth to his flesh shall of the flesh reap corruption; but he tha t soweth to the Spirit shall of the Spirit reap life everlasting. 
 
 <sup>9</sup> And let us not be weary in well doing: for in due season we shall reap, if we faint not. 
 
-<sup>10</sup> As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith. 
+<sup>10</sup> As we have therefore opportunity, let us do good unto all *men*, especially unto them who are of the household of faith. 
 
 <sup>11</sup> Ye see how large a letter I have written unto you with mine own hand. 
 
@@ -34,9 +34,9 @@ weight: 6
 
 <sup>15</sup> For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature. 
 
-<sup>16</sup> And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God. 
+<sup>16</sup> And as many as walk according to this rule, peace *be* on them, and mercy, and upon the Israel of God. 
 
 <sup>17</sup> From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus. 
 
-<sup>18</sup> Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen. 
+<sup>18</sup> Brethren, the grace of our Lord Jesus Christ *be* with your spirit. Amen. 
 

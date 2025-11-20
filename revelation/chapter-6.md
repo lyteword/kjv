@@ -10,11 +10,11 @@ weight: 6
 
 <sup>3</sup> And when he had opened the second seal, I heard the second beast say, Come and see. 
 
-<sup>4</sup> And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword. 
+<sup>4</sup> And there went out another horse *that was* red: and *power* was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword. 
 
 <sup>5</sup> And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand. 
 
-<sup>6</sup> And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine. 
+<sup>6</sup> And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and *see* thou hurt not the oil and the wine. 
 
 <sup>7</sup> And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see. 
 
@@ -24,7 +24,7 @@ weight: 6
 
 <sup>10</sup> And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth? 
 
-<sup>11</sup> And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled. 
+<sup>11</sup> And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they *were*, should be fulfilled. 
 
 <sup>12</sup> And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood; 
 
@@ -37,5 +37,4 @@ weight: 6
 <sup>16</sup> And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb: 
 
 <sup>17</sup> For the great day of his wrath is come; and who shall be able to stand? 
-
 

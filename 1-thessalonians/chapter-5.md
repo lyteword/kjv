@@ -14,7 +14,7 @@ weight: 5
 
 <sup>5</sup> Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness. 
 
-<sup>6</sup> Therefore let us not sleep, as do others; but let us watch and be sober. 
+<sup>6</sup> Therefore let us not sleep, as *do* others; but let us watch and be sober. 
 
 <sup>7</sup> For they that sleep sleep in the night; and they that be drunken are drunken in the night. 
 
@@ -28,11 +28,11 @@ weight: 5
 
 <sup>12</sup> And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you; 
 
-<sup>13</sup> And to esteem them very highly in love for their work’s sake. And be at peace among yourselves. 
+<sup>13</sup> And to esteem them very highly in love for their work’s sake. *And* be at peace among yourselves. 
 
-<sup>14</sup> Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men. 
+<sup>14</sup> Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all *men*. 
 
-<sup>15</sup> See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men. 
+<sup>15</sup> See that none render evil for evil unto any *man*; but ever follow that which is good, both among yourselves, and to all *men*. 
 
 <sup>16</sup> Rejoice evermore. 
 
@@ -48,9 +48,9 @@ weight: 5
 
 <sup>22</sup> Abstain from all appearance of evil. 
 
-<sup>23</sup> And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ. 
+<sup>23</sup> And the very God of peace sanctify you wholly; and *I pray God* your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ. 
 
-<sup>24</sup> Faithful is he that calleth you, who also will do it. 
+<sup>24</sup> Faithful *is* he that calleth you, who also will do *it.* 
 
 <sup>25</sup> Brethren, pray for us. 
 
@@ -58,5 +58,5 @@ weight: 5
 
 <sup>27</sup> I charge you by the Lord that this epistle be read unto all the holy brethren. 
 
-<sup>28</sup> The grace of our Lord Jesus Christ be with you. Amen. 
+<sup>28</sup> The grace of our Lord Jesus Christ *be* with you. Amen. 
 

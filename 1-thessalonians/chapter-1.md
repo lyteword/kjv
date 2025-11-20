@@ -4,7 +4,7 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ. 
+<sup>1</sup> Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians *which is* in God the Father and *in* the Lord Jesus Christ: Grace *be* unto you, and peace, from God our Father, and the Lord Jesus Christ. 
 
 <sup>2</sup> We give thanks to God always for you all, making mention of you in our prayers; 
 
@@ -18,10 +18,9 @@ weight: 1
 
 <sup>7</sup> So that ye were ensamples to all that believe in Macedonia and Achaia. 
 
-<sup>8</sup> For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing. 
+<sup>8</sup> For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God- ward is spread abroad; so that we need not to speak any thing. 
 
 <sup>9</sup> For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God; 
 
-<sup>10</sup> And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come. 
-
+<sup>10</sup> And to wait for his Son from heaven, whom he raised from the dead, *even* Jesus, which delivered us from the wrath to come. 
 

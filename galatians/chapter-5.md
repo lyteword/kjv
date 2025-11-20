@@ -18,7 +18,7 @@ weight: 5
 
 <sup>7</sup> Ye did run well; who did hinder you that ye should not obey the truth? 
 
-<sup>8</sup> This persuasion cometh not of him that calleth you. 
+<sup>8</sup> This persuasion *cometh* not of him that calleth you. 
 
 <sup>9</sup> A little leaven leaveneth the whole lump. 
 
@@ -28,23 +28,23 @@ weight: 5
 
 <sup>12</sup> I would they were even cut off which trouble you. 
 
-<sup>13</sup> For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another. 
+<sup>13</sup> For, brethren, ye have been called unto liberty; only *use* not liberty for an occasion to the flesh, but by love serve one another. 
 
-<sup>14</sup> For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself. 
+<sup>14</sup> For all the law is fulfilled in one word, *even* in this; Thou shalt love thy neighbour as thyself. 
 
 <sup>15</sup> But if ye bite and devour one another, take heed that ye be not consumed one of another. 
 
-<sup>16</sup> This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh. 
+<sup>16</sup> *This* I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh. 
 
 <sup>17</sup> For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would. 
 
 <sup>18</sup> But if ye be led of the Spirit, ye are not under the law. 
 
-<sup>19</sup> Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness, 
+<sup>19</sup> Now the works of the flesh are manifest, which are *these*; Adultery, fornication, uncleanness, lasciviousness, 
 
 <sup>20</sup> Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies, 
 
-<sup>21</sup> Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God. 
+<sup>21</sup> Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told *you* in time past, that they which do such things shall not inherit the kingdom of God. 
 
 <sup>22</sup> But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, 
 
@@ -55,5 +55,4 @@ weight: 5
 <sup>25</sup> If we live in the Spirit, let us also walk in the Spirit. 
 
 <sup>26</sup> Let us not be desirous of vain glory, provoking one another, envying one another. 
-
 

@@ -4,7 +4,7 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons. 
+<sup>1</sup> My brethren, have not the faith of our Lord Jesus Christ, *the Lord* of glory, with respect of persons. 
 
 <sup>2</sup> For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment; 
 
@@ -22,7 +22,7 @@ weight: 2
 
 <sup>9</sup> But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors. 
 
-<sup>10</sup> For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all. 
+<sup>10</sup> For whosoever shall keep the whole law, and yet offend in one *point*, he is guilty of all. 
 
 <sup>11</sup> For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law. 
 
@@ -30,11 +30,11 @@ weight: 2
 
 <sup>13</sup> For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment. 
 
-<sup>14</sup> What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? 
+<sup>14</sup> What *doth it* profit, my brethren, though a man say he hath faith, and have not works? can faith save him? 
 
 <sup>15</sup> If a brother or sister be naked, and destitute of daily food, 
 
-<sup>16</sup> And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit? 
+<sup>16</sup> And one of you say unto them, Depart in peace, be *ye* warmed and filled; notwithstanding ye give them not those things which are needful to the body; what *doth it* profit? 
 
 <sup>17</sup> Even so faith, if it hath not works, is dead, being alone. 
 
@@ -52,8 +52,7 @@ weight: 2
 
 <sup>24</sup> Ye see then how that by works a man is justified, and not by faith only. 
 
-<sup>25</sup> Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 
+<sup>25</sup> Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent *them* out another way? 
 
 <sup>26</sup> For as the body without the spirit is dead, so faith without works is dead also. 
-
 

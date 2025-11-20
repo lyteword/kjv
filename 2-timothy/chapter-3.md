@@ -20,22 +20,21 @@ weight: 3
 
 <sup>8</sup> Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith. 
 
-<sup>9</sup> But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was. 
+<sup>9</sup> But they shall proceed no further: for their folly shall be manifest unto all *men*, as theirs also was. 
 
 <sup>10</sup> But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience, 
 
-<sup>11</sup> Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me. 
+<sup>11</sup> Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of *them* all the Lord delivered me. 
 
 <sup>12</sup> Yea, and all that will live godly in Christ Jesus shall suffer persecution. 
 
 <sup>13</sup> But evil men and seducers shall wax worse and worse, deceiving, and being deceived. 
 
-<sup>14</sup> But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them; 
+<sup>14</sup> But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned *them*; 
 
 <sup>15</sup> And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus. 
 
-<sup>16</sup> All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: 
+<sup>16</sup> All scripture *is* given by inspiration of God, and *is* profitable for doctrine, for reproof, for correction, for instruction in righteousness: 
 
 <sup>17</sup> That the man of God may be perfect, throughly furnished unto all good works. 
-
 

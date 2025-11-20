@@ -8,7 +8,7 @@ weight: 1
 
 <sup>2</sup> For the truth’s sake, which dwelleth in us, and shall be with us for ever. 
 
-<sup>3</sup> Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love. 
+<sup>3</sup> Grace be with you, mercy, *and* peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love. 
 
 <sup>4</sup> I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father. 
 
@@ -22,11 +22,11 @@ weight: 1
 
 <sup>9</sup> Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son. 
 
-<sup>10</sup> If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed: 
+<sup>10</sup> If there come any unto you, and bring not this doctrine, receive him not into *your* house, neither bid him God speed: 
 
 <sup>11</sup> For he that biddeth him God speed is partaker of his evil deeds. 
 
-<sup>12</sup> Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full. 
+<sup>12</sup> Having many things to write unto you, I would not *write* with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full. 
 
 <sup>13</sup> The children of thy elect sister greet thee. Amen. 
 

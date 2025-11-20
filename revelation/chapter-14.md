@@ -4,13 +4,13 @@ weight: 14
 
 # Chapter 14
 
-<sup>1</sup> And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father’s name written in their foreheads. 
+<sup>1</sup> And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty *and* four thousand, having his Father’s name written in their foreheads. 
 
 <sup>2</sup> And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps: 
 
-<sup>3</sup> And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred and forty and four thousand, which were redeemed from the earth. 
+<sup>3</sup> And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred *and* forty *and* four thousand, which were redeemed from the earth. 
 
-<sup>4</sup> These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, being the firstfruits unto God and to the Lamb. 
+<sup>4</sup> These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, *being* the firstfruits unto God and to the Lamb. 
 
 <sup>5</sup> And in their mouth was found no guile: for they are without fault before the throne of God. 
 
@@ -20,17 +20,17 @@ weight: 14
 
 <sup>8</sup> And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication. 
 
-<sup>9</sup> And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand, 
+<sup>9</sup> And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive *his* mark in his forehead, or in his hand, 
 
 <sup>10</sup> The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb: 
 
 <sup>11</sup> And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name. 
 
-<sup>12</sup> Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus. 
+<sup>12</sup> Here is the patience of the saints: here *are* they that keep the commandments of God, and the faith of Jesus. 
 
-<sup>13</sup> And I heard a voice from heaven saying unto me, Write, Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them. 
+<sup>13</sup> And I heard a voice from heaven saying unto me, Write, Blessed *are* the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them. 
 
-<sup>14</sup> And I looked, and behold a white cloud, and upon the cloud one sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle. 
+<sup>14</sup> And I looked, and behold a white cloud, and upon the cloud *one* sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle. 
 
 <sup>15</sup> And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe. 
 
@@ -40,8 +40,7 @@ weight: 14
 
 <sup>18</sup> And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe. 
 
-<sup>19</sup> And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the wrath of God. 
+<sup>19</sup> And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast *it* into the great winepress of the wrath of God. 
 
-<sup>20</sup> And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs. 
-
+<sup>20</sup> And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand *and* six hundred furlongs. 
 

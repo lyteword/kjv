@@ -6,9 +6,9 @@ weight: 1
 
 <sup>1</sup> That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; 
 
-<sup>2</sup> (For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;) 
+<sup>2</sup> ( For the life was manifested, and we have seen *it*, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;) 
 
-<sup>3</sup> That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ. 
+<sup>3</sup> That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship *is* with the Father, and with his Son Jesus Christ. 
 
 <sup>4</sup> And these things write we unto you, that your joy may be full. 
 
@@ -20,8 +20,7 @@ weight: 1
 
 <sup>8</sup> If we say that we have no sin, we deceive ourselves, and the truth is not in us. 
 
-<sup>9</sup> If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. 
+<sup>9</sup> If we confess our sins, he is faithful and just to forgive us *our* sins, and to cleanse us from all unrighteousness. 
 
 <sup>10</sup> If we say that we have not sinned, we make him a liar, and his word is not in us. 
-
 

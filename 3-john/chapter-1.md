@@ -22,13 +22,13 @@ weight: 1
 
 <sup>9</sup> I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not. 
 
-<sup>10</sup> Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church. 
+<sup>10</sup> Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth *them* out of the church. 
 
 <sup>11</sup> Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God. 
 
-<sup>12</sup> Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true. 
+<sup>12</sup> Demetrius hath good report of all *men*, and of the truth itself: yea, and we *also* bear record; and ye know that our record is true. 
 
 <sup>13</sup> I had many things to write, but I will not with ink and pen write unto thee: 
 
-<sup>14</sup> But I trust I shall shortly see thee, and we shall speak face to face. Peace be to thee. Our friends salute thee. Greet the friends by name. 
+<sup>14</sup> But I trust I shall shortly see thee, and we shall speak face to face. Peace *be* to thee. *Our* friends salute thee. Greet the friends by name. 
 

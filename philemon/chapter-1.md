@@ -4,9 +4,9 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer, 
+<sup>1</sup> Paul, a prisoner of Jesus Christ, and Timothy *our* brother, unto Philemon our dearly beloved, and fellowlabourer, 
 
-<sup>2</sup> And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house: 
+<sup>2</sup> And to *our* beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house: 
 
 <sup>3</sup> Grace to you, and peace, from God our Father and the Lord Jesus Christ. 
 
@@ -20,7 +20,7 @@ weight: 1
 
 <sup>8</sup> Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient, 
 
-<sup>9</sup> Yet for love’s sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ. 
+<sup>9</sup> Yet for love’s sake I rather beseech *thee*, being such an one as Paul the aged, and now also a prisoner of Jesus Christ. 
 
 <sup>10</sup> I beseech thee for my son Onesimus, whom I have begotten in my bonds: 
 
@@ -38,9 +38,9 @@ weight: 1
 
 <sup>17</sup> If thou count me therefore a partner, receive him as myself. 
 
-<sup>18</sup> If he hath wronged thee, or oweth thee ought, put that on mine account; 
+<sup>18</sup> If he hath wronged thee, or oweth *thee* ought, put that on mine account; 
 
-<sup>19</sup> I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides. 
+<sup>19</sup> I Paul have written *it* with mine own hand, I will repay *it*: albeit I do not say to thee how thou owest unto me even thine own self besides. 
 
 <sup>20</sup> Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord. 
 
@@ -52,5 +52,5 @@ weight: 1
 
 <sup>24</sup> Marcus, Aristarchus, Demas, Lucas, my fellowlabourers. 
 
-<sup>25</sup> The grace of our Lord Jesus Christ be with your spirit. Amen. 
+<sup>25</sup> The grace of our Lord Jesus Christ *be* with your spirit. Amen. 
 

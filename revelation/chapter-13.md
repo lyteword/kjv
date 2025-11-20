@@ -6,13 +6,13 @@ weight: 13
 
 <sup>1</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy. 
 
-<sup>2</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority. 
+<sup>2</sup> And the beast which I saw was like unto a leopard, and his feet were as *the feet* of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority. 
 
 <sup>3</sup> And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast. 
 
-<sup>4</sup> And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him? 
+<sup>4</sup> And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who *is* like unto the beast? who is able to make war with him? 
 
-<sup>5</sup> And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months. 
+<sup>5</sup> And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty *and* two months. 
 
 <sup>6</sup> And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven. 
 
@@ -30,7 +30,7 @@ weight: 13
 
 <sup>13</sup> And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men, 
 
-<sup>14</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live. 
+<sup>14</sup> And deceiveth them that dwell on the earth by *the means of* those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live. 
 
 <sup>15</sup> And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed. 
 
@@ -38,6 +38,5 @@ weight: 13
 
 <sup>17</sup> And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name. 
 
-<sup>18</sup> Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six. 
-
+<sup>18</sup> Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number *is* Six hundred threescore *and* six. 
 

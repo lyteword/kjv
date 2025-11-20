@@ -8,11 +8,11 @@ weight: 8
 
 <sup>2</sup> And I saw the seven angels which stood before God; and to them were given seven trumpets. 
 
-<sup>3</sup> And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer it with the prayers of all saints upon the golden altar which was before the throne. 
+<sup>3</sup> And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer *it* with the prayers of all saints upon the golden altar which was before the throne. 
 
-<sup>4</sup> And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel’s hand. 
+<sup>4</sup> And the smoke of the incense, *which came* with the prayers of the saints, ascended up before God out of the angel’s hand. 
 
-<sup>5</sup> And the angel took the censer, and filled it with fire of the altar, and cast it into the earth: and there were voices, and thunderings, and lightnings, and an earthquake. 
+<sup>5</sup> And the angel took the censer, and filled it with fire of the altar, and cast *it* into the earth: and there were voices, and thunderings, and lightnings, and an earthquake. 
 
 <sup>6</sup> And the seven angels which had the seven trumpets prepared themselves to sound. 
 
@@ -29,5 +29,4 @@ weight: 8
 <sup>12</sup> And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise. 
 
 <sup>13</sup> And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound! 
-
 

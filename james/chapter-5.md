@@ -4,7 +4,7 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Go to now, ye rich men, weep and howl for your miseries that shall come upon you. 
+<sup>1</sup> Go to now, *ye* rich men, weep and howl for your miseries that shall come upon *you*. 
 
 <sup>2</sup> Your riches are corrupted, and your garments are motheaten. 
 
@@ -14,7 +14,7 @@ weight: 5
 
 <sup>5</sup> Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter. 
 
-<sup>6</sup> Ye have condemned and killed the just; and he doth not resist you. 
+<sup>6</sup> Ye have condemned *and* killed the just; *and* he doth not resist you. 
 
 <sup>7</sup> Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain. 
 
@@ -26,7 +26,7 @@ weight: 5
 
 <sup>11</sup> Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy. 
 
-<sup>12</sup> But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation. 
+<sup>12</sup> But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and *your* nay, nay; lest ye fall into condemnation. 
 
 <sup>13</sup> Is any among you afflicted? let him pray. Is any merry? let him sing psalms. 
 
@@ -34,7 +34,7 @@ weight: 5
 
 <sup>15</sup> And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him. 
 
-<sup>16</sup> Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much. 
+<sup>16</sup> Confess *your* faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much. 
 
 <sup>17</sup> Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months. 
 

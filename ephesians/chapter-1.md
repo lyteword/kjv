@@ -6,9 +6,9 @@ weight: 1
 
 <sup>1</sup> Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus: 
 
-<sup>2</sup> Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ. 
+<sup>2</sup> Grace *be* to you, and peace, from God our Father, and *from* the Lord Jesus Christ. 
 
-<sup>3</sup> Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ: 
+<sup>3</sup> Blessed *be* the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly *places* in Christ: 
 
 <sup>4</sup> According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: 
 
@@ -22,13 +22,13 @@ weight: 1
 
 <sup>9</sup> Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself: 
 
-<sup>10</sup> That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him: 
+<sup>10</sup> That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; *even* in him: 
 
 <sup>11</sup> In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will: 
 
 <sup>12</sup> That we should be to the praise of his glory, who first trusted in Christ. 
 
-<sup>13</sup> In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise, 
+<sup>13</sup> In whom ye also *trusted*, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise, 
 
 <sup>14</sup> Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory. 
 
@@ -40,14 +40,13 @@ weight: 1
 
 <sup>18</sup> The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints, 
 
-<sup>19</sup> And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power, 
+<sup>19</sup> And what *is* the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power, 
 
-<sup>20</sup> Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places, 
+<sup>20</sup> Which he wrought in Christ, when he raised him from the dead, and set *him* at his own right hand in the heavenly *places*, 
 
 <sup>21</sup> Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come: 
 
-<sup>22</sup> And hath put all things under his feet, and gave him to be the head over all things to the church, 
+<sup>22</sup> And hath put all *things* under his feet, and gave him *to be* the head over all *things* to the church, 
 
 <sup>23</sup> Which is his body, the fulness of him that filleth all in all. 
-
 

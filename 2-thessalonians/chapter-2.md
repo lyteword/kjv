@@ -4,11 +4,11 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him, 
+<sup>1</sup> Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and *by* our gathering together unto him, 
 
 <sup>2</sup> That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand. 
 
-<sup>3</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition; 
+<sup>3</sup> Let no man deceive you by any means: for *that day shall not come*, except there come a falling away first, and that man of sin be revealed, the son of perdition; 
 
 <sup>4</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God. 
 
@@ -16,11 +16,11 @@ weight: 2
 
 <sup>6</sup> And now ye know what withholdeth that he might be revealed in his time. 
 
-<sup>7</sup> For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way. 
+<sup>7</sup> For the mystery of iniquity doth already work: only he who now letteth *will let*, until he be taken out of the way. 
 
 <sup>8</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming: 
 
-<sup>9</sup> Even him, whose coming is after the working of Satan with all power and signs and lying wonders, 
+<sup>9</sup> *Even him*, whose coming is after the working of Satan with all power and signs and lying wonders, 
 
 <sup>10</sup> And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. 
 
@@ -34,8 +34,7 @@ weight: 2
 
 <sup>15</sup> Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle. 
 
-<sup>16</sup> Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace, 
+<sup>16</sup> Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given *us* everlasting consolation and good hope through grace, 
 
 <sup>17</sup> Comfort your hearts, and stablish you in every good word and work. 
-
 

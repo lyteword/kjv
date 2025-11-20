@@ -10,7 +10,7 @@ weight: 1
 
 <sup>3</sup> But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour; 
 
-<sup>4</sup> To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour. 
+<sup>4</sup> To Titus, *mine* own son after the common faith: Grace, mercy, *and* peace, from God the Father and the Lord Jesus Christ our Saviour. 
 
 <sup>5</sup> For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee: 
 
@@ -26,14 +26,13 @@ weight: 1
 
 <sup>11</sup> Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake. 
 
-<sup>12</sup> One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies. 
+<sup>12</sup> One of themselves, *even* a prophet of their own, said, The Cretians *are* alway liars, evil beasts, slow bellies. 
 
 <sup>13</sup> This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith; 
 
 <sup>14</sup> Not giving heed to Jewish fables, and commandments of men, that turn from the truth. 
 
-<sup>15</sup> Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled. 
+<sup>15</sup> Unto the pure all things *are* pure: but unto them that are defiled and unbelieving *is* nothing pure; but even their mind and conscience is defiled. 
 
-<sup>16</sup> They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate. 
-
+<sup>16</sup> They profess that they know God; but in works they deny *him*, being abominable, and disobedient, and unto every good work reprobate. 
 

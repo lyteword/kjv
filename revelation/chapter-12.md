@@ -12,9 +12,9 @@ weight: 12
 
 <sup>4</sup> And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born. 
 
-<sup>5</sup> And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne. 
+<sup>5</sup> And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and *to* his throne. 
 
-<sup>6</sup> And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred and threescore days. 
+<sup>6</sup> And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred *and* threescore days. 
 
 <sup>7</sup> And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels, 
 
@@ -26,9 +26,9 @@ weight: 12
 
 <sup>11</sup> And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death. 
 
-<sup>12</sup> Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time. 
+<sup>12</sup> Therefore rejoice, *ye* heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time. 
 
-<sup>13</sup> And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child. 
+<sup>13</sup> And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man *child*. 
 
 <sup>14</sup> And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent. 
 
@@ -37,5 +37,4 @@ weight: 12
 <sup>16</sup> And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth. 
 
 <sup>17</sup> And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ. 
-
 

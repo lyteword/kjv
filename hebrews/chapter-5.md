@@ -4,17 +4,17 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins: 
+<sup>1</sup> For every high priest taken from among men is ordained for men in things *pertaining* to God, that he may offer both gifts and sacrifices for sins: 
 
 <sup>2</sup> Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity. 
 
-<sup>3</sup> And by reason hereof he ought, as for the people, so also for himself, to offer for sins. 
+<sup>3</sup> And by reason here of he ought, as for the people, so also for himself, to offer for sins. 
 
-<sup>4</sup> And no man taketh this honour unto himself, but he that is called of God, as was Aaron. 
+<sup>4</sup> And no man taketh this honour unto himself, but he that is called of God, as *was* Aaron. 
 
 <sup>5</sup> So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee. 
 
-<sup>6</sup> As he saith also in another place, Thou art a priest for ever after the order of Melchisedec. 
+<sup>6</sup> As he saith also in another *place*, Thou *art* a priest for ever after the order of Melchisedec. 
 
 <sup>7</sup> Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared; 
 
@@ -26,10 +26,9 @@ weight: 5
 
 <sup>11</sup> Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing. 
 
-<sup>12</sup> For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat. 
+<sup>12</sup> For when for the time ye ought to be teachers, ye have need that one teach you again which *be* the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat. 
 
-<sup>13</sup> For every one that useth milk is unskilful in the word of righteousness: for he is a babe. 
+<sup>13</sup> For every one that useth milk *is* unskilful in the word of righteousness: for he is a babe. 
 
-<sup>14</sup> But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil. 
-
+<sup>14</sup> But strong meat belongeth to them that are of full age, *even* those who by reason of use have their senses exercised to discern both good and evil. 
 

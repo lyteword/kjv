@@ -4,11 +4,11 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies, 
+<sup>1</sup> If *there be* therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies, 
 
-<sup>2</sup> Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind. 
+<sup>2</sup> Fulfil ye my joy, that ye be like minded, having the same love, *being* of one accord, of one mind. 
 
-<sup>3</sup> Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. 
+<sup>3</sup> *Let* nothing *be done* through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. 
 
 <sup>4</sup> Look not every man on his own things, but every man also on the things of others. 
 
@@ -22,13 +22,13 @@ weight: 2
 
 <sup>9</sup> Wherefore God also hath highly exalted him, and given him a name which is above every name: 
 
-<sup>10</sup> That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; 
+<sup>10</sup> That at the name of Jesus every knee should bow, of *things* in heaven, and *things* in earth, and *things* under the earth; 
 
-<sup>11</sup> And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father. 
+<sup>11</sup> And *that* every tongue should confess that Jesus Christ *is* Lord, to the glory of God the Father. 
 
 <sup>12</sup> Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling. 
 
-<sup>13</sup> For it is God which worketh in you both to will and to do of his good pleasure. 
+<sup>13</sup> For it is God which worketh in you both to will and to do of *his* good pleasure. 
 
 <sup>14</sup> Do all things without murmurings and disputings: 
 
@@ -63,5 +63,4 @@ weight: 2
 <sup>29</sup> Receive him therefore in the Lord with all gladness; and hold such in reputation: 
 
 <sup>30</sup> Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me. 
-
 

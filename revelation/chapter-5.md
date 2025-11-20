@@ -18,7 +18,7 @@ weight: 5
 
 <sup>7</sup> And he came and took the book out of the right hand of him that sat upon the throne. 
 
-<sup>8</sup> And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints. 
+<sup>8</sup> And when he had taken the book, the four beasts and four *and* twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints. 
 
 <sup>9</sup> And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation; 
 
@@ -28,8 +28,7 @@ weight: 5
 
 <sup>12</sup> Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing. 
 
-<sup>13</sup> And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be unto him that sitteth upon the throne, and unto the Lamb for ever and ever. 
+<sup>13</sup> And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, *be* unto him that sitteth upon the throne, and unto the Lamb for ever and ever. 
 
-<sup>14</sup> And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever. 
-
+<sup>14</sup> And the four beasts said, Amen. And the four *and* twenty elders fell down and worshipped him that liveth for ever and ever. 
 

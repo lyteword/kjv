@@ -10,17 +10,17 @@ weight: 4
 
 <sup>3</sup> Endeavouring to keep the unity of the Spirit in the bond of peace. 
 
-<sup>4</sup> There is one body, and one Spirit, even as ye are called in one hope of your calling; 
+<sup>4</sup> *There is* one body, and one Spirit, even as ye are called in one hope of your calling; 
 
 <sup>5</sup> One Lord, one faith, one baptism, 
 
-<sup>6</sup> One God and Father of all, who is above all, and through all, and in you all. 
+<sup>6</sup> One God and Father of all, who *is* above all, and through all, and in you all. 
 
 <sup>7</sup> But unto every one of us is given grace according to the measure of the gift of Christ. 
 
 <sup>8</sup> Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men. 
 
-<sup>9</sup> (Now that he ascended, what is it but that he also descended first into the lower parts of the earth? 
+<sup>9</sup> ( Now that he ascended, what is it but that he also descended first into the lower parts of the earth? 
 
 <sup>10</sup> He that descended is the same also that ascended up far above all heavens, that he might fill all things.) 
 
@@ -30,9 +30,9 @@ weight: 4
 
 <sup>13</sup> Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: 
 
-<sup>14</sup> That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive; 
+<sup>14</sup> That we *henceforth* be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, *and* cunning craftiness, whereby they lie in wait to deceive; 
 
-<sup>15</sup> But speaking the truth in love, may grow up into him in all things, which is the head, even Christ: 
+<sup>15</sup> But speaking the truth in love, may grow up into him in all things, which is the head, *even* Christ: 
 
 <sup>16</sup> From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love. 
 
@@ -58,7 +58,7 @@ weight: 4
 
 <sup>27</sup> Neither give place to the devil. 
 
-<sup>28</sup> Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth. 
+<sup>28</sup> Let him that stole steal no more: but rather let him labour, working with *his* hands the thing which is good, that he may have to give to him that needeth. 
 
 <sup>29</sup> Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers. 
 
@@ -67,5 +67,4 @@ weight: 4
 <sup>31</sup> Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice: 
 
 <sup>32</sup> And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you. 
-
 
