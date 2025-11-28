@@ -8,11 +8,11 @@ weight: 3
 
 <sup>2</sup> And they watched him, whether he would heal him on the sabbath day; that they might accuse him. 
 
-<sup>3</sup> And he saith unto the man which had the withered hand, Stand forth . 
+<sup>3</sup> And he saith unto the man which had the withered hand, Stand forth.
 
-<sup>4</sup> And he saith unto them, Is it lawful to do good on the sabbath days , or to do evil ? to save life , or to kill ? But they held their peace. 
+<sup>4</sup> And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace. 
 
-<sup>5</sup> And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand . And he stretched *it* out: and his hand was restored whole as the other. 
+<sup>5</sup> And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched *it* out: and his hand was restored whole as the other. 
 
 <sup>6</sup> And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him. 
 
@@ -48,19 +48,19 @@ weight: 3
 
 <sup>22</sup> ¶ And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils. 
 
-<sup>23</sup> And he called them *unto him*, and said unto them in parables, How can Satan cast out Satan ? 
+<sup>23</sup> And he called them *unto him*, and said unto them in parables, How can Satan cast out Satan?
 
-<sup>24</sup> And if a kingdom be divided against itself , that kingdom cannot stand . 
+<sup>24</sup> And if a kingdom be divided against itself, that kingdom cannot stand.
 
-<sup>25</sup> And if a house be divided against itself , that house cannot stand . 
+<sup>25</sup> And if a house be divided against itself, that house cannot stand.
 
-<sup>26</sup> And if Satan rise up against himself , and be divided , he cannot stand , but hath an end . 
+<sup>26</sup> And if Satan rise up against himself, and be divided, he cannot stand, but hath an end.
 
-<sup>27</sup> No man can enter into a strong man’s house , and spoil his goods , except he will first bind the strong man ; and then he will spoil his house . 
+<sup>27</sup> No man can enter into a strong man’s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house.
 
-<sup>28</sup> Verily I say unto you , All sins shall be forgiven unto the sons of men , and blasphemies wherewith soever they shall blaspheme : 
+<sup>28</sup> Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:
 
-<sup>29</sup> But he that shall blaspheme against the Holy Ghost hath never forgiveness , but is in danger of eternal damnation : 
+<sup>29</sup> But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation:
 
 <sup>30</sup> Because they said, He hath an unclean spirit. 
 
@@ -68,9 +68,8 @@ weight: 3
 
 <sup>32</sup> And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee. 
 
-<sup>33</sup> And he answered them, saying, Who is my mother , or my brethren ? 
+<sup>33</sup> And he answered them, saying, Who is my mother, or my brethren?
 
-<sup>34</sup> And he looked round about on them which sat about him, and said, Behold my mother and my brethren ! 
+<sup>34</sup> And he looked round about on them which sat about him, and said, Behold my mother and my brethren!
 
-<sup>35</sup> For whosoever shall do the will of God , the same is my brother , and my sister , and mother . 
-
+<sup>35</sup> For whosoever shall do the will of God, the same is my brother, and my sister, and mother. 

@@ -32,13 +32,13 @@ weight: 16
 
 <sup>14</sup> ¶ Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen. 
 
-<sup>15</sup> And he said unto them, Go ye into all the world , and preach the gospel to every creature . 
+<sup>15</sup> And he said unto them, Go ye into all the world, and preach the gospel to every creature.
 
-<sup>16</sup> He that believeth and is baptized shall be saved ; but he that believeth not shall be damned . 
+<sup>16</sup> He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 
-<sup>17</sup> And these signs shall follow them that believe ; In my name shall they cast out devils ; they shall speak with new tongues ; 
+<sup>17</sup> And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
 
-<sup>18</sup> They shall take up serpents ; and if they drink any deadly thing , it shall not hurt them ; they shall lay hands on the sick , and they shall recover . 
+<sup>18</sup> They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.
 
 <sup>19</sup> ¶ So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God. 
 

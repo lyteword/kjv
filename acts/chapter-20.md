@@ -72,7 +72,7 @@ weight: 20
 
 <sup>34</sup> Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me. 
 
-<sup>35</sup> I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive . 
+<sup>35</sup> I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
 
 <sup>36</sup> ¶ And when he had thus spoken, he kneeled down, and prayed with them all. 
 

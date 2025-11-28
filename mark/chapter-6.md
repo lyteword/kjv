@@ -10,7 +10,7 @@ weight: 6
 
 <sup>3</sup> Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him. 
 
-<sup>4</sup> But Jesus said unto them, A prophet is not without honour , but in his own country , and among his own kin , and in his own house . 
+<sup>4</sup> But Jesus said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.
 
 <sup>5</sup> And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed *them*. 
 
@@ -22,9 +22,9 @@ weight: 6
 
 <sup>9</sup> But *be* shod with sandals; and not put on two coats. 
 
-<sup>10</sup> And he said unto them, In what place soever ye enter into an house , there abide till ye depart from that place . 
+<sup>10</sup> And he said unto them, In what place soever ye enter into an house, there abide till ye depart from that place.
 
-<sup>11</sup> And whosoever shall not receive you , nor hear you , when ye depart thence , shake off the dust under your feet for a testimony against them . Verily I say unto you , It shall be more tolerable for Sodom and Gomorrha in the day of judgment , than for that city . 
+<sup>11</sup> And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.
 
 <sup>12</sup> And they went out, and preached that men should repent. 
 
@@ -64,7 +64,7 @@ weight: 6
 
 <sup>30</sup> And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught. 
 
-<sup>31</sup> And he said unto them, Come ye yourselves apart into a desert place , and rest a while : for there were many coming and going, and they had no leisure so much as to eat. 
+<sup>31</sup> And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat. 
 
 <sup>32</sup> And they departed into a desert place by ship privately. 
 
@@ -76,9 +76,9 @@ weight: 6
 
 <sup>36</sup> Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat. 
 
-<sup>37</sup> He answered and said unto them, Give ye them to eat . And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat? 
+<sup>37</sup> He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat? 
 
-<sup>38</sup> He saith unto them, How many loaves have ye ? go and see . And when they knew, they say, Five, and two fishes. 
+<sup>38</sup> He saith unto them, How many loaves have ye? go and see. And when they knew, they say, Five, and two fishes. 
 
 <sup>39</sup> And he commanded them to make all sit down by companies upon the green grass. 
 
@@ -102,7 +102,7 @@ weight: 6
 
 <sup>49</sup> But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out: 
 
-<sup>50</sup> For they all saw him, and were troubled. And immediately he talked with them, and saith unto them, Be of good cheer : it is I ; be not afraid . 
+<sup>50</sup> For they all saw him, and were troubled. And immediately he talked with them, and saith unto them, Be of good cheer: it is I; be not afraid.
 
 <sup>51</sup> And he went up unto them into the ship; and the wind ceased: and they were sore amazed in themselves beyond measure, and wondered. 
 

@@ -50,9 +50,9 @@ weight: 11
 
 <sup>23</sup> For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the *same* night in which he was betrayed took bread: 
 
-<sup>24</sup> And when he had given thanks, he brake *it*, and said, Take , eat : this is my body , which is broken for you : this do in remembrance of me . 
+<sup>24</sup> And when he had given thanks, he brake *it*, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
 
-<sup>25</sup> After the same manner also *he took* the cup, when he had supped, saying, This cup is the new testament in my blood : this do ye , as oft as ye drink *it* , in remembrance of me . 
+<sup>25</sup> After the same manner also *he took* the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink *it*, in remembrance of me.
 
 <sup>26</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come. 
 

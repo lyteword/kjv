@@ -10,7 +10,7 @@ weight: 5
 
 <sup>3</sup> And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship. 
 
-<sup>4</sup> Now when he had left speaking, he said unto Simon, Launch out into the deep , and let down your nets for a draught . 
+<sup>4</sup> Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught.
 
 <sup>5</sup> And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net. 
 
@@ -22,15 +22,15 @@ weight: 5
 
 <sup>9</sup> For he was astonished, and all that were with him, at the draught of the fishes which they had taken: 
 
-<sup>10</sup> And so *was* also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not ; from henceforth thou shalt catch men . 
+<sup>10</sup> And so *was* also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men.
 
 <sup>11</sup> And when they had brought their ships to land, they forsook all, and followed him. 
 
 <sup>12</sup> ¶ And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on *his* face, and besought him, saying, Lord, if thou wilt, thou canst make me clean. 
 
-<sup>13</sup> And he put forth *his* hand, and touched him, saying, I will : be thou clean . And immediately the leprosy departed from him. 
+<sup>13</sup> And he put forth *his* hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him. 
 
-<sup>14</sup> And he charged him to tell no man: but go , and shew thyself to the priest , and offer for thy cleansing , according as Moses commanded , for a testimony unto them . 
+<sup>14</sup> And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.
 
 <sup>15</sup> But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities. 
 
@@ -42,21 +42,21 @@ weight: 5
 
 <sup>19</sup> And when they could not find by what *way* they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with *his* couch into the midst before Jesus. 
 
-<sup>20</sup> And when he saw their faith, he said unto him, Man , thy sins are forgiven thee . 
+<sup>20</sup> And when he saw their faith, he said unto him, Man, thy sins are forgiven thee.
 
 <sup>21</sup> And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone? 
 
-<sup>22</sup> But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts ? 
+<sup>22</sup> But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?
 
-<sup>23</sup> Whether is easier , to say , Thy sins be forgiven thee ; or to say , Rise up and walk ? 
+<sup>23</sup> Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?
 
-<sup>24</sup> But that ye may know that the Son of man hath power upon earth to forgive sins ,(he said unto the sick of the palsy,) I say unto thee , Arise , and take up thy couch , and go into thine house . 
+<sup>24</sup> But that ye may know that the Son of man hath power upon earth to forgive sins ,(he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house.
 
 <sup>25</sup> And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God. 
 
 <sup>26</sup> And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day. 
 
-<sup>27</sup> ¶ And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me . 
+<sup>27</sup> ¶ And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me.
 
 <sup>28</sup> And he left all, rose up, and followed him. 
 
@@ -64,21 +64,20 @@ weight: 5
 
 <sup>30</sup> But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners? 
 
-<sup>31</sup> And Jesus answering said unto them, They that are whole need not a physician ; but they that are sick . 
+<sup>31</sup> And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.
 
-<sup>32</sup> I came not to call the righteous , but sinners to repentance . 
+<sup>32</sup> I came not to call the righteous, but sinners to repentance.
 
 <sup>33</sup> ¶ And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise *the disciples* of the Pharisees; but thine eat and drink? 
 
-<sup>34</sup> And he said unto them, Can ye make the children of the bridechamber fast , while the bridegroom is with them ? 
+<sup>34</sup> And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?
 
-<sup>35</sup> But the days will come , when the bridegroom shall be taken away from them , and then shall they fast in those days . 
+<sup>35</sup> But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.
 
-<sup>36</sup> ¶ And he spake also a parable unto them; No man putteth a piece of a new garment upon an old ; if otherwise , then both the new maketh a rent , and the piece that was *taken* out of the new agreeth not with the old . 
+<sup>36</sup> ¶ And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was *taken* out of the new agreeth not with the old.
 
-<sup>37</sup> And no man putteth new wine into old bottles ; else the new wine will burst the bottles , and be spilled , and the bottles shall perish . 
+<sup>37</sup> And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.
 
-<sup>38</sup> But new wine must be put into new bottles ; and both are preserved . 
+<sup>38</sup> But new wine must be put into new bottles; and both are preserved.
 
-<sup>39</sup> No man also having drunk old *wine* straightway desireth new : for he saith , The old is better . 
-
+<sup>39</sup> No man also having drunk old *wine* straightway desireth new: for he saith, The old is better. 

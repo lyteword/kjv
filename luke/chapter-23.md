@@ -8,7 +8,7 @@ weight: 23
 
 <sup>2</sup> And they began to accuse him, saying, We found this *fellow* perverting the nation, and forbidding to give tribute to Cæsar, saying that he himself is Christ a King. 
 
-<sup>3</sup> And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest *it* . 
+<sup>3</sup> And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest *it*.
 
 <sup>4</sup> Then said Pilate to the chief priests and *to* the people, I find no fault in this man. 
 
@@ -58,19 +58,19 @@ weight: 23
 
 <sup>27</sup> ¶ And there followed him a great company of people, and of women, which also bewailed and lamented him. 
 
-<sup>28</sup> But Jesus turning unto them said, Daughters of Jerusalem , weep not for me , but weep for yourselves , and for your children . 
+<sup>28</sup> But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.
 
-<sup>29</sup> For , behold , the days are coming , in the which they shall say , Blessed *are* the barren , and the wombs that never bare , and the paps which never gave suck . 
+<sup>29</sup> For, behold, the days are coming, in the which they shall say, Blessed *are* the barren, and the wombs that never bare, and the paps which never gave suck.
 
-<sup>30</sup> Then shall they begin to say to the mountains , Fall on us ; and to the hills , Cover us . 
+<sup>30</sup> Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us.
 
-<sup>31</sup> For if they do these things in a green tree , what shall be done in the dry ? 
+<sup>31</sup> For if they do these things in a green tree, what shall be done in the dry?
 
 <sup>32</sup> And there were also two other, malefactors, led with him to be put to death. 
 
 <sup>33</sup> And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left. 
 
-<sup>34</sup> ¶ Then said Jesus, Father , forgive them ; for they know not what they do . And they parted his raiment, and cast lots. 
+<sup>34</sup> ¶ Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots. 
 
 <sup>35</sup> And the people stood beholding. And the rulers also with them derided *him*, saying, He saved others; let him save himself, if he be Christ, the chosen of God. 
 
@@ -88,13 +88,13 @@ weight: 23
 
 <sup>42</sup> And he said unto Jesus, Lord, remember me when thou comest into thy kingdom. 
 
-<sup>43</sup> And Jesus said unto him, Verily I say unto thee , To day shalt thou be with me in paradise . 
+<sup>43</sup> And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.
 
 <sup>44</sup> And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour. 
 
 <sup>45</sup> And the sun was darkened, and the veil of the temple was rent in the midst. 
 
-<sup>46</sup> ¶ And when Jesus had cried with a loud voice, he said, Father , into thy hands I commend my spirit : and having said thus, he gave up the ghost. 
+<sup>46</sup> ¶ And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost. 
 
 <sup>47</sup> Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man. 
 

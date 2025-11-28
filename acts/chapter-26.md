@@ -30,15 +30,15 @@ weight: 26
 
 <sup>13</sup> At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me. 
 
-<sup>14</sup> And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul , Saul , why persecutest thou me ? *it is* hard for thee to kick against the pricks . 
+<sup>14</sup> And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? *it is* hard for thee to kick against the pricks.
 
-<sup>15</sup> And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest . 
+<sup>15</sup> And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest.
 
-<sup>16</sup> But rise , and stand upon thy feet : for I have appeared unto thee for this purpose , to make thee a minister and a witness both of these things which thou hast seen , and of those things in the which I will appear unto thee ; 
+<sup>16</sup> But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;
 
-<sup>17</sup> Delivering thee from the people , and *from* the Gentiles , unto whom now I send thee , 
+<sup>17</sup> Delivering thee from the people, and *from* the Gentiles, unto whom now I send thee,
 
-<sup>18</sup> To open their eyes , ** to turn *them* from darkness to light , and *from* the power of Satan unto God , that they may receive forgiveness of sins , and inheritance among them which are sanctified by faith that is in me . 
+<sup>18</sup> To open their eyes, ** to turn *them* from darkness to light, and *from* the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
 
 <sup>19</sup> Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision: 
 

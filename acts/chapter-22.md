@@ -16,13 +16,13 @@ weight: 22
 
 <sup>6</sup> And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me. 
 
-<sup>7</sup> And I fell unto the ground, and heard a voice saying unto me, Saul , Saul , why persecutest thou me ? 
+<sup>7</sup> And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?
 
-<sup>8</sup> And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth , whom thou persecutest . 
+<sup>8</sup> And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest.
 
 <sup>9</sup> And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me. 
 
-<sup>10</sup> And I said, What shall I do, Lord? And the Lord said unto me, Arise , and go into Damascus ; and there it shall be told thee of all things which are appointed for thee to do . 
+<sup>10</sup> And I said, What shall I do, Lord? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do.
 
 <sup>11</sup> And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus. 
 
@@ -38,13 +38,13 @@ weight: 22
 
 <sup>17</sup> And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance; 
 
-<sup>18</sup> And saw him saying unto me, Make haste , and get thee quickly out of Jerusalem : for they will not receive thy testimony concerning me . 
+<sup>18</sup> And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me.
 
 <sup>19</sup> And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee: 
 
 <sup>20</sup> And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him. 
 
-<sup>21</sup> And he said unto me, Depart : for I will send thee far hence unto the Gentiles . 
+<sup>21</sup> And he said unto me, Depart: for I will send thee far hence unto the Gentiles.
 
 <sup>22</sup> And they gave him audience unto this word, and *then* lifted up their voices, and said, Away with such a *fellow* from the earth: for it is not fit that he should live. 
 

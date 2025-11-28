@@ -18,9 +18,9 @@ weight: 5
 
 <sup>7</sup> And cried with a loud voice, and said, What have I to do with thee, Jesus, *thou* Son of the most high God? I adjure thee by God, that thou torment me not. 
 
-<sup>8</sup> For he said unto him, Come out of the man , *thou* unclean spirit . 
+<sup>8</sup> For he said unto him, Come out of the man, *thou* unclean spirit.
 
-<sup>9</sup> And he asked him, What *is* thy name ? And he answered, saying, My name *is* Legion: for we are many. 
+<sup>9</sup> And he asked him, What *is* thy name? And he answered, saying, My name *is* Legion: for we are many. 
 
 <sup>10</sup> And he besought him much that he would not send them away out of the country. 
 
@@ -40,7 +40,7 @@ weight: 5
 
 <sup>18</sup> And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him. 
 
-<sup>19</sup> Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends , and tell them how great things the Lord hath done for thee , and hath had compassion on thee . 
+<sup>19</sup> Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee.
 
 <sup>20</sup> And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all *men* did marvel. 
 
@@ -62,7 +62,7 @@ weight: 5
 
 <sup>29</sup> And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague. 
 
-<sup>30</sup> And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes ? 
+<sup>30</sup> And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?
 
 <sup>31</sup> And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me? 
 
@@ -70,21 +70,21 @@ weight: 5
 
 <sup>33</sup> But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth. 
 
-<sup>34</sup> And he said unto her, Daughter , thy faith hath made thee whole ; go in peace , and be whole of thy plague . 
+<sup>34</sup> And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.
 
 <sup>35</sup> While he yet spake, there came from the ruler of the synagogue’s *house certain* which said, Thy daughter is dead: why troublest thou the Master any further? 
 
-<sup>36</sup> As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid , only believe . 
+<sup>36</sup> As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe.
 
 <sup>37</sup> And he suffered no man to follow him, save Peter, and James, and John the brother of James. 
 
 <sup>38</sup> And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly. 
 
-<sup>39</sup> And when he was come in, he saith unto them, Why make ye this ado , and weep ? the damsel is not dead , but sleepeth . 
+<sup>39</sup> And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth.
 
 <sup>40</sup> And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying. 
 
-<sup>41</sup> And he took the damsel by the hand, and said unto her, Talitha cumi ; which is, being interpreted, Damsel, I say unto thee, arise. 
+<sup>41</sup> And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise. 
 
 <sup>42</sup> And straightway the damsel arose, and walked; for she was *of the age* of twelve years. And they were astonished with a great astonishment. 
 

@@ -18,13 +18,13 @@ weight: 1
 
 <sup>7</sup> Behold, he cometh with clouds; and every eye shall see him, and they *also* which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen. 
 
-<sup>8</sup> I am Alpha and Omega , the beginning and the ending , saith the Lord, which is, and which was, and which is to come, the Almighty. 
+<sup>8</sup> I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty. 
 
 <sup>9</sup> I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ. 
 
 <sup>10</sup> I was in the Spirit on the Lord’s day, and heard behind me a great voice, as of a trumpet, 
 
-<sup>11</sup> Saying, I am Alpha and Omega , the first and the last : and, What thou seest , write in a book , and send *it* unto the seven churches which are in Asia ; unto Ephesus , and unto Smyrna , and unto Pergamos , and unto Thyatira , and unto Sardis , and unto Philadelphia , and unto Laodicea . 
+<sup>11</sup> Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send *it* unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
 
 <sup>12</sup> And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks; 
 
@@ -36,11 +36,10 @@ weight: 1
 
 <sup>16</sup> And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance *was* as the sun shineth in his strength. 
 
-<sup>17</sup> And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not ; I am the first and the last : 
+<sup>17</sup> And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:
 
-<sup>18</sup> I *am* he that liveth , and was dead ; and , behold , I am alive for evermore , Amen ; and have the keys of hell and of death . 
+<sup>18</sup> I *am* he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
 
-<sup>19</sup> Write the things which thou hast seen , and the things which are , and the things which shall be hereafter ; 
+<sup>19</sup> Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;
 
-<sup>20</sup> The mystery of the seven stars which thou sawest in my right hand , and the seven golden candlesticks . The seven stars are the angels of the seven churches : and the seven candlesticks which thou sawest are the seven churches . 
-
+<sup>20</sup> The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches. 

@@ -16,7 +16,7 @@ weight: 22
 
 <sup>6</sup> And he said unto me, These sayings *are* faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done. 
 
-<sup>7</sup> Behold , I come quickly : blessed *is* he that keepeth the sayings of the prophecy of this book . 
+<sup>7</sup> Behold, I come quickly: blessed *is* he that keepeth the sayings of the prophecy of this book.
 
 <sup>8</sup> And I John saw these things, and heard *them*. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things. 
 
@@ -26,15 +26,15 @@ weight: 22
 
 <sup>11</sup> He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still. 
 
-<sup>12</sup> And , behold , I come quickly ; and my reward *is* with me , to give every man according as his work shall be . 
+<sup>12</sup> And, behold, I come quickly; and my reward *is* with me, to give every man according as his work shall be.
 
-<sup>13</sup> I am Alpha and Omega , the beginning and the end , the first and the last . 
+<sup>13</sup> I am Alpha and Omega, the beginning and the end, the first and the last.
 
 <sup>14</sup> Blessed *are* they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city. 
 
 <sup>15</sup> For without *are* dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie. 
 
-<sup>16</sup> I Jesus have sent mine angel to testify unto you these things in the churches . I am the root and the offspring of David , *and* the bright and morning star . 
+<sup>16</sup> I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, *and* the bright and morning star.
 
 <sup>17</sup> And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely. 
 
@@ -42,7 +42,7 @@ weight: 22
 
 <sup>19</sup> And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and *from* the things which are written in this book. 
 
-<sup>20</sup> He which testifieth these things saith, Surely I come quickly . Amen. Even so, come, Lord Jesus. 
+<sup>20</sup> He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus. 
 
 <sup>21</sup> The grace of our Lord Jesus Christ *be* with you all. Amen. 
 

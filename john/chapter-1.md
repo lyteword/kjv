@@ -78,17 +78,17 @@ weight: 1
 
 <sup>37</sup> And the two disciples heard him speak, and they followed Jesus. 
 
-<sup>38</sup> Then Jesus turned, and saw them following, and saith unto them, What seek ye ? They said unto him, Rabbi, ( which is to say, being interpreted, Master,) where dwellest thou? 
+<sup>38</sup> Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, ( which is to say, being interpreted, Master,) where dwellest thou? 
 
-<sup>39</sup> He saith unto them, Come and see . They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour. 
+<sup>39</sup> He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour. 
 
 <sup>40</sup> One of the two which heard John *speak*, and followed him, was Andrew, Simon Peter’s brother. 
 
 <sup>41</sup> He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ. 
 
-<sup>42</sup> And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona : thou shalt be called Cephas , which is by interpretation, A stone. 
+<sup>42</sup> And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone. 
 
-<sup>43</sup> ¶ The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me . 
+<sup>43</sup> ¶ The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.
 
 <sup>44</sup> Now Philip was of Bethsaida, the city of Andrew and Peter. 
 
@@ -96,13 +96,12 @@ weight: 1
 
 <sup>46</sup> And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see. 
 
-<sup>47</sup> Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed , in whom is no guile ! 
+<sup>47</sup> Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!
 
-<sup>48</sup> Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee , when thou wast under the fig tree , I saw thee . 
+<sup>48</sup> Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.
 
 <sup>49</sup> Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel. 
 
-<sup>50</sup> Jesus answered and said unto him, Because I said unto thee , I saw thee under the fig tree , believest thou ? thou shalt see greater things than these . 
+<sup>50</sup> Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.
 
-<sup>51</sup> And he saith unto him, Verily , verily , I say unto you , Hereafter ye shall see heaven open , and the angels of God ascending and descending upon the Son of man . 
-
+<sup>51</sup> And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man. 

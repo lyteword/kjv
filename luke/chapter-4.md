@@ -10,7 +10,7 @@ weight: 4
 
 <sup>3</sup> And the devil said unto him, If thou be the Son of God, command this stone that it be made bread. 
 
-<sup>4</sup> And Jesus answered him, saying, It is written , That man shall not live by bread alone , but by every word of God . 
+<sup>4</sup> And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God.
 
 <sup>5</sup> And the devil, taking him up into an high mountain, shewed unto him all the kingdoms of the world in a moment of time. 
 
@@ -18,7 +18,7 @@ weight: 4
 
 <sup>7</sup> If thou therefore wilt worship me, all shall be thine. 
 
-<sup>8</sup> And Jesus answered and said unto him, Get thee behind me , Satan : for it is written , Thou shalt worship the Lord thy God , and him only shalt thou serve . 
+<sup>8</sup> And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
 
 <sup>9</sup> And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said unto him, If thou be the Son of God, cast thyself down from hence: 
 
@@ -26,7 +26,7 @@ weight: 4
 
 <sup>11</sup> And in *their* hands they shall bear thee up, lest at any time thou dash thy foot against a stone. 
 
-<sup>12</sup> And Jesus answering said unto him, It is said , Thou shalt not tempt the Lord thy God . 
+<sup>12</sup> And Jesus answering said unto him, It is said, Thou shalt not tempt the Lord thy God.
 
 <sup>13</sup> And when the devil had ended all the temptation, he departed from him for a season. 
 
@@ -38,25 +38,25 @@ weight: 4
 
 <sup>17</sup> And there was delivered unto him the book of the prophet Esaias. And when he had opened the book, he found the place where it was written, 
 
-<sup>18</sup> The Spirit of the Lord *is* upon me , because he hath anointed me to preach the gospel to the poor ; he hath sent me to heal the brokenhearted , to preach deliverance to the captives , and recovering of sight to the blind , to set at liberty them that are bruised , 
+<sup>18</sup> The Spirit of the Lord *is* upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,
 
-<sup>19</sup> To preach the acceptable year of the Lord . 
+<sup>19</sup> To preach the acceptable year of the Lord.
 
 <sup>20</sup> And he closed the book, and he gave *it* again to the minister, and sat down. And the eyes of all them that were in the synagogue were fastened on him. 
 
-<sup>21</sup> And he began to say unto them, This day is this scripture fulfilled in your ears . 
+<sup>21</sup> And he began to say unto them, This day is this scripture fulfilled in your ears.
 
 <sup>22</sup> And all bare him witness, and wondered at the gracious words which proceeded out of his mouth. And they said, Is not this Joseph’s son? 
 
-<sup>23</sup> And he said unto them, Ye will surely say unto me this proverb , Physician , heal thyself : whatsoever we have heard done in Capernaum , do also here in thy country . 
+<sup>23</sup> And he said unto them, Ye will surely say unto me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in thy country.
 
-<sup>24</sup> And he said, Verily I say unto you , No prophet is accepted in his own country . 
+<sup>24</sup> And he said, Verily I say unto you, No prophet is accepted in his own country.
 
-<sup>25</sup> But I tell you of a truth , many widows were in Israel in the days of Elias , when the heaven was shut up three years and six months , when great famine was throughout all the land ; 
+<sup>25</sup> But I tell you of a truth, many widows were in Israel in the days of Elias, when the heaven was shut up three years and six months, when great famine was throughout all the land;
 
-<sup>26</sup> But unto none of them was Elias sent , save unto Sarepta , *a city* of Sidon , unto a woman *that was* a widow . 
+<sup>26</sup> But unto none of them was Elias sent, save unto Sarepta, *a city* of Sidon, unto a woman *that was* a widow.
 
-<sup>27</sup> And many lepers were in Israel in the time of Eliseus the prophet ; and none of them was cleansed , saving Naaman the Syrian . 
+<sup>27</sup> And many lepers were in Israel in the time of Eliseus the prophet; and none of them was cleansed, saving Naaman the Syrian.
 
 <sup>28</sup> And all they in the synagogue, when they heard these things, were filled with wrath, 
 
@@ -72,7 +72,7 @@ weight: 4
 
 <sup>34</sup> Saying, Let *us* alone; what have we to do with thee, *thou* Jesus of Nazareth? art thou come to destroy us? I know thee who thou art; the Holy One of God. 
 
-<sup>35</sup> And Jesus rebuked him, saying, Hold thy peace , and come out of him . And when the devil had thrown him in the midst, he came out of him, and hurt him not. 
+<sup>35</sup> And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not. 
 
 <sup>36</sup> And they were all amazed, and spake among themselves, saying, What a word *is* this! for with authority and power he commandeth the unclean spirits, and they come out. 
 
@@ -88,7 +88,7 @@ weight: 4
 
 <sup>42</sup> And when it was day, he departed and went into a desert place: and the people sought him, and came unto him, and stayed him, that he should not depart from them. 
 
-<sup>43</sup> And he said unto them, I must preach the kingdom of God to other cities also : for therefore am I sent . 
+<sup>43</sup> And he said unto them, I must preach the kingdom of God to other cities also: for therefore am I sent.
 
 <sup>44</sup> And he preached in the synagogues of Galilee. 
 

@@ -10,15 +10,15 @@ weight: 1
 
 <sup>3</sup> To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God: 
 
-<sup>4</sup> And, being assembled together with *them*, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father , which , *saith he*, ye have heard of me . 
+<sup>4</sup> And, being assembled together with *them*, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, *saith he*, ye have heard of me.
 
-<sup>5</sup> For John truly baptized with water ; but ye shall be baptized with the Holy Ghost not many days hence . 
+<sup>5</sup> For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.
 
 <sup>6</sup> When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel? 
 
-<sup>7</sup> And he said unto them, It is not for you to know the times or the seasons , which the Father hath put in his own power . 
+<sup>7</sup> And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
 
-<sup>8</sup> But ye shall receive power , after that the Holy Ghost is come upon you : and ye shall be witnesses unto me both in Jerusalem , and in all Judæa , and in Samaria , and unto the uttermost part of the earth . 
+<sup>8</sup> But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth.
 
 <sup>9</sup> And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight. 
 

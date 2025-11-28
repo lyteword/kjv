@@ -100,7 +100,7 @@ weight: 2
 
 <sup>48</sup> And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing. 
 
-<sup>49</sup> And he said unto them, How is it that ye sought me ? wist ye not that I must be about my Father’s business ? 
+<sup>49</sup> And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father’s business?
 
 <sup>50</sup> And they understood not the saying which he spake unto them. 
 

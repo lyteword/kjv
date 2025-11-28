@@ -6,7 +6,7 @@ weight: 15
 
 <sup>1</sup> And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried *him* away, and delivered *him* to Pilate. 
 
-<sup>2</sup> And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest *it* . 
+<sup>2</sup> And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest *it*.
 
 <sup>3</sup> And the chief priests accused him of many things: but he answered nothing. 
 
@@ -70,7 +70,7 @@ weight: 15
 
 <sup>33</sup> And when the sixth hour was come, there was darkness over the whole land until the ninth hour. 
 
-<sup>34</sup> And at the ninth hour Jesus cried with a loud voice, saying, Eloi , Eloi , lama sabachthani ? which is, being interpreted, My God, my God, why hast thou forsaken me? 
+<sup>34</sup> And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me? 
 
 <sup>35</sup> And some of them that stood by, when they heard *it*, said, Behold, he calleth Elias. 
 

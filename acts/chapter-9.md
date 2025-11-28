@@ -10,11 +10,11 @@ weight: 9
 
 <sup>3</sup> And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven: 
 
-<sup>4</sup> And he fell to the earth, and heard a voice saying unto him, Saul , Saul , why persecutest thou me ? 
+<sup>4</sup> And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?
 
-<sup>5</sup> And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest : *it is* hard for thee to kick against the pricks . 
+<sup>5</sup> And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: *it is* hard for thee to kick against the pricks.
 
-<sup>6</sup> And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord *said* unto him, Arise , and go into the city , and it shall be told thee what thou must do . 
+<sup>6</sup> And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord *said* unto him, Arise, and go into the city, and it shall be told thee what thou must do.
 
 <sup>7</sup> And the men which journeyed with him stood speechless, hearing a voice, but seeing no man. 
 
@@ -22,19 +22,19 @@ weight: 9
 
 <sup>9</sup> And he was three days without sight, and neither did eat nor drink. 
 
-<sup>10</sup> ¶ And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias . And he said, Behold, I *am here*, Lord. 
+<sup>10</sup> ¶ And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I *am here*, Lord. 
 
-<sup>11</sup> And the Lord *said* unto him, Arise , and go into the street which is called Straight , and enquire in the house of Judas for *one* called Saul , of Tarsus : for , behold , he prayeth , 
+<sup>11</sup> And the Lord *said* unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for *one* called Saul, of Tarsus: for, behold, he prayeth,
 
-<sup>12</sup> And hath seen in a vision a man named Ananias coming in , and putting *his* hand on him , that he might receive his sight . 
+<sup>12</sup> And hath seen in a vision a man named Ananias coming in, and putting *his* hand on him, that he might receive his sight.
 
 <sup>13</sup> Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem: 
 
 <sup>14</sup> And here he hath authority from the chief priests to bind all that call on thy name. 
 
-<sup>15</sup> But the Lord said unto him, Go thy way : for he is a chosen vessel unto me , to bear my name before the Gentiles , and kings , and the children of Israel : 
+<sup>15</sup> But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:
 
-<sup>16</sup> For I will shew him how great things he must suffer for my name’s sake . 
+<sup>16</sup> For I will shew him how great things he must suffer for my name’s sake.
 
 <sup>17</sup> And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, *even* Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost. 
 

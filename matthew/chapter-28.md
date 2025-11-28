@@ -20,9 +20,9 @@ weight: 28
 
 <sup>8</sup> And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word. 
 
-<sup>9</sup> ¶ And as they went to tell his disciples, behold, Jesus met them, saying, All hail . And they came and held him by the feet, and worshipped him. 
+<sup>9</sup> ¶ And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him. 
 
-<sup>10</sup> Then said Jesus unto them, Be not afraid : go tell my brethren that they go into Galilee , and there shall they see me . 
+<sup>10</sup> Then said Jesus unto them, Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me.
 
 <sup>11</sup> ¶ Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done. 
 
@@ -38,9 +38,9 @@ weight: 28
 
 <sup>17</sup> And when they saw him, they worshipped him: but some doubted. 
 
-<sup>18</sup> And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth . 
+<sup>18</sup> And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.
 
-<sup>19</sup> ¶ Go ye therefore , and teach all nations , baptizing them in the name of the Father , and of the Son , and of the Holy Ghost : 
+<sup>19</sup> ¶ Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
 
-<sup>20</sup> Teaching them to observe all things whatsoever I have commanded you : and , lo , I am with you alway , *even* unto the end of the world . Amen. 
+<sup>20</sup> Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, *even* unto the end of the world. Amen. 
 

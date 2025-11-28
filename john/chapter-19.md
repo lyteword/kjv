@@ -24,7 +24,7 @@ weight: 19
 
 <sup>10</sup> Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee? 
 
-<sup>11</sup> Jesus answered, Thou couldest have no power *at all* against me , except it were given thee from above : therefore he that delivered me unto thee hath the greater sin . 
+<sup>11</sup> Jesus answered, Thou couldest have no power *at all* against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.
 
 <sup>12</sup> And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Cæsar’s friend: whosoever maketh himself a king speaketh against Cæsar. 
 
@@ -54,15 +54,15 @@ weight: 19
 
 <sup>25</sup> ¶ Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the *wife* of Cleophas, and Mary Magdalene. 
 
-<sup>26</sup> When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman , behold thy son ! 
+<sup>26</sup> When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!
 
-<sup>27</sup> Then saith he to the disciple, Behold thy mother ! And from that hour that disciple took her unto his own *home.* 
+<sup>27</sup> Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own *home.* 
 
-<sup>28</sup> ¶ After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst . 
+<sup>28</sup> ¶ After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst.
 
 <sup>29</sup> Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put *it* upon hyssop, and put *it* to his mouth. 
 
-<sup>30</sup> When Jesus therefore had received the vinegar, he said, It is finished : and he bowed his head, and gave up the ghost. 
+<sup>30</sup> When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. 
 
 <sup>31</sup> The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, ( for that sabbath day was an high day,) besought Pilate that their legs might be broken, and *that* they might be taken away. 
 

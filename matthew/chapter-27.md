@@ -24,7 +24,7 @@ weight: 27
 
 <sup>10</sup> And gave them for the potter’s field, as the Lord appointed me. 
 
-<sup>11</sup> And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest . 
+<sup>11</sup> And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest.
 
 <sup>12</sup> And when he was accused of the chief priests and elders, he answered nothing. 
 
@@ -94,7 +94,7 @@ weight: 27
 
 <sup>45</sup> Now from the sixth hour there was darkness over all the land unto the ninth hour. 
 
-<sup>46</sup> And about the ninth hour Jesus cried with a loud voice, saying, Eli , Eli , lama sabachthani ? that is to say, My God, my God, why hast thou forsaken me? 
+<sup>46</sup> And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me? 
 
 <sup>47</sup> Some of them that stood there, when they heard *that*, said, This *man* calleth for Elias. 
 

@@ -34,7 +34,7 @@ weight: 11
 
 <sup>15</sup> And as I began to speak, the Holy Ghost fell on them, as on us at the beginning. 
 
-<sup>16</sup> Then remembered I the word of the Lord, how that he said, John indeed baptized with water ; but ye shall be baptized with the Holy Ghost . 
+<sup>16</sup> Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost.
 
 <sup>17</sup> Forasmuch then as God gave them the like gift as *he did* unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God? 
 

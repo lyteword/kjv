@@ -20,7 +20,7 @@ weight: 7
 
 <sup>8</sup> For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth *it*. 
 
-<sup>9</sup> When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you , I have not found so great faith , no, not in Israel . 
+<sup>9</sup> When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel.
 
 <sup>10</sup> And they that were sent, returning to the house, found the servant whole that had been sick. 
 
@@ -28,9 +28,9 @@ weight: 7
 
 <sup>12</sup> Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her. 
 
-<sup>13</sup> And when the Lord saw her, he had compassion on her, and said unto her, Weep not . 
+<sup>13</sup> And when the Lord saw her, he had compassion on her, and said unto her, Weep not.
 
-<sup>14</sup> And he came and touched the bier: and they that bare *him* stood still. And he said, Young man , I say unto thee , Arise . 
+<sup>14</sup> And he came and touched the bier: and they that bare *him* stood still. And he said, Young man, I say unto thee, Arise.
 
 <sup>15</sup> And he that was dead sat up, and began to speak. And he delivered him to his mother. 
 
@@ -46,33 +46,33 @@ weight: 7
 
 <sup>21</sup> And in that same hour he cured many of *their* infirmities and plagues, and of evil spirits; and unto many *that were* blind he gave sight. 
 
-<sup>22</sup> Then Jesus answering said unto them, Go your way , and tell John what things ye have seen and heard ; how that the blind see , the lame walk , the lepers are cleansed , the deaf hear , the dead are raised , to the poor the gospel is preached . 
+<sup>22</sup> Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.
 
-<sup>23</sup> And blessed is *he* , whosoever shall not be offended in me . 
+<sup>23</sup> And blessed is *he*, whosoever shall not be offended in me.
 
-<sup>24</sup> ¶ And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see ? A reed shaken with the wind ? 
+<sup>24</sup> ¶ And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?
 
-<sup>25</sup> But what went ye out for to see ? A man clothed in soft raiment ? Behold , they which are gorgeously apparelled , and live delicately , are in kings’ courts . 
+<sup>25</sup> But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings’ courts.
 
-<sup>26</sup> But what went ye out for to see ? A prophet ? Yea , I say unto you , and much more than a prophet . 
+<sup>26</sup> But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet.
 
-<sup>27</sup> This is *he* , of whom it is written , Behold , I send my messenger before thy face , which shall prepare thy way before thee . 
+<sup>27</sup> This is *he*, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
 
-<sup>28</sup> For I say unto you , Among those that are born of women there is not a greater prophet than John the Baptist : but he that is least in the kingdom of God is greater than he . 
+<sup>28</sup> For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he.
 
 <sup>29</sup> And all the people that heard *him*, and the publicans, justified God, being baptized with the baptism of John. 
 
 <sup>30</sup> But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him. 
 
-<sup>31</sup> ¶ And the Lord said, Whereunto then shall I liken the men of this generation ? and to what are they like ? 
+<sup>31</sup> ¶ And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?
 
-<sup>32</sup> They are like unto children sitting in the marketplace , and calling one to another , and saying , We have piped unto you , and ye have not danced ; we have mourned to you , and ye have not wept . 
+<sup>32</sup> They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept.
 
-<sup>33</sup> For John the Baptist came neither eating bread nor drinking wine ; and ye say , He hath a devil . 
+<sup>33</sup> For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil.
 
-<sup>34</sup> The Son of man is come eating and drinking ; and ye say , Behold a gluttonous man , and a winebibber , a friend of publicans and sinners ! 
+<sup>34</sup> The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!
 
-<sup>35</sup> But wisdom is justified of all her children . 
+<sup>35</sup> But wisdom is justified of all her children.
 
 <sup>36</sup> ¶ And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee’s house, and sat down to meat. 
 
@@ -82,25 +82,24 @@ weight: 7
 
 <sup>39</sup> Now when the Pharisee which had bidden him saw *it*, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman *this is* that toucheth him: for she is a sinner. 
 
-<sup>40</sup> And Jesus answering said unto him, Simon , I have somewhat to say unto thee . And he saith, Master, say on. 
+<sup>40</sup> And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on. 
 
-<sup>41</sup> There was a certain creditor which had two debtors : the one owed five hundred pence , and the other fifty . 
+<sup>41</sup> There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty.
 
-<sup>42</sup> And when they had nothing to pay , he frankly forgave them both . Tell me therefore , which of them will love him most ? 
+<sup>42</sup> And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?
 
-<sup>43</sup> Simon answered and said, I suppose that *he*, to whom he forgave most. And he said unto him, Thou hast rightly judged . 
+<sup>43</sup> Simon answered and said, I suppose that *he*, to whom he forgave most. And he said unto him, Thou hast rightly judged.
 
-<sup>44</sup> And he turned to the woman, and said unto Simon, Seest thou this woman ? I entered into thine house , thou gavest me no water for my feet : but she hath washed my feet with tear s, and wiped *them* with the hairs of her head . 
+<sup>44</sup> And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tear s, and wiped *them* with the hairs of her head.
 
-<sup>45</sup> Thou gavest me no kiss : but this woman since the time I came in hath not ceased to kiss my feet . 
+<sup>45</sup> Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.
 
-<sup>46</sup> My head with oil thou didst not anoint : but this woman hath anointed my feet with ointment . 
+<sup>46</sup> My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment.
 
-<sup>47</sup> Wherefore I say unto thee , Her sins , which are many , are forgiven ; for she loved much : but to whom little is forgiven , *the same* loveth little . 
+<sup>47</sup> Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, *the same* loveth little.
 
-<sup>48</sup> And he said unto her, Thy sins are forgiven . 
+<sup>48</sup> And he said unto her, Thy sins are forgiven.
 
 <sup>49</sup> And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also? 
 
-<sup>50</sup> And he said to the woman, Thy faith hath saved thee ; go in peace . 
-
+<sup>50</sup> And he said to the woman, Thy faith hath saved thee; go in peace. 

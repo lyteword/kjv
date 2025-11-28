@@ -36,11 +36,11 @@ weight: 24
 
 <sup>16</sup> But their eyes were holden that they should not know him. 
 
-<sup>17</sup> And he said unto them, What manner of communications *are* these that ye have one to another , as ye walk , and are sad ? 
+<sup>17</sup> And he said unto them, What manner of communications *are* these that ye have one to another, as ye walk, and are sad?
 
 <sup>18</sup> And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days? 
 
-<sup>19</sup> And he said unto them, What things ? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people: 
+<sup>19</sup> And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people: 
 
 <sup>20</sup> And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him. 
 
@@ -52,9 +52,9 @@ weight: 24
 
 <sup>24</sup> And certain of them which were with us went to the sepulchre, and found *it* even so as the women had said: but him they saw not. 
 
-<sup>25</sup> Then he said unto them, O fools , and slow of heart to believe all that the prophets have spoken : 
+<sup>25</sup> Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:
 
-<sup>26</sup> Ought not Christ to have suffered these things , and to enter into his glory ? 
+<sup>26</sup> Ought not Christ to have suffered these things, and to enter into his glory?
 
 <sup>27</sup> And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself. 
 
@@ -74,33 +74,33 @@ weight: 24
 
 <sup>35</sup> And they told what things *were done* in the way, and how he was known of them in breaking of bread. 
 
-<sup>36</sup> ¶ And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace *be* unto you . 
+<sup>36</sup> ¶ And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace *be* unto you.
 
 <sup>37</sup> But they were terrified and affrighted, and supposed that they had seen a spirit. 
 
-<sup>38</sup> And he said unto them, Why are ye troubled ? and why do thoughts arise in your hearts ? 
+<sup>38</sup> And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?
 
-<sup>39</sup> Behold my hands and my feet , that it is I myself : handle me , and see ; for a spirit hath not flesh and bones , as ye see me have . 
+<sup>39</sup> Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.
 
 <sup>40</sup> And when he had thus spoken, he shewed them *his* hands and *his* feet. 
 
-<sup>41</sup> And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat ? 
+<sup>41</sup> And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat?
 
 <sup>42</sup> And they gave him a piece of a broiled fish, and of an honeycomb. 
 
 <sup>43</sup> And he took *it*, and did eat before them. 
 
-<sup>44</sup> And he said unto them, These *are* the words which I spake unto you , while I was yet with you , that all things must be fulfilled , which were written in the law of Moses , and *in* the prophets , and *in* the psalms , concerning me . 
+<sup>44</sup> And he said unto them, These *are* the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and *in* the prophets, and *in* the psalms, concerning me.
 
 <sup>45</sup> Then opened he their understanding, that they might understand the scriptures, 
 
-<sup>46</sup> And said unto them, Thus it is written , and thus it behoved Christ to suffer , and to rise from the dead the third day : 
+<sup>46</sup> And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:
 
-<sup>47</sup> And that repentance and remission of sins should be preached in his name among all nations , beginning at Jerusalem . 
+<sup>47</sup> And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.
 
-<sup>48</sup> And ye are witnesses of these things . 
+<sup>48</sup> And ye are witnesses of these things.
 
-<sup>49</sup> ¶ And , behold , I send the promise of my Father upon you : but tarry ye in the city of Jerusalem , until ye be endued with power from on high . 
+<sup>49</sup> ¶ And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
 
 <sup>50</sup> ¶ And he led them out as far as to Bethany, and he lifted up his hands, and blessed them. 
 

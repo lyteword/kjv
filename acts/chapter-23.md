@@ -24,7 +24,7 @@ weight: 23
 
 <sup>10</sup> And when there arose a great dissension, the chief captain, fearing lest Paul should have been pulled in pieces of them, commanded the soldiers to go down, and to take him by force from among them, and to bring *him* into the castle. 
 
-<sup>11</sup> And the night following the Lord stood by him, and said, Be of good cheer , Paul : for as thou hast testified of me in Jerusalem , so must thou bear witness also at Rome . 
+<sup>11</sup> And the night following the Lord stood by him, and said, Be of good cheer, Paul: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome.
 
 <sup>12</sup> And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul. 
 

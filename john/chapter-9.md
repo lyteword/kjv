@@ -8,15 +8,15 @@ weight: 9
 
 <sup>2</sup> And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind? 
 
-<sup>3</sup> Jesus answered, Neither hath this man sinned , nor his parents : but that the works of God should be made manifest in him . 
+<sup>3</sup> Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
 
-<sup>4</sup> I must work the works of him that sent me , while it is day : the night cometh , when no man can work . 
+<sup>4</sup> I must work the works of him that sent me, while it is day: the night cometh, when no man can work.
 
-<sup>5</sup> As long as I am in the world , I am the light of the world . 
+<sup>5</sup> As long as I am in the world, I am the light of the world.
 
 <sup>6</sup> When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay, 
 
-<sup>7</sup> And said unto him, Go , wash in the pool of Siloam ,( which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing. 
+<sup>7</sup> And said unto him, Go, wash in the pool of Siloam ,( which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing. 
 
 <sup>8</sup> ¶ The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged? 
 
@@ -72,17 +72,16 @@ weight: 9
 
 <sup>34</sup> They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out. 
 
-<sup>35</sup> Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God ? 
+<sup>35</sup> Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?
 
 <sup>36</sup> He answered and said, Who is he, Lord, that I might believe on him? 
 
-<sup>37</sup> And Jesus said unto him, Thou hast both seen him , and it is he that talketh with thee . 
+<sup>37</sup> And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.
 
 <sup>38</sup> And he said, Lord, I believe. And he worshipped him. 
 
-<sup>39</sup> ¶ And Jesus said, For judgment I am come into this world , that they which see not might see ; and that they which see might be made blind . 
+<sup>39</sup> ¶ And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
 
 <sup>40</sup> And *some* of the Pharisees which were with him heard these words, and said unto him, Are we blind also? 
 
-<sup>41</sup> Jesus said unto them, If ye were blind , ye should have no sin : but now ye say , We see ; therefore your sin remaineth . 
-
+<sup>41</sup> Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth. 

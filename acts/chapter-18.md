@@ -20,9 +20,9 @@ weight: 18
 
 <sup>8</sup> And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized. 
 
-<sup>9</sup> Then spake the Lord to Paul in the night by a vision, Be not afraid , but speak , and hold not thy peace : 
+<sup>9</sup> Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:
 
-<sup>10</sup> For I am with thee , and no man shall set on thee to hurt thee : for I have much people in this city . 
+<sup>10</sup> For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.
 
 <sup>11</sup> And he continued *there* a year and six months, teaching the word of God among them. 
 
