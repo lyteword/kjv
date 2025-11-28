@@ -1,0 +1,28 @@
+---
+weight: 1
+---
+
+# Chapter 1
+
+<sup>1</sup> The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, *and* Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel. 
+
+<sup>2</sup> The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, *departing* from the LORD. 
+
+<sup>3</sup> So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son. 
+
+<sup>4</sup> And the LORD said unto him, Call his name Jezreel; for yet a little *while*, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel. 
+
+<sup>5</sup> And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel. 
+
+<sup>6</sup> ¶ And she conceived again, and bare a daughter. And *God* said unto him, Call her name Lo-ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away. 
+
+<sup>7</sup> But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen. 
+
+<sup>8</sup> ¶ Now when she had weaned Lo-ruhamah, she conceived, and bare a son. 
+
+<sup>9</sup> Then said *God*, Call his name Lo-ammi: for ye *are* not my people, and I will not be your *God*. 
+
+<sup>10</sup> ¶ Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, *that* in the place where it was said unto them, Ye *are* not my people, *there* it shall be said unto them, *Ye are* the sons of the living God. 
+
+<sup>11</sup> Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great *shall be* the day of Jezreel. 
+

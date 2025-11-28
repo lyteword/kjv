@@ -1,0 +1,16 @@
+---
+weight: 3
+---
+
+# Chapter 3
+
+<sup>1</sup> Then said the LORD unto me, Go yet, love a woman beloved of *her* friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine. 
+
+<sup>2</sup> So I bought her to me for fifteen *pieces* of silver, and *for* an homer of barley, and an half homer of barley: 
+
+<sup>3</sup> And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for *another* man: so *will* I also *be* for thee. 
+
+<sup>4</sup> For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and *without* teraphim: 
+
+<sup>5</sup> Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days. 
+
