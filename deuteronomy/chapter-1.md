@@ -6,7 +6,7 @@ weight: 1
 
 <sup>1</sup> These *be* the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red *sea*, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab. 
 
-<sup>2</sup> ( *There are* eleven days’ *journey* from Horeb by the way of mount Seir unto Kadesh-barnea.) 
+<sup>2</sup> (*There are* eleven days’ *journey* from Horeb by the way of mount Seir unto Kadesh-barnea.) 
 
 <sup>3</sup> And it came to pass in the fortieth year, in the eleventh month, on the first *day* of the month, *that* Moses spake unto the children of Israel, according unto all that the LORD had given him in commandment unto them; 
 

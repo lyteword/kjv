@@ -44,7 +44,7 @@ weight: 2
 
 <sup>20</sup> Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances, 
 
-<sup>21</sup> ( Touch not; taste not; handle not; 
+<sup>21</sup> (Touch not; taste not; handle not; 
 
 <sup>22</sup> Which all are to perish with the using;) after the commandments and doctrines of men? 
 

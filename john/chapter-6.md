@@ -48,7 +48,7 @@ weight: 6
 
 <sup>22</sup> ¶ The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but *that* his disciples were gone away alone; 
 
-<sup>23</sup> ( Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:) 
+<sup>23</sup> (Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:) 
 
 <sup>24</sup> When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus. 
 

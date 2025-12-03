@@ -18,7 +18,7 @@ weight: 2
 
 <sup>7</sup> And delivered just Lot, vexed with the filthy conversation of the wicked: 
 
-<sup>8</sup> ( For that righteous man dwelling among them, in seeing and hearing, vexed *his* righteous soul from day to day with *their* unlawful deeds;) 
+<sup>8</sup> (For that righteous man dwelling among them, in seeing and hearing, vexed *his* righteous soul from day to day with *their* unlawful deeds;) 
 
 <sup>9</sup> The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished: 
 

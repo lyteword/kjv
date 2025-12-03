@@ -6,7 +6,7 @@ weight: 4
 
 <sup>1</sup> When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John, 
 
-<sup>2</sup> ( Though Jesus himself baptized not, but his disciples,) 
+<sup>2</sup> (Though Jesus himself baptized not, but his disciples,) 
 
 <sup>3</sup> He left Judæa, and departed again into Galilee. 
 
@@ -18,7 +18,7 @@ weight: 4
 
 <sup>7</sup> There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
 
-<sup>8</sup> ( For his disciples were gone away unto the city to buy meat.) 
+<sup>8</sup> (For his disciples were gone away unto the city to buy meat.) 
 
 <sup>9</sup> Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans. 
 

@@ -48,7 +48,7 @@ weight: 10
 
 <sup>22</sup> Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water. 
 
-<sup>23</sup> Let us hold fast the profession of *our* faith without wavering; ( for he *is* faithful that promised;) 
+<sup>23</sup> Let us hold fast the profession of *our* faith without wavering; (for he *is* faithful that promised;) 
 
 <sup>24</sup> And let us consider one another to provoke unto love and to good works: 
 

@@ -34,7 +34,7 @@ weight: 8
 
 <sup>15</sup> Who, when they were come down, prayed for them, that they might receive the Holy Ghost: 
 
-<sup>16</sup> ( For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.) 
+<sup>16</sup> (For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.) 
 
 <sup>17</sup> Then laid they *their* hands on them, and they received the Holy Ghost. 
 

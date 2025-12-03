@@ -6,7 +6,7 @@ weight: 6
 
 <sup>1</sup> Children, obey your parents in the Lord: for this is right. 
 
-<sup>2</sup> Honour thy father and mother; ( which is the first commandment with promise;) 
+<sup>2</sup> Honour thy father and mother; (which is the first commandment with promise;) 
 
 <sup>3</sup> That it may be well with thee, and thou mayest live long on the earth. 
 

@@ -6,7 +6,7 @@ weight: 22
 
 <sup>1</sup> Men, brethren, and fathers, hear ye my defence *which I make* now unto you. 
 
-<sup>2</sup> ( And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,) 
+<sup>2</sup> (And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,) 
 
 <sup>3</sup> I am verily a man *which am* a Jew, born in Tarsus, *a city* in Cilicia, yet brought up in this city at the feet of Gamaliel, *and* taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day. 
 

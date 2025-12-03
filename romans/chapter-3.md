@@ -18,7 +18,7 @@ weight: 3
 
 <sup>7</sup> For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner? 
 
-<sup>8</sup> And not *rather*, ( as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just. 
+<sup>8</sup> And not *rather*, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just. 
 
 <sup>9</sup> What then? are we better *than they*? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin; 
 

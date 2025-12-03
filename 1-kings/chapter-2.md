@@ -10,7 +10,7 @@ weight: 2
 
 <sup>3</sup> And keep the charge of the LORD thy God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself: 
 
-<sup>4</sup> That the LORD may continue his word which he spake concerning me, saying, If thy children take heed to their way, to walk before me in truth with all their heart and with all their soul, there shall not fail thee ( said he) a man on the throne of Israel. 
+<sup>4</sup> That the LORD may continue his word which he spake concerning me, saying, If thy children take heed to their way, to walk before me in truth with all their heart and with all their soul, there shall not fail thee (said he) a man on the throne of Israel. 
 
 <sup>5</sup> Moreover thou knowest also what Joab the son of Zeruiah did to me, *and* what he did to the two captains of the hosts of Israel, unto Abner the son of Ner, and unto Amasa the son of Jether, whom he slew, and shed the blood of war in peace, and put the blood of war upon his girdle that *was* about his loins, and in his shoes that *were* on his feet. 
 

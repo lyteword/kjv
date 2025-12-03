@@ -46,7 +46,7 @@ weight: 7
 
 <sup>21</sup> Jesus answered and said unto them, I have done one work, and ye all marvel.
 
-<sup>22</sup> Moses therefore gave unto you circumcision; ( not because it is of Moses, but of the fathers ;) and ye on the sabbath day circumcise a man.
+<sup>22</sup> Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers ;) and ye on the sabbath day circumcise a man.
 
 <sup>23</sup> If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?
 
@@ -80,7 +80,7 @@ weight: 7
 
 <sup>38</sup> He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.
 
-<sup>39</sup> ( But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet *given*; because that Jesus was not yet glorified.) 
+<sup>39</sup> (But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet *given*; because that Jesus was not yet glorified.) 
 
 <sup>40</sup> ¶ Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet. 
 

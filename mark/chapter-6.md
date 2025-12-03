@@ -30,7 +30,7 @@ weight: 6
 
 <sup>13</sup> And they cast out many devils, and anointed with oil many that were sick, and healed *them*. 
 
-<sup>14</sup> And king Herod heard *of him*; ( for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him. 
+<sup>14</sup> And king Herod heard *of him*; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him. 
 
 <sup>15</sup> Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets. 
 

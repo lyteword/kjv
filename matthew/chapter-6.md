@@ -66,7 +66,7 @@ weight: 6
 
 <sup>31</sup> Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?
 
-<sup>32</sup> ( For after all these things do the Gentiles seek :) for your heavenly Father knoweth that ye have need of all these things.
+<sup>32</sup> (For after all these things do the Gentiles seek :) for your heavenly Father knoweth that ye have need of all these things.
 
 <sup>33</sup> But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.
 

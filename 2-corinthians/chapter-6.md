@@ -6,7 +6,7 @@ weight: 6
 
 <sup>1</sup> We then, *as* workers together *with him*, beseech *you* also that ye receive not the grace of God in vain. 
 
-<sup>2</sup> ( For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now *is* the accepted time; behold, now *is* the day of salvation.) 
+<sup>2</sup> (For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now *is* the accepted time; behold, now *is* the day of salvation.) 
 
 <sup>3</sup> Giving no offence in any thing, that the ministry be not blamed: 
 

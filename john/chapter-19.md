@@ -64,7 +64,7 @@ weight: 19
 
 <sup>30</sup> When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. 
 
-<sup>31</sup> The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, ( for that sabbath day was an high day,) besought Pilate that their legs might be broken, and *that* they might be taken away. 
+<sup>31</sup> The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and *that* they might be taken away. 
 
 <sup>32</sup> Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him. 
 

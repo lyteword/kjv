@@ -14,9 +14,9 @@ weight: 10
 
 <sup>5</sup> For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them. 
 
-<sup>6</sup> But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? ( that is, to bring Christ down *from above*:) 
+<sup>6</sup> But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down *from above*:) 
 
-<sup>7</sup> Or, Who shall descend into the deep? ( that is, to bring up Christ again from the dead.) 
+<sup>7</sup> Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.) 
 
 <sup>8</sup> But what saith it? The word is nigh thee, *even* in thy mouth, and in thy heart: that is, the word of faith, which we preach; 
 

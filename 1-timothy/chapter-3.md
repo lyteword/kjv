@@ -12,7 +12,7 @@ weight: 3
 
 <sup>4</sup> One that ruleth well his own house, having his children in subjection with all gravity; 
 
-<sup>5</sup> ( For if a man know not how to rule his own house, how shall he take care of the church of God?) 
+<sup>5</sup> (For if a man know not how to rule his own house, how shall he take care of the church of God?) 
 
 <sup>6</sup> Not a novice, lest being lifted up with pride he fall into the condemnation of the devil. 
 

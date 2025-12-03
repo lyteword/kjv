@@ -10,7 +10,7 @@ weight: 10
 
 <sup>3</sup> For though we walk in the flesh, we do not war after the flesh: 
 
-<sup>4</sup> ( For the weapons of our warfare *are* not carnal, but mighty through God to the pulling down of strong holds;) 
+<sup>4</sup> (For the weapons of our warfare *are* not carnal, but mighty through God to the pulling down of strong holds;) 
 
 <sup>5</sup> Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ; 
 

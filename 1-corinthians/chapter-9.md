@@ -44,7 +44,7 @@ weight: 9
 
 <sup>20</sup> And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law; 
 
-<sup>21</sup> To them that are without law, as without law, ( being not without law to God, but under the law to Christ,) that I might gain them that are without law. 
+<sup>21</sup> To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law. 
 
 <sup>22</sup> To the weak became I as weak, that I might gain the weak: I am made all things to all *men*, that I might by all means save some. 
 

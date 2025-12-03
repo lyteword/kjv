@@ -20,7 +20,7 @@ weight: 13
 
 <sup>8</sup> But Elymas the sorcerer( for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith. 
 
-<sup>9</sup> Then Saul, ( who also *is called* Paul,) filled with the Holy Ghost, set his eyes on him, 
+<sup>9</sup> Then Saul, (who also *is called* Paul,) filled with the Holy Ghost, set his eyes on him, 
 
 <sup>10</sup> And said, O full of all subtilty and all mischief, *thou* child of the devil, *thou* enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord? 
 

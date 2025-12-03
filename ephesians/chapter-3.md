@@ -8,7 +8,7 @@ weight: 3
 
 <sup>2</sup> If ye have heard of the dispensation of the grace of God which is given me to you-ward: 
 
-<sup>3</sup> How that by revelation he made known unto me the mystery; ( as I wrote afore in few words, 
+<sup>3</sup> How that by revelation he made known unto me the mystery; (as I wrote afore in few words, 
 
 <sup>4</sup> Whereby, when ye read, ye may understand my knowledge in the mystery of Christ) 
 

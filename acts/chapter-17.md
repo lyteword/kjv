@@ -44,7 +44,7 @@ weight: 17
 
 <sup>20</sup> For thou bringest certain strange things to our ears: we would know therefore what these things mean. 
 
-<sup>21</sup> ( For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.) 
+<sup>21</sup> (For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.) 
 
 <sup>22</sup> ¶ Then Paul stood in the midst of Mars’ hill, and said, *Ye* men of Athens, I perceive that in all things ye are too superstitious. 
 

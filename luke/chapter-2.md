@@ -6,11 +6,11 @@ weight: 2
 
 <sup>1</sup> And it came to pass in those days, that there went out a decree from Cæsar Augustus, that all the world should be taxed. 
 
-<sup>2</sup> ( *And* this taxing was first made when Cyrenius was governor of Syria.) 
+<sup>2</sup> (*And* this taxing was first made when Cyrenius was governor of Syria.) 
 
 <sup>3</sup> And all went to be taxed, every one into his own city. 
 
-<sup>4</sup> And Joseph also went up from Galilee, out of the city of Nazareth, into Judæa, unto the city of David, which is called Bethlehem; ( because he was of the house and lineage of David:) 
+<sup>4</sup> And Joseph also went up from Galilee, out of the city of Nazareth, into Judæa, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:) 
 
 <sup>5</sup> To be taxed with Mary his espoused wife, being great with child. 
 
@@ -48,7 +48,7 @@ weight: 2
 
 <sup>22</sup> And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present *him* to the Lord; 
 
-<sup>23</sup> ( As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;) 
+<sup>23</sup> (As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;) 
 
 <sup>24</sup> And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons. 
 
@@ -72,7 +72,7 @@ weight: 2
 
 <sup>34</sup> And Simeon blessed them, and said unto Mary his mother, Behold, this *child* is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against; 
 
-<sup>35</sup> ( Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed. 
+<sup>35</sup> (Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed. 
 
 <sup>36</sup> And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity; 
 

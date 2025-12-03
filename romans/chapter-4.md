@@ -36,7 +36,7 @@ weight: 4
 
 <sup>16</sup> Therefore *it is* of faith, that *it might be* by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all, 
 
-<sup>17</sup> ( As it is written, I have made thee a father of many nations,) before him whom he believed, *even* God, who quickeneth the dead, and calleth those things which be not as though they were. 
+<sup>17</sup> (As it is written, I have made thee a father of many nations,) before him whom he believed, *even* God, who quickeneth the dead, and calleth those things which be not as though they were. 
 
 <sup>18</sup> Who against hope believed in hope, that he might become the father of many nations; according to that which was spoken, So shall thy seed be. 
 

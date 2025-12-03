@@ -8,7 +8,7 @@ weight: 12
 
 <sup>2</sup> And he killed James the brother of John with the sword. 
 
-<sup>3</sup> And because he saw it pleased the Jews, he proceeded further to take Peter also. ( Then were the days of unleavened bread.) 
+<sup>3</sup> And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.) 
 
 <sup>4</sup> And when he had apprehended him, he put *him* in prison, and delivered *him* to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people. 
 

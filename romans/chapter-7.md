@@ -4,7 +4,7 @@ weight: 7
 
 # Chapter 7
 
-<sup>1</sup> Know ye not, brethren, ( for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth? 
+<sup>1</sup> Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth? 
 
 <sup>2</sup> For the woman which hath an husband is bound by the law to *her* husband so long as he liveth; but if the husband be dead, she is loosed from the law of *her* husband. 
 

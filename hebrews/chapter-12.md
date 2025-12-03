@@ -42,7 +42,7 @@ weight: 12
 
 <sup>19</sup> And the sound of a trumpet, and the voice of words; which *voice* they that heard intreated that the word should not be spoken to them any more: 
 
-<sup>20</sup> ( For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart: 
+<sup>20</sup> (For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart: 
 
 <sup>21</sup> And so terrible was the sight, *that* Moses said, I exceedingly fear and quake:) 
 

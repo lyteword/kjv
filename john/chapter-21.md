@@ -16,9 +16,9 @@ weight: 21
 
 <sup>6</sup> And he said unto them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes. 
 
-<sup>7</sup> Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt *his* fisher’s coat *unto him*, ( for he was naked,) and did cast himself into the sea. 
+<sup>7</sup> Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt *his* fisher’s coat *unto him*, (for he was naked,) and did cast himself into the sea. 
 
-<sup>8</sup> And the other disciples came in a little ship; ( for they were not far from land, but as it were two hundred cubits,) dragging the net with fishes. 
+<sup>8</sup> And the other disciples came in a little ship; (for they were not far from land, but as it were two hundred cubits,) dragging the net with fishes. 
 
 <sup>9</sup> As soon then as they were come to land, they saw a fire of coals there, and fish laid thereon, and bread. 
 

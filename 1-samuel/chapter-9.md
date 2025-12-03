@@ -20,7 +20,7 @@ weight: 9
 
 <sup>8</sup> And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver: *that* will I give to the man of God, to tell us our way. 
 
-<sup>9</sup> ( Beforetime in Israel, when a man went to enquire of God, thus he spake, Come, and let us go to the seer: for *he that is* now *called* a Prophet was beforetime called a Seer.) 
+<sup>9</sup> (Beforetime in Israel, when a man went to enquire of God, thus he spake, Come, and let us go to the seer: for *he that is* now *called* a Prophet was beforetime called a Seer.) 
 
 <sup>10</sup> Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God *was*. 
 

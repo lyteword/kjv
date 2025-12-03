@@ -52,7 +52,7 @@ weight: 19
 
 <sup>24</sup> And he said unto them that stood by, Take from him the pound, and give *it* to him that hath ten pounds.
 
-<sup>25</sup> ( And they said unto him, Lord, he hath ten pounds .) 
+<sup>25</sup> (And they said unto him, Lord, he hath ten pounds .) 
 
 <sup>26</sup> For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
 

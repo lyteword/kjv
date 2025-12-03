@@ -6,7 +6,7 @@ weight: 1
 
 <sup>1</sup> That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; 
 
-<sup>2</sup> ( For the life was manifested, and we have seen *it*, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;) 
+<sup>2</sup> (For the life was manifested, and we have seen *it*, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;) 
 
 <sup>3</sup> That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship *is* with the Father, and with his Son Jesus Christ. 
 

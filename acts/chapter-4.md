@@ -74,7 +74,7 @@ weight: 4
 
 <sup>35</sup> And laid *them* down at the apostles’ feet: and distribution was made unto every man according as he had need. 
 
-<sup>36</sup> And Joses, who by the apostles was surnamed Barnabas, ( which is, being interpreted, The son of consolation,) a Levite, *and* of the country of Cyprus, 
+<sup>36</sup> And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, *and* of the country of Cyprus, 
 
 <sup>37</sup> Having land, sold *it*, and brought the money, and laid *it* at the apostles’ feet. 
 

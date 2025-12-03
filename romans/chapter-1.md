@@ -6,7 +6,7 @@ weight: 1
 
 <sup>1</sup> Paul, a servant of Jesus Christ, called *to be* an apostle, separated unto the gospel of God, 
 
-<sup>2</sup> ( Which he had promised afore by his prophets in the holy scriptures,) 
+<sup>2</sup> (Which he had promised afore by his prophets in the holy scriptures,) 
 
 <sup>3</sup> Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh; 
 
@@ -28,7 +28,7 @@ weight: 1
 
 <sup>12</sup> That is, that I may be comforted together with you by the mutual faith both of you and me. 
 
-<sup>13</sup> Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, ( but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles. 
+<sup>13</sup> Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles. 
 
 <sup>14</sup> I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise. 
 

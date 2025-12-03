@@ -24,7 +24,7 @@ weight: 9
 
 <sup>10</sup> ¶ And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the LORD, and the king’s house, 
 
-<sup>11</sup> ( *Now* Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee. 
+<sup>11</sup> (*Now* Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee. 
 
 <sup>12</sup> And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not. 
 

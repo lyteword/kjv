@@ -48,7 +48,7 @@ weight: 11
 
 <sup>22</sup> Are they Hebrews? so *am* I. Are they Israelites? so *am* I. Are they the seed of Abraham? so *am* I. 
 
-<sup>23</sup> Are they ministers of Christ? ( I speak as a fool) I *am* more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft. 
+<sup>23</sup> Are they ministers of Christ? (I speak as a fool) I *am* more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft. 
 
 <sup>24</sup> Of the Jews five times received I forty *stripes* save one. 
 

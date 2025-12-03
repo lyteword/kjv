@@ -12,7 +12,7 @@ weight: 8
 
 <sup>4</sup> As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol *is* nothing in the world, and that *there is* none other God but one. 
 
-<sup>5</sup> For though there be that are called gods, whether in heaven or in earth, ( as there be gods many, and lords many,) 
+<sup>5</sup> For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,) 
 
 <sup>6</sup> But to us *there is but* one God, the Father, of whom *are* all things, and we in him; and one Lord Jesus Christ, by whom *are* all things, and we by him. 
 

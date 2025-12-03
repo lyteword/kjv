@@ -28,7 +28,7 @@ weight: 2
 
 <sup>12</sup> For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law; 
 
-<sup>13</sup> ( For not the hearers of the law *are* just before God, but the doers of the law shall be justified. 
+<sup>13</sup> (For not the hearers of the law *are* just before God, but the doers of the law shall be justified. 
 
 <sup>14</sup> For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves: 
 

@@ -20,7 +20,7 @@ weight: 9
 
 <sup>8</sup> And God *is* able to make all grace abound toward you; that ye, always having all sufficiency in all *things*, may abound to every good work: 
 
-<sup>9</sup> ( As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever. 
+<sup>9</sup> (As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever. 
 
 <sup>10</sup> Now he that ministereth seed to the sower both minister bread for *your* food, and multiply your seed sown, and increase the fruits of your righteousness;) 
 

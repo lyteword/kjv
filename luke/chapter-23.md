@@ -36,11 +36,11 @@ weight: 23
 
 <sup>16</sup> I will therefore chastise him, and release *him*. 
 
-<sup>17</sup> ( For of necessity he must release one unto them at the feast.) 
+<sup>17</sup> (For of necessity he must release one unto them at the feast.) 
 
 <sup>18</sup> And they cried out all at once, saying, Away with this *man*, and release unto us Barabbas: 
 
-<sup>19</sup> ( Who for a certain sedition made in the city, and for murder, was cast into prison.) 
+<sup>19</sup> (Who for a certain sedition made in the city, and for murder, was cast into prison.) 
 
 <sup>20</sup> Pilate therefore, willing to release Jesus, spake again to them. 
 

@@ -20,7 +20,7 @@ weight: 4
 
 <sup>8</sup> Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men. 
 
-<sup>9</sup> ( Now that he ascended, what is it but that he also descended first into the lower parts of the earth? 
+<sup>9</sup> (Now that he ascended, what is it but that he also descended first into the lower parts of the earth? 
 
 <sup>10</sup> He that descended is the same also that ascended up far above all heavens, that he might fill all things.) 
 

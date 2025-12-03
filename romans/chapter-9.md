@@ -24,7 +24,7 @@ weight: 9
 
 <sup>10</sup> And not only *this*; but when Rebecca also had conceived by one, *even* by our father Isaac; 
 
-<sup>11</sup> ( For *the children* being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;) 
+<sup>11</sup> (For *the children* being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;) 
 
 <sup>12</sup> It was said unto her, The elder shall serve the younger. 
 

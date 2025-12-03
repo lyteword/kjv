@@ -32,7 +32,7 @@ weight: 24
 
 <sup>14</sup> And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
 
-<sup>15</sup> When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, ( whoso readeth, let him understand :) 
+<sup>15</sup> When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand :) 
 
 <sup>16</sup> Then let them which be in Judaea flee into the mountains:
 

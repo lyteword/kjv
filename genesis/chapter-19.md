@@ -42,7 +42,7 @@ weight: 19
 
 <sup>19</sup> Behold now, thy servant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die: 
 
-<sup>20</sup> Behold now, this city *is* near to flee unto, and it *is* a little one: Oh, let me escape thither, ( *is* it not a little one?) and my soul shall live. 
+<sup>20</sup> Behold now, this city *is* near to flee unto, and it *is* a little one: Oh, let me escape thither, (*is* it not a little one?) and my soul shall live. 
 
 <sup>21</sup> And he said unto him, See, I have accepted thee concerning this thing also, that I will not overthrow this city, for the which thou hast spoken. 
 

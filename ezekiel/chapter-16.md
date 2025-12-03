@@ -48,7 +48,7 @@ weight: 16
 
 <sup>22</sup> And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare, *and* wast polluted in thy blood. 
 
-<sup>23</sup> And it came to pass after all thy wickedness, ( woe, woe unto thee! saith the Lord GOD;) 
+<sup>23</sup> And it came to pass after all thy wickedness, (woe, woe unto thee! saith the Lord GOD;) 
 
 <sup>24</sup> *That* thou hast also built unto thee an eminent place, and hast made thee an high place in every street. 
 

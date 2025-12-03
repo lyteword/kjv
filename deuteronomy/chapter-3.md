@@ -20,7 +20,7 @@ weight: 3
 
 <sup>8</sup> And we took at that time out of the hand of the two kings of the Amorites the land that *was* on this side Jordan, from the river of Arnon unto mount Hermon; 
 
-<sup>9</sup> ( *Which* Hermon the Sidonians call Sirion; and the Amorites call it Shenir;) 
+<sup>9</sup> (*Which* Hermon the Sidonians call Sirion; and the Amorites call it Shenir;) 
 
 <sup>10</sup> All the cities of the plain, and all Gilead, and all Bashan, unto Salchah and Edrei, cities of the kingdom of Og in Bashan. 
 
@@ -40,7 +40,7 @@ weight: 3
 
 <sup>18</sup> ¶ And I commanded you at that time, saying, The LORD your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all *that are* meet for the war. 
 
-<sup>19</sup> But your wives, and your little ones, and your cattle, ( *for* I know that ye have much cattle,) shall abide in your cities which I have given you; 
+<sup>19</sup> But your wives, and your little ones, and your cattle, (*for* I know that ye have much cattle,) shall abide in your cities which I have given you; 
 
 <sup>20</sup> Until the LORD have given rest unto your brethren, as well as unto you, and *until* they also possess the land which the LORD your God hath given them beyond Jordan: and *then* shall ye return every man unto his possession, which I have given you. 
 

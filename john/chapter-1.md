@@ -30,7 +30,7 @@ weight: 1
 
 <sup>13</sup> Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God. 
 
-<sup>14</sup> And the Word was made flesh, and dwelt among us, ( and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth. 
+<sup>14</sup> And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth. 
 
 <sup>15</sup> ¶ John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me. 
 
@@ -78,7 +78,7 @@ weight: 1
 
 <sup>37</sup> And the two disciples heard him speak, and they followed Jesus. 
 
-<sup>38</sup> Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, ( which is to say, being interpreted, Master,) where dwellest thou? 
+<sup>38</sup> Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou? 
 
 <sup>39</sup> He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour. 
 

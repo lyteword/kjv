@@ -28,7 +28,7 @@ weight: 5
 
 <sup>12</sup> Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: 
 
-<sup>13</sup> ( For until the law sin was in the world: but sin is not imputed when there is no law. 
+<sup>13</sup> (For until the law sin was in the world: but sin is not imputed when there is no law. 
 
 <sup>14</sup> Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come. 
 

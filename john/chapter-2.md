@@ -20,7 +20,7 @@ weight: 2
 
 <sup>8</sup> And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare *it*. 
 
-<sup>9</sup> When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: ( but the servants which drew the water knew;) the governor of the feast called the bridegroom, 
+<sup>9</sup> When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom, 
 
 <sup>10</sup> And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: *but* thou hast kept the good wine until now. 
 

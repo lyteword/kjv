@@ -26,7 +26,7 @@ weight: 5
 
 <sup>11</sup> And great fear came upon all the church, and upon as many as heard these things. 
 
-<sup>12</sup> ¶ And by the hands of the apostles were many signs and wonders wrought among the people; ( and they were all with one accord in Solomon’s porch. 
+<sup>12</sup> ¶ And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon’s porch. 
 
 <sup>13</sup> And of the rest durst no man join himself to them: but the people magnified them. 
 

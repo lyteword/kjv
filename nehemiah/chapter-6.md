@@ -4,7 +4,7 @@ weight: 6
 
 # Chapter 6
 
-<sup>1</sup> Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and *that* there was no breach left therein; ( though at that time I had not set up the doors upon the gates;) 
+<sup>1</sup> Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and *that* there was no breach left therein; (though at that time I had not set up the doors upon the gates;) 
 
 <sup>2</sup> That Sanballat and Geshem sent unto me, saying, Come, let us meet together in *some one of* the villages in the plain of Ono. But they thought to do me mischief. 
 

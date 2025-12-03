@@ -108,7 +108,7 @@ weight: 31
 
 <sup>52</sup> And all the gold of the offering that they offered up to the LORD, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels. 
 
-<sup>53</sup> ( *For* the men of war had taken spoil, every man for himself.) 
+<sup>53</sup> (*For* the men of war had taken spoil, every man for himself.) 
 
 <sup>54</sup> And Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the tabernacle of the congregation, *for* a memorial for the children of Israel before the LORD. 
 

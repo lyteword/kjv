@@ -30,7 +30,7 @@ weight: 6
 
 <sup>13</sup> ¶ And when it was day, he called *unto him* his disciples: and of them he chose twelve, whom also he named apostles; 
 
-<sup>14</sup> Simon, ( whom he also named Peter,) and Andrew his brother, James and John, Philip and Bartholomew, 
+<sup>14</sup> Simon, (whom he also named Peter,) and Andrew his brother, James and John, Philip and Bartholomew, 
 
 <sup>15</sup> Matthew and Thomas, James the *son* of Alphæus, and Simon called Zelotes, 
 

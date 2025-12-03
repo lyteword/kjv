@@ -60,7 +60,7 @@ weight: 21
 
 <sup>28</sup> Crying out, Men of Israel, help: This is the man, that teacheth all *men* every where against the people, and the law, and this place: and further brought Greeks also into the temple, and hath polluted this holy place. 
 
-<sup>29</sup> ( For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.) 
+<sup>29</sup> (For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.) 
 
 <sup>30</sup> And all the city was moved, and the people ran together: and they took Paul, and drew him out of the temple: and forthwith the doors were shut. 
 

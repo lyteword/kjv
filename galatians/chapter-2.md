@@ -14,11 +14,11 @@ weight: 2
 
 <sup>5</sup> To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you. 
 
-<sup>6</sup> But of these who seemed to be somewhat, ( whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed *to be somewhat* in conference added nothing to me: 
+<sup>6</sup> But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed *to be somewhat* in conference added nothing to me: 
 
 <sup>7</sup> But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as *the gospel* of the circumcision *was* unto Peter; 
 
-<sup>8</sup> ( For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:) 
+<sup>8</sup> (For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:) 
 
 <sup>9</sup> And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we *should go* unto the heathen, and they unto the circumcision. 
 

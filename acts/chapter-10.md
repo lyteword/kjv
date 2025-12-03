@@ -74,7 +74,7 @@ weight: 10
 
 <sup>35</sup> But in every nation he that feareth him, and worketh righteousness, is accepted with him. 
 
-<sup>36</sup> The word which *God* sent unto the children of Israel, preaching peace by Jesus Christ: ( he is Lord of all:) 
+<sup>36</sup> The word which *God* sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:) 
 
 <sup>37</sup> That word, *I say*, ye know, which was published throughout all Judæa, and began from Galilee, after the baptism which John preached; 
 

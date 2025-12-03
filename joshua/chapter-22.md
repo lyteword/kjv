@@ -46,7 +46,7 @@ weight: 22
 
 <sup>21</sup> ¶ Then the children of Reuben and the children of Gad and the half tribe of Manasseh answered, and said unto the heads of the thousands of Israel, 
 
-<sup>22</sup> The LORD God of gods, the LORD God of gods, he knoweth, and Israel he shall know; if *it be* in rebellion, or if in transgression against the LORD, ( save us not this day,) 
+<sup>22</sup> The LORD God of gods, the LORD God of gods, he knoweth, and Israel he shall know; if *it be* in rebellion, or if in transgression against the LORD, (save us not this day,) 
 
 <sup>23</sup> That we have built us an altar to turn from following the LORD, or if to offer thereon burnt offering or meat offering, or if to offer peace offerings thereon, let the LORD himself require *it;* 
 

@@ -20,7 +20,7 @@ weight: 2
 
 <sup>8</sup> And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;
 
-<sup>9</sup> I know thy works, and tribulation, and poverty, ( but thou art rich ) and *I know* the blasphemy of them which say they are Jews, and are not, but *are* the synagogue of Satan.
+<sup>9</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and *I know* the blasphemy of them which say they are Jews, and are not, but *are* the synagogue of Satan.
 
 <sup>10</sup> Fear none of those things which thou shalt suffer: behold, the devil shall cast *some* of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
 

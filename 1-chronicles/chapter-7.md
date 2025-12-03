@@ -30,7 +30,7 @@ weight: 7
 
 <sup>13</sup> ¶ The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah. 
 
-<sup>14</sup> ¶ The sons of Manasseh; Ashriel, whom she bare: ( *but* his concubine the Aramitess bare Machir the father of Gilead: 
+<sup>14</sup> ¶ The sons of Manasseh; Ashriel, whom she bare: (*but* his concubine the Aramitess bare Machir the father of Gilead: 
 
 <sup>15</sup> And Machir took to wife *the sister* of Huppim and Shuppim, whose sister’s name *was* Maachah;) and the name of the second *was* Zelophehad: and Zelophehad had daughters. 
 

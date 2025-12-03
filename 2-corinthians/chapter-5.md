@@ -16,7 +16,7 @@ weight: 5
 
 <sup>6</sup> Therefore *we are* always confident, knowing that, whilst we are at home in the body, we are absent from the Lord: 
 
-<sup>7</sup> ( For we walk by faith, not by sight:) 
+<sup>7</sup> (For we walk by faith, not by sight:) 
 
 <sup>8</sup> We are confident, *I say*, and willing rather to be absent from the body, and to be present with the Lord. 
 

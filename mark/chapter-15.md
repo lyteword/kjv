@@ -84,7 +84,7 @@ weight: 15
 
 <sup>40</sup> There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome; 
 
-<sup>41</sup> ( Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem. 
+<sup>41</sup> (Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem. 
 
 <sup>42</sup> ¶ And now when the even was come, because it was the preparation, that is, the day before the sabbath, 
 

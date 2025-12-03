@@ -30,7 +30,7 @@ weight: 13
 
 <sup>13</sup> And ye shall be hated of all *men* for my name’s sake: but he that shall endure unto the end, the same shall be saved.
 
-<sup>14</sup> ¶ But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, ( let him that readeth understand ,) then let them that be in Judæa flee to the mountains:
+<sup>14</sup> ¶ But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand ,) then let them that be in Judæa flee to the mountains:
 
 <sup>15</sup> And let him that is on the housetop not go down into the house, neither enter *therein*, to take any thing out of his house:
 

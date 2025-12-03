@@ -20,7 +20,7 @@ weight: 5
 
 <sup>8</sup> For ye were sometimes darkness, but now *are ye* light in the Lord: walk as children of light: 
 
-<sup>9</sup> ( For the fruit of the Spirit *is* in all goodness and righteousness and truth;) 
+<sup>9</sup> (For the fruit of the Spirit *is* in all goodness and righteousness and truth;) 
 
 <sup>10</sup> Proving what is acceptable unto the Lord. 
 

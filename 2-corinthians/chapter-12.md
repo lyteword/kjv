@@ -6,9 +6,9 @@ weight: 12
 
 <sup>1</sup> It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord. 
 
-<sup>2</sup> I knew a man in Christ above fourteen years ago, ( whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven. 
+<sup>2</sup> I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven. 
 
-<sup>3</sup> And I knew such a man, ( whether in the body, or out of the body, I cannot tell: God knoweth;) 
+<sup>3</sup> And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;) 
 
 <sup>4</sup> How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter. 
 

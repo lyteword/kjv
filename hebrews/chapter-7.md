@@ -24,7 +24,7 @@ weight: 7
 
 <sup>10</sup> For he was yet in the loins of his father, when Melchisedec met him. 
 
-<sup>11</sup> If therefore perfection were by the Levitical priesthood, ( for under it the people received the law,) what further need *was there* that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron? 
+<sup>11</sup> If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need *was there* that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron? 
 
 <sup>12</sup> For the priesthood being changed, there is made of necessity a change also of the law. 
 
@@ -44,7 +44,7 @@ weight: 7
 
 <sup>20</sup> And in asmuch as not without an oath *he was made priest*: 
 
-<sup>21</sup> ( For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou *art* a priest for ever after the order of Melchisedec:) 
+<sup>21</sup> (For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou *art* a priest for ever after the order of Melchisedec:) 
 
 <sup>22</sup> By so much was Jesus made a surety of a better testament. 
 

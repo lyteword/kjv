@@ -82,7 +82,7 @@ weight: 14
 
 <sup>39</sup> And again he went away, and prayed, and spake the same words. 
 
-<sup>40</sup> And when he returned, he found them asleep again, ( for their eyes were heavy,) neither wist they what to answer him. 
+<sup>40</sup> And when he returned, he found them asleep again, (for their eyes were heavy,) neither wist they what to answer him. 
 
 <sup>41</sup> And he cometh the third time, and saith unto them, Sleep on now, and take *your* rest: it is enough, the hour is come; behold, the Son of man is betrayed into the hands of sinners.
 

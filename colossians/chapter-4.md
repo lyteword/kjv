@@ -22,7 +22,7 @@ weight: 4
 
 <sup>9</sup> With Onesimus, a faithful and beloved brother, who is *one* of you. They shall make known unto you all things which *are done* here. 
 
-<sup>10</sup> Aristarchus my fellowprisoner saluteth you, and Marcus, sister’s son to Barnabas, ( touching whom ye received commandments: if he come unto you, receive him;) 
+<sup>10</sup> Aristarchus my fellowprisoner saluteth you, and Marcus, sister’s son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;) 
 
 <sup>11</sup> And Jesus, which is called Justus, who are of the circumcision. These only *are my* fellowworkers unto the kingdom of God, which have been a comfort unto me. 
 
