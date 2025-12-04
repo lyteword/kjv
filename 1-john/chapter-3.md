@@ -34,7 +34,7 @@ weight: 3
 
 <sup>15</sup> Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him. 
 
-<sup>16</sup> Hereby perceive we the love **, because he laid down his life for us: and we ought to lay down *our* lives for the brethren. 
+<sup>16</sup> Hereby perceive we the love *of God*, because he laid down his life for us: and we ought to lay down *our* lives for the brethren. 
 
 <sup>17</sup> But whoso hath this world’s good, and seeth his brother have need, and shutteth up his bowels *of compassion* from him, how dwelleth the love of God in him? 
 

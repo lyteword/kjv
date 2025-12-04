@@ -48,7 +48,7 @@ weight: 2
 
 <sup>22</sup> Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son. 
 
-<sup>23</sup> Whosoever denieth the Son, the same hath not the Father: *[but]*. 
+<sup>23</sup> Whosoever denieth the Son, the same hath not the Father: *[but] he that acknowledgeth the Son hath the Father also*. 
 
 <sup>24</sup> Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father. 
 
