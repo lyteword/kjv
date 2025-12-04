@@ -28,7 +28,7 @@ weight: 20
 
 <sup>12</sup> ¶ And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them. 
 
-<sup>13</sup> This ** the water of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them. 
+<sup>13</sup> This *is* the water of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them. 
 
 <sup>14</sup> ¶ And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us: 
 

@@ -40,7 +40,7 @@ weight: 34
 
 <sup>18</sup> ¶ The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt. 
 
-<sup>19</sup> All that openeth the matrix *is* mine; and every firstling among thy cattle, *whether* ox or sheep, **. 
+<sup>19</sup> All that openeth the matrix *is* mine; and every firstling among thy cattle, *whether* ox or sheep, *that is male*.  
 
 <sup>20</sup> But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem *him* not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty. 
 

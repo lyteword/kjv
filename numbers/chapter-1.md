@@ -34,7 +34,7 @@ weight: 1
 
 <sup>15</sup> Of Naphtali; Ahira the son of Enan. 
 
-<sup>16</sup> These ** the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel. 
+<sup>16</sup> These *were* the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel. 
 
 <sup>17</sup> ¶ And Moses and Aaron took these men which are expressed by *their* names: 
 

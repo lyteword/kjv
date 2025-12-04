@@ -58,7 +58,7 @@ weight: 14
 
 <sup>27</sup> How long *shall I bear with* this evil congregation, which murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me. 
 
-<sup>28</sup> Say unto them, ** I live, saith the LORD, as ye have spoken in mine ears, so will I do to you: 
+<sup>28</sup> Say unto them, *as* I live, saith the LORD, as ye have spoken in mine ears, so will I do to you: 
 
 <sup>29</sup> Your carcases shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward, which have murmured against me, 
 

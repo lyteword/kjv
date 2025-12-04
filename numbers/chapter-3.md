@@ -42,7 +42,7 @@ weight: 3
 
 <sup>19</sup> And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel. 
 
-<sup>20</sup> And the sons of Merari by their families; Mahli, and Mushi. These ** the families of the Levites according to the house of their fathers. 
+<sup>20</sup> And the sons of Merari by their families; Mahli, and Mushi. These *are* the families of the Levites according to the house of their fathers. 
 
 <sup>21</sup> Of Gershon *was* the family of the Libnites, and the family of the Shimites: these *are* the families of the Gershonites. 
 

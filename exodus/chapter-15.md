@@ -28,13 +28,13 @@ weight: 15
 
 <sup>12</sup> Thou stretchedst out thy right hand, the earth swallowed them. 
 
-<sup>13</sup> Thou in thy mercy hast led forth the people ** thou hast redeemed: thou hast guided *them* in thy strength unto thy holy habitation. 
+<sup>13</sup> Thou in thy mercy hast led forth the people *which* thou hast redeemed: thou hast guided *them* in thy strength unto thy holy habitation. 
 
 <sup>14</sup> The people shall hear, *and* be afraid: sorrow shall take hold on the inhabitants of Palestina. 
 
 <sup>15</sup> Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away. 
 
-<sup>16</sup> Fear and dread shall fall upon them; by the greatness of thine arm they shall be *as* still as a stone; till thy people pass over, O LORD, till the people pass over, ** thou hast purchased. 
+<sup>16</sup> Fear and dread shall fall upon them; by the greatness of thine arm they shall be *as* still as a stone; till thy people pass over, O LORD, till the people pass over, *which* thou hast purchased. 
 
 <sup>17</sup> Thou shalt bring them in, and plant them in the mountain of thine inheritance, *in* the place, O LORD, *which* thou hast made for thee to dwell in, *in* the Sanctuary, O Lord, *which* thy hands have established. 
 

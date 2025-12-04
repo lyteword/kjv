@@ -8,7 +8,7 @@ weight: 13
 
 <sup>2</sup> Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them. 
 
-<sup>3</sup> And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men ** heads of the children of Israel. 
+<sup>3</sup> And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men *were* heads of the children of Israel. 
 
 <sup>4</sup> And these *were* their names: of the tribe of Reuben, Shammua the son of Zaccur. 
 
