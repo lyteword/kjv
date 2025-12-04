@@ -10,7 +10,7 @@ weight: 13
 
 <sup>3</sup> And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately, 
 
-<sup>4</sup> Tell us, when shall these things be? and what ** the sign when all these things shall be fulfilled? 
+<sup>4</sup> Tell us, when shall these things be? and what *shall be* the sign when all these things shall be fulfilled? 
 
 <sup>5</sup> And Jesus answering them began to say, Take heed lest any *man* deceive you:
 
@@ -24,7 +24,7 @@ weight: 13
 
 <sup>10</sup> And the gospel must first be published among all nations.
 
-<sup>11</sup> But when they shall lead **, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.
+<sup>11</sup> But when they shall lead *you*, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.
 
 <sup>12</sup> Now the brother shall betray the brother to death, and the father the son; and children shall rise up against *their* parents, and shall cause them to be put to death.
 

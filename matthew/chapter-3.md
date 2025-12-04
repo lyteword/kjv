@@ -32,7 +32,7 @@ weight: 3
 
 <sup>14</sup> But John forbad him, saying, I have need to be baptized of thee, and comest thou to me? 
 
-<sup>15</sup> And Jesus answering said unto him, Suffer ** now: for thus it becometh us to fulfil all righteousness. Then he suffered him. 
+<sup>15</sup> And Jesus answering said unto him, Suffer *it to be so* now: for thus it becometh us to fulfil all righteousness. Then he suffered him. 
 
 <sup>16</sup> And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him: 
 

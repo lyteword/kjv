@@ -16,7 +16,7 @@ weight: 21
 
 <sup>6</sup> *As for* these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.
 
-<sup>7</sup> And they asked him, saying, Master, but when shall these things be? and what sign ** when these things shall come to pass? 
+<sup>7</sup> And they asked him, saying, Master, but when shall these things be? and what sign *will there be* when these things shall come to pass? 
 
 <sup>8</sup> And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am *Christ*; and the time draweth near: go ye not therefore after them.
 

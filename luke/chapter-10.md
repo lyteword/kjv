@@ -62,7 +62,7 @@ weight: 10
 
 <sup>29</sup> But he, willing to justify himself, said unto Jesus, And who is my neighbour? 
 
-<sup>30</sup> And Jesus answering said, A certain ** went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded *him*, and departed, leaving *him* half dead.
+<sup>30</sup> And Jesus answering said, A certain *man* went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded *him*, and departed, leaving *him* half dead.
 
 <sup>31</sup> And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side.
 
