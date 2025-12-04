@@ -64,7 +64,7 @@ weight: 19
 
 <sup>30</sup> And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward. 
 
-<sup>31</sup> For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD ** shall do this. 
+<sup>31</sup> For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD *of hosts* shall do this. 
 
 <sup>32</sup> Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it. 
 

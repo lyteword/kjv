@@ -34,7 +34,7 @@ weight: 10
 
 <sup>15</sup> So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spake by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat. 
 
-<sup>16</sup> ¶ And when all Israel ** that the king would not hearken unto them, the people answered the king, saying, What portion have we in David? and *we have* none inheritance in the son of Jesse: every man to your tents, O Israel: *and* now, David, see to thine own house. So all Israel went to their tents. 
+<sup>16</sup> ¶ And when all Israel *saw* that the king would not hearken unto them, the people answered the king, saying, What portion have we in David? and *we have* none inheritance in the son of Jesse: every man to your tents, O Israel: *and* now, David, see to thine own house. So all Israel went to their tents. 
 
 <sup>17</sup> But *as for* the children of Israel that dwelt in the cities of Judah, Rehoboam reigned over them. 
 

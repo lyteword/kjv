@@ -10,7 +10,7 @@ weight: 17
 
 <sup>3</sup> And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim; 
 
-<sup>4</sup> But sought to the ** God of his father, and walked in his commandments, and not after the doings of Israel. 
+<sup>4</sup> But sought to the *LORD* God of his father, and walked in his commandments, and not after the doings of Israel. 
 
 <sup>5</sup> Therefore the LORD stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance. 
 

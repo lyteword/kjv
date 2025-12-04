@@ -56,7 +56,7 @@ weight: 30
 
 <sup>26</sup> ¶ And when David came to Ziklag, he sent of the spoil unto the elders of Judah, *even* to his friends, saying, Behold a present for you of the spoil of the enemies of the LORD; 
 
-<sup>27</sup> To ** which *were* in Beth-el, and to *them* which *were* in south Ramoth, and to *them* which *were* in Jattir, 
+<sup>27</sup> To *them* which *were* in Beth-el, and to *them* which *were* in south Ramoth, and to *them* which *were* in Jattir, 
 
 <sup>28</sup> And to *them* which *were* in Aroer, and to *them* which *were* in Siphmoth, and to *them* which *were* in Eshtemoa, 
 
