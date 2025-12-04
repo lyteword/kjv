@@ -30,7 +30,7 @@ weight: 6
 
 <sup>13</sup> For from the least of them even unto the greatest of them every one *is* given to covetousness; and from the prophet even unto the priest every one dealeth falsely. 
 
-<sup>14</sup> They have healed also the hurt ** of my people slightly, saying, Peace, peace; when *there is* no peace. 
+<sup>14</sup> They have healed also the hurt *of the daughter* of my people slightly, saying, Peace, peace; when *there is* no peace. 
 
 <sup>15</sup> Were they ashamed when they had committed abomination? nay, they were not at all ashamed, neither could they blush: therefore they shall fall among them that fall: at the time *that* I visit them they shall be cast down, saith the LORD. 
 

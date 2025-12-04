@@ -8,7 +8,7 @@ weight: 39
 
 <sup>2</sup> I was dumb with silence, I held my peace, *even* from good; and my sorrow was stirred. 
 
-<sup>3</sup> My heart was hot within me, while I was musing the fire burned: ** spake I with my tongue, 
+<sup>3</sup> My heart was hot within me, while I was musing the fire burned: *then* spake I with my tongue, 
 
 <sup>4</sup> LORD, make me to know mine end, and the measure of my days, what it *is; that* I may know how frail I *am*. 
 

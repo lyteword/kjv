@@ -132,7 +132,7 @@ weight: 2
 
 <sup>64</sup> ¶ The whole congregation together *was* forty and two thousand three hundred *and* threescore, 
 
-<sup>65</sup> Beside their servants and their maids, of whom *there were* seven thousand three hundred thirty and seven: and ** among them two hundred singing men and singing women. 
+<sup>65</sup> Beside their servants and their maids, of whom *there were* seven thousand three hundred thirty and seven: and *there were* among them two hundred singing men and singing women. 
 
 <sup>66</sup> Their horses *were* seven hundred thirty and six; their mules, two hundred forty and five; 
 

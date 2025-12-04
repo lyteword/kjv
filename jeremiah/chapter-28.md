@@ -20,7 +20,7 @@ weight: 28
 
 <sup>8</sup> The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence. 
 
-<sup>9</sup> The prophet which prophesieth of peace, when the word of the prophet shall come to pass, ** shall the prophet be known, that the LORD hath truly sent him. 
+<sup>9</sup> The prophet which prophesieth of peace, when the word of the prophet shall come to pass, *then* shall the prophet be known, that the LORD hath truly sent him. 
 
 <sup>10</sup> ¶ Then Hananiah the prophet took the yoke from off the prophet Jeremiah’s neck, and brake it. 
 

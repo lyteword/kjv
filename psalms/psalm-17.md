@@ -14,7 +14,7 @@ weight: 17
 
 <sup>5</sup> Hold up my goings in thy paths, *that* my footsteps slip not. 
 
-<sup>6</sup> I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, ** my speech. 
+<sup>6</sup> I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, *and hear* my speech. 
 
 <sup>7</sup> Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust *in thee* from those that rise up *against them*. 
 

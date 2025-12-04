@@ -108,7 +108,7 @@ weight: 51
 
 <sup>52</sup> Wherefore, behold, the days come, saith the LORD, that I will do judgment upon her graven images: and through all her land the wounded shall groan. 
 
-<sup>53</sup> Though Babylon should mount up to heaven, and though she should fortify the height of her strength, ** from me shall spoilers come unto her, saith the LORD. 
+<sup>53</sup> Though Babylon should mount up to heaven, and though she should fortify the height of her strength, *yet* from me shall spoilers come unto her, saith the LORD. 
 
 <sup>54</sup> A sound of a cry *cometh* from Babylon, and great destruction from the land of the Chaldeans: 
 
