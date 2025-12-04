@@ -22,9 +22,9 @@ weight: 9
 
 <sup>9</sup> And they had breastplates, as it were breastplates of iron; and the sound of their wings *was* as the sound of chariots of many horses running to battle. 
 
-<sup>10</sup> And they had tails like unto scorpions, and there were stings in their tails: and their power ** to hurt men five months. 
+<sup>10</sup> And they had tails like unto scorpions, and there were stings in their tails: and their power *was* to hurt men five months. 
 
-<sup>11</sup> And they had a king over them, *which is* the angel of the bottomless pit, whose name in the Hebrew tongue *is* Abaddon, but in the Greek tongue hath ** name Apollyon. 
+<sup>11</sup> And they had a king over them, *which is* the angel of the bottomless pit, whose name in the Hebrew tongue *is* Abaddon, but in the Greek tongue hath *his* name Apollyon. 
 
 <sup>12</sup> One woe is past; *and*, behold, there come two woes more hereafter. 
 

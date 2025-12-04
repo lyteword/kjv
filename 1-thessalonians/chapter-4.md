@@ -4,7 +4,7 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> Furthermore then we beseech you, brethren, and exhort *you* by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, ** ye would abound more and more. 
+<sup>1</sup> Furthermore then we beseech you, brethren, and exhort *you* by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, *so* ye would abound more and more. 
 
 <sup>2</sup> For ye know what commandments we gave you by the Lord Jesus. 
 
