@@ -14,7 +14,7 @@ weight: 8
 
 <sup>5</sup> Now Moses in the law commanded us, that such should be stoned: but what sayest thou? 
 
-<sup>6</sup> This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with *his* finger wrote on the ground, **. 
+<sup>6</sup> This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with *his* finger wrote on the ground, *as though he heard them not*. 
 
 <sup>7</sup> So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.
 

@@ -38,7 +38,7 @@ weight: 26
 
 <sup>17</sup> Delivering thee from the people, and *from* the Gentiles, unto whom now I send thee,
 
-<sup>18</sup> To open their eyes, ** to turn *them* from darkness to light, and *from* the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
+<sup>18</sup> To open their eyes, *and* to turn *them* from darkness to light, and *from* the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
 
 <sup>19</sup> Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision: 
 

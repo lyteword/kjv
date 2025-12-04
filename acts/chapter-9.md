@@ -76,7 +76,7 @@ weight: 9
 
 <sup>36</sup> ¶ Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did. 
 
-<sup>37</sup> And it came to pass in those days, that she was sick, and died: whom when they had washed, they laid ** in an upper chamber. 
+<sup>37</sup> And it came to pass in those days, that she was sick, and died: whom when they had washed, they laid *her* in an upper chamber. 
 
 <sup>38</sup> And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring *him* that he would not delay to come to them. 
 
