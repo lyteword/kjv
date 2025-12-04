@@ -48,7 +48,7 @@ weight: 3
 
 <sup>22</sup> And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased. 
 
-<sup>23</sup> And Jesus himself began to be about thirty years of age, being( as was supposed) the son of Joseph, which was *the son* of Heli, 
+<sup>23</sup> And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was *the son* of Heli, 
 
 <sup>24</sup> Which was *the son* of Matthat, which was *the son* of Levi, which was *the son* of Melchi, which was *the son* of Janna, which was *the son* of Joseph, 
 

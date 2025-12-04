@@ -16,7 +16,7 @@ weight: 10
 
 <sup>6</sup> In burnt offerings and *sacrifices* for sin thou hast had no pleasure. 
 
-<sup>7</sup> Then said I, Lo, I come( in the volume of the book it is written of me,) to do thy will, O God. 
+<sup>7</sup> Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God. 
 
 <sup>8</sup> Above when he said, Sacrifice and offering and burnt offerings and *offering* for sin thou wouldest not, neither hadst pleasure *therein*; which are offered by the law; 
 

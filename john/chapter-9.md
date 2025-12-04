@@ -16,7 +16,7 @@ weight: 9
 
 <sup>6</sup> When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay, 
 
-<sup>7</sup> And said unto him, Go, wash in the pool of Siloam ,( which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing. 
+<sup>7</sup> And said unto him, Go, wash in the pool of Siloam , (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing. 
 
 <sup>8</sup> ¶ The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged? 
 

@@ -16,7 +16,7 @@ weight: 3
 
 <sup>6</sup> But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end. 
 
-<sup>7</sup> Wherefore( as the Holy Ghost saith, To day if ye will hear his voice, 
+<sup>7</sup> Wherefore (as the Holy Ghost saith, To day if ye will hear his voice, 
 
 <sup>8</sup> Harden not your hearts, as in the provocation, in the day of temptation in the wilderness: 
 

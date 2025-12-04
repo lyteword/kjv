@@ -18,7 +18,7 @@ weight: 13
 
 <sup>7</sup> Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God. 
 
-<sup>8</sup> But Elymas the sorcerer( for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith. 
+<sup>8</sup> But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith. 
 
 <sup>9</sup> Then Saul, (who also *is called* Paul,) filled with the Holy Ghost, set his eyes on him, 
 

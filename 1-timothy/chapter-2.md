@@ -22,7 +22,7 @@ weight: 2
 
 <sup>9</sup> In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array; 
 
-<sup>10</sup> But( which becometh women professing godliness) with good works. 
+<sup>10</sup> But (which becometh women professing godliness) with good works. 
 
 <sup>11</sup> Let the woman learn in silence with all subjection. 
 

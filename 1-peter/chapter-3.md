@@ -44,7 +44,7 @@ weight: 3
 
 <sup>20</sup> Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water. 
 
-<sup>21</sup> The like figure whereunto *even* baptism doth also now save us( not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ: 
+<sup>21</sup> The like figure whereunto *even* baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ: 
 
 <sup>22</sup> Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him. 
 

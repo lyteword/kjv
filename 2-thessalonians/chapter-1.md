@@ -22,7 +22,7 @@ weight: 1
 
 <sup>9</sup> Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power; 
 
-<sup>10</sup> When he shall come to be glorified in his saints, and to be admired in all them that believe( because our testimony among you was believed) in that day. 
+<sup>10</sup> When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day. 
 
 <sup>11</sup> Wherefore also we pray always for you, that our God would count you worthy of *this* calling, and fulfil all the good pleasure of *his* goodness, and the work of faith with power: 
 

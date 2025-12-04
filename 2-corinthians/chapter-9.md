@@ -10,7 +10,7 @@ weight: 9
 
 <sup>3</sup> Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready: 
 
-<sup>4</sup> Lest haply if they of Macedonia come with me, and find you unprepared, we( that we say not, ye) should be ashamed in this same confident boasting. 
+<sup>4</sup> Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting. 
 
 <sup>5</sup> Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as *a matter of* bounty, and not as *of* covetousness. 
 

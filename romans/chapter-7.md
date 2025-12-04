@@ -38,7 +38,7 @@ weight: 7
 
 <sup>17</sup> Now then it is no more I that do it, but sin that dwelleth in me. 
 
-<sup>18</sup> For I know that in me( that is, in my flesh,) dwelleth no good thing: for to will is present with me; but *how* to perform that which is good I find not. 
+<sup>18</sup> For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but *how* to perform that which is good I find not. 
 
 <sup>19</sup> For the good that I would I do not: but the evil which I would not, that I do. 
 

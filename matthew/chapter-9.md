@@ -14,7 +14,7 @@ weight: 9
 
 <sup>5</sup> For whether is easier, to say, *Thy* sins be forgiven thee; or to say, Arise, and walk?
 
-<sup>6</sup> But that ye may know that the Son of man hath power on earth to forgive sins ,( then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.
+<sup>6</sup> But that ye may know that the Son of man hath power on earth to forgive sins , (then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.
 
 <sup>7</sup> And he arose, and departed to his house. 
 
