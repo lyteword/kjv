@@ -42,7 +42,7 @@ weight: 13
 
 <sup>19</sup> Now I tell you before it come, that, when it is come to pass, ye may believe that I am *he*.
 
-<sup>20</sup> Verily, verily, I say unto you, He tha t receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.
+<sup>20</sup> Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.
 
 <sup>21</sup> When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me.
 
