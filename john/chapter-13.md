@@ -78,8 +78,4 @@ weight: 13
 
 **³⁷** Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake. 
 
-<<<<<<< HEAD
-<sup>38</sup> Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice. 
-=======
 **³⁸** Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice. 
->>>>>>> 4611781 (feat: update verse points to md bold)
