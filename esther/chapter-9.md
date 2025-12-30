@@ -4,67 +4,67 @@ weight: 9
 
 # Chapter 9
 
-<sup>1</sup> Now in the twelfth month, that *is*, the month Adar, on the thirteenth day of the same, when the king’s commandment and his decree drew near to be put in execution, in the day that the enemies of the Jews hoped to have power over them, (though it was turned to the contrary, that the Jews had rule over them that hated them;) 
+**¹** Now in the twelfth month, that *is*, the month Adar, on the thirteenth day of the same, when the king’s commandment and his decree drew near to be put in execution, in the day that the enemies of the Jews hoped to have power over them, (though it was turned to the contrary, that the Jews had rule over them that hated them;) 
 
-<sup>2</sup> The Jews gathered themselves together in their cities throughout all the provinces of the king Ahasuerus, to lay hand on such as sought their hurt: and no man could withstand them; for the fear of them fell upon all people. 
+**²** The Jews gathered themselves together in their cities throughout all the provinces of the king Ahasuerus, to lay hand on such as sought their hurt: and no man could withstand them; for the fear of them fell upon all people. 
 
-<sup>3</sup> And all the rulers of the provinces, and the lieutenants, and the deputies, and officers of the king, helped the Jews; because the fear of Mordecai fell upon them. 
+**³** And all the rulers of the provinces, and the lieutenants, and the deputies, and officers of the king, helped the Jews; because the fear of Mordecai fell upon them. 
 
-<sup>4</sup> For Mordecai *was* great in the king’s house, and his fame went out throughout all the provinces: for this man Mordecai waxed greater and greater. 
+**⁴** For Mordecai *was* great in the king’s house, and his fame went out throughout all the provinces: for this man Mordecai waxed greater and greater. 
 
-<sup>5</sup> Thus the Jews smote all their enemies with the stroke of the sword, and slaughter, and destruction, and did what they would unto those that hated them. 
+**⁵** Thus the Jews smote all their enemies with the stroke of the sword, and slaughter, and destruction, and did what they would unto those that hated them. 
 
-<sup>6</sup> And in Shushan the palace the Jews slew and destroyed five hundred men. 
+**⁶** And in Shushan the palace the Jews slew and destroyed five hundred men. 
 
-<sup>7</sup> And Parshandatha, and Dalphon, and Aspatha, 
+**⁷** And Parshandatha, and Dalphon, and Aspatha, 
 
-<sup>8</sup> And Poratha, and Adalia, and Aridatha, 
+**⁸** And Poratha, and Adalia, and Aridatha, 
 
-<sup>9</sup> And Parmashta, and Arisai, and Aridai, and Vajezatha, 
+**⁹** And Parmashta, and Arisai, and Aridai, and Vajezatha, 
 
-<sup>10</sup> The ten sons of Haman the son of Hammedatha, the enemy of the Jews, slew they; but on the spoil laid they not their hand. 
+**¹⁰** The ten sons of Haman the son of Hammedatha, the enemy of the Jews, slew they; but on the spoil laid they not their hand. 
 
-<sup>11</sup> On that day the number of those that were slain in Shushan the palace was brought before the king. 
+**¹¹** On that day the number of those that were slain in Shushan the palace was brought before the king. 
 
-<sup>12</sup> ¶ And the king said unto Esther the queen, The Jews have slain and destroyed five hundred men in Shushan the palace, and the ten sons of Haman; what have they done in the rest of the king’s provinces? now what *is* thy petition? and it shall be granted thee: or what *is* thy request further? and it shall be done. 
+**¹²** ¶ And the king said unto Esther the queen, The Jews have slain and destroyed five hundred men in Shushan the palace, and the ten sons of Haman; what have they done in the rest of the king’s provinces? now what *is* thy petition? and it shall be granted thee: or what *is* thy request further? and it shall be done. 
 
-<sup>13</sup> Then said Esther, If it please the king, let it be granted to the Jews which *are* in Shushan to do to morrow also according unto this day’s decree, and let Haman’s ten sons be hanged upon the gallows. 
+**¹³** Then said Esther, If it please the king, let it be granted to the Jews which *are* in Shushan to do to morrow also according unto this day’s decree, and let Haman’s ten sons be hanged upon the gallows. 
 
-<sup>14</sup> And the king commanded it so to be done: and the decree was given at Shushan; and they hanged Haman’s ten sons. 
+**¹⁴** And the king commanded it so to be done: and the decree was given at Shushan; and they hanged Haman’s ten sons. 
 
-<sup>15</sup> For the Jews that *were* in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand. 
+**¹⁵** For the Jews that *were* in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand. 
 
-<sup>16</sup> But the other Jews that *were* in the king’s provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and slew of their foes seventy and five thousand, but they laid not their hands on the prey, 
+**¹⁶** But the other Jews that *were* in the king’s provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and slew of their foes seventy and five thousand, but they laid not their hands on the prey, 
 
-<sup>17</sup> On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness. 
+**¹⁷** On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness. 
 
-<sup>18</sup> But the Jews that *were* at Shushan assembled together on the thirteenth *day* thereof, and on the fourteenth thereof; and on the fifteenth *day* of the same they rested, and made it a day of feasting and gladness. 
+**¹⁸** But the Jews that *were* at Shushan assembled together on the thirteenth *day* thereof, and on the fourteenth thereof; and on the fifteenth *day* of the same they rested, and made it a day of feasting and gladness. 
 
-<sup>19</sup> Therefore the Jews of the villages, that dwelt in the unwalled towns, made the fourteenth day of the month Adar *a day of* gladness and feasting, and a good day, and of sending portions one to another. 
+**¹⁹** Therefore the Jews of the villages, that dwelt in the unwalled towns, made the fourteenth day of the month Adar *a day of* gladness and feasting, and a good day, and of sending portions one to another. 
 
-<sup>20</sup> ¶ And Mordecai wrote these things, and sent letters unto all the Jews that *were* in all the provinces of the king Ahasuerus, *both* nigh and far, 
+**²⁰** ¶ And Mordecai wrote these things, and sent letters unto all the Jews that *were* in all the provinces of the king Ahasuerus, *both* nigh and far, 
 
-<sup>21</sup> To stablish *this* among them, that they should keep the fourteenth day of the month Adar, and the fifteenth day of the same, yearly, 
+**²¹** To stablish *this* among them, that they should keep the fourteenth day of the month Adar, and the fifteenth day of the same, yearly, 
 
-<sup>22</sup> As the days wherein the Jews rested from their enemies, and the month which was turned unto them from sorrow to joy, and from mourning into a good day: that they should make them days of feasting and joy, and of sending portions one to another, and gifts to the poor. 
+**²²** As the days wherein the Jews rested from their enemies, and the month which was turned unto them from sorrow to joy, and from mourning into a good day: that they should make them days of feasting and joy, and of sending portions one to another, and gifts to the poor. 
 
-<sup>23</sup> And the Jews undertook to do as they had begun, and as Mordecai had written unto them; 
+**²³** And the Jews undertook to do as they had begun, and as Mordecai had written unto them; 
 
-<sup>24</sup> Because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast Pur, that *is*, the lot, to consume them, and to destroy them; 
+**²⁴** Because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast Pur, that *is*, the lot, to consume them, and to destroy them; 
 
-<sup>25</sup> But when *Esther* came before the king, he commanded by letters that his wicked device, which he devised against the Jews, should return upon his own head, and that he and his sons should be hanged on the gallows. 
+**²⁵** But when *Esther* came before the king, he commanded by letters that his wicked device, which he devised against the Jews, should return upon his own head, and that he and his sons should be hanged on the gallows. 
 
-<sup>26</sup> Wherefore they called these days Purim after the name of Pur. Therefore for all the words of this letter, and *of that* which they had seen concerning this matter, and which had come unto them, 
+**²⁶** Wherefore they called these days Purim after the name of Pur. Therefore for all the words of this letter, and *of that* which they had seen concerning this matter, and which had come unto them, 
 
-<sup>27</sup> The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their *appointed* time every year; 
+**²⁷** The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their *appointed* time every year; 
 
-<sup>28</sup> And *that* these days *should be* remembered and kept throughout every generation, every family, every province, and every city; and *that* these days of Purim should not fail from among the Jews, nor the memorial of them perish from their seed. 
+**²⁸** And *that* these days *should be* remembered and kept throughout every generation, every family, every province, and every city; and *that* these days of Purim should not fail from among the Jews, nor the memorial of them perish from their seed. 
 
-<sup>29</sup> Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim. 
+**²⁹** Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim. 
 
-<sup>30</sup> And he sent the letters unto all the Jews, to the hundred twenty and seven provinces of the kingdom of Ahasuerus, *with* words of peace and truth, 
+**³⁰** And he sent the letters unto all the Jews, to the hundred twenty and seven provinces of the kingdom of Ahasuerus, *with* words of peace and truth, 
 
-<sup>31</sup> To confirm these days of Purim in their times *appointed*, according as Mordecai the Jew and Esther the queen had enjoined them, and as they had decreed for themselves and for their seed, the matters of the fastings and their cry. 
+**³¹** To confirm these days of Purim in their times *appointed*, according as Mordecai the Jew and Esther the queen had enjoined them, and as they had decreed for themselves and for their seed, the matters of the fastings and their cry. 
 
-<sup>32</sup> And the decree of Esther confirmed these matters of Purim; and it was written in the book. 
+**³²** And the decree of Esther confirmed these matters of Purim; and it was written in the book. 
 

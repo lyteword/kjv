@@ -4,61 +4,61 @@ weight: 21
 
 # Chapter 21
 
-<sup>1</sup> And it came to pass after these things, *that* Naboth the Jezreelite had a vineyard, which *was* in Jezreel, hard by the palace of Ahab king of Samaria. 
+**¹** And it came to pass after these things, *that* Naboth the Jezreelite had a vineyard, which *was* in Jezreel, hard by the palace of Ahab king of Samaria. 
 
-<sup>2</sup> And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it *is* near unto my house: and I will give thee for it a better vineyard than it; *or*, if it seem good to thee, I will give thee the worth of it in money. 
+**²** And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it *is* near unto my house: and I will give thee for it a better vineyard than it; *or*, if it seem good to thee, I will give thee the worth of it in money. 
 
-<sup>3</sup> And Naboth said to Ahab, The LORD forbid it me, that I should give the inheritance of my fathers unto thee. 
+**³** And Naboth said to Ahab, The LORD forbid it me, that I should give the inheritance of my fathers unto thee. 
 
-<sup>4</sup> And Ahab came into his house heavy and displeased because of the word which Naboth the Jezreelite had spoken to him: for he had said, I will not give thee the inheritance of my fathers. And he laid him down upon his bed, and turned away his face, and would eat no bread. 
+**⁴** And Ahab came into his house heavy and displeased because of the word which Naboth the Jezreelite had spoken to him: for he had said, I will not give thee the inheritance of my fathers. And he laid him down upon his bed, and turned away his face, and would eat no bread. 
 
-<sup>5</sup> ¶ But Jezebel his wife came to him, and said unto him, Why is thy spirit so sad, that thou eatest no bread? 
+**⁵** ¶ But Jezebel his wife came to him, and said unto him, Why is thy spirit so sad, that thou eatest no bread? 
 
-<sup>6</sup> And he said unto her, Because I spake unto Naboth the Jezreelite, and said unto him, Give me thy vineyard for money; or else, if it please thee, I will give thee *another* vineyard for it: and he answered, I will not give thee my vineyard. 
+**⁶** And he said unto her, Because I spake unto Naboth the Jezreelite, and said unto him, Give me thy vineyard for money; or else, if it please thee, I will give thee *another* vineyard for it: and he answered, I will not give thee my vineyard. 
 
-<sup>7</sup> And Jezebel his wife said unto him, Dost thou now govern the kingdom of Israel? arise, *and* eat bread, and let thine heart be merry: I will give thee the vineyard of Naboth the Jezreelite. 
+**⁷** And Jezebel his wife said unto him, Dost thou now govern the kingdom of Israel? arise, *and* eat bread, and let thine heart be merry: I will give thee the vineyard of Naboth the Jezreelite. 
 
-<sup>8</sup> So she wrote letters in Ahab’s name, and sealed *them* with his seal, and sent the letters unto the elders and to the nobles that *were* in his city, dwelling with Naboth. 
+**⁸** So she wrote letters in Ahab’s name, and sealed *them* with his seal, and sent the letters unto the elders and to the nobles that *were* in his city, dwelling with Naboth. 
 
-<sup>9</sup> And she wrote in the letters, saying, Proclaim a fast, and set Naboth on high among the people: 
+**⁹** And she wrote in the letters, saying, Proclaim a fast, and set Naboth on high among the people: 
 
-<sup>10</sup> And set two men, sons of Belial, before him, to bear witness against him, saying, Thou didst blaspheme God and the king. And *then* carry him out, and stone him, that he may die. 
+**¹⁰** And set two men, sons of Belial, before him, to bear witness against him, saying, Thou didst blaspheme God and the king. And *then* carry him out, and stone him, that he may die. 
 
-<sup>11</sup> And the men of his city, *even* the elders and the nobles who were the inhabitants in his city, did as Jezebel had sent unto them, *and* as it *was* written in the letters which she had sent unto them. 
+**¹¹** And the men of his city, *even* the elders and the nobles who were the inhabitants in his city, did as Jezebel had sent unto them, *and* as it *was* written in the letters which she had sent unto them. 
 
-<sup>12</sup> They proclaimed a fast, and set Naboth on high among the people. 
+**¹²** They proclaimed a fast, and set Naboth on high among the people. 
 
-<sup>13</sup> And there came in two men, children of Belial, and sat before him: and the men of Belial witnessed against him, *even* against Naboth, in the presence of the people, saying, Naboth did blaspheme God and the king. Then they carried him forth out of the city, and stoned him with stones, that he died. 
+**¹³** And there came in two men, children of Belial, and sat before him: and the men of Belial witnessed against him, *even* against Naboth, in the presence of the people, saying, Naboth did blaspheme God and the king. Then they carried him forth out of the city, and stoned him with stones, that he died. 
 
-<sup>14</sup> Then they sent to Jezebel, saying, Naboth is stoned, and is dead. 
+**¹⁴** Then they sent to Jezebel, saying, Naboth is stoned, and is dead. 
 
-<sup>15</sup> ¶ And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give thee for money: for Naboth is not alive, but dead. 
+**¹⁵** ¶ And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give thee for money: for Naboth is not alive, but dead. 
 
-<sup>16</sup> And it came to pass, when Ahab heard that Naboth was dead, that Ahab rose up to go down to the vineyard of Naboth the Jezreelite, to take possession of it. 
+**¹⁶** And it came to pass, when Ahab heard that Naboth was dead, that Ahab rose up to go down to the vineyard of Naboth the Jezreelite, to take possession of it. 
 
-<sup>17</sup> ¶ And the word of the LORD came to Elijah the Tishbite, saying, 
+**¹⁷** ¶ And the word of the LORD came to Elijah the Tishbite, saying, 
 
-<sup>18</sup> Arise, go down to meet Ahab king of Israel, which *is* in Samaria: behold, *he is* in the vineyard of Naboth, whither he is gone down to possess it. 
+**¹⁸** Arise, go down to meet Ahab king of Israel, which *is* in Samaria: behold, *he is* in the vineyard of Naboth, whither he is gone down to possess it. 
 
-<sup>19</sup> And thou shalt speak unto him, saying, Thus saith the LORD, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith the LORD, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine. 
+**¹⁹** And thou shalt speak unto him, saying, Thus saith the LORD, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith the LORD, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine. 
 
-<sup>20</sup> And Ahab said to Elijah, Hast thou found me, O mine enemy? And he answered, I have found *thee:* because thou hast sold thyself to work evil in the sight of the LORD. 
+**²⁰** And Ahab said to Elijah, Hast thou found me, O mine enemy? And he answered, I have found *thee:* because thou hast sold thyself to work evil in the sight of the LORD. 
 
-<sup>21</sup> Behold, I will bring evil upon thee, and will take away thy posterity, and will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel, 
+**²¹** Behold, I will bring evil upon thee, and will take away thy posterity, and will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel, 
 
-<sup>22</sup> And will make thine house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the provocation wherewith thou hast provoked *me* to anger, and made Israel to sin. 
+**²²** And will make thine house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the provocation wherewith thou hast provoked *me* to anger, and made Israel to sin. 
 
-<sup>23</sup> And of Jezebel also spake the LORD, saying, The dogs shall eat Jezebel by the wall of Jezreel. 
+**²³** And of Jezebel also spake the LORD, saying, The dogs shall eat Jezebel by the wall of Jezreel. 
 
-<sup>24</sup> Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat. 
+**²⁴** Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat. 
 
-<sup>25</sup> ¶ But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the LORD, whom Jezebel his wife stirred up. 
+**²⁵** ¶ But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the LORD, whom Jezebel his wife stirred up. 
 
-<sup>26</sup> And he did very abominably in following idols, according to all *things* as did the Amorites, whom the LORD cast out before the children of Israel. 
+**²⁶** And he did very abominably in following idols, according to all *things* as did the Amorites, whom the LORD cast out before the children of Israel. 
 
-<sup>27</sup> And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly. 
+**²⁷** And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly. 
 
-<sup>28</sup> And the word of the LORD came to Elijah the Tishbite, saying, 
+**²⁸** And the word of the LORD came to Elijah the Tishbite, saying, 
 
-<sup>29</sup> Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: *but* in his son’s days will I bring the evil upon his house. 
+**²⁹** Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: *but* in his son’s days will I bring the evil upon his house. 
 

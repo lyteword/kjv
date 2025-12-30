@@ -4,57 +4,57 @@ weight: 9
 
 # Chapter 9
 
-<sup>1</sup> Now there was a man of Benjamin, whose name *was* Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power. 
+**¹** Now there was a man of Benjamin, whose name *was* Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power. 
 
-<sup>2</sup> And he had a son, whose name *was* Saul, a choice young man, and a goodly: and *there was* not among the children of Israel a goodlier person than he: from his shoulders and upward *he was* higher than any of the people. 
+**²** And he had a son, whose name *was* Saul, a choice young man, and a goodly: and *there was* not among the children of Israel a goodlier person than he: from his shoulders and upward *he was* higher than any of the people. 
 
-<sup>3</sup> And the asses of Kish Saul’s father were lost. And Kish said to Saul his son, Take now one of the servants with thee, and arise, go seek the asses. 
+**³** And the asses of Kish Saul’s father were lost. And Kish said to Saul his son, Take now one of the servants with thee, and arise, go seek the asses. 
 
-<sup>4</sup> And he passed through mount Ephraim, and passed through the land of Shalisha, but they found *them* not: then they passed through the land of Shalim, and *there they were* not: and he passed through the land of the Benjamites, but they found *them* not. 
+**⁴** And he passed through mount Ephraim, and passed through the land of Shalisha, but they found *them* not: then they passed through the land of Shalim, and *there they were* not: and he passed through the land of the Benjamites, but they found *them* not. 
 
-<sup>5</sup> *And* when they were come to the land of Zuph, Saul said to his servant that *was* with him, Come, and let us return; lest my father leave *caring* for the asses, and take thought for us. 
+**⁵** *And* when they were come to the land of Zuph, Saul said to his servant that *was* with him, Come, and let us return; lest my father leave *caring* for the asses, and take thought for us. 
 
-<sup>6</sup> And he said unto him, Behold now, *there is* in this city a man of God, and *he is* an honourable man; all that he saith cometh surely to pass: now let us go thither; peradventure he can shew us our way that we should go. 
+**⁶** And he said unto him, Behold now, *there is* in this city a man of God, and *he is* an honourable man; all that he saith cometh surely to pass: now let us go thither; peradventure he can shew us our way that we should go. 
 
-<sup>7</sup> Then said Saul to his servant, But, behold, *if* we go, what shall we bring the man? for the bread is spent in our vessels, and *there is* not a present to bring to the man of God: what have we? 
+**⁷** Then said Saul to his servant, But, behold, *if* we go, what shall we bring the man? for the bread is spent in our vessels, and *there is* not a present to bring to the man of God: what have we? 
 
-<sup>8</sup> And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver: *that* will I give to the man of God, to tell us our way. 
+**⁸** And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver: *that* will I give to the man of God, to tell us our way. 
 
-<sup>9</sup> (Beforetime in Israel, when a man went to enquire of God, thus he spake, Come, and let us go to the seer: for *he that is* now *called* a Prophet was beforetime called a Seer.) 
+**⁹** (Beforetime in Israel, when a man went to enquire of God, thus he spake, Come, and let us go to the seer: for *he that is* now *called* a Prophet was beforetime called a Seer.) 
 
-<sup>10</sup> Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God *was*. 
+**¹⁰** Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God *was*. 
 
-<sup>11</sup> ¶ *And* as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here? 
+**¹¹** ¶ *And* as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here? 
 
-<sup>12</sup> And they answered them, and said, He is; behold, *he is* before you: make haste now, for he came to day to the city; for *there is* a sacrifice of the people to day in the high place: 
+**¹²** And they answered them, and said, He is; behold, *he is* before you: make haste now, for he came to day to the city; for *there is* a sacrifice of the people to day in the high place: 
 
-<sup>13</sup> As soon as ye be come into the city, ye shall straightway find him, before he go up to the high place to eat: for the people will not eat until he come, because he doth bless the sacrifice; *and* afterwards they eat that be bidden. Now therefore get you up; for about this time ye shall find him. 
+**¹³** As soon as ye be come into the city, ye shall straightway find him, before he go up to the high place to eat: for the people will not eat until he come, because he doth bless the sacrifice; *and* afterwards they eat that be bidden. Now therefore get you up; for about this time ye shall find him. 
 
-<sup>14</sup> And they went up into the city: *and* when they were come into the city, behold, Samuel came out against them, for to go up to the high place. 
+**¹⁴** And they went up into the city: *and* when they were come into the city, behold, Samuel came out against them, for to go up to the high place. 
 
-<sup>15</sup> ¶ Now the LORD had told Samuel in his ear a day before Saul came, saying, 
+**¹⁵** ¶ Now the LORD had told Samuel in his ear a day before Saul came, saying, 
 
-<sup>16</sup> To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him *to be* captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me. 
+**¹⁶** To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him *to be* captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me. 
 
-<sup>17</sup> And when Samuel saw Saul, the LORD said unto him, Behold the man whom I spake to thee of! this same shall reign over my people. 
+**¹⁷** And when Samuel saw Saul, the LORD said unto him, Behold the man whom I spake to thee of! this same shall reign over my people. 
 
-<sup>18</sup> Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer’s house *is*. 
+**¹⁸** Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer’s house *is*. 
 
-<sup>19</sup> And Samuel answered Saul, and said, I *am* the seer: go up before me unto the high place; for ye shall eat with me to day, and to morrow I will let thee go, and will tell thee all that *is* in thine heart. 
+**¹⁹** And Samuel answered Saul, and said, I *am* the seer: go up before me unto the high place; for ye shall eat with me to day, and to morrow I will let thee go, and will tell thee all that *is* in thine heart. 
 
-<sup>20</sup> And as for thine asses that were lost three days ago, set not thy mind on them; for they are found. And on whom *is* all the desire of Israel? *Is it* not on thee, and on all thy father’s house? 
+**²⁰** And as for thine asses that were lost three days ago, set not thy mind on them; for they are found. And on whom *is* all the desire of Israel? *Is it* not on thee, and on all thy father’s house? 
 
-<sup>21</sup> And Saul answered and said, *Am* not I a Benjamite, of the smallest of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? wherefore then speakest thou so to me? 
+**²¹** And Saul answered and said, *Am* not I a Benjamite, of the smallest of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? wherefore then speakest thou so to me? 
 
-<sup>22</sup> And Samuel took Saul and his servant, and brought them into the parlour, and made them sit in the chiefest place among them that were bidden, which *were* about thirty persons. 
+**²²** And Samuel took Saul and his servant, and brought them into the parlour, and made them sit in the chiefest place among them that were bidden, which *were* about thirty persons. 
 
-<sup>23</sup> And Samuel said unto the cook, Bring the portion which I gave thee, of which I said unto thee, Set it by thee. 
+**²³** And Samuel said unto the cook, Bring the portion which I gave thee, of which I said unto thee, Set it by thee. 
 
-<sup>24</sup> And the cook took up the shoulder, and *that* which *was* upon it, and set *it* before Saul. And *Samuel* said, Behold that which is left! set *it* before thee, *and* eat: for unto this time hath it been kept for thee since I said, I have invited the people. So Saul did eat with Samuel that day. 
+**²⁴** And the cook took up the shoulder, and *that* which *was* upon it, and set *it* before Saul. And *Samuel* said, Behold that which is left! set *it* before thee, *and* eat: for unto this time hath it been kept for thee since I said, I have invited the people. So Saul did eat with Samuel that day. 
 
-<sup>25</sup> ¶ And when they were come down from the high place into the city, *Samuel* communed with Saul upon the top of the house. 
+**²⁵** ¶ And when they were come down from the high place into the city, *Samuel* communed with Saul upon the top of the house. 
 
-<sup>26</sup> And they arose early: and it came to pass about the spring of the day, that Samuel called Saul to the top of the house, saying, Up, that I may send thee away. And Saul arose, and they went out both of them, he and Samuel, abroad. 
+**²⁶** And they arose early: and it came to pass about the spring of the day, that Samuel called Saul to the top of the house, saying, Up, that I may send thee away. And Saul arose, and they went out both of them, he and Samuel, abroad. 
 
-<sup>27</sup> *And* as they were going down to the end of the city, Samuel said to Saul, Bid the servant pass on before us, (and he passed on,) but stand thou still a while, that I may shew thee the word of God. 
+**²⁷** *And* as they were going down to the end of the city, Samuel said to Saul, Bid the servant pass on before us, (and he passed on,) but stand thou still a while, that I may shew thee the word of God. 
 

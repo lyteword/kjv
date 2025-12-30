@@ -4,75 +4,75 @@ weight: 16
 
 # Chapter 16
 
-<sup>1</sup> And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which *is* between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt. 
+**¹** And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which *is* between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt. 
 
-<sup>2</sup> And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness: 
+**²** And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness: 
 
-<sup>3</sup> And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, *and* when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger. 
+**³** And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, *and* when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger. 
 
-<sup>4</sup> ¶ Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no. 
+**⁴** ¶ Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no. 
 
-<sup>5</sup> And it shall come to pass, that on the sixth day they shall prepare *that* which they bring in; and it shall be twice as much as they gather daily. 
+**⁵** And it shall come to pass, that on the sixth day they shall prepare *that* which they bring in; and it shall be twice as much as they gather daily. 
 
-<sup>6</sup> And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt: 
+**⁶** And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt: 
 
-<sup>7</sup> And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what *are* we, that ye murmur against us? 
+**⁷** And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what *are* we, that ye murmur against us? 
 
-<sup>8</sup> And Moses said, *This shall be*, when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what *are* we? your murmurings *are* not against us, but against the LORD. 
+**⁸** And Moses said, *This shall be*, when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what *are* we? your murmurings *are* not against us, but against the LORD. 
 
-<sup>9</sup> ¶ And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings. 
+**⁹** ¶ And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings. 
 
-<sup>10</sup> And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the LORD appeared in the cloud. 
+**¹⁰** And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the LORD appeared in the cloud. 
 
-<sup>11</sup> ¶ And the LORD spake unto Moses, saying, 
+**¹¹** ¶ And the LORD spake unto Moses, saying, 
 
-<sup>12</sup> I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I *am* the LORD your God. 
+**¹²** I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I *am* the LORD your God. 
 
-<sup>13</sup> And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host. 
+**¹³** And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host. 
 
-<sup>14</sup> And when the dew that lay was gone up, behold, upon the face of the wilderness *there lay* a small round thing, *as* small as the hoar frost on the ground. 
+**¹⁴** And when the dew that lay was gone up, behold, upon the face of the wilderness *there lay* a small round thing, *as* small as the hoar frost on the ground. 
 
-<sup>15</sup> And when the children of Israel saw *it*, they said one to another, It *is* manna: for they wist not what it *was*. And Moses said unto them, This *is* the bread which the LORD hath given you to eat. 
+**¹⁵** And when the children of Israel saw *it*, they said one to another, It *is* manna: for they wist not what it *was*. And Moses said unto them, This *is* the bread which the LORD hath given you to eat. 
 
-<sup>16</sup> ¶ This *is* the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, *according to* the number of your persons; take ye every man for *them* which *are* in his tents. 
+**¹⁶** ¶ This *is* the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, *according to* the number of your persons; take ye every man for *them* which *are* in his tents. 
 
-<sup>17</sup> And the children of Israel did so, and gathered, some more, some less. 
+**¹⁷** And the children of Israel did so, and gathered, some more, some less. 
 
-<sup>18</sup> And when they did mete *it* with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating. 
+**¹⁸** And when they did mete *it* with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating. 
 
-<sup>19</sup> And Moses said, Let no man leave of it till the morning. 
+**¹⁹** And Moses said, Let no man leave of it till the morning. 
 
-<sup>20</sup> Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them. 
+**²⁰** Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them. 
 
-<sup>21</sup> And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted. 
+**²¹** And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted. 
 
-<sup>22</sup> ¶ And it came to pass, *that* on the sixth day they gathered twice as much bread, two omers for one *man:* and all the rulers of the congregation came and told Moses. 
+**²²** ¶ And it came to pass, *that* on the sixth day they gathered twice as much bread, two omers for one *man:* and all the rulers of the congregation came and told Moses. 
 
-<sup>23</sup> And he said unto them, This *is that* which the LORD hath said, To morrow *is* the rest of the holy sabbath unto the LORD: bake *that* which ye will bake *to day*, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning. 
+**²³** And he said unto them, This *is that* which the LORD hath said, To morrow *is* the rest of the holy sabbath unto the LORD: bake *that* which ye will bake *to day*, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning. 
 
-<sup>24</sup> And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein. 
+**²⁴** And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein. 
 
-<sup>25</sup> And Moses said, Eat that to day; for to day *is* a sabbath unto the LORD: to day ye shall not find it in the field. 
+**²⁵** And Moses said, Eat that to day; for to day *is* a sabbath unto the LORD: to day ye shall not find it in the field. 
 
-<sup>26</sup> Six days ye shall gather it; but on the seventh day, *which is* the sabbath, in it there shall be none. 
+**²⁶** Six days ye shall gather it; but on the seventh day, *which is* the sabbath, in it there shall be none. 
 
-<sup>27</sup> ¶ And it came to pass, *that* there went out *some* of the people on the seventh day for to gather, and they found none. 
+**²⁷** ¶ And it came to pass, *that* there went out *some* of the people on the seventh day for to gather, and they found none. 
 
-<sup>28</sup> And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws? 
+**²⁸** And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws? 
 
-<sup>29</sup> See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day. 
+**²⁹** See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day. 
 
-<sup>30</sup> So the people rested on the seventh day. 
+**³⁰** So the people rested on the seventh day. 
 
-<sup>31</sup> And the house of Israel called the name thereof Manna: and it *was* like coriander seed, white; and the taste of it *was* like wafers *made* with honey. 
+**³¹** And the house of Israel called the name thereof Manna: and it *was* like coriander seed, white; and the taste of it *was* like wafers *made* with honey. 
 
-<sup>32</sup> ¶ And Moses said, This *is* the thing which the LORD commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt. 
+**³²** ¶ And Moses said, This *is* the thing which the LORD commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt. 
 
-<sup>33</sup> And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations. 
+**³³** And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations. 
 
-<sup>34</sup> As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept. 
+**³⁴** As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept. 
 
-<sup>35</sup> And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan. 
+**³⁵** And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan. 
 
-<sup>36</sup> Now an omer *is* the tenth *part* of an ephah. 
+**³⁶** Now an omer *is* the tenth *part* of an ephah. 
 

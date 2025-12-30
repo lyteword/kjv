@@ -4,65 +4,65 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be *any* that executeth judgment, that seeketh the truth; and I will pardon it. 
+**¹** Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be *any* that executeth judgment, that seeketh the truth; and I will pardon it. 
 
-<sup>2</sup> And though they say, The LORD liveth; surely they swear falsely. 
+**²** And though they say, The LORD liveth; surely they swear falsely. 
 
-<sup>3</sup> O LORD, *are* not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, *but* they have refused to receive correction: they have made their faces harder than a rock; they have refused to return. 
+**³** O LORD, *are* not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, *but* they have refused to receive correction: they have made their faces harder than a rock; they have refused to return. 
 
-<sup>4</sup> Therefore I said, Surely these *are* poor; they are foolish: for they know not the way of the LORD, *nor* the judgment of their God. 
+**⁴** Therefore I said, Surely these *are* poor; they are foolish: for they know not the way of the LORD, *nor* the judgment of their God. 
 
-<sup>5</sup> I will get me unto the great men, and will speak unto them; for they have known the way of the LORD, *and* the judgment of their God: but these have altogether broken the yoke, *and* burst the bonds. 
+**⁵** I will get me unto the great men, and will speak unto them; for they have known the way of the LORD, *and* the judgment of their God: but these have altogether broken the yoke, *and* burst the bonds. 
 
-<sup>6</sup> Wherefore a lion out of the forest shall slay them, *and* a wolf of the evenings shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many, *and* their backslidings are increased. 
+**⁶** Wherefore a lion out of the forest shall slay them, *and* a wolf of the evenings shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many, *and* their backslidings are increased. 
 
-<sup>7</sup> ¶ How shall I pardon thee for this? thy children have forsaken me, and sworn by *them that are* no gods: when I had fed them to the full, they then committed adultery, and assembled themselves by troops in the harlots’ houses. 
+**⁷** ¶ How shall I pardon thee for this? thy children have forsaken me, and sworn by *them that are* no gods: when I had fed them to the full, they then committed adultery, and assembled themselves by troops in the harlots’ houses. 
 
-<sup>8</sup> They were *as* fed horses in the morning: every one neighed after his neighbour’s wife. 
+**⁸** They were *as* fed horses in the morning: every one neighed after his neighbour’s wife. 
 
-<sup>9</sup> Shall I not visit for these *things*? saith the LORD: and shall not my soul be avenged on such a nation as this? 
+**⁹** Shall I not visit for these *things*? saith the LORD: and shall not my soul be avenged on such a nation as this? 
 
-<sup>10</sup> ¶ Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they *are* not the LORD’s. 
+**¹⁰** ¶ Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they *are* not the LORD’s. 
 
-<sup>11</sup> For the house of Israel and the house of Judah have dealt very treacherously against me, saith the LORD. 
+**¹¹** For the house of Israel and the house of Judah have dealt very treacherously against me, saith the LORD. 
 
-<sup>12</sup> They have belied the LORD, and said, *It is* not he; neither shall evil come upon us; neither shall we see sword nor famine: 
+**¹²** They have belied the LORD, and said, *It is* not he; neither shall evil come upon us; neither shall we see sword nor famine: 
 
-<sup>13</sup> And the prophets shall become wind, and the word *is* not in them: thus shall it be done unto them. 
+**¹³** And the prophets shall become wind, and the word *is* not in them: thus shall it be done unto them. 
 
-<sup>14</sup> Wherefore thus saith the LORD God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them. 
+**¹⁴** Wherefore thus saith the LORD God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them. 
 
-<sup>15</sup> Lo, I will bring a nation upon you from far, O house of Israel, saith the LORD: it *is* a mighty nation, it *is* an ancient nation, a nation whose language thou knowest not, neither understandest what they say. 
+**¹⁵** Lo, I will bring a nation upon you from far, O house of Israel, saith the LORD: it *is* a mighty nation, it *is* an ancient nation, a nation whose language thou knowest not, neither understandest what they say. 
 
-<sup>16</sup> Their quiver *is* as an open sepulchre, they *are* all mighty men. 
+**¹⁶** Their quiver *is* as an open sepulchre, they *are* all mighty men. 
 
-<sup>17</sup> And they shall eat up thine harvest, and thy bread, *which* thy sons and thy daughters should eat: they shall eat up thy flocks and thine herds: they shall eat up thy vines and thy fig trees: they shall impoverish thy fenced cities, wherein thou trustedst, with the sword. 
+**¹⁷** And they shall eat up thine harvest, and thy bread, *which* thy sons and thy daughters should eat: they shall eat up thy flocks and thine herds: they shall eat up thy vines and thy fig trees: they shall impoverish thy fenced cities, wherein thou trustedst, with the sword. 
 
-<sup>18</sup> Nevertheless in those days, saith the LORD, I will not make a full end with you. 
+**¹⁸** Nevertheless in those days, saith the LORD, I will not make a full end with you. 
 
-<sup>19</sup> ¶ And it shall come to pass, when ye shall say, Wherefore doeth the LORD our God all these *things* unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land *that is* not yours. 
+**¹⁹** ¶ And it shall come to pass, when ye shall say, Wherefore doeth the LORD our God all these *things* unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land *that is* not yours. 
 
-<sup>20</sup> Declare this in the house of Jacob, and publish it in Judah, saying, 
+**²⁰** Declare this in the house of Jacob, and publish it in Judah, saying, 
 
-<sup>21</sup> Hear now this, O foolish people, and without understanding; which have eyes, and see not; which have ears, and hear not: 
+**²¹** Hear now this, O foolish people, and without understanding; which have eyes, and see not; which have ears, and hear not: 
 
-<sup>22</sup> Fear ye not me? saith the LORD: will ye not tremble at my presence, which have placed the sand *for* the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it? 
+**²²** Fear ye not me? saith the LORD: will ye not tremble at my presence, which have placed the sand *for* the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it? 
 
-<sup>23</sup> But this people hath a revolting and a rebellious heart; they are revolted and gone. 
+**²³** But this people hath a revolting and a rebellious heart; they are revolted and gone. 
 
-<sup>24</sup> Neither say they in their heart, Let us now fear the LORD our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest. 
+**²⁴** Neither say they in their heart, Let us now fear the LORD our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest. 
 
-<sup>25</sup> ¶ Your iniquities have turned away these *things*, and your sins have withholden good *things* from you. 
+**²⁵** ¶ Your iniquities have turned away these *things*, and your sins have withholden good *things* from you. 
 
-<sup>26</sup> For among my people are found wicked *men:* they lay wait, as he that setteth snares; they set a trap, they catch men. 
+**²⁶** For among my people are found wicked *men:* they lay wait, as he that setteth snares; they set a trap, they catch men. 
 
-<sup>27</sup> As a cage is full of birds, so *are* their houses full of deceit: therefore they are become great, and waxen rich. 
+**²⁷** As a cage is full of birds, so *are* their houses full of deceit: therefore they are become great, and waxen rich. 
 
-<sup>28</sup> They are waxen fat, they shine: yea, they overpass the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge. 
+**²⁸** They are waxen fat, they shine: yea, they overpass the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge. 
 
-<sup>29</sup> Shall I not visit for these *things*? saith the LORD: shall not my soul be avenged on such a nation as this? 
+**²⁹** Shall I not visit for these *things*? saith the LORD: shall not my soul be avenged on such a nation as this? 
 
-<sup>30</sup> ¶ A wonderful and horrible thing is committed in the land; 
+**³⁰** ¶ A wonderful and horrible thing is committed in the land; 
 
-<sup>31</sup> The prophets prophesy falsely, and the priests bear rule by their means; and my people love *to have it* so: and what will ye do in the end thereof? 
+**³¹** The prophets prophesy falsely, and the priests bear rule by their means; and my people love *to have it* so: and what will ye do in the end thereof? 
 

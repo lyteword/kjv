@@ -4,57 +4,57 @@ weight: 6
 
 # Chapter 6
 
-<sup>1</sup> Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in. 
+**¹** Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in. 
 
-<sup>2</sup> And the LORD said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, *and* the mighty men of valour. 
+**²** And the LORD said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, *and* the mighty men of valour. 
 
-<sup>3</sup> And ye shall compass the city, all *ye* men of war, *and* go round about the city once. Thus shalt thou do six days. 
+**³** And ye shall compass the city, all *ye* men of war, *and* go round about the city once. Thus shalt thou do six days. 
 
-<sup>4</sup> And seven priests shall bear before the ark seven trumpets of rams’ horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets. 
+**⁴** And seven priests shall bear before the ark seven trumpets of rams’ horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets. 
 
-<sup>5</sup> And it shall come to pass, that when they make a long *blast* with the ram’s horn, *and* when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him. 
+**⁵** And it shall come to pass, that when they make a long *blast* with the ram’s horn, *and* when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him. 
 
-<sup>6</sup> ¶ And Joshua the son of Nun called the priests, and said unto them, Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before the ark of the LORD. 
+**⁶** ¶ And Joshua the son of Nun called the priests, and said unto them, Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before the ark of the LORD. 
 
-<sup>7</sup> And he said unto the people, Pass on, and compass the city, and let him that is armed pass on before the ark of the LORD. 
+**⁷** And he said unto the people, Pass on, and compass the city, and let him that is armed pass on before the ark of the LORD. 
 
-<sup>8</sup> ¶ And it came to pass, when Joshua had spoken unto the people, that the seven priests bearing the seven trumpets of rams’ horns passed on before the LORD, and blew with the trumpets: and the ark of the covenant of the LORD followed them. 
+**⁸** ¶ And it came to pass, when Joshua had spoken unto the people, that the seven priests bearing the seven trumpets of rams’ horns passed on before the LORD, and blew with the trumpets: and the ark of the covenant of the LORD followed them. 
 
-<sup>9</sup> ¶ And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, *the priests* going on, and blowing with the trumpets. 
+**⁹** ¶ And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, *the priests* going on, and blowing with the trumpets. 
 
-<sup>10</sup> And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall *any* word proceed out of your mouth, until the day I bid you shout; then shall ye shout. 
+**¹⁰** And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall *any* word proceed out of your mouth, until the day I bid you shout; then shall ye shout. 
 
-<sup>11</sup> So the ark of the LORD compassed the city, going about *it* once: and they came into the camp, and lodged in the camp. 
+**¹¹** So the ark of the LORD compassed the city, going about *it* once: and they came into the camp, and lodged in the camp. 
 
-<sup>12</sup> ¶ And Joshua rose early in the morning, and the priests took up the ark of the LORD. 
+**¹²** ¶ And Joshua rose early in the morning, and the priests took up the ark of the LORD. 
 
-<sup>13</sup> And seven priests bearing seven trumpets of rams’ horns before the ark of the LORD went on continually, and blew with the trumpets: and the armed men went before them; but the rereward came after the ark of the LORD, *the priests* going on, and blowing with the trumpets. 
+**¹³** And seven priests bearing seven trumpets of rams’ horns before the ark of the LORD went on continually, and blew with the trumpets: and the armed men went before them; but the rereward came after the ark of the LORD, *the priests* going on, and blowing with the trumpets. 
 
-<sup>14</sup> And the second day they compassed the city once, and returned into the camp: so they did six days. 
+**¹⁴** And the second day they compassed the city once, and returned into the camp: so they did six days. 
 
-<sup>15</sup> And it came to pass on the seventh day, that they rose early about the dawning of the day, and compassed the city after the same manner seven times: only on that day they compassed the city seven times. 
+**¹⁵** And it came to pass on the seventh day, that they rose early about the dawning of the day, and compassed the city after the same manner seven times: only on that day they compassed the city seven times. 
 
-<sup>16</sup> And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua said unto the people, Shout; for the LORD hath given you the city. 
+**¹⁶** And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua said unto the people, Shout; for the LORD hath given you the city. 
 
-<sup>17</sup> ¶ And the city shall be accursed, *even* it, and all that *are* therein, to the LORD: only Rahab the harlot shall live, she and all that *are* with her in the house, because she hid the messengers that we sent. 
+**¹⁷** ¶ And the city shall be accursed, *even* it, and all that *are* therein, to the LORD: only Rahab the harlot shall live, she and all that *are* with her in the house, because she hid the messengers that we sent. 
 
-<sup>18</sup> And ye, in any wise keep *yourselves* from the accursed thing, lest ye make *yourselves* accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it. 
+**¹⁸** And ye, in any wise keep *yourselves* from the accursed thing, lest ye make *yourselves* accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it. 
 
-<sup>19</sup> But all the silver, and gold, and vessels of brass and iron, *are* consecrated unto the LORD: they shall come into the treasury of the LORD. 
+**¹⁹** But all the silver, and gold, and vessels of brass and iron, *are* consecrated unto the LORD: they shall come into the treasury of the LORD. 
 
-<sup>20</sup> So the people shouted when *the priests* blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city. 
+**²⁰** So the people shouted when *the priests* blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city. 
 
-<sup>21</sup> And they utterly destroyed all that *was* in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword. 
+**²¹** And they utterly destroyed all that *was* in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword. 
 
-<sup>22</sup> But Joshua had said unto the two men that had spied out the country, Go into the harlot’s house, and bring out thence the woman, and all that she hath, as ye sware unto her. 
+**²²** But Joshua had said unto the two men that had spied out the country, Go into the harlot’s house, and bring out thence the woman, and all that she hath, as ye sware unto her. 
 
-<sup>23</sup> And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brethren, and all that she had; and they brought out all her kindred, and left them without the camp of Israel. 
+**²³** And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brethren, and all that she had; and they brought out all her kindred, and left them without the camp of Israel. 
 
-<sup>24</sup> And they burnt the city with fire, and all that *was* therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the LORD. 
+**²⁴** And they burnt the city with fire, and all that *was* therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the LORD. 
 
-<sup>25</sup> And Joshua saved Rahab the harlot alive, and her father’s household, and all that she had; and she dwelleth in Israel *even* unto this day; because she hid the messengers, which Joshua sent to spy out Jericho. 
+**²⁵** And Joshua saved Rahab the harlot alive, and her father’s household, and all that she had; and she dwelleth in Israel *even* unto this day; because she hid the messengers, which Joshua sent to spy out Jericho. 
 
-<sup>26</sup> ¶ And Joshua adjured *them* at that time, saying, Cursed *be* the man before the LORD, that riseth up and buildeth this city Jericho: he shall lay the foundation thereof in his firstborn, and in his youngest *son* shall he set up the gates of it. 
+**²⁶** ¶ And Joshua adjured *them* at that time, saying, Cursed *be* the man before the LORD, that riseth up and buildeth this city Jericho: he shall lay the foundation thereof in his firstborn, and in his youngest *son* shall he set up the gates of it. 
 
-<sup>27</sup> So the LORD was with Joshua; and his fame was *noised* throughout all the country. 
+**²⁷** So the LORD was with Joshua; and his fame was *noised* throughout all the country. 
 

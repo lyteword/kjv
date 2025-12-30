@@ -4,39 +4,39 @@ weight: 25
 
 # Chapter 25
 
-<sup>1</sup> And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab. 
+**¹** And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab. 
 
-<sup>2</sup> And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods. 
+**²** And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods. 
 
-<sup>3</sup> And Israel joined himself unto Baal-peor: and the anger of the LORD was kindled against Israel. 
+**³** And Israel joined himself unto Baal-peor: and the anger of the LORD was kindled against Israel. 
 
-<sup>4</sup> And the LORD said unto Moses, Take all the heads of the people, and hang them up before the LORD against the sun, that the fierce anger of the LORD may be turned away from Israel. 
+**⁴** And the LORD said unto Moses, Take all the heads of the people, and hang them up before the LORD against the sun, that the fierce anger of the LORD may be turned away from Israel. 
 
-<sup>5</sup> And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baal-peor. 
+**⁵** And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baal-peor. 
 
-<sup>6</sup> ¶ And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who *were* weeping *before* the door of the tabernacle of the congregation. 
+**⁶** ¶ And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who *were* weeping *before* the door of the tabernacle of the congregation. 
 
-<sup>7</sup> And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw *it*, he rose up from among the congregation, and took a javelin in his hand; 
+**⁷** And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw *it*, he rose up from among the congregation, and took a javelin in his hand; 
 
-<sup>8</sup> And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel. 
+**⁸** And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel. 
 
-<sup>9</sup> And those that died in the plague were twenty and four thousand. 
+**⁹** And those that died in the plague were twenty and four thousand. 
 
-<sup>10</sup> ¶ And the LORD spake unto Moses, saying, 
+**¹⁰** ¶ And the LORD spake unto Moses, saying, 
 
-<sup>11</sup> Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy. 
+**¹¹** Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy. 
 
-<sup>12</sup> Wherefore say, Behold, I give unto him my covenant of peace: 
+**¹²** Wherefore say, Behold, I give unto him my covenant of peace: 
 
-<sup>13</sup> And he shall have it, and his seed after him, *even* the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel. 
+**¹³** And he shall have it, and his seed after him, *even* the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel. 
 
-<sup>14</sup> Now the name of the Israelite that was slain, *even* that was slain with the Midianitish woman, *was* Zimri, the son of Salu, a prince of a chief house among the Simeonites. 
+**¹⁴** Now the name of the Israelite that was slain, *even* that was slain with the Midianitish woman, *was* Zimri, the son of Salu, a prince of a chief house among the Simeonites. 
 
-<sup>15</sup> And the name of the Midianitish woman that was slain *was* Cozbi, the daughter of Zur; he *was* head over a people, *and* of a chief house in Midian. 
+**¹⁵** And the name of the Midianitish woman that was slain *was* Cozbi, the daughter of Zur; he *was* head over a people, *and* of a chief house in Midian. 
 
-<sup>16</sup> ¶ And the LORD spake unto Moses, saying, 
+**¹⁶** ¶ And the LORD spake unto Moses, saying, 
 
-<sup>17</sup> Vex the Midianites, and smite them: 
+**¹⁷** Vex the Midianites, and smite them: 
 
-<sup>18</sup> For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor’s sake. 
+**¹⁸** For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor’s sake. 
 

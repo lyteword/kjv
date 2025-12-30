@@ -4,31 +4,31 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. 
+**¹** Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. 
 
-<sup>2</sup> Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation. 
+**²** Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation. 
 
-<sup>3</sup> For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same: 
+**³** For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same: 
 
-<sup>4</sup> For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to *execute* wrath upon him that doeth evil. 
+**⁴** For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to *execute* wrath upon him that doeth evil. 
 
-<sup>5</sup> Wherefore *ye* must needs be subject, not only for wrath, but also for conscience sake. 
+**⁵** Wherefore *ye* must needs be subject, not only for wrath, but also for conscience sake. 
 
-<sup>6</sup> For for this cause pay ye tribute also: for they are God’s ministers, attending continually upon this very thing. 
+**⁶** For for this cause pay ye tribute also: for they are God’s ministers, attending continually upon this very thing. 
 
-<sup>7</sup> Render therefore to all their dues: tribute to whom tribute *is due*; custom to whom custom; fear to whom fear; honour to whom honour. 
+**⁷** Render therefore to all their dues: tribute to whom tribute *is due*; custom to whom custom; fear to whom fear; honour to whom honour. 
 
-<sup>8</sup> Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law. 
+**⁸** Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law. 
 
-<sup>9</sup> For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if *there be* any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself. 
+**⁹** For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if *there be* any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself. 
 
-<sup>10</sup> Love worketh no ill to his neighbour: therefore love *is* the fulfilling of the law. 
+**¹⁰** Love worketh no ill to his neighbour: therefore love *is* the fulfilling of the law. 
 
-<sup>11</sup> And that, knowing the time, that now *it is* high time to awake out of sleep: for now *is* our salvation nearer than when we believed. 
+**¹¹** And that, knowing the time, that now *it is* high time to awake out of sleep: for now *is* our salvation nearer than when we believed. 
 
-<sup>12</sup> The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light. 
+**¹²** The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light. 
 
-<sup>13</sup> Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying. 
+**¹³** Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying. 
 
-<sup>14</sup> But put ye on the Lord Jesus Christ, and make not provision for the flesh, to *fulfil* the lusts *thereof.* 
+**¹⁴** But put ye on the Lord Jesus Christ, and make not provision for the flesh, to *fulfil* the lusts *thereof.* 
 

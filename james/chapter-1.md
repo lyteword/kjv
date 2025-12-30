@@ -4,57 +4,57 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting. 
+**¹** James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting. 
 
-<sup>2</sup> My brethren, count it all joy when ye fall into divers temptations; 
+**²** My brethren, count it all joy when ye fall into divers temptations; 
 
-<sup>3</sup> Knowing *this*, that the trying of your faith worketh patience. 
+**³** Knowing *this*, that the trying of your faith worketh patience. 
 
-<sup>4</sup> But let patience have *her* perfect work, that ye may be perfect and entire, wanting nothing. 
+**⁴** But let patience have *her* perfect work, that ye may be perfect and entire, wanting nothing. 
 
-<sup>5</sup> If any of you lack wisdom, let him ask of God, that giveth to all *men* liberally, and upbraideth not; and it shall be given him. 
+**⁵** If any of you lack wisdom, let him ask of God, that giveth to all *men* liberally, and upbraideth not; and it shall be given him. 
 
-<sup>6</sup> But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed. 
+**⁶** But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed. 
 
-<sup>7</sup> For let not that man think that he shall receive any thing of the Lord. 
+**⁷** For let not that man think that he shall receive any thing of the Lord. 
 
-<sup>8</sup> A double minded man *is* unstable in all his ways. 
+**⁸** A double minded man *is* unstable in all his ways. 
 
-<sup>9</sup> Let the brother of low degree rejoice in that he is exalted: 
+**⁹** Let the brother of low degree rejoice in that he is exalted: 
 
-<sup>10</sup> But the rich, in that he is made low: because as the flower of the grass he shall pass away. 
+**¹⁰** But the rich, in that he is made low: because as the flower of the grass he shall pass away. 
 
-<sup>11</sup> For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways. 
+**¹¹** For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways. 
 
-<sup>12</sup> Blessed *is* the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him. 
+**¹²** Blessed *is* the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him. 
 
-<sup>13</sup> Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man: 
+**¹³** Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man: 
 
-<sup>14</sup> But every man is tempted, when he is drawn away of his own lust, and enticed. 
+**¹⁴** But every man is tempted, when he is drawn away of his own lust, and enticed. 
 
-<sup>15</sup> Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death. 
+**¹⁵** Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death. 
 
-<sup>16</sup> Do not err, my beloved brethren. 
+**¹⁶** Do not err, my beloved brethren. 
 
-<sup>17</sup> Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning. 
+**¹⁷** Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning. 
 
-<sup>18</sup> Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures. 
+**¹⁸** Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures. 
 
-<sup>19</sup> Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath: 
+**¹⁹** Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath: 
 
-<sup>20</sup> For the wrath of man worketh not the righteousness of God. 
+**²⁰** For the wrath of man worketh not the righteousness of God. 
 
-<sup>21</sup> Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls. 
+**²¹** Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls. 
 
-<sup>22</sup> But be ye doers of the word, and not hearers only, deceiving your own selves. 
+**²²** But be ye doers of the word, and not hearers only, deceiving your own selves. 
 
-<sup>23</sup> For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: 
+**²³** For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: 
 
-<sup>24</sup> For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was. 
+**²⁴** For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was. 
 
-<sup>25</sup> But whoso looketh into the perfect law of liberty, and continueth *therein*, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed. 
+**²⁵** But whoso looketh into the perfect law of liberty, and continueth *therein*, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed. 
 
-<sup>26</sup> If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion *is* vain. 
+**²⁶** If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion *is* vain. 
 
-<sup>27</sup> Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, *and* to keep himself unspotted from the world. 
+**²⁷** Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, *and* to keep himself unspotted from the world. 
 

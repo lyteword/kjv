@@ -4,51 +4,51 @@ weight: 46
 
 # Chapter 46
 
-<sup>1</sup> Thus saith the Lord GOD; The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened. 
+**¹** Thus saith the Lord GOD; The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened. 
 
-<sup>2</sup> And the prince shall enter by the way of the porch of *that* gate without, and shall stand by the post of the gate, and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate: then he shall go forth; but the gate shall not be shut until the evening. 
+**²** And the prince shall enter by the way of the porch of *that* gate without, and shall stand by the post of the gate, and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate: then he shall go forth; but the gate shall not be shut until the evening. 
 
-<sup>3</sup> Likewise the people of the land shall worship at the door of this gate before the LORD in the sabbaths and in the new moons. 
+**³** Likewise the people of the land shall worship at the door of this gate before the LORD in the sabbaths and in the new moons. 
 
-<sup>4</sup> And the burnt offering that the prince shall offer unto the LORD in the sabbath day *shall be* six lambs without blemish, and a ram without blemish. 
+**⁴** And the burnt offering that the prince shall offer unto the LORD in the sabbath day *shall be* six lambs without blemish, and a ram without blemish. 
 
-<sup>5</sup> And the meat offering *shall be* an ephah for a ram, and the meat offering for the lambs as he shall be able to give, and an hin of oil to an ephah. 
+**⁵** And the meat offering *shall be* an ephah for a ram, and the meat offering for the lambs as he shall be able to give, and an hin of oil to an ephah. 
 
-<sup>6</sup> And in the day of the new moon *it shall be* a young bullock without blemish, and six lambs, and a ram: they shall be without blemish. 
+**⁶** And in the day of the new moon *it shall be* a young bullock without blemish, and six lambs, and a ram: they shall be without blemish. 
 
-<sup>7</sup> And he shall prepare a meat offering, an ephah for a bullock, and an ephah for a ram, and for the lambs according as his hand shall attain unto, and an hin of oil to an ephah. 
+**⁷** And he shall prepare a meat offering, an ephah for a bullock, and an ephah for a ram, and for the lambs according as his hand shall attain unto, and an hin of oil to an ephah. 
 
-<sup>8</sup> And when the prince shall enter, he shall go in by the way of the porch of *that* gate, and he shall go forth by the way thereof. 
+**⁸** And when the prince shall enter, he shall go in by the way of the porch of *that* gate, and he shall go forth by the way thereof. 
 
-<sup>9</sup> ¶ But when the people of the land shall come before the LORD in the solemn feasts, he that entereth in by the way of the north gate to worship shall go out by the way of the south gate; and he that entereth by the way of the south gate shall go forth by the way of the north gate: he shall not return by the way of the gate whereby he came in, but shall go forth over against it. 
+**⁹** ¶ But when the people of the land shall come before the LORD in the solemn feasts, he that entereth in by the way of the north gate to worship shall go out by the way of the south gate; and he that entereth by the way of the south gate shall go forth by the way of the north gate: he shall not return by the way of the gate whereby he came in, but shall go forth over against it. 
 
-<sup>10</sup> And the prince in the midst of them, when they go in, shall go in; and when they go forth, shall go forth. 
+**¹⁰** And the prince in the midst of them, when they go in, shall go in; and when they go forth, shall go forth. 
 
-<sup>11</sup> And in the feasts and in the solemnities the meat offering shall be an ephah to a bullock, and an ephah to a ram, and to the lambs as he is able to give, and an hin of oil to an ephah. 
+**¹¹** And in the feasts and in the solemnities the meat offering shall be an ephah to a bullock, and an ephah to a ram, and to the lambs as he is able to give, and an hin of oil to an ephah. 
 
-<sup>12</sup> Now when the prince shall prepare a voluntary burnt offering or peace offerings voluntarily unto the LORD, *one* shall then open him the gate that looketh toward the east, and he shall prepare his burnt offering and his peace offerings, as he did on the sabbath day: then he shall go forth; and after his going forth *one* shall shut the gate. 
+**¹²** Now when the prince shall prepare a voluntary burnt offering or peace offerings voluntarily unto the LORD, *one* shall then open him the gate that looketh toward the east, and he shall prepare his burnt offering and his peace offerings, as he did on the sabbath day: then he shall go forth; and after his going forth *one* shall shut the gate. 
 
-<sup>13</sup> Thou shalt daily prepare a burnt offering unto the LORD *of* a lamb of the first year without blemish: thou shalt prepare it every morning. 
+**¹³** Thou shalt daily prepare a burnt offering unto the LORD *of* a lamb of the first year without blemish: thou shalt prepare it every morning. 
 
-<sup>14</sup> And thou shalt prepare a meat offering for it every morning, the sixth part of an ephah, and the third part of an hin of oil, to temper with the fine flour; a meat offering continually by a perpetual ordinance unto the LORD. 
+**¹⁴** And thou shalt prepare a meat offering for it every morning, the sixth part of an ephah, and the third part of an hin of oil, to temper with the fine flour; a meat offering continually by a perpetual ordinance unto the LORD. 
 
-<sup>15</sup> Thus shall they prepare the lamb, and the meat offering, and the oil, every morning *for* a continual burnt offering. 
+**¹⁵** Thus shall they prepare the lamb, and the meat offering, and the oil, every morning *for* a continual burnt offering. 
 
-<sup>16</sup> ¶ Thus saith the Lord GOD; If the prince give a gift unto any of his sons, the inheritance thereof shall be his sons’; it *shall be* their possession by inheritance. 
+**¹⁶** ¶ Thus saith the Lord GOD; If the prince give a gift unto any of his sons, the inheritance thereof shall be his sons’; it *shall be* their possession by inheritance. 
 
-<sup>17</sup> But if he give a gift of his inheritance to one of his servants, then it shall be his to the year of liberty; after it shall return to the prince: but his inheritance shall be his sons’ for them. 
+**¹⁷** But if he give a gift of his inheritance to one of his servants, then it shall be his to the year of liberty; after it shall return to the prince: but his inheritance shall be his sons’ for them. 
 
-<sup>18</sup> Moreover the prince shall not take of the people’s inheritance by oppression, to thrust them out of their possession; *but* he shall give his sons inheritance out of his own possession: that my people be not scattered every man from his possession. 
+**¹⁸** Moreover the prince shall not take of the people’s inheritance by oppression, to thrust them out of their possession; *but* he shall give his sons inheritance out of his own possession: that my people be not scattered every man from his possession. 
 
-<sup>19</sup> ¶ After he brought me through the entry, which *was* at the side of the gate, into the holy chambers of the priests, which looked toward the north: and, behold, there *was* a place on the two sides westward. 
+**¹⁹** ¶ After he brought me through the entry, which *was* at the side of the gate, into the holy chambers of the priests, which looked toward the north: and, behold, there *was* a place on the two sides westward. 
 
-<sup>20</sup> Then said he unto me, This *is* the place where the priests shall boil the trespass offering and the sin offering, where they shall bake the meat offering; that they bear *them* not out into the utter court, to sanctify the people. 
+**²⁰** Then said he unto me, This *is* the place where the priests shall boil the trespass offering and the sin offering, where they shall bake the meat offering; that they bear *them* not out into the utter court, to sanctify the people. 
 
-<sup>21</sup> Then he brought me forth into the utter court, and caused me to pass by the four corners of the court; and, behold, in every corner of the court *there was* a court. 
+**²¹** Then he brought me forth into the utter court, and caused me to pass by the four corners of the court; and, behold, in every corner of the court *there was* a court. 
 
-<sup>22</sup> In the four corners of the court *there were* courts joined of forty *cubits* long and thirty broad: these four corners *were* of one measure. 
+**²²** In the four corners of the court *there were* courts joined of forty *cubits* long and thirty broad: these four corners *were* of one measure. 
 
-<sup>23</sup> And *there was* a row *of building* round about in them, round about them four, and *it was* made with boiling places under the rows round about. 
+**²³** And *there was* a row *of building* round about in them, round about them four, and *it was* made with boiling places under the rows round about. 
 
-<sup>24</sup> Then said he unto me, These *are* the places of them that boil, where the ministers of the house shall boil the sacrifice of the people. 
+**²⁴** Then said he unto me, These *are* the places of them that boil, where the ministers of the house shall boil the sacrifice of the people. 
 

@@ -4,65 +4,65 @@ weight: 44
 
 # Chapter 44
 
-<sup>1</sup> Then he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it *was* shut. 
+**¹** Then he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it *was* shut. 
 
-<sup>2</sup> Then said the LORD unto me; This gate shall be shut, it shall not be opened, and no man shall enter in by it; because the LORD, the God of Israel, hath entered in by it, therefore it shall be shut. 
+**²** Then said the LORD unto me; This gate shall be shut, it shall not be opened, and no man shall enter in by it; because the LORD, the God of Israel, hath entered in by it, therefore it shall be shut. 
 
-<sup>3</sup> *It is* for the prince; the prince, he shall sit in it to eat bread before the LORD; he shall enter by the way of the porch of *that* gate, and shall go out by the way of the same. 
+**³** *It is* for the prince; the prince, he shall sit in it to eat bread before the LORD; he shall enter by the way of the porch of *that* gate, and shall go out by the way of the same. 
 
-<sup>4</sup> ¶ Then brought he me the way of the north gate before the house: and I looked, and, behold, the glory of the LORD filled the house of the LORD: and I fell upon my face. 
+**⁴** ¶ Then brought he me the way of the north gate before the house: and I looked, and, behold, the glory of the LORD filled the house of the LORD: and I fell upon my face. 
 
-<sup>5</sup> And the LORD said unto me, Son of man, mark well, and behold with thine eyes, and hear with thine ears all that I say unto thee concerning all the ordinances of the house of the LORD, and all the laws thereof; and mark well the entering in of the house, with every going forth of the sanctuary. 
+**⁵** And the LORD said unto me, Son of man, mark well, and behold with thine eyes, and hear with thine ears all that I say unto thee concerning all the ordinances of the house of the LORD, and all the laws thereof; and mark well the entering in of the house, with every going forth of the sanctuary. 
 
-<sup>6</sup> And thou shalt say to the rebellious, *even* to the house of Israel, Thus saith the Lord GOD; O ye house of Israel, let it suffice you of all your abominations, 
+**⁶** And thou shalt say to the rebellious, *even* to the house of Israel, Thus saith the Lord GOD; O ye house of Israel, let it suffice you of all your abominations, 
 
-<sup>7</sup> In that ye have brought *into my sanctuary* strangers, uncircumcised in heart, and uncircumcised in flesh, to be in my sanctuary, to pollute it, *even* my house, when ye offer my bread, the fat and the blood, and they have broken my covenant because of all your abominations. 
+**⁷** In that ye have brought *into my sanctuary* strangers, uncircumcised in heart, and uncircumcised in flesh, to be in my sanctuary, to pollute it, *even* my house, when ye offer my bread, the fat and the blood, and they have broken my covenant because of all your abominations. 
 
-<sup>8</sup> And ye have not kept the charge of mine holy things: but ye have set keepers of my charge in my sanctuary for yourselves. 
+**⁸** And ye have not kept the charge of mine holy things: but ye have set keepers of my charge in my sanctuary for yourselves. 
 
-<sup>9</sup> ¶ Thus saith the Lord GOD; No stranger, uncircumcised in heart, nor uncircumcised in flesh, shall enter into my sanctuary, of any stranger that *is* among the children of Israel. 
+**⁹** ¶ Thus saith the Lord GOD; No stranger, uncircumcised in heart, nor uncircumcised in flesh, shall enter into my sanctuary, of any stranger that *is* among the children of Israel. 
 
-<sup>10</sup> And the Levites that are gone away far from me, when Israel went astray, which went astray away from me after their idols; they shall even bear their iniquity. 
+**¹⁰** And the Levites that are gone away far from me, when Israel went astray, which went astray away from me after their idols; they shall even bear their iniquity. 
 
-<sup>11</sup> Yet they shall be ministers in my sanctuary, *having* charge at the gates of the house, and ministering to the house: they shall slay the burnt offering and the sacrifice for the people, and they shall stand before them to minister unto them. 
+**¹¹** Yet they shall be ministers in my sanctuary, *having* charge at the gates of the house, and ministering to the house: they shall slay the burnt offering and the sacrifice for the people, and they shall stand before them to minister unto them. 
 
-<sup>12</sup> Because they ministered unto them before their idols, and caused the house of Israel to fall into iniquity; therefore have I lifted up mine hand against them, saith the Lord GOD, and they shall bear their iniquity. 
+**¹²** Because they ministered unto them before their idols, and caused the house of Israel to fall into iniquity; therefore have I lifted up mine hand against them, saith the Lord GOD, and they shall bear their iniquity. 
 
-<sup>13</sup> And they shall not come near unto me, to do the office of a priest unto me, nor to come near to any of my holy things, in the most holy *place:* but they shall bear their shame, and their abominations which they have committed. 
+**¹³** And they shall not come near unto me, to do the office of a priest unto me, nor to come near to any of my holy things, in the most holy *place:* but they shall bear their shame, and their abominations which they have committed. 
 
-<sup>14</sup> But I will make them keepers of the charge of the house, for all the service thereof, and for all that shall be done therein. 
+**¹⁴** But I will make them keepers of the charge of the house, for all the service thereof, and for all that shall be done therein. 
 
-<sup>15</sup> ¶ But the priests the Levites, the sons of Zadok, that kept the charge of my sanctuary when the children of Israel went astray from me, they shall come near to me to minister unto me, and they shall stand before me to offer unto me the fat and the blood, saith the Lord GOD: 
+**¹⁵** ¶ But the priests the Levites, the sons of Zadok, that kept the charge of my sanctuary when the children of Israel went astray from me, they shall come near to me to minister unto me, and they shall stand before me to offer unto me the fat and the blood, saith the Lord GOD: 
 
-<sup>16</sup> They shall enter into my sanctuary, and they shall come near to my table, to minister unto me, and they shall keep my charge. 
+**¹⁶** They shall enter into my sanctuary, and they shall come near to my table, to minister unto me, and they shall keep my charge. 
 
-<sup>17</sup> ¶ And it shall come to pass, *that* when they enter in at the gates of the inner court, they shall be clothed with linen garments; and no wool shall come upon them, whiles they minister in the gates of the inner court, and within. 
+**¹⁷** ¶ And it shall come to pass, *that* when they enter in at the gates of the inner court, they shall be clothed with linen garments; and no wool shall come upon them, whiles they minister in the gates of the inner court, and within. 
 
-<sup>18</sup> They shall have linen bonnets upon their heads, and shall have linen breeches upon their loins; they shall not gird *themselves* with any thing that causeth sweat. 
+**¹⁸** They shall have linen bonnets upon their heads, and shall have linen breeches upon their loins; they shall not gird *themselves* with any thing that causeth sweat. 
 
-<sup>19</sup> And when they go forth into the utter court, *even* into the utter court to the people, they shall put off their garments wherein they ministered, and lay them in the holy chambers, and they shall put on other garments; and they shall not sanctify the people with their garments. 
+**¹⁹** And when they go forth into the utter court, *even* into the utter court to the people, they shall put off their garments wherein they ministered, and lay them in the holy chambers, and they shall put on other garments; and they shall not sanctify the people with their garments. 
 
-<sup>20</sup> Neither shall they shave their heads, nor suffer their locks to grow long; they shall only poll their heads. 
+**²⁰** Neither shall they shave their heads, nor suffer their locks to grow long; they shall only poll their heads. 
 
-<sup>21</sup> Neither shall any priest drink wine, when they enter into the inner court. 
+**²¹** Neither shall any priest drink wine, when they enter into the inner court. 
 
-<sup>22</sup> Neither shall they take for their wives a widow, nor her that is put away: but they shall take maidens of the seed of the house of Israel, or a widow that had a priest before. 
+**²²** Neither shall they take for their wives a widow, nor her that is put away: but they shall take maidens of the seed of the house of Israel, or a widow that had a priest before. 
 
-<sup>23</sup> And they shall teach my people *the difference* between the holy and profane, and cause them to discern between the unclean and the clean. 
+**²³** And they shall teach my people *the difference* between the holy and profane, and cause them to discern between the unclean and the clean. 
 
-<sup>24</sup> And in controversy they shall stand in judgment; *and* they shall judge it according to my judgments: and they shall keep my laws and my statutes in all mine assemblies; and they shall hallow my sabbaths. 
+**²⁴** And in controversy they shall stand in judgment; *and* they shall judge it according to my judgments: and they shall keep my laws and my statutes in all mine assemblies; and they shall hallow my sabbaths. 
 
-<sup>25</sup> And they shall come at no dead person to defile themselves: but for father, or for mother, or for son, or for daughter, for brother, or for sister that hath had no husband, they may defile themselves. 
+**²⁵** And they shall come at no dead person to defile themselves: but for father, or for mother, or for son, or for daughter, for brother, or for sister that hath had no husband, they may defile themselves. 
 
-<sup>26</sup> And after he is cleansed, they shall reckon unto him seven days. 
+**²⁶** And after he is cleansed, they shall reckon unto him seven days. 
 
-<sup>27</sup> And in the day that he goeth into the sanctuary, unto the inner court, to minister in the sanctuary, he shall offer his sin offering, saith the Lord GOD. 
+**²⁷** And in the day that he goeth into the sanctuary, unto the inner court, to minister in the sanctuary, he shall offer his sin offering, saith the Lord GOD. 
 
-<sup>28</sup> And it shall be unto them for an inheritance: I *am* their inheritance: and ye shall give them no possession in Israel: I *am* their possession. 
+**²⁸** And it shall be unto them for an inheritance: I *am* their inheritance: and ye shall give them no possession in Israel: I *am* their possession. 
 
-<sup>29</sup> They shall eat the meat offering, and the sin offering, and the trespass offering; and every dedicated thing in Israel shall be theirs. 
+**²⁹** They shall eat the meat offering, and the sin offering, and the trespass offering; and every dedicated thing in Israel shall be theirs. 
 
-<sup>30</sup> And the first of all the firstfruits of all *things*, and every oblation of all, of every *sort* of your oblations, shall be the priest’s: ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest in thine house. 
+**³⁰** And the first of all the firstfruits of all *things*, and every oblation of all, of every *sort* of your oblations, shall be the priest’s: ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest in thine house. 
 
-<sup>31</sup> The priests shall not eat of any thing that is dead of itself, or torn, whether it be fowl or beast. 
+**³¹** The priests shall not eat of any thing that is dead of itself, or torn, whether it be fowl or beast. 
 

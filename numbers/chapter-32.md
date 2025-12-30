@@ -4,87 +4,87 @@ weight: 32
 
 # Chapter 32
 
-<sup>1</sup> Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place *was* a place for cattle; 
+**¹** Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place *was* a place for cattle; 
 
-<sup>2</sup> The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying, 
+**²** The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying, 
 
-<sup>3</sup> Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon, 
+**³** Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon, 
 
-<sup>4</sup> *Even* the country which the LORD smote before the congregation of Israel, *is* a land for cattle, and thy servants have cattle: 
+**⁴** *Even* the country which the LORD smote before the congregation of Israel, *is* a land for cattle, and thy servants have cattle: 
 
-<sup>5</sup> Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, *and* bring us not over Jordan. 
+**⁵** Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, *and* bring us not over Jordan. 
 
-<sup>6</sup> ¶ And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here? 
+**⁶** ¶ And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here? 
 
-<sup>7</sup> And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them? 
+**⁷** And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them? 
 
-<sup>8</sup> Thus did your fathers, when I sent them from Kadesh-barnea to see the land. 
+**⁸** Thus did your fathers, when I sent them from Kadesh-barnea to see the land. 
 
-<sup>9</sup> For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them. 
+**⁹** For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them. 
 
-<sup>10</sup> And the LORD’s anger was kindled the same time, and he sware, saying, 
+**¹⁰** And the LORD’s anger was kindled the same time, and he sware, saying, 
 
-<sup>11</sup> Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me: 
+**¹¹** Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me: 
 
-<sup>12</sup> Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD. 
+**¹²** Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD. 
 
-<sup>13</sup> And the LORD’s anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed. 
+**¹³** And the LORD’s anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed. 
 
-<sup>14</sup> And, behold, ye are risen up in your fathers’ stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel. 
+**¹⁴** And, behold, ye are risen up in your fathers’ stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel. 
 
-<sup>15</sup> For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people. 
+**¹⁵** For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people. 
 
-<sup>16</sup> ¶ And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones: 
+**¹⁶** ¶ And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones: 
 
-<sup>17</sup> But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land. 
+**¹⁷** But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land. 
 
-<sup>18</sup> We will not return unto our houses, until the children of Israel have inherited every man his inheritance. 
+**¹⁸** We will not return unto our houses, until the children of Israel have inherited every man his inheritance. 
 
-<sup>19</sup> For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward. 
+**¹⁹** For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward. 
 
-<sup>20</sup> ¶ And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war, 
+**²⁰** ¶ And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war, 
 
-<sup>21</sup> And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him, 
+**²¹** And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him, 
 
-<sup>22</sup> And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD. 
+**²²** And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD. 
 
-<sup>23</sup> But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out. 
+**²³** But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out. 
 
-<sup>24</sup> Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth. 
+**²⁴** Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth. 
 
-<sup>25</sup> And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth. 
+**²⁵** And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth. 
 
-<sup>26</sup> Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead: 
+**²⁶** Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead: 
 
-<sup>27</sup> But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith. 
+**²⁷** But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith. 
 
-<sup>28</sup> So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel: 
+**²⁸** So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel: 
 
-<sup>29</sup> And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession: 
+**²⁹** And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession: 
 
-<sup>30</sup> But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan. 
+**³⁰** But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan. 
 
-<sup>31</sup> And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do. 
+**³¹** And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do. 
 
-<sup>32</sup> We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan *may be* ours. 
+**³²** We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan *may be* ours. 
 
-<sup>33</sup> And Moses gave unto them, *even* to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, *even* the cities of the country round about. 
+**³³** And Moses gave unto them, *even* to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, *even* the cities of the country round about. 
 
-<sup>34</sup> ¶ And the children of Gad built Dibon, and Ataroth, and Aroer, 
+**³⁴** ¶ And the children of Gad built Dibon, and Ataroth, and Aroer, 
 
-<sup>35</sup> And Atroth, Shophan, and Jaazer, and Jogbehah, 
+**³⁵** And Atroth, Shophan, and Jaazer, and Jogbehah, 
 
-<sup>36</sup> And Beth-nimrah, and Beth-haran, fenced cities: and folds for sheep. 
+**³⁶** And Beth-nimrah, and Beth-haran, fenced cities: and folds for sheep. 
 
-<sup>37</sup> And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim, 
+**³⁷** And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim, 
 
-<sup>38</sup> And Nebo, and Baal-meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded. 
+**³⁸** And Nebo, and Baal-meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded. 
 
-<sup>39</sup> And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which *was* in it. 
+**³⁹** And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which *was* in it. 
 
-<sup>40</sup> And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein. 
+**⁴⁰** And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein. 
 
-<sup>41</sup> And Jair the son of Manasseh went and took the small towns thereof, and called them Havoth-jair. 
+**⁴¹** And Jair the son of Manasseh went and took the small towns thereof, and called them Havoth-jair. 
 
-<sup>42</sup> And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name. 
+**⁴²** And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name. 
 

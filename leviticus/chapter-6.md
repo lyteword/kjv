@@ -4,63 +4,63 @@ weight: 6
 
 # Chapter 6
 
-<sup>1</sup> And the LORD spake unto Moses, saying, 
+**¹** And the LORD spake unto Moses, saying, 
 
-<sup>2</sup> If a soul sin, and commit a trespass against the LORD, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour; 
+**²** If a soul sin, and commit a trespass against the LORD, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour; 
 
-<sup>3</sup> Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, sinning therein: 
+**³** Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, sinning therein: 
 
-<sup>4</sup> Then it shall be, because he hath sinned, and is guilty, that he shall restore that which he took violently away, or the thing which he hath deceitfully gotten, or that which was delivered him to keep, or the lost thing which he found, 
+**⁴** Then it shall be, because he hath sinned, and is guilty, that he shall restore that which he took violently away, or the thing which he hath deceitfully gotten, or that which was delivered him to keep, or the lost thing which he found, 
 
-<sup>5</sup> Or all that about which he hath sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, *and* give it unto him to whom it appertaineth, in the day of his trespass offering. 
+**⁵** Or all that about which he hath sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, *and* give it unto him to whom it appertaineth, in the day of his trespass offering. 
 
-<sup>6</sup> And he shall bring his trespass offering unto the LORD, a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: 
+**⁶** And he shall bring his trespass offering unto the LORD, a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: 
 
-<sup>7</sup> And the priest shall make an atonement for him before the LORD: and it shall be forgiven him for any thing of all that he hath done in trespassing therein. 
+**⁷** And the priest shall make an atonement for him before the LORD: and it shall be forgiven him for any thing of all that he hath done in trespassing therein. 
 
-<sup>8</sup> ¶ And the LORD spake unto Moses, saying, 
+**⁸** ¶ And the LORD spake unto Moses, saying, 
 
-<sup>9</sup> Command Aaron and his sons, saying, This *is* the law of the burnt offering: It *is* the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it. 
+**⁹** Command Aaron and his sons, saying, This *is* the law of the burnt offering: It *is* the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it. 
 
-<sup>10</sup> And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed with the burnt offering on the altar, and he shall put them beside the altar. 
+**¹⁰** And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed with the burnt offering on the altar, and he shall put them beside the altar. 
 
-<sup>11</sup> And he shall put off his garments, and put on other garments, and carry forth the ashes without the camp unto a clean place. 
+**¹¹** And he shall put off his garments, and put on other garments, and carry forth the ashes without the camp unto a clean place. 
 
-<sup>12</sup> And the fire upon the altar shall be burning in it; it shall not be put out: and the priest shall burn wood on it every morning, and lay the burnt offering in order upon it; and he shall burn thereon the fat of the peace offerings. 
+**¹²** And the fire upon the altar shall be burning in it; it shall not be put out: and the priest shall burn wood on it every morning, and lay the burnt offering in order upon it; and he shall burn thereon the fat of the peace offerings. 
 
-<sup>13</sup> The fire shall ever be burning upon the altar; it shall never go out. 
+**¹³** The fire shall ever be burning upon the altar; it shall never go out. 
 
-<sup>14</sup> ¶ And this *is* the law of the meat offering: the sons of Aaron shall offer it before the LORD, before the altar. 
+**¹⁴** ¶ And this *is* the law of the meat offering: the sons of Aaron shall offer it before the LORD, before the altar. 
 
-<sup>15</sup> And he shall take of it his handful, of the flour of the meat offering, and of the oil thereof, and all the frankincense which *is* upon the meat offering, and shall burn *it* upon the altar *for* a sweet savour, *even* the memorial of it, unto the LORD. 
+**¹⁵** And he shall take of it his handful, of the flour of the meat offering, and of the oil thereof, and all the frankincense which *is* upon the meat offering, and shall burn *it* upon the altar *for* a sweet savour, *even* the memorial of it, unto the LORD. 
 
-<sup>16</sup> And the remainder thereof shall Aaron and his sons eat: with unleavened bread shall it be eaten in the holy place; in the court of the tabernacle of the congregation they shall eat it. 
+**¹⁶** And the remainder thereof shall Aaron and his sons eat: with unleavened bread shall it be eaten in the holy place; in the court of the tabernacle of the congregation they shall eat it. 
 
-<sup>17</sup> It shall not be baken with leaven. I have given it *unto them for* their portion of my offerings made by fire; it *is* most holy, as *is* the sin offering, and as the trespass offering. 
+**¹⁷** It shall not be baken with leaven. I have given it *unto them for* their portion of my offerings made by fire; it *is* most holy, as *is* the sin offering, and as the trespass offering. 
 
-<sup>18</sup> All the males among the children of Aaron shall eat of it. *It shall be* a statute for ever in your generations concerning the offerings of the LORD made by fire: every one that toucheth them shall be holy. 
+**¹⁸** All the males among the children of Aaron shall eat of it. *It shall be* a statute for ever in your generations concerning the offerings of the LORD made by fire: every one that toucheth them shall be holy. 
 
-<sup>19</sup> ¶ And the LORD spake unto Moses, saying, 
+**¹⁹** ¶ And the LORD spake unto Moses, saying, 
 
-<sup>20</sup> This *is* the offering of Aaron and of his sons, which they shall offer unto the LORD in the day when he is anointed; the tenth part of an ephah of fine flour for a meat offering perpetual, half of it in the morning, and half thereof at night. 
+**²⁰** This *is* the offering of Aaron and of his sons, which they shall offer unto the LORD in the day when he is anointed; the tenth part of an ephah of fine flour for a meat offering perpetual, half of it in the morning, and half thereof at night. 
 
-<sup>21</sup> In a pan it shall be made with oil; *and when it is* baken, thou shalt bring it in: *and* the baken pieces of the meat offering shalt thou offer *for* a sweet savour unto the LORD. 
+**²¹** In a pan it shall be made with oil; *and when it is* baken, thou shalt bring it in: *and* the baken pieces of the meat offering shalt thou offer *for* a sweet savour unto the LORD. 
 
-<sup>22</sup> And the priest of his sons that is anointed in his stead shall offer it: *it is* a statute for ever unto the LORD; it shall be wholly burnt. 
+**²²** And the priest of his sons that is anointed in his stead shall offer it: *it is* a statute for ever unto the LORD; it shall be wholly burnt. 
 
-<sup>23</sup> For every meat offering for the priest shall be wholly burnt: it shall not be eaten. 
+**²³** For every meat offering for the priest shall be wholly burnt: it shall not be eaten. 
 
-<sup>24</sup> ¶ And the LORD spake unto Moses, saying, 
+**²⁴** ¶ And the LORD spake unto Moses, saying, 
 
-<sup>25</sup> Speak unto Aaron and to his sons, saying, This *is* the law of the sin offering: In the place where the burnt offering is killed shall the sin offering be killed before the LORD: it *is* most holy. 
+**²⁵** Speak unto Aaron and to his sons, saying, This *is* the law of the sin offering: In the place where the burnt offering is killed shall the sin offering be killed before the LORD: it *is* most holy. 
 
-<sup>26</sup> The priest that offereth it for sin shall eat it: in the holy place shall it be eaten, in the court of the tabernacle of the congregation. 
+**²⁶** The priest that offereth it for sin shall eat it: in the holy place shall it be eaten, in the court of the tabernacle of the congregation. 
 
-<sup>27</sup> Whatsoever shall touch the flesh thereof shall be holy: and when there is sprinkled of the blood thereof upon any garment, thou shalt wash that whereon it was sprinkled in the holy place. 
+**²⁷** Whatsoever shall touch the flesh thereof shall be holy: and when there is sprinkled of the blood thereof upon any garment, thou shalt wash that whereon it was sprinkled in the holy place. 
 
-<sup>28</sup> But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both scoured, and rinsed in water. 
+**²⁸** But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both scoured, and rinsed in water. 
 
-<sup>29</sup> All the males among the priests shall eat thereof: it *is* most holy. 
+**²⁹** All the males among the priests shall eat thereof: it *is* most holy. 
 
-<sup>30</sup> And no sin offering, whereof *any* of the blood is brought into the tabernacle of the congregation to reconcile *withal* in the holy *place*, shall be eaten: it shall be burnt in the fire. 
+**³⁰** And no sin offering, whereof *any* of the blood is brought into the tabernacle of the congregation to reconcile *withal* in the holy *place*, shall be eaten: it shall be burnt in the fire. 
 

@@ -4,65 +4,65 @@ weight: 22
 
 # Psalm 22
 
-<sup>1</sup> My God, my God, why hast thou forsaken me? *why art thou so* far from helping me, *and from* the words of my roaring? 
+**¹** My God, my God, why hast thou forsaken me? *why art thou so* far from helping me, *and from* the words of my roaring? 
 
-<sup>2</sup> O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent. 
+**²** O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent. 
 
-<sup>3</sup> But thou *art* holy, *O thou* that inhabitest the praises of Israel. 
+**³** But thou *art* holy, *O thou* that inhabitest the praises of Israel. 
 
-<sup>4</sup> Our fathers trusted in thee: they trusted, and thou didst deliver them. 
+**⁴** Our fathers trusted in thee: they trusted, and thou didst deliver them. 
 
-<sup>5</sup> They cried unto thee, and were delivered: they trusted in thee, and were not confounded. 
+**⁵** They cried unto thee, and were delivered: they trusted in thee, and were not confounded. 
 
-<sup>6</sup> But I *am* a worm, and no man; a reproach of men, and despised of the people. 
+**⁶** But I *am* a worm, and no man; a reproach of men, and despised of the people. 
 
-<sup>7</sup> All they that see me laugh me to scorn: they shoot out the lip, they shake the head, *saying*, 
+**⁷** All they that see me laugh me to scorn: they shoot out the lip, they shake the head, *saying*, 
 
-<sup>8</sup> He trusted on the LORD *that* he would deliver him: let him deliver him, seeing he delighted in him. 
+**⁸** He trusted on the LORD *that* he would deliver him: let him deliver him, seeing he delighted in him. 
 
-<sup>9</sup> But thou *art* he that took me out of the womb: thou didst make me hope *when I was* upon my mother’s breasts. 
+**⁹** But thou *art* he that took me out of the womb: thou didst make me hope *when I was* upon my mother’s breasts. 
 
-<sup>10</sup> I was cast upon thee from the womb: thou *art* my God from my mother’s belly. 
+**¹⁰** I was cast upon thee from the womb: thou *art* my God from my mother’s belly. 
 
-<sup>11</sup> Be not far from me; for trouble *is* near; for *there is* none to help. 
+**¹¹** Be not far from me; for trouble *is* near; for *there is* none to help. 
 
-<sup>12</sup> Many bulls have compassed me: strong *bulls* of Bashan have beset me round. 
+**¹²** Many bulls have compassed me: strong *bulls* of Bashan have beset me round. 
 
-<sup>13</sup> They gaped upon me *with* their mouths, *as* a ravening and a roaring lion. 
+**¹³** They gaped upon me *with* their mouths, *as* a ravening and a roaring lion. 
 
-<sup>14</sup> I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels. 
+**¹⁴** I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels. 
 
-<sup>15</sup> My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death. 
+**¹⁵** My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death. 
 
-<sup>16</sup> For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet. 
+**¹⁶** For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet. 
 
-<sup>17</sup> I may tell all my bones: they look *and* stare upon me. 
+**¹⁷** I may tell all my bones: they look *and* stare upon me. 
 
-<sup>18</sup> They part my garments among them, and cast lots upon my vesture. 
+**¹⁸** They part my garments among them, and cast lots upon my vesture. 
 
-<sup>19</sup> But be not thou far from me, O LORD: O my strength, haste thee to help me. 
+**¹⁹** But be not thou far from me, O LORD: O my strength, haste thee to help me. 
 
-<sup>20</sup> Deliver my soul from the sword; my darling from the power of the dog. 
+**²⁰** Deliver my soul from the sword; my darling from the power of the dog. 
 
-<sup>21</sup> Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns. 
+**²¹** Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns. 
 
-<sup>22</sup> I will declare thy name unto my brethren: in the midst of the congregation will I praise thee. 
+**²²** I will declare thy name unto my brethren: in the midst of the congregation will I praise thee. 
 
-<sup>23</sup> Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel. 
+**²³** Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel. 
 
-<sup>24</sup> For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard. 
+**²⁴** For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard. 
 
-<sup>25</sup> My praise *shall be* of thee in the great congregation: I will pay my vows before them that fear him. 
+**²⁵** My praise *shall be* of thee in the great congregation: I will pay my vows before them that fear him. 
 
-<sup>26</sup> The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever. 
+**²⁶** The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever. 
 
-<sup>27</sup> All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee. 
+**²⁷** All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee. 
 
-<sup>28</sup> For the kingdom *is* the LORD’s: and he *is* the governor among the nations. 
+**²⁸** For the kingdom *is* the LORD’s: and he *is* the governor among the nations. 
 
-<sup>29</sup> All *they that be* fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul. 
+**²⁹** All *they that be* fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul. 
 
-<sup>30</sup> A seed shall serve him; it shall be accounted to the Lord for a generation. 
+**³⁰** A seed shall serve him; it shall be accounted to the Lord for a generation. 
 
-<sup>31</sup> They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done *this*. 
+**³¹** They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done *this*. 
 

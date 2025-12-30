@@ -4,53 +4,53 @@ weight: 12
 
 # Chapter 12
 
-<sup>1</sup> And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you. 
+**¹** And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you. 
 
-<sup>2</sup> And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons *are* with you: and I have walked before you from my childhood unto this day. 
+**²** And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons *are* with you: and I have walked before you from my childhood unto this day. 
 
-<sup>3</sup> Behold, here I *am:* witness against me before the LORD, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received *any* bribe to blind mine eyes therewith? and I will restore it you. 
+**³** Behold, here I *am:* witness against me before the LORD, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received *any* bribe to blind mine eyes therewith? and I will restore it you. 
 
-<sup>4</sup> And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man’s hand. 
+**⁴** And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man’s hand. 
 
-<sup>5</sup> And he said unto them, The LORD *is* witness against you, and his anointed *is* witness this day, that ye have not found ought in my hand. And they answered, *He is* witness. 
+**⁵** And he said unto them, The LORD *is* witness against you, and his anointed *is* witness this day, that ye have not found ought in my hand. And they answered, *He is* witness. 
 
-<sup>6</sup> ¶ And Samuel said unto the people, *It is* the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt. 
+**⁶** ¶ And Samuel said unto the people, *It is* the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt. 
 
-<sup>7</sup> Now therefore stand still, that I may reason with you before the LORD of all the righteous acts of the LORD, which he did to you and to your fathers. 
+**⁷** Now therefore stand still, that I may reason with you before the LORD of all the righteous acts of the LORD, which he did to you and to your fathers. 
 
-<sup>8</sup> When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place. 
+**⁸** When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place. 
 
-<sup>9</sup> And when they forgat the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them. 
+**⁹** And when they forgat the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them. 
 
-<sup>10</sup> And they cried unto the LORD, and said, We have sinned, because we have forsaken the LORD, and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve thee. 
+**¹⁰** And they cried unto the LORD, and said, We have sinned, because we have forsaken the LORD, and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve thee. 
 
-<sup>11</sup> And the LORD sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelled safe. 
+**¹¹** And the LORD sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelled safe. 
 
-<sup>12</sup> And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the LORD your God *was* your king. 
+**¹²** And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the LORD your God *was* your king. 
 
-<sup>13</sup> Now therefore behold the king whom ye have chosen, *and* whom ye have desired! and, behold, the LORD hath set a king over you. 
+**¹³** Now therefore behold the king whom ye have chosen, *and* whom ye have desired! and, behold, the LORD hath set a king over you. 
 
-<sup>14</sup> If ye will fear the LORD, and serve him, and obey his voice, and not rebel against the commandment of the LORD, then shall both ye and also the king that reigneth over you continue following the LORD your God: 
+**¹⁴** If ye will fear the LORD, and serve him, and obey his voice, and not rebel against the commandment of the LORD, then shall both ye and also the king that reigneth over you continue following the LORD your God: 
 
-<sup>15</sup> But if ye will not obey the voice of the LORD, but rebel against the commandment of the LORD, then shall the hand of the LORD be against you, as *it was* against your fathers. 
+**¹⁵** But if ye will not obey the voice of the LORD, but rebel against the commandment of the LORD, then shall the hand of the LORD be against you, as *it was* against your fathers. 
 
-<sup>16</sup> ¶ Now therefore stand and see this great thing, which the LORD will do before your eyes. 
+**¹⁶** ¶ Now therefore stand and see this great thing, which the LORD will do before your eyes. 
 
-<sup>17</sup> *Is it* not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that ye may perceive and see that your wickedness *is* great, which ye have done in the sight of the LORD, in asking you a king. 
+**¹⁷** *Is it* not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that ye may perceive and see that your wickedness *is* great, which ye have done in the sight of the LORD, in asking you a king. 
 
-<sup>18</sup> So Samuel called unto the LORD; and the LORD sent thunder and rain that day: and all the people greatly feared the LORD and Samuel. 
+**¹⁸** So Samuel called unto the LORD; and the LORD sent thunder and rain that day: and all the people greatly feared the LORD and Samuel. 
 
-<sup>19</sup> And all the people said unto Samuel, Pray for thy servants unto the LORD thy God, that we die not: for we have added unto all our sins *this* evil, to ask us a king. 
+**¹⁹** And all the people said unto Samuel, Pray for thy servants unto the LORD thy God, that we die not: for we have added unto all our sins *this* evil, to ask us a king. 
 
-<sup>20</sup> ¶ And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the LORD, but serve the LORD with all your heart; 
+**²⁰** ¶ And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the LORD, but serve the LORD with all your heart; 
 
-<sup>21</sup> And turn ye not aside: for *then should ye go* after vain *things*, which cannot profit nor deliver; for they *are* vain. 
+**²¹** And turn ye not aside: for *then should ye go* after vain *things*, which cannot profit nor deliver; for they *are* vain. 
 
-<sup>22</sup> For the LORD will not forsake his people for his great name’s sake: because it hath pleased the LORD to make you his people. 
+**²²** For the LORD will not forsake his people for his great name’s sake: because it hath pleased the LORD to make you his people. 
 
-<sup>23</sup> Moreover as for me, God forbid that I should sin against the LORD in ceasing to pray for you: but I will teach you the good and the right way: 
+**²³** Moreover as for me, God forbid that I should sin against the LORD in ceasing to pray for you: but I will teach you the good and the right way: 
 
-<sup>24</sup> Only fear the LORD, and serve him in truth with all your heart: for consider how great *things* he hath done for you. 
+**²⁴** Only fear the LORD, and serve him in truth with all your heart: for consider how great *things* he hath done for you. 
 
-<sup>25</sup> But if ye shall still do wickedly, ye shall be consumed, both ye and your king. 
+**²⁵** But if ye shall still do wickedly, ye shall be consumed, both ye and your king. 
 

@@ -4,53 +4,53 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> They say, If a man put away his wife, and she go from him, and become another man’s, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the LORD. 
+**¹** They say, If a man put away his wife, and she go from him, and become another man’s, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the LORD. 
 
-<sup>2</sup> Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness. 
+**²** Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness. 
 
-<sup>3</sup> Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed. 
+**³** Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed. 
 
-<sup>4</sup> Wilt thou not from this time cry unto me, My father, thou *art* the guide of my youth? 
+**⁴** Wilt thou not from this time cry unto me, My father, thou *art* the guide of my youth? 
 
-<sup>5</sup> Will he reserve *his anger* for ever? will he keep *it* to the end? Behold, thou hast spoken and done evil things as thou couldest. 
+**⁵** Will he reserve *his anger* for ever? will he keep *it* to the end? Behold, thou hast spoken and done evil things as thou couldest. 
 
-<sup>6</sup> ¶ The LORD said also unto me in the days of Josiah the king, Hast thou seen *that* which backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot. 
+**⁶** ¶ The LORD said also unto me in the days of Josiah the king, Hast thou seen *that* which backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot. 
 
-<sup>7</sup> And I said after she had done all these *things*, Turn thou unto me. But she returned not. And her treacherous sister Judah saw *it*. 
+**⁷** And I said after she had done all these *things*, Turn thou unto me. But she returned not. And her treacherous sister Judah saw *it*. 
 
-<sup>8</sup> And I saw, when for all the causes whereby backsliding Israel committed adultery I had put her away, and given her a bill of divorce; yet her treacherous sister Judah feared not, but went and played the harlot also. 
+**⁸** And I saw, when for all the causes whereby backsliding Israel committed adultery I had put her away, and given her a bill of divorce; yet her treacherous sister Judah feared not, but went and played the harlot also. 
 
-<sup>9</sup> And it came to pass through the lightness of her whoredom, that she defiled the land, and committed adultery with stones and with stocks. 
+**⁹** And it came to pass through the lightness of her whoredom, that she defiled the land, and committed adultery with stones and with stocks. 
 
-<sup>10</sup> And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the LORD. 
+**¹⁰** And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the LORD. 
 
-<sup>11</sup> And the LORD said unto me, The backsliding Israel hath justified herself more than treacherous Judah. 
+**¹¹** And the LORD said unto me, The backsliding Israel hath justified herself more than treacherous Judah. 
 
-<sup>12</sup> ¶ Go and proclaim these words toward the north, and say, Return, thou backsliding Israel, saith the LORD; *and* I will not cause mine anger to fall upon you: for I *am* merciful, saith the LORD, *and* I will not keep *anger* for ever. 
+**¹²** ¶ Go and proclaim these words toward the north, and say, Return, thou backsliding Israel, saith the LORD; *and* I will not cause mine anger to fall upon you: for I *am* merciful, saith the LORD, *and* I will not keep *anger* for ever. 
 
-<sup>13</sup> Only acknowledge thine iniquity, that thou hast transgressed against the LORD thy God, and hast scattered thy ways to the strangers under every green tree, and ye have not obeyed my voice, saith the LORD. 
+**¹³** Only acknowledge thine iniquity, that thou hast transgressed against the LORD thy God, and hast scattered thy ways to the strangers under every green tree, and ye have not obeyed my voice, saith the LORD. 
 
-<sup>14</sup> Turn, O backsliding children, saith the LORD; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion: 
+**¹⁴** Turn, O backsliding children, saith the LORD; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion: 
 
-<sup>15</sup> And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding. 
+**¹⁵** And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding. 
 
-<sup>16</sup> And it shall come to pass, when ye be multiplied and increased in the land, in those days, saith the LORD, they shall say no more, The ark of the covenant of the LORD: neither shall it come to mind: neither shall they remember it; neither shall they visit *it;* neither shall *that* be done any more. 
+**¹⁶** And it shall come to pass, when ye be multiplied and increased in the land, in those days, saith the LORD, they shall say no more, The ark of the covenant of the LORD: neither shall it come to mind: neither shall they remember it; neither shall they visit *it;* neither shall *that* be done any more. 
 
-<sup>17</sup> At that time they shall call Jerusalem the throne of the LORD; and all the nations shall be gathered unto it, to the name of the LORD, to Jerusalem: neither shall they walk any more after the imagination of their evil heart. 
+**¹⁷** At that time they shall call Jerusalem the throne of the LORD; and all the nations shall be gathered unto it, to the name of the LORD, to Jerusalem: neither shall they walk any more after the imagination of their evil heart. 
 
-<sup>18</sup> In those days the house of Judah shall walk with the house of Israel, and they shall come together out of the land of the north to the land that I have given for an inheritance unto your fathers. 
+**¹⁸** In those days the house of Judah shall walk with the house of Israel, and they shall come together out of the land of the north to the land that I have given for an inheritance unto your fathers. 
 
-<sup>19</sup> But I said, How shall I put thee among the children, and give thee a pleasant land, a goodly heritage of the hosts of nations? and I said, Thou shalt call me, My father; and shalt not turn away from me. 
+**¹⁹** But I said, How shall I put thee among the children, and give thee a pleasant land, a goodly heritage of the hosts of nations? and I said, Thou shalt call me, My father; and shalt not turn away from me. 
 
-<sup>20</sup> ¶ Surely *as* a wife treacherously departeth from her husband, so have ye dealt treacherously with me, O house of Israel, saith the LORD. 
+**²⁰** ¶ Surely *as* a wife treacherously departeth from her husband, so have ye dealt treacherously with me, O house of Israel, saith the LORD. 
 
-<sup>21</sup> A voice was heard upon the high places, weeping *and* supplications of the children of Israel: for they have perverted their way, *and* they have forgotten the LORD their God. 
+**²¹** A voice was heard upon the high places, weeping *and* supplications of the children of Israel: for they have perverted their way, *and* they have forgotten the LORD their God. 
 
-<sup>22</sup> Return, ye backsliding children, *and* I will heal your backslidings. Behold, we come unto thee; for thou *art* the LORD our God. 
+**²²** Return, ye backsliding children, *and* I will heal your backslidings. Behold, we come unto thee; for thou *art* the LORD our God. 
 
-<sup>23</sup> Truly in vain *is salvation hoped for* from the hills, *and from* the multitude of mountains: truly in the LORD our God *is* the salvation of Israel. 
+**²³** Truly in vain *is salvation hoped for* from the hills, *and from* the multitude of mountains: truly in the LORD our God *is* the salvation of Israel. 
 
-<sup>24</sup> For shame hath devoured the labour of our fathers from our youth; their flocks and their herds, their sons and their daughters. 
+**²⁴** For shame hath devoured the labour of our fathers from our youth; their flocks and their herds, their sons and their daughters. 
 
-<sup>25</sup> We lie down in our shame, and our confusion covereth us: for we have sinned against the LORD our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the LORD our God. 
+**²⁵** We lie down in our shame, and our confusion covereth us: for we have sinned against the LORD our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the LORD our God. 
 

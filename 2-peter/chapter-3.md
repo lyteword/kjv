@@ -4,39 +4,39 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> This second epistle, beloved, I now write unto you; in *both* which I stir up your pure minds by way of remembrance: 
+**¹** This second epistle, beloved, I now write unto you; in *both* which I stir up your pure minds by way of remembrance: 
 
-<sup>2</sup> That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour: 
+**²** That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour: 
 
-<sup>3</sup> Knowing this first, that there shall come in the last days scoffers, walking after their own lusts, 
+**³** Knowing this first, that there shall come in the last days scoffers, walking after their own lusts, 
 
-<sup>4</sup> And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as *they were* from the beginning of the creation. 
+**⁴** And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as *they were* from the beginning of the creation. 
 
-<sup>5</sup> For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water: 
+**⁵** For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water: 
 
-<sup>6</sup> Whereby the world that then was, being overflowed with water, perished: 
+**⁶** Whereby the world that then was, being overflowed with water, perished: 
 
-<sup>7</sup> But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men. 
+**⁷** But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men. 
 
-<sup>8</sup> But, beloved, be not ignorant of this one thing, that one day *is* with the Lord as a thousand years, and a thousand years as one day. 
+**⁸** But, beloved, be not ignorant of this one thing, that one day *is* with the Lord as a thousand years, and a thousand years as one day. 
 
-<sup>9</sup> The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. 
+**⁹** The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. 
 
-<sup>10</sup> But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up. 
+**¹⁰** But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up. 
 
-<sup>11</sup> *Seeing* then *that* all these things shall be dissolved, what manner *of persons* ought ye to be in *all* holy conversation and godliness, 
+**¹¹** *Seeing* then *that* all these things shall be dissolved, what manner *of persons* ought ye to be in *all* holy conversation and godliness, 
 
-<sup>12</sup> Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat? 
+**¹²** Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat? 
 
-<sup>13</sup> Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness. 
+**¹³** Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness. 
 
-<sup>14</sup> Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless. 
+**¹⁴** Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless. 
 
-<sup>15</sup> And account *that* the longsuffering of our Lord *is* salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you; 
+**¹⁵** And account *that* the longsuffering of our Lord *is* salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you; 
 
-<sup>16</sup> As also in all *his* epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as *they do* also the other scriptures, unto their own destruction. 
+**¹⁶** As also in all *his* epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as *they do* also the other scriptures, unto their own destruction. 
 
-<sup>17</sup> Ye therefore, beloved, seeing ye know *these things* before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness. 
+**¹⁷** Ye therefore, beloved, seeing ye know *these things* before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness. 
 
-<sup>18</sup> But grow in grace, and *in* the knowledge of our Lord and Saviour Jesus Christ. To him *be* glory both now and for ever. Amen. 
+**¹⁸** But grow in grace, and *in* the knowledge of our Lord and Saviour Jesus Christ. To him *be* glory both now and for ever. Amen. 
 

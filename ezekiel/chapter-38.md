@@ -4,49 +4,49 @@ weight: 38
 
 # Chapter 38
 
-<sup>1</sup> And the word of the LORD came unto me, saying, 
+**¹** And the word of the LORD came unto me, saying, 
 
-<sup>2</sup> Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him, 
+**²** Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him, 
 
-<sup>3</sup> And say, Thus saith the Lord GOD; Behold, I *am* against thee, O Gog, the chief prince of Meshech and Tubal: 
+**³** And say, Thus saith the Lord GOD; Behold, I *am* against thee, O Gog, the chief prince of Meshech and Tubal: 
 
-<sup>4</sup> And I will turn thee back, and put hooks into thy jaws, and I will bring thee forth, and all thine army, horses and horsemen, all of them clothed with all sorts *of armour, even* a great company *with* bucklers and shields, all of them handling swords: 
+**⁴** And I will turn thee back, and put hooks into thy jaws, and I will bring thee forth, and all thine army, horses and horsemen, all of them clothed with all sorts *of armour, even* a great company *with* bucklers and shields, all of them handling swords: 
 
-<sup>5</sup> Persia, Ethiopia, and Libya with them; all of them with shield and helmet: 
+**⁵** Persia, Ethiopia, and Libya with them; all of them with shield and helmet: 
 
-<sup>6</sup> Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: *and* many people with thee. 
+**⁶** Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: *and* many people with thee. 
 
-<sup>7</sup> Be thou prepared, and prepare for thyself, thou, and all thy company that are assembled unto thee, and be thou a guard unto them. 
+**⁷** Be thou prepared, and prepare for thyself, thou, and all thy company that are assembled unto thee, and be thou a guard unto them. 
 
-<sup>8</sup> ¶ After many days thou shalt be visited: in the latter years thou shalt come into the land *that is* brought back from the sword, *and is* gathered out of many people, against the mountains of Israel, which have been always waste: but it is brought forth out of the nations, and they shall dwell safely all of them. 
+**⁸** ¶ After many days thou shalt be visited: in the latter years thou shalt come into the land *that is* brought back from the sword, *and is* gathered out of many people, against the mountains of Israel, which have been always waste: but it is brought forth out of the nations, and they shall dwell safely all of them. 
 
-<sup>9</sup> Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land, thou, and all thy bands, and many people with thee. 
+**⁹** Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land, thou, and all thy bands, and many people with thee. 
 
-<sup>10</sup> Thus saith the Lord GOD; It shall also come to pass, *that* at the same time shall things come into thy mind, and thou shalt think an evil thought: 
+**¹⁰** Thus saith the Lord GOD; It shall also come to pass, *that* at the same time shall things come into thy mind, and thou shalt think an evil thought: 
 
-<sup>11</sup> And thou shalt say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell safely, all of them dwelling without walls, and having neither bars nor gates, 
+**¹¹** And thou shalt say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell safely, all of them dwelling without walls, and having neither bars nor gates, 
 
-<sup>12</sup> To take a spoil, and to take a prey; to turn thine hand upon the desolate places *that are now* inhabited, and upon the people *that are* gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land. 
+**¹²** To take a spoil, and to take a prey; to turn thine hand upon the desolate places *that are now* inhabited, and upon the people *that are* gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land. 
 
-<sup>13</sup> Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil? hast thou gathered thy company to take a prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil? 
+**¹³** Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil? hast thou gathered thy company to take a prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil? 
 
-<sup>14</sup> ¶ Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord GOD; In that day when my people of Israel dwelleth safely, shalt thou not know *it*? 
+**¹⁴** ¶ Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord GOD; In that day when my people of Israel dwelleth safely, shalt thou not know *it*? 
 
-<sup>15</sup> And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army: 
+**¹⁵** And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army: 
 
-<sup>16</sup> And thou shalt come up against my people of Israel, as a cloud to cover the land; it shall be in the latter days, and I will bring thee against my land, that the heathen may know me, when I shall be sanctified in thee, O Gog, before their eyes. 
+**¹⁶** And thou shalt come up against my people of Israel, as a cloud to cover the land; it shall be in the latter days, and I will bring thee against my land, that the heathen may know me, when I shall be sanctified in thee, O Gog, before their eyes. 
 
-<sup>17</sup> Thus saith the Lord GOD; *Art* thou he of whom I have spoken in old time by my servants the prophets of Israel, which prophesied in those days *many* years that I would bring thee against them? 
+**¹⁷** Thus saith the Lord GOD; *Art* thou he of whom I have spoken in old time by my servants the prophets of Israel, which prophesied in those days *many* years that I would bring thee against them? 
 
-<sup>18</sup> And it shall come to pass at the same time when Gog shall come against the land of Israel, saith the Lord GOD, *that* my fury shall come up in my face. 
+**¹⁸** And it shall come to pass at the same time when Gog shall come against the land of Israel, saith the Lord GOD, *that* my fury shall come up in my face. 
 
-<sup>19</sup> For in my jealousy *and* in the fire of my wrath have I spoken, Surely in that day there shall be a great shaking in the land of Israel; 
+**¹⁹** For in my jealousy *and* in the fire of my wrath have I spoken, Surely in that day there shall be a great shaking in the land of Israel; 
 
-<sup>20</sup> So that the fishes of the sea, and the fowls of the heaven, and the beasts of the field, and all creeping things that creep upon the earth, and all the men that *are* upon the face of the earth, shall shake at my presence, and the mountains shall be thrown down, and the steep places shall fall, and every wall shall fall to the ground. 
+**²⁰** So that the fishes of the sea, and the fowls of the heaven, and the beasts of the field, and all creeping things that creep upon the earth, and all the men that *are* upon the face of the earth, shall shake at my presence, and the mountains shall be thrown down, and the steep places shall fall, and every wall shall fall to the ground. 
 
-<sup>21</sup> And I will call for a sword against him throughout all my mountains, saith the Lord GOD: every man’s sword shall be against his brother. 
+**²¹** And I will call for a sword against him throughout all my mountains, saith the Lord GOD: every man’s sword shall be against his brother. 
 
-<sup>22</sup> And I will plead against him with pestilence and with blood; and I will rain upon him, and upon his bands, and upon the many people that *are* with him, an overflowing rain, and great hailstones, fire, and brimstone. 
+**²²** And I will plead against him with pestilence and with blood; and I will rain upon him, and upon his bands, and upon the many people that *are* with him, an overflowing rain, and great hailstones, fire, and brimstone. 
 
-<sup>23</sup> Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I *am* the LORD. 
+**²³** Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I *am* the LORD. 
 

@@ -4,83 +4,83 @@ weight: 11
 
 # Chapter 11
 
-<sup>1</sup> Now Jephthah the Gileadite was a mighty man of valour, and he *was* the son of an harlot: and Gilead begat Jephthah. 
+**¹** Now Jephthah the Gileadite was a mighty man of valour, and he *was* the son of an harlot: and Gilead begat Jephthah. 
 
-<sup>2</sup> And Gilead’s wife bare him sons; and his wife’s sons grew up, and they thrust out Jephthah, and said unto him, Thou shalt not inherit in our father’s house; for thou *art* the son of a strange woman. 
+**²** And Gilead’s wife bare him sons; and his wife’s sons grew up, and they thrust out Jephthah, and said unto him, Thou shalt not inherit in our father’s house; for thou *art* the son of a strange woman. 
 
-<sup>3</sup> Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him. 
+**³** Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him. 
 
-<sup>4</sup> ¶ And it came to pass in process of time, that the children of Ammon made war against Israel. 
+**⁴** ¶ And it came to pass in process of time, that the children of Ammon made war against Israel. 
 
-<sup>5</sup> And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob: 
+**⁵** And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob: 
 
-<sup>6</sup> And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon. 
+**⁶** And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon. 
 
-<sup>7</sup> And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father’s house? and why are ye come unto me now when ye are in distress? 
+**⁷** And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father’s house? and why are ye come unto me now when ye are in distress? 
 
-<sup>8</sup> And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead. 
+**⁸** And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead. 
 
-<sup>9</sup> And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the LORD deliver them before me, shall I be your head? 
+**⁹** And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the LORD deliver them before me, shall I be your head? 
 
-<sup>10</sup> And the elders of Gilead said unto Jephthah, The LORD be witness between us, if we do not so according to thy words. 
+**¹⁰** And the elders of Gilead said unto Jephthah, The LORD be witness between us, if we do not so according to thy words. 
 
-<sup>11</sup> Then Jephthah went with the elders of Gilead, and the people made him head and captain over them: and Jephthah uttered all his words before the LORD in Mizpeh. 
+**¹¹** Then Jephthah went with the elders of Gilead, and the people made him head and captain over them: and Jephthah uttered all his words before the LORD in Mizpeh. 
 
-<sup>12</sup> ¶ And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land? 
+**¹²** ¶ And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land? 
 
-<sup>13</sup> And the king of the children of Ammon answered unto the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from Arnon even unto Jabbok, and unto Jordan: now therefore restore those *lands* again peaceably. 
+**¹³** And the king of the children of Ammon answered unto the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from Arnon even unto Jabbok, and unto Jordan: now therefore restore those *lands* again peaceably. 
 
-<sup>14</sup> And Jephthah sent messengers again unto the king of the children of Ammon: 
+**¹⁴** And Jephthah sent messengers again unto the king of the children of Ammon: 
 
-<sup>15</sup> And said unto him, Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon: 
+**¹⁵** And said unto him, Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon: 
 
-<sup>16</sup> But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh; 
+**¹⁶** But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh; 
 
-<sup>17</sup> Then Israel sent messengers unto the king of Edom, saying, Let me, I pray thee, pass through thy land: but the king of Edom would not hearken *thereto*. And in like manner they sent unto the king of Moab: but he would not *consent:* and Israel abode in Kadesh. 
+**¹⁷** Then Israel sent messengers unto the king of Edom, saying, Let me, I pray thee, pass through thy land: but the king of Edom would not hearken *thereto*. And in like manner they sent unto the king of Moab: but he would not *consent:* and Israel abode in Kadesh. 
 
-<sup>18</sup> Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon *was* the border of Moab. 
+**¹⁸** Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon *was* the border of Moab. 
 
-<sup>19</sup> And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place. 
+**¹⁹** And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place. 
 
-<sup>20</sup> But Sihon trusted not Israel to pass through his coast: but Sihon gathered all his people together, and pitched in Jahaz, and fought against Israel. 
+**²⁰** But Sihon trusted not Israel to pass through his coast: but Sihon gathered all his people together, and pitched in Jahaz, and fought against Israel. 
 
-<sup>21</sup> And the LORD God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country. 
+**²¹** And the LORD God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country. 
 
-<sup>22</sup> And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan. 
+**²²** And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan. 
 
-<sup>23</sup> So now the LORD God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possess it? 
+**²³** So now the LORD God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possess it? 
 
-<sup>24</sup> Wilt not thou possess that which Chemosh thy god giveth thee to possess? So whomsoever the LORD our God shall drive out from before us, them will we possess. 
+**²⁴** Wilt not thou possess that which Chemosh thy god giveth thee to possess? So whomsoever the LORD our God shall drive out from before us, them will we possess. 
 
-<sup>25</sup> And now *art* thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them, 
+**²⁵** And now *art* thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them, 
 
-<sup>26</sup> While Israel dwelt in Heshbon and her towns, and in Aroer and her towns, and in all the cities that *be* along by the coasts of Arnon, three hundred years? why therefore did ye not recover *them* within that time? 
+**²⁶** While Israel dwelt in Heshbon and her towns, and in Aroer and her towns, and in all the cities that *be* along by the coasts of Arnon, three hundred years? why therefore did ye not recover *them* within that time? 
 
-<sup>27</sup> Wherefore I have not sinned against thee, but thou doest me wrong to war against me: the LORD the Judge be judge this day between the children of Israel and the children of Ammon. 
+**²⁷** Wherefore I have not sinned against thee, but thou doest me wrong to war against me: the LORD the Judge be judge this day between the children of Israel and the children of Ammon. 
 
-<sup>28</sup> Howbeit the king of the children of Ammon hearkened not unto the words of Jephthah which he sent him. 
+**²⁸** Howbeit the king of the children of Ammon hearkened not unto the words of Jephthah which he sent him. 
 
-<sup>29</sup> ¶ Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over *unto* the children of Ammon. 
+**²⁹** ¶ Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over *unto* the children of Ammon. 
 
-<sup>30</sup> And Jephthah vowed a vow unto the LORD, and said, If thou shalt without fail deliver the children of Ammon into mine hands, 
+**³⁰** And Jephthah vowed a vow unto the LORD, and said, If thou shalt without fail deliver the children of Ammon into mine hands, 
 
-<sup>31</sup> Then it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be the LORD’s, and I will offer it up for a burnt offering. 
+**³¹** Then it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be the LORD’s, and I will offer it up for a burnt offering. 
 
-<sup>32</sup> ¶ So Jephthah passed over unto the children of Ammon to fight against them; and the LORD delivered them into his hands. 
+**³²** ¶ So Jephthah passed over unto the children of Ammon to fight against them; and the LORD delivered them into his hands. 
 
-<sup>33</sup> And he smote them from Aroer, even till thou come to Minnith, *even* twenty cities, and unto the plain of the vineyards, with a very great slaughter. Thus the children of Ammon were subdued before the children of Israel. 
+**³³** And he smote them from Aroer, even till thou come to Minnith, *even* twenty cities, and unto the plain of the vineyards, with a very great slaughter. Thus the children of Ammon were subdued before the children of Israel. 
 
-<sup>34</sup> ¶ And Jephthah came to Mizpeh unto his house, and, behold, his daughter came out to meet him with timbrels and with dances: and she *was his* only child; beside her he had neither son nor daughter. 
+**³⁴** ¶ And Jephthah came to Mizpeh unto his house, and, behold, his daughter came out to meet him with timbrels and with dances: and she *was his* only child; beside her he had neither son nor daughter. 
 
-<sup>35</sup> And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me: for I have opened my mouth unto the LORD, and I cannot go back. 
+**³⁵** And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me: for I have opened my mouth unto the LORD, and I cannot go back. 
 
-<sup>36</sup> And she said unto him, My father, *if* thou hast opened thy mouth unto the LORD, do to me according to that which hath proceeded out of thy mouth; forasmuch as the LORD hath taken vengeance for thee of thine enemies, *even* of the children of Ammon. 
+**³⁶** And she said unto him, My father, *if* thou hast opened thy mouth unto the LORD, do to me according to that which hath proceeded out of thy mouth; forasmuch as the LORD hath taken vengeance for thee of thine enemies, *even* of the children of Ammon. 
 
-<sup>37</sup> And she said unto her father, Let this thing be done for me: let me alone two months, that I may go up and down upon the mountains, and bewail my virginity, I and my fellows. 
+**³⁷** And she said unto her father, Let this thing be done for me: let me alone two months, that I may go up and down upon the mountains, and bewail my virginity, I and my fellows. 
 
-<sup>38</sup> And he said, Go. And he sent her away *for* two months: and she went with her companions, and bewailed her virginity upon the mountains. 
+**³⁸** And he said, Go. And he sent her away *for* two months: and she went with her companions, and bewailed her virginity upon the mountains. 
 
-<sup>39</sup> And it came to pass at the end of two months, that she returned unto her father, who did with her *according* to his vow which he had vowed: and she knew no man. And it was a custom in Israel, 
+**³⁹** And it came to pass at the end of two months, that she returned unto her father, who did with her *according* to his vow which he had vowed: and she knew no man. And it was a custom in Israel, 
 
-<sup>40</sup> *That* the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year. 
+**⁴⁰** *That* the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year. 
 

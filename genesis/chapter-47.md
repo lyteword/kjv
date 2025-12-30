@@ -4,65 +4,65 @@ weight: 47
 
 # Chapter 47
 
-<sup>1</sup> Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they *are* in the land of Goshen. 
+**¹** Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they *are* in the land of Goshen. 
 
-<sup>2</sup> And he took some of his brethren, *even* five men, and presented them unto Pharaoh. 
+**²** And he took some of his brethren, *even* five men, and presented them unto Pharaoh. 
 
-<sup>3</sup> And Pharaoh said unto his brethren, What *is* your occupation? And they said unto Pharaoh, Thy servants *are* shepherds, both we, *and* also our fathers. 
+**³** And Pharaoh said unto his brethren, What *is* your occupation? And they said unto Pharaoh, Thy servants *are* shepherds, both we, *and* also our fathers. 
 
-<sup>4</sup> They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine *is* sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen. 
+**⁴** They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine *is* sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen. 
 
-<sup>5</sup> And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee: 
+**⁵** And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee: 
 
-<sup>6</sup> The land of Egypt *is* before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest *any* men of activity among them, then make them rulers over my cattle. 
+**⁶** The land of Egypt *is* before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest *any* men of activity among them, then make them rulers over my cattle. 
 
-<sup>7</sup> And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh. 
+**⁷** And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh. 
 
-<sup>8</sup> And Pharaoh said unto Jacob, How old *art* thou? 
+**⁸** And Pharaoh said unto Jacob, How old *art* thou? 
 
-<sup>9</sup> And Jacob said unto Pharaoh, The days of the years of my pilgrimage *are* an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage. 
+**⁹** And Jacob said unto Pharaoh, The days of the years of my pilgrimage *are* an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage. 
 
-<sup>10</sup> And Jacob blessed Pharaoh, and went out from before Pharaoh. 
+**¹⁰** And Jacob blessed Pharaoh, and went out from before Pharaoh. 
 
-<sup>11</sup> ¶ And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded. 
+**¹¹** ¶ And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded. 
 
-<sup>12</sup> And Joseph nourished his father, and his brethren, and all his father’s household, with bread, according to *their* families. 
+**¹²** And Joseph nourished his father, and his brethren, and all his father’s household, with bread, according to *their* families. 
 
-<sup>13</sup> ¶ And *there was* no bread in all the land; for the famine *was* very sore, so that the land of Egypt and *all* the land of Canaan fainted by reason of the famine. 
+**¹³** ¶ And *there was* no bread in all the land; for the famine *was* very sore, so that the land of Egypt and *all* the land of Canaan fainted by reason of the famine. 
 
-<sup>14</sup> And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh’s house. 
+**¹⁴** And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh’s house. 
 
-<sup>15</sup> And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth. 
+**¹⁵** And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth. 
 
-<sup>16</sup> And Joseph said, Give your cattle; and I will give you for your cattle, if money fail. 
+**¹⁶** And Joseph said, Give your cattle; and I will give you for your cattle, if money fail. 
 
-<sup>17</sup> And they brought their cattle unto Joseph: and Joseph gave them bread *in exchange* for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year. 
+**¹⁷** And they brought their cattle unto Joseph: and Joseph gave them bread *in exchange* for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year. 
 
-<sup>18</sup> When that year was ended, they came unto him the second year, and said unto him, We will not hide *it* from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands: 
+**¹⁸** When that year was ended, they came unto him the second year, and said unto him, We will not hide *it* from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands: 
 
-<sup>19</sup> Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give *us* seed, that we may live, and not die, that the land be not desolate. 
+**¹⁹** Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give *us* seed, that we may live, and not die, that the land be not desolate. 
 
-<sup>20</sup> And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh’s. 
+**²⁰** And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh’s. 
 
-<sup>21</sup> And as for the people, he removed them to cities from *one* end of the borders of Egypt even to the *other* end thereof. 
+**²¹** And as for the people, he removed them to cities from *one* end of the borders of Egypt even to the *other* end thereof. 
 
-<sup>22</sup> Only the land of the priests bought he not; for the priests had a portion *assigned them* of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands. 
+**²²** Only the land of the priests bought he not; for the priests had a portion *assigned them* of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands. 
 
-<sup>23</sup> Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, *here is* seed for you, and ye shall sow the land. 
+**²³** Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, *here is* seed for you, and ye shall sow the land. 
 
-<sup>24</sup> And it shall come to pass in the increase, that ye shall give the fifth *part* unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones. 
+**²⁴** And it shall come to pass in the increase, that ye shall give the fifth *part* unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones. 
 
-<sup>25</sup> And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh’s servants. 
+**²⁵** And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh’s servants. 
 
-<sup>26</sup> And Joseph made it a law over the land of Egypt unto this day, *that* Pharaoh should have the fifth *part;* except the land of the priests only, *which* became not Pharaoh’s. 
+**²⁶** And Joseph made it a law over the land of Egypt unto this day, *that* Pharaoh should have the fifth *part;* except the land of the priests only, *which* became not Pharaoh’s. 
 
-<sup>27</sup> ¶ And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly. 
+**²⁷** ¶ And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly. 
 
-<sup>28</sup> And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years. 
+**²⁸** And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years. 
 
-<sup>29</sup> And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt: 
+**²⁹** And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt: 
 
-<sup>30</sup> But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said. 
+**³⁰** But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said. 
 
-<sup>31</sup> And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head. 
+**³¹** And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head. 
 

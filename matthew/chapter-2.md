@@ -4,49 +4,49 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem, 
+**¹** Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem, 
 
-<sup>2</sup> Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him. 
+**²** Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him. 
 
-<sup>3</sup> When Herod the king had heard *these things*, he was troubled, and all Jerusalem with him. 
+**³** When Herod the king had heard *these things*, he was troubled, and all Jerusalem with him. 
 
-<sup>4</sup> And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born. 
+**⁴** And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born. 
 
-<sup>5</sup> And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet, 
+**⁵** And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet, 
 
-<sup>6</sup> And thou Bethlehem, *in* the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel. 
+**⁶** And thou Bethlehem, *in* the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel. 
 
-<sup>7</sup> Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared. 
+**⁷** Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared. 
 
-<sup>8</sup> And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found *him*, bring me word again, that I may come and worship him also. 
+**⁸** And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found *him*, bring me word again, that I may come and worship him also. 
 
-<sup>9</sup> When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was. 
+**⁹** When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was. 
 
-<sup>10</sup> When they saw the star, they rejoiced with exceeding great joy. 
+**¹⁰** When they saw the star, they rejoiced with exceeding great joy. 
 
-<sup>11</sup> ¶ And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh. 
+**¹¹** ¶ And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh. 
 
-<sup>12</sup> And being warned of God in a dream that they should not return to Herod, they departed into their own country another way. 
+**¹²** And being warned of God in a dream that they should not return to Herod, they departed into their own country another way. 
 
-<sup>13</sup> And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him. 
+**¹³** And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him. 
 
-<sup>14</sup> When he arose, he took the young child and his mother by night, and departed into Egypt: 
+**¹⁴** When he arose, he took the young child and his mother by night, and departed into Egypt: 
 
-<sup>15</sup> And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son. 
+**¹⁵** And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son. 
 
-<sup>16</sup> ¶ Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men. 
+**¹⁶** ¶ Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men. 
 
-<sup>17</sup> Then was fulfilled that which was spoken by Jeremy the prophet, saying, 
+**¹⁷** Then was fulfilled that which was spoken by Jeremy the prophet, saying, 
 
-<sup>18</sup> In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping *for* her children, and would not be comforted, because they are not. 
+**¹⁸** In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping *for* her children, and would not be comforted, because they are not. 
 
-<sup>19</sup> ¶ But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt, 
+**¹⁹** ¶ But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt, 
 
-<sup>20</sup> Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child’s life. 
+**²⁰** Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child’s life. 
 
-<sup>21</sup> And he arose, and took the young child and his mother, and came into the land of Israel. 
+**²¹** And he arose, and took the young child and his mother, and came into the land of Israel. 
 
-<sup>22</sup> But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee: 
+**²²** But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee: 
 
-<sup>23</sup> And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene. 
+**²³** And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene. 
 

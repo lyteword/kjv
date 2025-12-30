@@ -4,57 +4,57 @@ weight: 6
 
 # Chapter 6
 
-<sup>1</sup> And the LORD spake unto Moses, saying, 
+**¹** And the LORD spake unto Moses, saying, 
 
-<sup>2</sup> Speak unto the children of Israel, and say unto them, When either man or woman shall separate *themselves* to vow a vow of a Nazarite, to separate *themselves* unto the LORD: 
+**²** Speak unto the children of Israel, and say unto them, When either man or woman shall separate *themselves* to vow a vow of a Nazarite, to separate *themselves* unto the LORD: 
 
-<sup>3</sup> He shall separate *himself* from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried. 
+**³** He shall separate *himself* from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried. 
 
-<sup>4</sup> All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk. 
+**⁴** All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk. 
 
-<sup>5</sup> All the days of the vow of his separation there shall no razor come upon his head: until the days be fulfilled, in the which he separateth *himself* unto the LORD, he shall be holy, *and* shall let the locks of the hair of his head grow. 
+**⁵** All the days of the vow of his separation there shall no razor come upon his head: until the days be fulfilled, in the which he separateth *himself* unto the LORD, he shall be holy, *and* shall let the locks of the hair of his head grow. 
 
-<sup>6</sup> All the days that he separateth *himself* unto the LORD he shall come at no dead body. 
+**⁶** All the days that he separateth *himself* unto the LORD he shall come at no dead body. 
 
-<sup>7</sup> He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God *is* upon his head. 
+**⁷** He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God *is* upon his head. 
 
-<sup>8</sup> All the days of his separation he *is* holy unto the LORD. 
+**⁸** All the days of his separation he *is* holy unto the LORD. 
 
-<sup>9</sup> And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it. 
+**⁹** And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it. 
 
-<sup>10</sup> And on the eighth day he shall bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation: 
+**¹⁰** And on the eighth day he shall bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation: 
 
-<sup>11</sup> And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day. 
+**¹¹** And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day. 
 
-<sup>12</sup> And he shall consecrate unto the LORD the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled. 
+**¹²** And he shall consecrate unto the LORD the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled. 
 
-<sup>13</sup> ¶ And this *is* the law of the Nazarite, when the days of his separation are fulfilled: he shall be brought unto the door of the tabernacle of the congregation: 
+**¹³** ¶ And this *is* the law of the Nazarite, when the days of his separation are fulfilled: he shall be brought unto the door of the tabernacle of the congregation: 
 
-<sup>14</sup> And he shall offer his offering unto the LORD, one he lamb of the first year without blemish for a burnt offering, and one ewe lamb of the first year without blemish for a sin offering, and one ram without blemish for peace offerings, 
+**¹⁴** And he shall offer his offering unto the LORD, one he lamb of the first year without blemish for a burnt offering, and one ewe lamb of the first year without blemish for a sin offering, and one ram without blemish for peace offerings, 
 
-<sup>15</sup> And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings. 
+**¹⁵** And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings. 
 
-<sup>16</sup> And the priest shall bring *them* before the LORD, and shall offer his sin offering, and his burnt offering: 
+**¹⁶** And the priest shall bring *them* before the LORD, and shall offer his sin offering, and his burnt offering: 
 
-<sup>17</sup> And he shall offer the ram *for* a sacrifice of peace offerings unto the LORD, with the basket of unleavened bread: the priest shall offer also his meat offering, and his drink offering. 
+**¹⁷** And he shall offer the ram *for* a sacrifice of peace offerings unto the LORD, with the basket of unleavened bread: the priest shall offer also his meat offering, and his drink offering. 
 
-<sup>18</sup> And the Nazarite shall shave the head of his separation *at* the door of the tabernacle of the congregation, and shall take the hair of the head of his separation, and put *it* in the fire which *is* under the sacrifice of the peace offerings. 
+**¹⁸** And the Nazarite shall shave the head of his separation *at* the door of the tabernacle of the congregation, and shall take the hair of the head of his separation, and put *it* in the fire which *is* under the sacrifice of the peace offerings. 
 
-<sup>19</sup> And the priest shall take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put *them* upon the hands of the Nazarite, after *the hair of* his separation is shaven: 
+**¹⁹** And the priest shall take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put *them* upon the hands of the Nazarite, after *the hair of* his separation is shaven: 
 
-<sup>20</sup> And the priest shall wave them *for* a wave offering before the LORD: this *is* holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine. 
+**²⁰** And the priest shall wave them *for* a wave offering before the LORD: this *is* holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine. 
 
-<sup>21</sup> This *is* the law of the Nazarite who hath vowed, *and of* his offering unto the LORD for his separation, beside *that* that his hand shall get: according to the vow which he vowed, so he must do after the law of his separation. 
+**²¹** This *is* the law of the Nazarite who hath vowed, *and of* his offering unto the LORD for his separation, beside *that* that his hand shall get: according to the vow which he vowed, so he must do after the law of his separation. 
 
-<sup>22</sup> ¶ And the LORD spake unto Moses, saying, 
+**²²** ¶ And the LORD spake unto Moses, saying, 
 
-<sup>23</sup> Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them, 
+**²³** Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them, 
 
-<sup>24</sup> The LORD bless thee, and keep thee: 
+**²⁴** The LORD bless thee, and keep thee: 
 
-<sup>25</sup> The LORD make his face shine upon thee, and be gracious unto thee: 
+**²⁵** The LORD make his face shine upon thee, and be gracious unto thee: 
 
-<sup>26</sup> The LORD lift up his countenance upon thee, and give thee peace. 
+**²⁶** The LORD lift up his countenance upon thee, and give thee peace. 
 
-<sup>27</sup> And they shall put my name upon the children of Israel; and I will bless them. 
+**²⁷** And they shall put my name upon the children of Israel; and I will bless them. 
 

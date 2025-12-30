@@ -4,65 +4,65 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee. 
+**¹** And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee. 
 
-<sup>2</sup> And the LORD said unto him, What *is* that in thine hand? And he said, A rod. 
+**²** And the LORD said unto him, What *is* that in thine hand? And he said, A rod. 
 
-<sup>3</sup> And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it. 
+**³** And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it. 
 
-<sup>4</sup> And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand: 
+**⁴** And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand: 
 
-<sup>5</sup> That they may believe that the LORD God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee. 
+**⁵** That they may believe that the LORD God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee. 
 
-<sup>6</sup> ¶ And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand *was* leprous as snow. 
+**⁶** ¶ And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand *was* leprous as snow. 
 
-<sup>7</sup> And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his *other* flesh. 
+**⁷** And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his *other* flesh. 
 
-<sup>8</sup> And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign. 
+**⁸** And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign. 
 
-<sup>9</sup> And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour *it* upon the dry *land:* and the water which thou takest out of the river shall become blood upon the dry *land*. 
+**⁹** And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour *it* upon the dry *land:* and the water which thou takest out of the river shall become blood upon the dry *land*. 
 
-<sup>10</sup> ¶ And Moses said unto the LORD, O my Lord, I *am* not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I *am* slow of speech, and of a slow tongue. 
+**¹⁰** ¶ And Moses said unto the LORD, O my Lord, I *am* not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I *am* slow of speech, and of a slow tongue. 
 
-<sup>11</sup> And the LORD said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD? 
+**¹¹** And the LORD said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD? 
 
-<sup>12</sup> Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say. 
+**¹²** Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say. 
 
-<sup>13</sup> And he said, O my Lord, send, I pray thee, by the hand *of him whom* thou wilt send. 
+**¹³** And he said, O my Lord, send, I pray thee, by the hand *of him whom* thou wilt send. 
 
-<sup>14</sup> And the anger of the LORD was kindled against Moses, and he said, *Is* not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart. 
+**¹⁴** And the anger of the LORD was kindled against Moses, and he said, *Is* not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart. 
 
-<sup>15</sup> And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do. 
+**¹⁵** And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do. 
 
-<sup>16</sup> And he shall be thy spokesman unto the people: and he shall be, *even* he shall be to thee instead of a mouth, and thou shalt be to him instead of God. 
+**¹⁶** And he shall be thy spokesman unto the people: and he shall be, *even* he shall be to thee instead of a mouth, and thou shalt be to him instead of God. 
 
-<sup>17</sup> And thou shalt take this rod in thine hand, wherewith thou shalt do signs. 
+**¹⁷** And thou shalt take this rod in thine hand, wherewith thou shalt do signs. 
 
-<sup>18</sup> ¶ And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which *are* in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace. 
+**¹⁸** ¶ And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which *are* in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace. 
 
-<sup>19</sup> And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life. 
+**¹⁹** And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life. 
 
-<sup>20</sup> And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand. 
+**²⁰** And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand. 
 
-<sup>21</sup> And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go. 
+**²¹** And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go. 
 
-<sup>22</sup> And thou shalt say unto Pharaoh, Thus saith the LORD, Israel *is* my son, *even* my firstborn: 
+**²²** And thou shalt say unto Pharaoh, Thus saith the LORD, Israel *is* my son, *even* my firstborn: 
 
-<sup>23</sup> And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, *even* thy firstborn. 
+**²³** And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, *even* thy firstborn. 
 
-<sup>24</sup> ¶ And it came to pass by the way in the inn, that the LORD met him, and sought to kill him. 
+**²⁴** ¶ And it came to pass by the way in the inn, that the LORD met him, and sought to kill him. 
 
-<sup>25</sup> Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast *it* at his feet, and said, Surely a bloody husband *art* thou to me. 
+**²⁵** Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast *it* at his feet, and said, Surely a bloody husband *art* thou to me. 
 
-<sup>26</sup> So he let him go: then she said, A bloody husband *thou art*, because of the circumcision. 
+**²⁶** So he let him go: then she said, A bloody husband *thou art*, because of the circumcision. 
 
-<sup>27</sup> ¶ And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him. 
+**²⁷** ¶ And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him. 
 
-<sup>28</sup> And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him. 
+**²⁸** And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him. 
 
-<sup>29</sup> ¶ And Moses and Aaron went and gathered together all the elders of the children of Israel: 
+**²⁹** ¶ And Moses and Aaron went and gathered together all the elders of the children of Israel: 
 
-<sup>30</sup> And Aaron spake all the words which the LORD had spoken unto Moses, and did the signs in the sight of the people. 
+**³⁰** And Aaron spake all the words which the LORD had spoken unto Moses, and did the signs in the sight of the people. 
 
-<sup>31</sup> And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped. 
+**³¹** And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped. 
 

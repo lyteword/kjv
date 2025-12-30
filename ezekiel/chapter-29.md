@@ -4,45 +4,45 @@ weight: 29
 
 # Chapter 29
 
-<sup>1</sup> In the tenth year, in the tenth *month*, in the twelfth *day* of the month, the word of the LORD came unto me, saying, 
+**¹** In the tenth year, in the tenth *month*, in the twelfth *day* of the month, the word of the LORD came unto me, saying, 
 
-<sup>2</sup> Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt: 
+**²** Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt: 
 
-<sup>3</sup> Speak, and say, Thus saith the Lord GOD; Behold, I *am* against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river *is* mine own, and I have made *it* for myself. 
+**³** Speak, and say, Thus saith the Lord GOD; Behold, I *am* against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river *is* mine own, and I have made *it* for myself. 
 
-<sup>4</sup> But I will put hooks in thy jaws, and I will cause the fish of thy rivers to stick unto thy scales, and I will bring thee up out of the midst of thy rivers, and all the fish of thy rivers shall stick unto thy scales. 
+**⁴** But I will put hooks in thy jaws, and I will cause the fish of thy rivers to stick unto thy scales, and I will bring thee up out of the midst of thy rivers, and all the fish of thy rivers shall stick unto thy scales. 
 
-<sup>5</sup> And I will leave thee *thrown* into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven. 
+**⁵** And I will leave thee *thrown* into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven. 
 
-<sup>6</sup> And all the inhabitants of Egypt shall know that I *am* the LORD, because they have been a staff of reed to the house of Israel. 
+**⁶** And all the inhabitants of Egypt shall know that I *am* the LORD, because they have been a staff of reed to the house of Israel. 
 
-<sup>7</sup> When they took hold of thee by thy hand, thou didst break, and rend all their shoulder: and when they leaned upon thee, thou brakest, and madest all their loins to be at a stand. 
+**⁷** When they took hold of thee by thy hand, thou didst break, and rend all their shoulder: and when they leaned upon thee, thou brakest, and madest all their loins to be at a stand. 
 
-<sup>8</sup> ¶ Therefore thus saith the Lord GOD; Behold, I will bring a sword upon thee, and cut off man and beast out of thee. 
+**⁸** ¶ Therefore thus saith the Lord GOD; Behold, I will bring a sword upon thee, and cut off man and beast out of thee. 
 
-<sup>9</sup> And the land of Egypt shall be desolate and waste; and they shall know that I *am* the LORD: because he hath said, The river *is* mine, and I have made *it*. 
+**⁹** And the land of Egypt shall be desolate and waste; and they shall know that I *am* the LORD: because he hath said, The river *is* mine, and I have made *it*. 
 
-<sup>10</sup> Behold, therefore I *am* against thee, and against thy rivers, and I will make the land of Egypt utterly waste *and* desolate, from the tower of Syene even unto the border of Ethiopia. 
+**¹⁰** Behold, therefore I *am* against thee, and against thy rivers, and I will make the land of Egypt utterly waste *and* desolate, from the tower of Syene even unto the border of Ethiopia. 
 
-<sup>11</sup> No foot of man shall pass through it, nor foot of beast shall pass through it, neither shall it be inhabited forty years. 
+**¹¹** No foot of man shall pass through it, nor foot of beast shall pass through it, neither shall it be inhabited forty years. 
 
-<sup>12</sup> And I will make the land of Egypt desolate in the midst of the countries *that are* desolate, and her cities among the cities *that are* laid waste shall be desolate forty years: and I will scatter the Egyptians among the nations, and will disperse them through the countries. 
+**¹²** And I will make the land of Egypt desolate in the midst of the countries *that are* desolate, and her cities among the cities *that are* laid waste shall be desolate forty years: and I will scatter the Egyptians among the nations, and will disperse them through the countries. 
 
-<sup>13</sup> ¶ Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people whither they were scattered: 
+**¹³** ¶ Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people whither they were scattered: 
 
-<sup>14</sup> And I will bring again the captivity of Egypt, and will cause them to return *into* the land of Pathros, into the land of their habitation; and they shall be there a base kingdom. 
+**¹⁴** And I will bring again the captivity of Egypt, and will cause them to return *into* the land of Pathros, into the land of their habitation; and they shall be there a base kingdom. 
 
-<sup>15</sup> It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations. 
+**¹⁵** It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations. 
 
-<sup>16</sup> And it shall be no more the confidence of the house of Israel, which bringeth *their* iniquity to remembrance, when they shall look after them: but they shall know that I *am* the Lord GOD. 
+**¹⁶** And it shall be no more the confidence of the house of Israel, which bringeth *their* iniquity to remembrance, when they shall look after them: but they shall know that I *am* the Lord GOD. 
 
-<sup>17</sup> ¶ And it came to pass in the seven and twentieth year, in the first *month*, in the first *day* of the month, the word of the LORD came unto me, saying, 
+**¹⁷** ¶ And it came to pass in the seven and twentieth year, in the first *month*, in the first *day* of the month, the word of the LORD came unto me, saying, 
 
-<sup>18</sup> Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head *was* made bald, and every shoulder *was* peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it: 
+**¹⁸** Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head *was* made bald, and every shoulder *was* peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it: 
 
-<sup>19</sup> Therefore thus saith the Lord GOD; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army. 
+**¹⁹** Therefore thus saith the Lord GOD; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army. 
 
-<sup>20</sup> I have given him the land of Egypt *for* his labour wherewith he served against it, because they wrought for me, saith the Lord GOD. 
+**²⁰** I have given him the land of Egypt *for* his labour wherewith he served against it, because they wrought for me, saith the Lord GOD. 
 
-<sup>21</sup> ¶ In that day will I cause the horn of the house of Israel to bud forth, and I will give thee the opening of the mouth in the midst of them; and they shall know that I *am* the LORD. 
+**²¹** ¶ In that day will I cause the horn of the house of Israel to bud forth, and I will give thee the opening of the mouth in the midst of them; and they shall know that I *am* the LORD. 
 

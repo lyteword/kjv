@@ -4,54 +4,54 @@ weight: 17
 
 # Chapter 17
 
-<sup>1</sup> These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
+**¹** These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
 
-<sup>2</sup> As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.
+**²** As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.
 
-<sup>3</sup> And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
+**³** And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
 
-<sup>4</sup> I have glorified thee on the earth: I have finished the work which thou gavest me to do.
+**⁴** I have glorified thee on the earth: I have finished the work which thou gavest me to do.
 
-<sup>5</sup> And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.
+**⁵** And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.
 
-<sup>6</sup> I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.
+**⁶** I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.
 
-<sup>7</sup> Now they have known that all things whatsoever thou hast given me are of thee.
+**⁷** Now they have known that all things whatsoever thou hast given me are of thee.
 
-<sup>8</sup> For I have given unto them the words which thou gavest me; and they have received *them*, and have known surely that I came out from thee, and they have believed that thou didst send me.
+**⁸** For I have given unto them the words which thou gavest me; and they have received *them*, and have known surely that I came out from thee, and they have believed that thou didst send me.
 
-<sup>9</sup> I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.
+**⁹** I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.
 
-<sup>10</sup> And all mine are thine, and thine are mine; and I am glorified in them.
+**¹⁰** And all mine are thine, and thine are mine; and I am glorified in them.
 
-<sup>11</sup> And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we *are*.
+**¹¹** And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we *are*.
 
-<sup>12</sup> While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
+**¹²** While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
 
-<sup>13</sup> And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.
+**¹³** And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.
 
-<sup>14</sup> I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.
+**¹⁴** I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.
 
-<sup>15</sup> I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.
+**¹⁵** I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.
 
-<sup>16</sup> They are not of the world, even as I am not of the world.
+**¹⁶** They are not of the world, even as I am not of the world.
 
-<sup>17</sup> Sanctify them through thy truth: thy word is truth.
+**¹⁷** Sanctify them through thy truth: thy word is truth.
 
-<sup>18</sup> As thou hast sent me into the world, even so have I also sent them into the world.
+**¹⁸** As thou hast sent me into the world, even so have I also sent them into the world.
 
-<sup>19</sup> And for their sakes I sanctify myself, that they also might be sanctified through the truth.
+**¹⁹** And for their sakes I sanctify myself, that they also might be sanctified through the truth.
 
-<sup>20</sup> Neither pray I for these alone, but for them also which shall believe on me through their word;
+**²⁰** Neither pray I for these alone, but for them also which shall believe on me through their word;
 
-<sup>21</sup> That they all may be one; as thou, Father, *art* in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
+**²¹** That they all may be one; as thou, Father, *art* in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
 
-<sup>22</sup> And the glory which thou gavest me I have given them; that they may be one, even as we are one:
+**²²** And the glory which thou gavest me I have given them; that they may be one, even as we are one:
 
-<sup>23</sup> I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
+**²³** I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
 
-<sup>24</sup> Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.
+**²⁴** Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.
 
-<sup>25</sup> O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me.
+**²⁵** O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me.
 
-<sup>26</sup> And I have declared unto them thy name, and will declare *it*: that the love wherewith thou hast loved me may be in them, and I in them. 
+**²⁶** And I have declared unto them thy name, and will declare *it*: that the love wherewith thou hast loved me may be in them, and I in them. 

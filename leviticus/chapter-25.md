@@ -4,113 +4,113 @@ weight: 25
 
 # Chapter 25
 
-<sup>1</sup> And the LORD spake unto Moses in mount Sinai, saying, 
+**¹** And the LORD spake unto Moses in mount Sinai, saying, 
 
-<sup>2</sup> Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD. 
+**²** Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD. 
 
-<sup>3</sup> Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof; 
+**³** Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof; 
 
-<sup>4</sup> But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard. 
+**⁴** But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard. 
 
-<sup>5</sup> That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: *for* it is a year of rest unto the land. 
+**⁵** That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: *for* it is a year of rest unto the land. 
 
-<sup>6</sup> And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee, 
+**⁶** And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee, 
 
-<sup>7</sup> And for thy cattle, and for the beast that *are* in thy land, shall all the increase thereof be meat. 
+**⁷** And for thy cattle, and for the beast that *are* in thy land, shall all the increase thereof be meat. 
 
-<sup>8</sup> ¶ And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years. 
+**⁸** ¶ And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years. 
 
-<sup>9</sup> Then shalt thou cause the trumpet of the jubile to sound on the tenth *day* of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land. 
+**⁹** Then shalt thou cause the trumpet of the jubile to sound on the tenth *day* of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land. 
 
-<sup>10</sup> And ye shall hallow the fiftieth year, and proclaim liberty throughout *all* the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family. 
+**¹⁰** And ye shall hallow the fiftieth year, and proclaim liberty throughout *all* the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family. 
 
-<sup>11</sup> A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather *the grapes* in it of thy vine undressed. 
+**¹¹** A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather *the grapes* in it of thy vine undressed. 
 
-<sup>12</sup> For it *is* the jubile; it shall be holy unto you: ye shall eat the increase thereof out of the field. 
+**¹²** For it *is* the jubile; it shall be holy unto you: ye shall eat the increase thereof out of the field. 
 
-<sup>13</sup> In the year of this jubile ye shall return every man unto his possession. 
+**¹³** In the year of this jubile ye shall return every man unto his possession. 
 
-<sup>14</sup> And if thou sell ought unto thy neighbour, or buyest *ought* of thy neighbour’s hand, ye shall not oppress one another: 
+**¹⁴** And if thou sell ought unto thy neighbour, or buyest *ought* of thy neighbour’s hand, ye shall not oppress one another: 
 
-<sup>15</sup> According to the number of years after the jubile thou shalt buy of thy neighbour, *and* according unto the number of years of the fruits he shall sell unto thee: 
+**¹⁵** According to the number of years after the jubile thou shalt buy of thy neighbour, *and* according unto the number of years of the fruits he shall sell unto thee: 
 
-<sup>16</sup> According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for *according* to the number *of the years* of the fruits doth he sell unto thee. 
+**¹⁶** According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for *according* to the number *of the years* of the fruits doth he sell unto thee. 
 
-<sup>17</sup> Ye shall not therefore oppress one another; but thou shalt fear thy God: for I *am* the LORD your God. 
+**¹⁷** Ye shall not therefore oppress one another; but thou shalt fear thy God: for I *am* the LORD your God. 
 
-<sup>18</sup> ¶ Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety. 
+**¹⁸** ¶ Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety. 
 
-<sup>19</sup> And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety. 
+**¹⁹** And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety. 
 
-<sup>20</sup> And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase: 
+**²⁰** And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase: 
 
-<sup>21</sup> Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years. 
+**²¹** Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years. 
 
-<sup>22</sup> And ye shall sow the eighth year, and eat *yet* of old fruit until the ninth year; until her fruits come in ye shall eat *of* the old *store*. 
+**²²** And ye shall sow the eighth year, and eat *yet* of old fruit until the ninth year; until her fruits come in ye shall eat *of* the old *store*. 
 
-<sup>23</sup> ¶ The land shall not be sold for ever: for the land *is* mine; for ye *are* strangers and sojourners with me. 
+**²³** ¶ The land shall not be sold for ever: for the land *is* mine; for ye *are* strangers and sojourners with me. 
 
-<sup>24</sup> And in all the land of your possession ye shall grant a redemption for the land. 
+**²⁴** And in all the land of your possession ye shall grant a redemption for the land. 
 
-<sup>25</sup> ¶ If thy brother be waxen poor, and hath sold away *some* of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold. 
+**²⁵** ¶ If thy brother be waxen poor, and hath sold away *some* of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold. 
 
-<sup>26</sup> And if the man have none to redeem it, and himself be able to redeem it; 
+**²⁶** And if the man have none to redeem it, and himself be able to redeem it; 
 
-<sup>27</sup> Then let him count the years of the sale thereof, and restore the overplus unto the man to whom he sold it; that he may return unto his possession. 
+**²⁷** Then let him count the years of the sale thereof, and restore the overplus unto the man to whom he sold it; that he may return unto his possession. 
 
-<sup>28</sup> But if he be not able to restore *it* to him, then that which is sold shall remain in the hand of him that hath bought it until the year of jubile: and in the jubile it shall go out, and he shall return unto his possession. 
+**²⁸** But if he be not able to restore *it* to him, then that which is sold shall remain in the hand of him that hath bought it until the year of jubile: and in the jubile it shall go out, and he shall return unto his possession. 
 
-<sup>29</sup> And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; *within* a full year may he redeem it. 
+**²⁹** And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; *within* a full year may he redeem it. 
 
-<sup>30</sup> And if it be not redeemed within the space of a full year, then the house that *is* in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile. 
+**³⁰** And if it be not redeemed within the space of a full year, then the house that *is* in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile. 
 
-<sup>31</sup> But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile. 
+**³¹** But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile. 
 
-<sup>32</sup> Notwithstanding the cities of the Levites, *and* the houses of the cities of their possession, may the Levites redeem at any time. 
+**³²** Notwithstanding the cities of the Levites, *and* the houses of the cities of their possession, may the Levites redeem at any time. 
 
-<sup>33</sup> And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in *the year of* jubile: for the houses of the cities of the Levites *are* their possession among the children of Israel. 
+**³³** And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in *the year of* jubile: for the houses of the cities of the Levites *are* their possession among the children of Israel. 
 
-<sup>34</sup> But the field of the suburbs of their cities may not be sold; for it *is* their perpetual possession. 
+**³⁴** But the field of the suburbs of their cities may not be sold; for it *is* their perpetual possession. 
 
-<sup>35</sup> ¶ And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: *yea, though he be* a stranger, or a sojourner; that he may live with thee. 
+**³⁵** ¶ And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: *yea, though he be* a stranger, or a sojourner; that he may live with thee. 
 
-<sup>36</sup> Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee. 
+**³⁶** Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee. 
 
-<sup>37</sup> Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase. 
+**³⁷** Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase. 
 
-<sup>38</sup> I *am* the LORD your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, *and* to be your God. 
+**³⁸** I *am* the LORD your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, *and* to be your God. 
 
-<sup>39</sup> ¶ And if thy brother *that dwelleth* by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant: 
+**³⁹** ¶ And if thy brother *that dwelleth* by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant: 
 
-<sup>40</sup> *But* as an hired servant, *and* as a sojourner, he shall be with thee, *and* shall serve thee unto the year of jubile: 
+**⁴⁰** *But* as an hired servant, *and* as a sojourner, he shall be with thee, *and* shall serve thee unto the year of jubile: 
 
-<sup>41</sup> And *then* shall he depart from thee, *both* he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return. 
+**⁴¹** And *then* shall he depart from thee, *both* he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return. 
 
-<sup>42</sup> For they *are* my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen. 
+**⁴²** For they *are* my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen. 
 
-<sup>43</sup> Thou shalt not rule over him with rigour; but shalt fear thy God. 
+**⁴³** Thou shalt not rule over him with rigour; but shalt fear thy God. 
 
-<sup>44</sup> Both thy bondmen, and thy bondmaids, which thou shalt have, *shall be* of the heathen that are round about you; of them shall ye buy bondmen and bondmaids. 
+**⁴⁴** Both thy bondmen, and thy bondmaids, which thou shalt have, *shall be* of the heathen that are round about you; of them shall ye buy bondmen and bondmaids. 
 
-<sup>45</sup> Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that *are* with you, which they begat in your land: and they shall be your possession. 
+**⁴⁵** Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that *are* with you, which they begat in your land: and they shall be your possession. 
 
-<sup>46</sup> And ye shall take them as an inheritance for your children after you, to inherit *them for* a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour. 
+**⁴⁶** And ye shall take them as an inheritance for your children after you, to inherit *them for* a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour. 
 
-<sup>47</sup> ¶ And if a sojourner or stranger wax rich by thee, and thy brother *that dwelleth* by him wax poor, and sell himself unto the stranger *or* sojourner by thee, or to the stock of the stranger’s family: 
+**⁴⁷** ¶ And if a sojourner or stranger wax rich by thee, and thy brother *that dwelleth* by him wax poor, and sell himself unto the stranger *or* sojourner by thee, or to the stock of the stranger’s family: 
 
-<sup>48</sup> After that he is sold he may be redeemed again; one of his brethren may redeem him: 
+**⁴⁸** After that he is sold he may be redeemed again; one of his brethren may redeem him: 
 
-<sup>49</sup> Either his uncle, or his uncle’s son, may redeem him, or *any* that is nigh of kin unto him of his family may redeem him; or if he be able, he may redeem himself. 
+**⁴⁹** Either his uncle, or his uncle’s son, may redeem him, or *any* that is nigh of kin unto him of his family may redeem him; or if he be able, he may redeem himself. 
 
-<sup>50</sup> And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him. 
+**⁵⁰** And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him. 
 
-<sup>51</sup> If *there be* yet many years *behind*, according unto them he shall give again the price of his redemption out of the money that he was bought for. 
+**⁵¹** If *there be* yet many years *behind*, according unto them he shall give again the price of his redemption out of the money that he was bought for. 
 
-<sup>52</sup> And if there remain but few years unto the year of jubile, then he shall count with him, *and* according unto his years shall he give him again the price of his redemption. 
+**⁵²** And if there remain but few years unto the year of jubile, then he shall count with him, *and* according unto his years shall he give him again the price of his redemption. 
 
-<sup>53</sup> *And* as a yearly hired servant shall he be with him: *and the other* shall not rule with rigour over him in thy sight. 
+**⁵³** *And* as a yearly hired servant shall he be with him: *and the other* shall not rule with rigour over him in thy sight. 
 
-<sup>54</sup> And if he be not redeemed in these *years*, then he shall go out in the year of jubile, *both* he, and his children with him. 
+**⁵⁴** And if he be not redeemed in these *years*, then he shall go out in the year of jubile, *both* he, and his children with him. 
 
-<sup>55</sup> For unto me the children of Israel *are* servants; they *are* my servants whom I brought forth out of the land of Egypt: I *am* the LORD your God. 
+**⁵⁵** For unto me the children of Israel *are* servants; they *are* my servants whom I brought forth out of the land of Egypt: I *am* the LORD your God. 
 

@@ -4,57 +4,57 @@ weight: 17
 
 # Chapter 17
 
-<sup>1</sup> The sin of Judah *is* written with a pen of iron, *and* with the point of a diamond: *it is* graven upon the table of their heart, and upon the horns of your altars; 
+**¹** The sin of Judah *is* written with a pen of iron, *and* with the point of a diamond: *it is* graven upon the table of their heart, and upon the horns of your altars; 
 
-<sup>2</sup> Whilst their children remember their altars and their groves by the green trees upon the high hills. 
+**²** Whilst their children remember their altars and their groves by the green trees upon the high hills. 
 
-<sup>3</sup> O my mountain in the field, I will give thy substance *and* all thy treasures to the spoil, *and* thy high places for sin, throughout all thy borders. 
+**³** O my mountain in the field, I will give thy substance *and* all thy treasures to the spoil, *and* thy high places for sin, throughout all thy borders. 
 
-<sup>4</sup> And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, *which* shall burn for ever. 
+**⁴** And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, *which* shall burn for ever. 
 
-<sup>5</sup> ¶ Thus saith the LORD; Cursed *be* the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD. 
+**⁵** ¶ Thus saith the LORD; Cursed *be* the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD. 
 
-<sup>6</sup> For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, *in* a salt land and not inhabited. 
+**⁶** For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, *in* a salt land and not inhabited. 
 
-<sup>7</sup> Blessed *is* the man that trusteth in the LORD, and whose hope the LORD is. 
+**⁷** Blessed *is* the man that trusteth in the LORD, and whose hope the LORD is. 
 
-<sup>8</sup> For he shall be as a tree planted by the waters, and *that* spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit. 
+**⁸** For he shall be as a tree planted by the waters, and *that* spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit. 
 
-<sup>9</sup> ¶ The heart *is* deceitful above all *things*, and desperately wicked: who can know it? 
+**⁹** ¶ The heart *is* deceitful above all *things*, and desperately wicked: who can know it? 
 
-<sup>10</sup> I the LORD search the heart, *I* try the reins, even to give every man according to his ways, *and* according to the fruit of his doings. 
+**¹⁰** I the LORD search the heart, *I* try the reins, even to give every man according to his ways, *and* according to the fruit of his doings. 
 
-<sup>11</sup> *As* the partridge sitteth *on eggs*, and hatcheth *them* not; *so* he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool. 
+**¹¹** *As* the partridge sitteth *on eggs*, and hatcheth *them* not; *so* he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool. 
 
-<sup>12</sup> ¶ A glorious high throne from the beginning *is* the place of our sanctuary. 
+**¹²** ¶ A glorious high throne from the beginning *is* the place of our sanctuary. 
 
-<sup>13</sup> O LORD, the hope of Israel, all that forsake thee shall be ashamed, *and* they that depart from me shall be written in the earth, because they have forsaken the LORD, the fountain of living waters. 
+**¹³** O LORD, the hope of Israel, all that forsake thee shall be ashamed, *and* they that depart from me shall be written in the earth, because they have forsaken the LORD, the fountain of living waters. 
 
-<sup>14</sup> Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou *art* my praise. 
+**¹⁴** Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou *art* my praise. 
 
-<sup>15</sup> ¶ Behold, they say unto me, Where *is* the word of the LORD? let it come now. 
+**¹⁵** ¶ Behold, they say unto me, Where *is* the word of the LORD? let it come now. 
 
-<sup>16</sup> As for me, I have not hastened from *being* a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was *right* before thee. 
+**¹⁶** As for me, I have not hastened from *being* a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was *right* before thee. 
 
-<sup>17</sup> Be not a terror unto me: thou *art* my hope in the day of evil. 
+**¹⁷** Be not a terror unto me: thou *art* my hope in the day of evil. 
 
-<sup>18</sup> Let them be confounded that persecute me, but let not me be confounded: let them be dismayed, but let not me be dismayed: bring upon them the day of evil, and destroy them with double destruction. 
+**¹⁸** Let them be confounded that persecute me, but let not me be confounded: let them be dismayed, but let not me be dismayed: bring upon them the day of evil, and destroy them with double destruction. 
 
-<sup>19</sup> ¶ Thus said the LORD unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem; 
+**¹⁹** ¶ Thus said the LORD unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem; 
 
-<sup>20</sup> And say unto them, Hear ye the word of the LORD, ye kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates: 
+**²⁰** And say unto them, Hear ye the word of the LORD, ye kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates: 
 
-<sup>21</sup> Thus saith the LORD; Take heed to yourselves, and bear no burden on the sabbath day, nor bring *it* in by the gates of Jerusalem; 
+**²¹** Thus saith the LORD; Take heed to yourselves, and bear no burden on the sabbath day, nor bring *it* in by the gates of Jerusalem; 
 
-<sup>22</sup> Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers. 
+**²²** Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers. 
 
-<sup>23</sup> But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction. 
+**²³** But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction. 
 
-<sup>24</sup> And it shall come to pass, if ye diligently hearken unto me, saith the LORD, to bring in no burden through the gates of this city on the sabbath day, but hallow the sabbath day, to do no work therein; 
+**²⁴** And it shall come to pass, if ye diligently hearken unto me, saith the LORD, to bring in no burden through the gates of this city on the sabbath day, but hallow the sabbath day, to do no work therein; 
 
-<sup>25</sup> Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever. 
+**²⁵** Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever. 
 
-<sup>26</sup> And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the LORD. 
+**²⁶** And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the LORD. 
 
-<sup>27</sup> But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched. 
+**²⁷** But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched. 
 

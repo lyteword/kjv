@@ -4,49 +4,49 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> For I would that ye knew what great conflict I have for you, and *for* them at Laodicea, and *for* as many as have not seen my face in the flesh; 
+**¹** For I would that ye knew what great conflict I have for you, and *for* them at Laodicea, and *for* as many as have not seen my face in the flesh; 
 
-<sup>2</sup> That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ; 
+**²** That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ; 
 
-<sup>3</sup> In whom are hid all the treasures of wisdom and knowledge. 
+**³** In whom are hid all the treasures of wisdom and knowledge. 
 
-<sup>4</sup> And this I say, lest any man should beguile you with enticing words. 
+**⁴** And this I say, lest any man should beguile you with enticing words. 
 
-<sup>5</sup> For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ. 
+**⁵** For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ. 
 
-<sup>6</sup> As ye have therefore received Christ Jesus the Lord, *so* walk ye in him: 
+**⁶** As ye have therefore received Christ Jesus the Lord, *so* walk ye in him: 
 
-<sup>7</sup> Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding there in with thanksgiving. 
+**⁷** Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding there in with thanksgiving. 
 
-<sup>8</sup> Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ. 
+**⁸** Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ. 
 
-<sup>9</sup> For in him dwelleth all the fulness of the Godhead bodily. 
+**⁹** For in him dwelleth all the fulness of the Godhead bodily. 
 
-<sup>10</sup> And ye are complete in him, which is the head of all principality and power: 
+**¹⁰** And ye are complete in him, which is the head of all principality and power: 
 
-<sup>11</sup> In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ: 
+**¹¹** In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ: 
 
-<sup>12</sup> Buried with him in baptism, where in also ye are risen with *him* through the faith of the operation of God, who hath raised him from the dead. 
+**¹²** Buried with him in baptism, where in also ye are risen with *him* through the faith of the operation of God, who hath raised him from the dead. 
 
-<sup>13</sup> And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; 
+**¹³** And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; 
 
-<sup>14</sup> Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross; 
+**¹⁴** Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross; 
 
-<sup>15</sup> *And* having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it. 
+**¹⁵** *And* having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it. 
 
-<sup>16</sup> Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath *days*: 
+**¹⁶** Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath *days*: 
 
-<sup>17</sup> Which are a shadow of things to come; but the body *is* of Christ. 
+**¹⁷** Which are a shadow of things to come; but the body *is* of Christ. 
 
-<sup>18</sup> Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind, 
+**¹⁸** Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind, 
 
-<sup>19</sup> And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God. 
+**¹⁹** And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God. 
 
-<sup>20</sup> Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances, 
+**²⁰** Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances, 
 
-<sup>21</sup> (Touch not; taste not; handle not; 
+**²¹** (Touch not; taste not; handle not; 
 
-<sup>22</sup> Which all are to perish with the using;) after the commandments and doctrines of men? 
+**²²** Which all are to perish with the using;) after the commandments and doctrines of men? 
 
-<sup>23</sup> Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh. 
+**²³** Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh. 
 

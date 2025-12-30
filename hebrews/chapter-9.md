@@ -4,59 +4,59 @@ weight: 9
 
 # Chapter 9
 
-<sup>1</sup> Then verily the first *covenant* had also ordinances of divine service, and a worldly sanctuary. 
+**¹** Then verily the first *covenant* had also ordinances of divine service, and a worldly sanctuary. 
 
-<sup>2</sup> For there was a tabernacle made; the first, where in *was* the candlestick, and the table, and the shewbread; which is called the sanctuary. 
+**²** For there was a tabernacle made; the first, where in *was* the candlestick, and the table, and the shewbread; which is called the sanctuary. 
 
-<sup>3</sup> And after the second veil, the tabernacle which is called the Holiest of all; 
+**³** And after the second veil, the tabernacle which is called the Holiest of all; 
 
-<sup>4</sup> Which had the golden censer, and the ark of the covenant overlaid round about with gold, where in *was* the golden pot that had manna, and Aaron’s rod that budded, and the tables of the covenant; 
+**⁴** Which had the golden censer, and the ark of the covenant overlaid round about with gold, where in *was* the golden pot that had manna, and Aaron’s rod that budded, and the tables of the covenant; 
 
-<sup>5</sup> And over it the cherubims of glory shadowing the mercyseat; of which we can not now speak particularly. 
+**⁵** And over it the cherubims of glory shadowing the mercyseat; of which we can not now speak particularly. 
 
-<sup>6</sup> Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service *of God*. 
+**⁶** Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service *of God*. 
 
-<sup>7</sup> But into the second *went* the high priest alone once every year, not without blood, which he offered for himself, and *for* the errors of the people: 
+**⁷** But into the second *went* the high priest alone once every year, not without blood, which he offered for himself, and *for* the errors of the people: 
 
-<sup>8</sup> The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing: 
+**⁸** The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing: 
 
-<sup>9</sup> Which *was* a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience; 
+**⁹** Which *was* a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience; 
 
-<sup>10</sup> *Which stood* only in meats and drinks, and divers washings, and carnal ordinances, imposed *on them* until the time of reformation. 
+**¹⁰** *Which stood* only in meats and drinks, and divers washings, and carnal ordinances, imposed *on them* until the time of reformation. 
 
-<sup>11</sup> But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building; 
+**¹¹** But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building; 
 
-<sup>12</sup> Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption *for us*. 
+**¹²** Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption *for us*. 
 
-<sup>13</sup> For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: 
+**¹³** For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: 
 
-<sup>14</sup> How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God? 
+**¹⁴** How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God? 
 
-<sup>15</sup> And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions *that were* under the first testament, they which are called might receive the promise of eternal inheritance. 
+**¹⁵** And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions *that were* under the first testament, they which are called might receive the promise of eternal inheritance. 
 
-<sup>16</sup> For where a testament *is*, there must also of necessity be the death of the testator. 
+**¹⁶** For where a testament *is*, there must also of necessity be the death of the testator. 
 
-<sup>17</sup> For a testament *is* of force after men are dead: otherwise it is of no strength at all while the testator liveth. 
+**¹⁷** For a testament *is* of force after men are dead: otherwise it is of no strength at all while the testator liveth. 
 
-<sup>18</sup> Whereupon neither the first *testament* was dedicated without blood. 
+**¹⁸** Whereupon neither the first *testament* was dedicated without blood. 
 
-<sup>19</sup> For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people, 
+**¹⁹** For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people, 
 
-<sup>20</sup> Saying, This *is* the blood of the testament which God hath enjoined unto you. 
+**²⁰** Saying, This *is* the blood of the testament which God hath enjoined unto you. 
 
-<sup>21</sup> Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry. 
+**²¹** Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry. 
 
-<sup>22</sup> And almost all things are by the law purged with blood; and without shedding of blood is no remission. 
+**²²** And almost all things are by the law purged with blood; and without shedding of blood is no remission. 
 
-<sup>23</sup> *It was* therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these. 
+**²³** *It was* therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these. 
 
-<sup>24</sup> For Christ is not entered into the holy places made with hands, *which are* the figures of the true; but into heaven itself, now to appear in the presence of God for us: 
+**²⁴** For Christ is not entered into the holy places made with hands, *which are* the figures of the true; but into heaven itself, now to appear in the presence of God for us: 
 
-<sup>25</sup> Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others; 
+**²⁵** Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others; 
 
-<sup>26</sup> For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself. 
+**²⁶** For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself. 
 
-<sup>27</sup> And as it is appointed unto men once to die, but after this the judgment: 
+**²⁷** And as it is appointed unto men once to die, but after this the judgment: 
 
-<sup>28</sup> So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation. 
+**²⁸** So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation. 
 

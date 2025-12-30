@@ -4,33 +4,33 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> Gather yourselves together, yea, gather together, O nation not desired; 
+**¹** Gather yourselves together, yea, gather together, O nation not desired; 
 
-<sup>2</sup> Before the decree bring forth, *before* the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD’s anger come upon you. 
+**²** Before the decree bring forth, *before* the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD’s anger come upon you. 
 
-<sup>3</sup> Seek ye the LORD, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the LORD’s anger. 
+**³** Seek ye the LORD, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the LORD’s anger. 
 
-<sup>4</sup> ¶ For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up. 
+**⁴** ¶ For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up. 
 
-<sup>5</sup> Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD *is* against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant. 
+**⁵** Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD *is* against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant. 
 
-<sup>6</sup> And the sea coast shall be dwellings *and* cottages for shepherds, and folds for flocks. 
+**⁶** And the sea coast shall be dwellings *and* cottages for shepherds, and folds for flocks. 
 
-<sup>7</sup> And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity. 
+**⁷** And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity. 
 
-<sup>8</sup> ¶ I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified *themselves* against their border. 
+**⁸** ¶ I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified *themselves* against their border. 
 
-<sup>9</sup> Therefore *as* I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, *even* the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them. 
+**⁹** Therefore *as* I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, *even* the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them. 
 
-<sup>10</sup> This shall they have for their pride, because they have reproached and magnified *themselves* against the people of the LORD of hosts. 
+**¹⁰** This shall they have for their pride, because they have reproached and magnified *themselves* against the people of the LORD of hosts. 
 
-<sup>11</sup> The LORD *will be* terrible unto them: for he will famish all the gods of the earth; and *men* shall worship him, every one from his place, *even* all the isles of the heathen. 
+**¹¹** The LORD *will be* terrible unto them: for he will famish all the gods of the earth; and *men* shall worship him, every one from his place, *even* all the isles of the heathen. 
 
-<sup>12</sup> ¶ Ye Ethiopians also, ye *shall be* slain by my sword. 
+**¹²** ¶ Ye Ethiopians also, ye *shall be* slain by my sword. 
 
-<sup>13</sup> And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, *and* dry like a wilderness. 
+**¹³** And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, *and* dry like a wilderness. 
 
-<sup>14</sup> And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; *their* voice shall sing in the windows; desolation *shall be* in the thresholds: for he shall uncover the cedar work. 
+**¹⁴** And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; *their* voice shall sing in the windows; desolation *shall be* in the thresholds: for he shall uncover the cedar work. 
 
-<sup>15</sup> This *is* the rejoicing city that dwelt carelessly, that said in her heart, I *am*, and *there is* none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, *and* wag his hand. 
+**¹⁵** This *is* the rejoicing city that dwelt carelessly, that said in her heart, I *am*, and *there is* none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, *and* wag his hand. 
 

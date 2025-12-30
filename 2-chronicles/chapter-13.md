@@ -4,47 +4,47 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah. 
+**¹** Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah. 
 
-<sup>2</sup> He reigned three years in Jerusalem. His mother’s name also *was* Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam. 
+**²** He reigned three years in Jerusalem. His mother’s name also *was* Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam. 
 
-<sup>3</sup> And Abijah set the battle in array with an army of valiant men of war, *even* four hundred thousand chosen men: Jeroboam also set the battle in array against him with eight hundred thousand chosen men, *being* mighty men of valour. 
+**³** And Abijah set the battle in array with an army of valiant men of war, *even* four hundred thousand chosen men: Jeroboam also set the battle in array against him with eight hundred thousand chosen men, *being* mighty men of valour. 
 
-<sup>4</sup> ¶ And Abijah stood up upon mount Zemaraim, which *is* in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel; 
+**⁴** ¶ And Abijah stood up upon mount Zemaraim, which *is* in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel; 
 
-<sup>5</sup> Ought ye not to know that the LORD God of Israel gave the kingdom over Israel to David for ever, *even* to him and to his sons by a covenant of salt? 
+**⁵** Ought ye not to know that the LORD God of Israel gave the kingdom over Israel to David for ever, *even* to him and to his sons by a covenant of salt? 
 
-<sup>6</sup> Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord. 
+**⁶** Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord. 
 
-<sup>7</sup> And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them. 
+**⁷** And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them. 
 
-<sup>8</sup> And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye *be* a great multitude, and *there are* with you golden calves, which Jeroboam made you for gods. 
+**⁸** And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye *be* a great multitude, and *there are* with you golden calves, which Jeroboam made you for gods. 
 
-<sup>9</sup> Have ye not cast out the priests of the LORD, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of *other* lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, *the same* may be a priest of *them that are* no gods. 
+**⁹** Have ye not cast out the priests of the LORD, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of *other* lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, *the same* may be a priest of *them that are* no gods. 
 
-<sup>10</sup> But as for us, the LORD *is* our God, and we have not forsaken him; and the priests, which minister unto the LORD, *are* the sons of Aaron, and the Levites *wait* upon *their* business: 
+**¹⁰** But as for us, the LORD *is* our God, and we have not forsaken him; and the priests, which minister unto the LORD, *are* the sons of Aaron, and the Levites *wait* upon *their* business: 
 
-<sup>11</sup> And they burn unto the LORD every morning and every evening burnt sacrifices and sweet incense: the shewbread also *set they in order* upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the LORD our God; but ye have forsaken him. 
+**¹¹** And they burn unto the LORD every morning and every evening burnt sacrifices and sweet incense: the shewbread also *set they in order* upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the LORD our God; but ye have forsaken him. 
 
-<sup>12</sup> And, behold, God himself *is* with us for *our* captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the LORD God of your fathers; for ye shall not prosper. 
+**¹²** And, behold, God himself *is* with us for *our* captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the LORD God of your fathers; for ye shall not prosper. 
 
-<sup>13</sup> ¶ But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment *was* behind them. 
+**¹³** ¶ But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment *was* behind them. 
 
-<sup>14</sup> And when Judah looked back, behold, the battle *was* before and behind: and they cried unto the LORD, and the priests sounded with the trumpets. 
+**¹⁴** And when Judah looked back, behold, the battle *was* before and behind: and they cried unto the LORD, and the priests sounded with the trumpets. 
 
-<sup>15</sup> Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah. 
+**¹⁵** Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah. 
 
-<sup>16</sup> And the children of Israel fled before Judah: and God delivered them into their hand. 
+**¹⁶** And the children of Israel fled before Judah: and God delivered them into their hand. 
 
-<sup>17</sup> And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men. 
+**¹⁷** And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men. 
 
-<sup>18</sup> Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers. 
+**¹⁸** Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers. 
 
-<sup>19</sup> And Abijah pursued after Jeroboam, and took cities from him, Beth-el with the towns thereof, and Jeshanah with the towns thereof, and Ephrain with the towns thereof. 
+**¹⁹** And Abijah pursued after Jeroboam, and took cities from him, Beth-el with the towns thereof, and Jeshanah with the towns thereof, and Ephrain with the towns thereof. 
 
-<sup>20</sup> Neither did Jeroboam recover strength again in the days of Abijah: and the LORD struck him, and he died. 
+**²⁰** Neither did Jeroboam recover strength again in the days of Abijah: and the LORD struck him, and he died. 
 
-<sup>21</sup> ¶ But Abijah waxed mighty, and married fourteen wives, and begat twenty and two sons, and sixteen daughters. 
+**²¹** ¶ But Abijah waxed mighty, and married fourteen wives, and begat twenty and two sons, and sixteen daughters. 
 
-<sup>22</sup> And the rest of the acts of Abijah, and his ways, and his sayings, *are* written in the story of the prophet Iddo. 
+**²²** And the rest of the acts of Abijah, and his ways, and his sayings, *are* written in the story of the prophet Iddo. 
 

@@ -4,45 +4,45 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> And the child Samuel ministered unto the LORD before Eli. And the word of the LORD was precious in those days; *there was* no open vision. 
+**¹** And the child Samuel ministered unto the LORD before Eli. And the word of the LORD was precious in those days; *there was* no open vision. 
 
-<sup>2</sup> And it came to pass at that time, when Eli *was* laid down in his place, and his eyes began to wax dim, *that* he could not see; 
+**²** And it came to pass at that time, when Eli *was* laid down in his place, and his eyes began to wax dim, *that* he could not see; 
 
-<sup>3</sup> And ere the lamp of God went out in the temple of the LORD, where the ark of God *was*, and Samuel was laid down *to sleep;* 
+**³** And ere the lamp of God went out in the temple of the LORD, where the ark of God *was*, and Samuel was laid down *to sleep;* 
 
-<sup>4</sup> That the LORD called Samuel: and he answered, Here *am* I. 
+**⁴** That the LORD called Samuel: and he answered, Here *am* I. 
 
-<sup>5</sup> And he ran unto Eli, and said, Here *am* I; for thou calledst me. And he said, I called not; lie down again. And he went and lay down. 
+**⁵** And he ran unto Eli, and said, Here *am* I; for thou calledst me. And he said, I called not; lie down again. And he went and lay down. 
 
-<sup>6</sup> And the LORD called yet again, Samuel. And Samuel arose and went to Eli, and said, Here *am* I; for thou didst call me. And he answered, I called not, my son; lie down again. 
+**⁶** And the LORD called yet again, Samuel. And Samuel arose and went to Eli, and said, Here *am* I; for thou didst call me. And he answered, I called not, my son; lie down again. 
 
-<sup>7</sup> Now Samuel did not yet know the LORD, neither was the word of the LORD yet revealed unto him. 
+**⁷** Now Samuel did not yet know the LORD, neither was the word of the LORD yet revealed unto him. 
 
-<sup>8</sup> And the LORD called Samuel again the third time. And he arose and went to Eli, and said, Here *am* I; for thou didst call me. And Eli perceived that the LORD had called the child. 
+**⁸** And the LORD called Samuel again the third time. And he arose and went to Eli, and said, Here *am* I; for thou didst call me. And Eli perceived that the LORD had called the child. 
 
-<sup>9</sup> Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, LORD; for thy servant heareth. So Samuel went and lay down in his place. 
+**⁹** Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, LORD; for thy servant heareth. So Samuel went and lay down in his place. 
 
-<sup>10</sup> And the LORD came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth. 
+**¹⁰** And the LORD came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth. 
 
-<sup>11</sup> ¶ And the LORD said to Samuel, Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle. 
+**¹¹** ¶ And the LORD said to Samuel, Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle. 
 
-<sup>12</sup> In that day I will perform against Eli all *things* which I have spoken concerning his house: when I begin, I will also make an end. 
+**¹²** In that day I will perform against Eli all *things* which I have spoken concerning his house: when I begin, I will also make an end. 
 
-<sup>13</sup> For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not. 
+**¹³** For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not. 
 
-<sup>14</sup> And therefore I have sworn unto the house of Eli, that the iniquity of Eli’s house shall not be purged with sacrifice nor offering for ever. 
+**¹⁴** And therefore I have sworn unto the house of Eli, that the iniquity of Eli’s house shall not be purged with sacrifice nor offering for ever. 
 
-<sup>15</sup> ¶ And Samuel lay until the morning, and opened the doors of the house of the LORD. And Samuel feared to shew Eli the vision. 
+**¹⁵** ¶ And Samuel lay until the morning, and opened the doors of the house of the LORD. And Samuel feared to shew Eli the vision. 
 
-<sup>16</sup> Then Eli called Samuel, and said, Samuel, my son. And he answered, Here *am* I. 
+**¹⁶** Then Eli called Samuel, and said, Samuel, my son. And he answered, Here *am* I. 
 
-<sup>17</sup> And he said, What *is* the thing that *the* hath said unto thee? I pray thee hide *it* not from me: God do so to thee, and more also, if thou hide *any* thing from me of all the things that he said unto thee. 
+**¹⁷** And he said, What *is* the thing that *the* hath said unto thee? I pray thee hide *it* not from me: God do so to thee, and more also, if thou hide *any* thing from me of all the things that he said unto thee. 
 
-<sup>18</sup> And Samuel told him every whit, and hid nothing from him. And he said, It *is* the LORD: let him do what seemeth him good. 
+**¹⁸** And Samuel told him every whit, and hid nothing from him. And he said, It *is* the LORD: let him do what seemeth him good. 
 
-<sup>19</sup> ¶ And Samuel grew, and the LORD was with him, and did let none of his words fall to the ground. 
+**¹⁹** ¶ And Samuel grew, and the LORD was with him, and did let none of his words fall to the ground. 
 
-<sup>20</sup> And all Israel from Dan even to Beer-sheba knew that Samuel *was* established *to be* a prophet of the LORD. 
+**²⁰** And all Israel from Dan even to Beer-sheba knew that Samuel *was* established *to be* a prophet of the LORD. 
 
-<sup>21</sup> And the LORD appeared again in Shiloh: for the LORD revealed himself to Samuel in Shiloh by the word of the LORD. 
+**²¹** And the LORD appeared again in Shiloh: for the LORD revealed himself to Samuel in Shiloh by the word of the LORD. 
 

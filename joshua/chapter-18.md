@@ -4,59 +4,59 @@ weight: 18
 
 # Chapter 18
 
-<sup>1</sup> And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them. 
+**¹** And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them. 
 
-<sup>2</sup> And there remained among the children of Israel seven tribes, which had not yet received their inheritance. 
+**²** And there remained among the children of Israel seven tribes, which had not yet received their inheritance. 
 
-<sup>3</sup> And Joshua said unto the children of Israel, How long *are* ye slack to go to possess the land, which the LORD God of your fathers hath given you? 
+**³** And Joshua said unto the children of Israel, How long *are* ye slack to go to possess the land, which the LORD God of your fathers hath given you? 
 
-<sup>4</sup> Give out from among you three men for *each* tribe: and I will send them, and they shall rise, and go through the land, and describe it according to the inheritance of them; and they shall come *again* to me. 
+**⁴** Give out from among you three men for *each* tribe: and I will send them, and they shall rise, and go through the land, and describe it according to the inheritance of them; and they shall come *again* to me. 
 
-<sup>5</sup> And they shall divide it into seven parts: Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north. 
+**⁵** And they shall divide it into seven parts: Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north. 
 
-<sup>6</sup> Ye shall therefore describe the land *into* seven parts, and bring *the description* hither to me, that I may cast lots for you here before the LORD our God. 
+**⁶** Ye shall therefore describe the land *into* seven parts, and bring *the description* hither to me, that I may cast lots for you here before the LORD our God. 
 
-<sup>7</sup> But the Levites have no part among you; for the priesthood of the LORD *is* their inheritance: and Gad, and Reuben, and half the tribe of Manasseh, have received their inheritance beyond Jordan on the east, which Moses the servant of the LORD gave them. 
+**⁷** But the Levites have no part among you; for the priesthood of the LORD *is* their inheritance: and Gad, and Reuben, and half the tribe of Manasseh, have received their inheritance beyond Jordan on the east, which Moses the servant of the LORD gave them. 
 
-<sup>8</sup> ¶ And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh. 
+**⁸** ¶ And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh. 
 
-<sup>9</sup> And the men went and passed through the land, and described it by cities into seven parts in a book, and came *again* to Joshua to the host at Shiloh. 
+**⁹** And the men went and passed through the land, and described it by cities into seven parts in a book, and came *again* to Joshua to the host at Shiloh. 
 
-<sup>10</sup> ¶ And Joshua cast lots for them in Shiloh before the LORD: and there Joshua divided the land unto the children of Israel according to their divisions. 
+**¹⁰** ¶ And Joshua cast lots for them in Shiloh before the LORD: and there Joshua divided the land unto the children of Israel according to their divisions. 
 
-<sup>11</sup> ¶ And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph. 
+**¹¹** ¶ And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph. 
 
-<sup>12</sup> And their border on the north side was from Jordan; and the border went up to the side of Jericho on the north side, and went up through the mountains westward; and the goings out thereof were at the wilderness of Beth-aven. 
+**¹²** And their border on the north side was from Jordan; and the border went up to the side of Jericho on the north side, and went up through the mountains westward; and the goings out thereof were at the wilderness of Beth-aven. 
 
-<sup>13</sup> And the border went over from thence toward Luz, to the side of Luz, which *is* Beth-el, southward; and the border descended to Ataroth-adar, near the hill that *lieth* on the south side of the nether Beth-horon. 
+**¹³** And the border went over from thence toward Luz, to the side of Luz, which *is* Beth-el, southward; and the border descended to Ataroth-adar, near the hill that *lieth* on the south side of the nether Beth-horon. 
 
-<sup>14</sup> And the border was drawn *thence*, and compassed the corner of the sea southward, from the hill that *lieth* before Beth-horon southward; and the goings out thereof were at Kirjath-baal, which *is* Kirjath-jearim, a city of the children of Judah: this *was* the west quarter. 
+**¹⁴** And the border was drawn *thence*, and compassed the corner of the sea southward, from the hill that *lieth* before Beth-horon southward; and the goings out thereof were at Kirjath-baal, which *is* Kirjath-jearim, a city of the children of Judah: this *was* the west quarter. 
 
-<sup>15</sup> And the south quarter *was* from the end of Kirjath-jearim, and the border went out on the west, and went out to the well of waters of Nephtoah: 
+**¹⁵** And the south quarter *was* from the end of Kirjath-jearim, and the border went out on the west, and went out to the well of waters of Nephtoah: 
 
-<sup>16</sup> And the border came down to the end of the mountain that *lieth* before the valley of the son of Hinnom, *and* which *is* in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to En-rogel, 
+**¹⁶** And the border came down to the end of the mountain that *lieth* before the valley of the son of Hinnom, *and* which *is* in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to En-rogel, 
 
-<sup>17</sup> And was drawn from the north, and went forth to En-shemesh, and went forth toward Geliloth, which *is* over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben, 
+**¹⁷** And was drawn from the north, and went forth to En-shemesh, and went forth toward Geliloth, which *is* over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben, 
 
-<sup>18</sup> And passed along toward the side over against Arabah northward, and went down unto Arabah: 
+**¹⁸** And passed along toward the side over against Arabah northward, and went down unto Arabah: 
 
-<sup>19</sup> And the border passed along to the side of Beth-hoglah northward: and the outgoings of the border were at the north bay of the salt sea at the south end of Jordan: this *was* the south coast. 
+**¹⁹** And the border passed along to the side of Beth-hoglah northward: and the outgoings of the border were at the north bay of the salt sea at the south end of Jordan: this *was* the south coast. 
 
-<sup>20</sup> And Jordan was the border of it on the east side. This *was* the inheritance of the children of Benjamin, by the coasts thereof round about, according to their families. 
+**²⁰** And Jordan was the border of it on the east side. This *was* the inheritance of the children of Benjamin, by the coasts thereof round about, according to their families. 
 
-<sup>21</sup> Now the cities of the tribe of the children of Benjamin according to their families were Jericho, and Beth-hoglah, and the valley of Keziz, 
+**²¹** Now the cities of the tribe of the children of Benjamin according to their families were Jericho, and Beth-hoglah, and the valley of Keziz, 
 
-<sup>22</sup> And Beth-arabah, and Zemaraim, and Beth-el, 
+**²²** And Beth-arabah, and Zemaraim, and Beth-el, 
 
-<sup>23</sup> And Avim, and Parah, and Ophrah, 
+**²³** And Avim, and Parah, and Ophrah, 
 
-<sup>24</sup> And Chephar-haammonai, and Ophni, and Gaba; twelve cities with their villages: 
+**²⁴** And Chephar-haammonai, and Ophni, and Gaba; twelve cities with their villages: 
 
-<sup>25</sup> Gibeon, and Ramah, and Beeroth, 
+**²⁵** Gibeon, and Ramah, and Beeroth, 
 
-<sup>26</sup> And Mizpeh, and Chephirah, and Mozah, 
+**²⁶** And Mizpeh, and Chephirah, and Mozah, 
 
-<sup>27</sup> And Rekem, and Irpeel, and Taralah, 
+**²⁷** And Rekem, and Irpeel, and Taralah, 
 
-<sup>28</sup> And Zelah, Eleph, and Jebusi, which *is* Jerusalem, Gibeath, *and* Kirjath; fourteen cities with their villages. This *is* the inheritance of the children of Benjamin according to their families. 
+**²⁸** And Zelah, Eleph, and Jebusi, which *is* Jerusalem, Gibeath, *and* Kirjath; fourteen cities with their villages. This *is* the inheritance of the children of Benjamin according to their families. 
 

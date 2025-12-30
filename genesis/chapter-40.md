@@ -4,49 +4,49 @@ weight: 40
 
 # Chapter 40
 
-<sup>1</sup> And it came to pass after these things, *that* the butler of the king of Egypt and *his* baker had offended their lord the king of Egypt. 
+**¹** And it came to pass after these things, *that* the butler of the king of Egypt and *his* baker had offended their lord the king of Egypt. 
 
-<sup>2</sup> And Pharaoh was wroth against two *of* his officers, against the chief of the butlers, and against the chief of the bakers. 
+**²** And Pharaoh was wroth against two *of* his officers, against the chief of the butlers, and against the chief of the bakers. 
 
-<sup>3</sup> And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph *was* bound. 
+**³** And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph *was* bound. 
 
-<sup>4</sup> And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward. 
+**⁴** And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward. 
 
-<sup>5</sup> ¶ And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which *were* bound in the prison. 
+**⁵** ¶ And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which *were* bound in the prison. 
 
-<sup>6</sup> And Joseph came in unto them in the morning, and looked upon them, and, behold, they *were* sad. 
+**⁶** And Joseph came in unto them in the morning, and looked upon them, and, behold, they *were* sad. 
 
-<sup>7</sup> And he asked Pharaoh’s officers that *were* with him in the ward of his lord’s house, saying, Wherefore look ye *so* sadly to day? 
+**⁷** And he asked Pharaoh’s officers that *were* with him in the ward of his lord’s house, saying, Wherefore look ye *so* sadly to day? 
 
-<sup>8</sup> And they said unto him, We have dreamed a dream, and *there is* no interpreter of it. And Joseph said unto them, *Do* not interpretations *belong* to God? tell me *them*, I pray you. 
+**⁸** And they said unto him, We have dreamed a dream, and *there is* no interpreter of it. And Joseph said unto them, *Do* not interpretations *belong* to God? tell me *them*, I pray you. 
 
-<sup>9</sup> And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine *was* before me; 
+**⁹** And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine *was* before me; 
 
-<sup>10</sup> And in the vine *were* three branches: and it *was* as though it budded, *and* her blossoms shot forth; and the clusters thereof brought forth ripe grapes: 
+**¹⁰** And in the vine *were* three branches: and it *was* as though it budded, *and* her blossoms shot forth; and the clusters thereof brought forth ripe grapes: 
 
-<sup>11</sup> And Pharaoh’s cup *was* in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand. 
+**¹¹** And Pharaoh’s cup *was* in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand. 
 
-<sup>12</sup> And Joseph said unto him, This *is* the interpretation of it: The three branches *are* three days: 
+**¹²** And Joseph said unto him, This *is* the interpretation of it: The three branches *are* three days: 
 
-<sup>13</sup> Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler. 
+**¹³** Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler. 
 
-<sup>14</sup> But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house: 
+**¹⁴** But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house: 
 
-<sup>15</sup> For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon. 
+**¹⁵** For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon. 
 
-<sup>16</sup> When the chief baker saw that the interpretation was good, he said unto Joseph, I also *was* in my dream, and, behold, *I had* three white baskets on my head: 
+**¹⁶** When the chief baker saw that the interpretation was good, he said unto Joseph, I also *was* in my dream, and, behold, *I had* three white baskets on my head: 
 
-<sup>17</sup> And in the uppermost basket *there was* of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head. 
+**¹⁷** And in the uppermost basket *there was* of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head. 
 
-<sup>18</sup> And Joseph answered and said, This *is* the interpretation thereof: The three baskets *are* three days: 
+**¹⁸** And Joseph answered and said, This *is* the interpretation thereof: The three baskets *are* three days: 
 
-<sup>19</sup> Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee. 
+**¹⁹** Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee. 
 
-<sup>20</sup> ¶ And it came to pass the third day, *which was* Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants. 
+**²⁰** ¶ And it came to pass the third day, *which was* Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants. 
 
-<sup>21</sup> And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand: 
+**²¹** And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand: 
 
-<sup>22</sup> But he hanged the chief baker: as Joseph had interpreted to them. 
+**²²** But he hanged the chief baker: as Joseph had interpreted to them. 
 
-<sup>23</sup> Yet did not the chief butler remember Joseph, but forgat him. 
+**²³** Yet did not the chief butler remember Joseph, but forgat him. 
 

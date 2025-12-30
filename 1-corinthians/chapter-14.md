@@ -4,83 +4,83 @@ weight: 14
 
 # Chapter 14
 
-<sup>1</sup> Follow after charity, and desire spiritual *gifts*, but rather that ye may prophesy. 
+**¹** Follow after charity, and desire spiritual *gifts*, but rather that ye may prophesy. 
 
-<sup>2</sup> For he that speaketh in an *unknown* tongue speaketh not unto men, but unto God: for no man understandeth *him*; howbeit in the spirit he speaketh mysteries. 
+**²** For he that speaketh in an *unknown* tongue speaketh not unto men, but unto God: for no man understandeth *him*; howbeit in the spirit he speaketh mysteries. 
 
-<sup>3</sup> But he that prophesieth speaketh unto men *to* edification, and exhortation, and comfort. 
+**³** But he that prophesieth speaketh unto men *to* edification, and exhortation, and comfort. 
 
-<sup>4</sup> He that speaketh in an *unknown* tongue edifieth himself; but he that prophesieth edifieth the church. 
+**⁴** He that speaketh in an *unknown* tongue edifieth himself; but he that prophesieth edifieth the church. 
 
-<sup>5</sup> I would that ye all spake with tongues, but rather that ye prophesied: for greater *is* he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying. 
+**⁵** I would that ye all spake with tongues, but rather that ye prophesied: for greater *is* he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying. 
 
-<sup>6</sup> Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine? 
+**⁶** Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine? 
 
-<sup>7</sup> And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped? 
+**⁷** And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped? 
 
-<sup>8</sup> For if the trumpet give an uncertain sound, who shall prepare himself to the battle? 
+**⁸** For if the trumpet give an uncertain sound, who shall prepare himself to the battle? 
 
-<sup>9</sup> So likewise ye, except ye utter by the tongue words easy to be understood, how shall it be known what is spoken? for ye shall speak into the air. 
+**⁹** So likewise ye, except ye utter by the tongue words easy to be understood, how shall it be known what is spoken? for ye shall speak into the air. 
 
-<sup>10</sup> There are, it may be, so many kinds of voices in the world, and none of them *is* without signification. 
+**¹⁰** There are, it may be, so many kinds of voices in the world, and none of them *is* without signification. 
 
-<sup>11</sup> Therefore if I know not the meaning of the voice, I shall be unto him that speaketh a barbarian, and he that speaketh *shall be* a barbarian unto me. 
+**¹¹** Therefore if I know not the meaning of the voice, I shall be unto him that speaketh a barbarian, and he that speaketh *shall be* a barbarian unto me. 
 
-<sup>12</sup> Even so ye, forasmuch as ye are zealous of spiritual *gifts*, seek that ye may excel to the edifying of the church. 
+**¹²** Even so ye, forasmuch as ye are zealous of spiritual *gifts*, seek that ye may excel to the edifying of the church. 
 
-<sup>13</sup> Wherefore let him that speaketh in an *unknown* tongue pray that he may interpret. 
+**¹³** Wherefore let him that speaketh in an *unknown* tongue pray that he may interpret. 
 
-<sup>14</sup> For if I pray in an *unknown* tongue, my spirit prayeth, but my understanding is unfruitful. 
+**¹⁴** For if I pray in an *unknown* tongue, my spirit prayeth, but my understanding is unfruitful. 
 
-<sup>15</sup> What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also. 
+**¹⁵** What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also. 
 
-<sup>16</sup> Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest? 
+**¹⁶** Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest? 
 
-<sup>17</sup> For thou verily givest thanks well, but the other is not edified. 
+**¹⁷** For thou verily givest thanks well, but the other is not edified. 
 
-<sup>18</sup> I thank my God, I speak with tongues more than ye all: 
+**¹⁸** I thank my God, I speak with tongues more than ye all: 
 
-<sup>19</sup> Yet in the church I had rather speak five words with my understanding, that *by my voice* I might teach others also, than ten thousand words in an *unknown* tongue. 
+**¹⁹** Yet in the church I had rather speak five words with my understanding, that *by my voice* I might teach others also, than ten thousand words in an *unknown* tongue. 
 
-<sup>20</sup> Brethren, be not children in understanding: howbeit in malice be ye children, but in understanding be men. 
+**²⁰** Brethren, be not children in understanding: howbeit in malice be ye children, but in understanding be men. 
 
-<sup>21</sup> In the law it is written, With *men of* other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord. 
+**²¹** In the law it is written, With *men of* other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord. 
 
-<sup>22</sup> Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying *serveth* not for them that believe not, but for them which believe. 
+**²²** Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying *serveth* not for them that believe not, but for them which believe. 
 
-<sup>23</sup> If therefore the whole church be come together into one place, and all speak with tongues, and there come in *those that are* unlearned, or unbelievers, will they not say that ye are mad? 
+**²³** If therefore the whole church be come together into one place, and all speak with tongues, and there come in *those that are* unlearned, or unbelievers, will they not say that ye are mad? 
 
-<sup>24</sup> But if all prophesy, and there come in one that believeth not, or *one* unlearned, he is convinced of all, he is judged of all: 
+**²⁴** But if all prophesy, and there come in one that believeth not, or *one* unlearned, he is convinced of all, he is judged of all: 
 
-<sup>25</sup> And thus are the secrets of his heart made manifest; and so falling down on *his* face he will worship God, and report that God is in you of a truth. 
+**²⁵** And thus are the secrets of his heart made manifest; and so falling down on *his* face he will worship God, and report that God is in you of a truth. 
 
-<sup>26</sup> How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying. 
+**²⁶** How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying. 
 
-<sup>27</sup> If any man speak in an *unknown* tongue, *let it be* by two, or at the most *by* three, and *that* by course; and let one interpret. 
+**²⁷** If any man speak in an *unknown* tongue, *let it be* by two, or at the most *by* three, and *that* by course; and let one interpret. 
 
-<sup>28</sup> But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God. 
+**²⁸** But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God. 
 
-<sup>29</sup> Let the prophets speak two or three, and let the other judge. 
+**²⁹** Let the prophets speak two or three, and let the other judge. 
 
-<sup>30</sup> If *any thing* be revealed to another that sitteth by, let the first hold his peace. 
+**³⁰** If *any thing* be revealed to another that sitteth by, let the first hold his peace. 
 
-<sup>31</sup> For ye may all prophesy one by one, that all may learn, and all may be comforted. 
+**³¹** For ye may all prophesy one by one, that all may learn, and all may be comforted. 
 
-<sup>32</sup> And the spirits of the prophets are subject to the prophets. 
+**³²** And the spirits of the prophets are subject to the prophets. 
 
-<sup>33</sup> For God is not *the author* of confusion, but of peace, as in all churches of the saints. 
+**³³** For God is not *the author* of confusion, but of peace, as in all churches of the saints. 
 
-<sup>34</sup> Let your women keep silence in the churches: for it is not permitted unto them to speak; but *they are commanded* to be under obedience, as also saith the law. 
+**³⁴** Let your women keep silence in the churches: for it is not permitted unto them to speak; but *they are commanded* to be under obedience, as also saith the law. 
 
-<sup>35</sup> And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church. 
+**³⁵** And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church. 
 
-<sup>36</sup> What? came the word of God out from you? or came it unto you only? 
+**³⁶** What? came the word of God out from you? or came it unto you only? 
 
-<sup>37</sup> If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord. 
+**³⁷** If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord. 
 
-<sup>38</sup> But if any man be ignorant, let him be ignorant. 
+**³⁸** But if any man be ignorant, let him be ignorant. 
 
-<sup>39</sup> Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues. 
+**³⁹** Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues. 
 
-<sup>40</sup> Let all things be done decently and in order. 
+**⁴⁰** Let all things be done decently and in order. 
 

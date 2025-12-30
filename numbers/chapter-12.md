@@ -4,35 +4,35 @@ weight: 12
 
 # Chapter 12
 
-<sup>1</sup> And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman. 
+**¹** And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman. 
 
-<sup>2</sup> And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard *it*. 
+**²** And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard *it*. 
 
-<sup>3</sup> (Now the man Moses *was* very meek, above all the men which *were* upon the face of the earth.) 
+**³** (Now the man Moses *was* very meek, above all the men which *were* upon the face of the earth.) 
 
-<sup>4</sup> And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out. 
+**⁴** And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out. 
 
-<sup>5</sup> And the LORD came down in the pillar of the cloud, and stood *in* the door of the tabernacle, and called Aaron and Miriam: and they both came forth. 
+**⁵** And the LORD came down in the pillar of the cloud, and stood *in* the door of the tabernacle, and called Aaron and Miriam: and they both came forth. 
 
-<sup>6</sup> And he said, Hear now my words: If there be a prophet among you, *I* the LORD will make myself known unto him in a vision, *and* will speak unto him in a dream. 
+**⁶** And he said, Hear now my words: If there be a prophet among you, *I* the LORD will make myself known unto him in a vision, *and* will speak unto him in a dream. 
 
-<sup>7</sup> My servant Moses *is* not so, who *is* faithful in all mine house. 
+**⁷** My servant Moses *is* not so, who *is* faithful in all mine house. 
 
-<sup>8</sup> With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold: wherefore then were ye not afraid to speak against my servant Moses? 
+**⁸** With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold: wherefore then were ye not afraid to speak against my servant Moses? 
 
-<sup>9</sup> And the anger of the LORD was kindled against them; and he departed. 
+**⁹** And the anger of the LORD was kindled against them; and he departed. 
 
-<sup>10</sup> And the cloud departed from off the tabernacle; and, behold, Miriam *became* leprous, *white* as snow: and Aaron looked upon Miriam, and, behold, *she was* leprous. 
+**¹⁰** And the cloud departed from off the tabernacle; and, behold, Miriam *became* leprous, *white* as snow: and Aaron looked upon Miriam, and, behold, *she was* leprous. 
 
-<sup>11</sup> And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned. 
+**¹¹** And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned. 
 
-<sup>12</sup> Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb. 
+**¹²** Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb. 
 
-<sup>13</sup> And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee. 
+**¹³** And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee. 
 
-<sup>14</sup> ¶ And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in *again*. 
+**¹⁴** ¶ And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in *again*. 
 
-<sup>15</sup> And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in *again*. 
+**¹⁵** And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in *again*. 
 
-<sup>16</sup> And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran. 
+**¹⁶** And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran. 
 

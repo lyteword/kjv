@@ -4,23 +4,23 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> And the word of the LORD came unto Jonah the second time, saying, 
+**¹** And the word of the LORD came unto Jonah the second time, saying, 
 
-<sup>2</sup> Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee. 
+**²** Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee. 
 
-<sup>3</sup> So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days’ journey. 
+**³** So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days’ journey. 
 
-<sup>4</sup> And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown. 
+**⁴** And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown. 
 
-<sup>5</sup> ¶ So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them. 
+**⁵** ¶ So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them. 
 
-<sup>6</sup> For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered *him* with sackcloth, and sat in ashes. 
+**⁶** For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered *him* with sackcloth, and sat in ashes. 
 
-<sup>7</sup> And he caused *it* to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water: 
+**⁷** And he caused *it* to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water: 
 
-<sup>8</sup> But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that *is* in their hands. 
+**⁸** But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that *is* in their hands. 
 
-<sup>9</sup> Who can tell *if* God will turn and repent, and turn away from his fierce anger, that we perish not? 
+**⁹** Who can tell *if* God will turn and repent, and turn away from his fierce anger, that we perish not? 
 
-<sup>10</sup> ¶ And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did *it* not. 
+**¹⁰** ¶ And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did *it* not. 
 

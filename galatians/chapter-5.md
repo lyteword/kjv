@@ -4,55 +4,55 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage. 
+**¹** Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage. 
 
-<sup>2</sup> Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing. 
+**²** Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing. 
 
-<sup>3</sup> For I testify again to every man that is circumcised, that he is a debtor to do the whole law. 
+**³** For I testify again to every man that is circumcised, that he is a debtor to do the whole law. 
 
-<sup>4</sup> Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace. 
+**⁴** Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace. 
 
-<sup>5</sup> For we through the Spirit wait for the hope of righteousness by faith. 
+**⁵** For we through the Spirit wait for the hope of righteousness by faith. 
 
-<sup>6</sup> For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love. 
+**⁶** For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love. 
 
-<sup>7</sup> Ye did run well; who did hinder you that ye should not obey the truth? 
+**⁷** Ye did run well; who did hinder you that ye should not obey the truth? 
 
-<sup>8</sup> This persuasion *cometh* not of him that calleth you. 
+**⁸** This persuasion *cometh* not of him that calleth you. 
 
-<sup>9</sup> A little leaven leaveneth the whole lump. 
+**⁹** A little leaven leaveneth the whole lump. 
 
-<sup>10</sup> I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be. 
+**¹⁰** I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be. 
 
-<sup>11</sup> And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased. 
+**¹¹** And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased. 
 
-<sup>12</sup> I would they were even cut off which trouble you. 
+**¹²** I would they were even cut off which trouble you. 
 
-<sup>13</sup> For, brethren, ye have been called unto liberty; only *use* not liberty for an occasion to the flesh, but by love serve one another. 
+**¹³** For, brethren, ye have been called unto liberty; only *use* not liberty for an occasion to the flesh, but by love serve one another. 
 
-<sup>14</sup> For all the law is fulfilled in one word, *even* in this; Thou shalt love thy neighbour as thyself. 
+**¹⁴** For all the law is fulfilled in one word, *even* in this; Thou shalt love thy neighbour as thyself. 
 
-<sup>15</sup> But if ye bite and devour one another, take heed that ye be not consumed one of another. 
+**¹⁵** But if ye bite and devour one another, take heed that ye be not consumed one of another. 
 
-<sup>16</sup> *This* I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh. 
+**¹⁶** *This* I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh. 
 
-<sup>17</sup> For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would. 
+**¹⁷** For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would. 
 
-<sup>18</sup> But if ye be led of the Spirit, ye are not under the law. 
+**¹⁸** But if ye be led of the Spirit, ye are not under the law. 
 
-<sup>19</sup> Now the works of the flesh are manifest, which are *these*; Adultery, fornication, uncleanness, lasciviousness, 
+**¹⁹** Now the works of the flesh are manifest, which are *these*; Adultery, fornication, uncleanness, lasciviousness, 
 
-<sup>20</sup> Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies, 
+**²⁰** Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies, 
 
-<sup>21</sup> Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told *you* in time past, that they which do such things shall not inherit the kingdom of God. 
+**²¹** Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told *you* in time past, that they which do such things shall not inherit the kingdom of God. 
 
-<sup>22</sup> But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, 
+**²²** But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, 
 
-<sup>23</sup> Meekness, temperance: against such there is no law. 
+**²³** Meekness, temperance: against such there is no law. 
 
-<sup>24</sup> And they that are Christ’s have crucified the flesh with the affections and lusts. 
+**²⁴** And they that are Christ’s have crucified the flesh with the affections and lusts. 
 
-<sup>25</sup> If we live in the Spirit, let us also walk in the Spirit. 
+**²⁵** If we live in the Spirit, let us also walk in the Spirit. 
 
-<sup>26</sup> Let us not be desirous of vain glory, provoking one another, envying one another. 
+**²⁶** Let us not be desirous of vain glory, provoking one another, envying one another. 
 

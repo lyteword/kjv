@@ -4,65 +4,65 @@ weight: 22
 
 # Chapter 22
 
-<sup>1</sup> Moreover the word of the LORD came unto me, saying, 
+**¹** Moreover the word of the LORD came unto me, saying, 
 
-<sup>2</sup> Now, thou son of man, wilt thou judge, wilt thou judge the bloody city? yea, thou shalt shew her all her abominations. 
+**²** Now, thou son of man, wilt thou judge, wilt thou judge the bloody city? yea, thou shalt shew her all her abominations. 
 
-<sup>3</sup> Then say thou, Thus saith the Lord GOD, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself. 
+**³** Then say thou, Thus saith the Lord GOD, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself. 
 
-<sup>4</sup> Thou art become guilty in thy blood that thou hast shed; and hast defiled thyself in thine idols which thou hast made; and thou hast caused thy days to draw near, and art come *even* unto thy years: therefore have I made thee a reproach unto the heathen, and a mocking to all countries. 
+**⁴** Thou art become guilty in thy blood that thou hast shed; and hast defiled thyself in thine idols which thou hast made; and thou hast caused thy days to draw near, and art come *even* unto thy years: therefore have I made thee a reproach unto the heathen, and a mocking to all countries. 
 
-<sup>5</sup> *Those that be* near, and *those that be* far from thee, shall mock thee, *which art* infamous *and* much vexed. 
+**⁵** *Those that be* near, and *those that be* far from thee, shall mock thee, *which art* infamous *and* much vexed. 
 
-<sup>6</sup> Behold, the princes of Israel, every one were in thee to their power to shed blood. 
+**⁶** Behold, the princes of Israel, every one were in thee to their power to shed blood. 
 
-<sup>7</sup> In thee have they set light by father and mother: in the midst of thee have they dealt by oppression with the stranger: in thee have they vexed the fatherless and the widow. 
+**⁷** In thee have they set light by father and mother: in the midst of thee have they dealt by oppression with the stranger: in thee have they vexed the fatherless and the widow. 
 
-<sup>8</sup> Thou hast despised mine holy things, and hast profaned my sabbaths. 
+**⁸** Thou hast despised mine holy things, and hast profaned my sabbaths. 
 
-<sup>9</sup> In thee are men that carry tales to shed blood: and in thee they eat upon the mountains: in the midst of thee they commit lewdness. 
+**⁹** In thee are men that carry tales to shed blood: and in thee they eat upon the mountains: in the midst of thee they commit lewdness. 
 
-<sup>10</sup> In thee have they discovered their fathers’ nakedness: in thee have they humbled her that was set apart for pollution. 
+**¹⁰** In thee have they discovered their fathers’ nakedness: in thee have they humbled her that was set apart for pollution. 
 
-<sup>11</sup> And one hath committed abomination with his neighbour’s wife; and another hath lewdly defiled his daughter in law; and another in thee hath humbled his sister, his father’s daughter. 
+**¹¹** And one hath committed abomination with his neighbour’s wife; and another hath lewdly defiled his daughter in law; and another in thee hath humbled his sister, his father’s daughter. 
 
-<sup>12</sup> In thee have they taken gifts to shed blood; thou hast taken usury and increase, and thou hast greedily gained of thy neighbours by extortion, and hast forgotten me, saith the Lord GOD. 
+**¹²** In thee have they taken gifts to shed blood; thou hast taken usury and increase, and thou hast greedily gained of thy neighbours by extortion, and hast forgotten me, saith the Lord GOD. 
 
-<sup>13</sup> ¶ Behold, therefore I have smitten mine hand at thy dishonest gain which thou hast made, and at thy blood which hath been in the midst of thee. 
+**¹³** ¶ Behold, therefore I have smitten mine hand at thy dishonest gain which thou hast made, and at thy blood which hath been in the midst of thee. 
 
-<sup>14</sup> Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee? I the LORD have spoken *it*, and will do *it*. 
+**¹⁴** Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee? I the LORD have spoken *it*, and will do *it*. 
 
-<sup>15</sup> And I will scatter thee among the heathen, and disperse thee in the countries, and will consume thy filthiness out of thee. 
+**¹⁵** And I will scatter thee among the heathen, and disperse thee in the countries, and will consume thy filthiness out of thee. 
 
-<sup>16</sup> And thou shalt take thine inheritance in thyself in the sight of the heathen, and thou shalt know that I *am* the LORD. 
+**¹⁶** And thou shalt take thine inheritance in thyself in the sight of the heathen, and thou shalt know that I *am* the LORD. 
 
-<sup>17</sup> And the word of the LORD came unto me, saying, 
+**¹⁷** And the word of the LORD came unto me, saying, 
 
-<sup>18</sup> Son of man, the house of Israel is to me become dross: all they *are* brass, and tin, and iron, and lead, in the midst of the furnace; they are *even* the dross of silver. 
+**¹⁸** Son of man, the house of Israel is to me become dross: all they *are* brass, and tin, and iron, and lead, in the midst of the furnace; they are *even* the dross of silver. 
 
-<sup>19</sup> Therefore thus saith the Lord GOD; Because ye are all become dross, behold, therefore I will gather you into the midst of Jerusalem. 
+**¹⁹** Therefore thus saith the Lord GOD; Because ye are all become dross, behold, therefore I will gather you into the midst of Jerusalem. 
 
-<sup>20</sup> *As* they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt *it;* so will I gather *you* in mine anger and in my fury, and I will leave *you there*, and melt you. 
+**²⁰** *As* they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt *it;* so will I gather *you* in mine anger and in my fury, and I will leave *you there*, and melt you. 
 
-<sup>21</sup> Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof. 
+**²¹** Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof. 
 
-<sup>22</sup> As silver is melted in the midst of the furnace, so shall ye be melted in the midst thereof; and ye shall know that I the LORD have poured out my fury upon you. 
+**²²** As silver is melted in the midst of the furnace, so shall ye be melted in the midst thereof; and ye shall know that I the LORD have poured out my fury upon you. 
 
-<sup>23</sup> ¶ And the word of the LORD came unto me, saying, 
+**²³** ¶ And the word of the LORD came unto me, saying, 
 
-<sup>24</sup> Son of man, say unto her, Thou *art* the land that is not cleansed, nor rained upon in the day of indignation. 
+**²⁴** Son of man, say unto her, Thou *art* the land that is not cleansed, nor rained upon in the day of indignation. 
 
-<sup>25</sup> *There is* a conspiracy of her prophets in the midst thereof, like a roaring lion ravening the prey; they have devoured souls; they have taken the treasure and precious things; they have made her many widows in the midst thereof. 
+**²⁵** *There is* a conspiracy of her prophets in the midst thereof, like a roaring lion ravening the prey; they have devoured souls; they have taken the treasure and precious things; they have made her many widows in the midst thereof. 
 
-<sup>26</sup> Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed *difference* between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them. 
+**²⁶** Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed *difference* between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them. 
 
-<sup>27</sup> Her princes in the midst thereof *are* like wolves ravening the prey, to shed blood, *and* to destroy souls, to get dishonest gain. 
+**²⁷** Her princes in the midst thereof *are* like wolves ravening the prey, to shed blood, *and* to destroy souls, to get dishonest gain. 
 
-<sup>28</sup> And her prophets have daubed them with untempered *morter*, seeing vanity, and divining lies unto them, saying, Thus saith the Lord GOD, when the LORD hath not spoken. 
+**²⁸** And her prophets have daubed them with untempered *morter*, seeing vanity, and divining lies unto them, saying, Thus saith the Lord GOD, when the LORD hath not spoken. 
 
-<sup>29</sup> The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy: yea, they have oppressed the stranger wrongfully. 
+**²⁹** The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy: yea, they have oppressed the stranger wrongfully. 
 
-<sup>30</sup> And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none. 
+**³⁰** And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none. 
 
-<sup>31</sup> Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads, saith the Lord GOD. 
+**³¹** Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads, saith the Lord GOD. 
 

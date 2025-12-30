@@ -4,77 +4,77 @@ weight: 19
 
 # Chapter 19
 
-<sup>1</sup> And it came to pass, when king Hezekiah heard *it*, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD. 
+**¹** And it came to pass, when king Hezekiah heard *it*, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD. 
 
-<sup>2</sup> And he sent Eliakim, which *was* over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz. 
+**²** And he sent Eliakim, which *was* over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz. 
 
-<sup>3</sup> And they said unto him, Thus saith Hezekiah, This day *is* a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and *there is* not strength to bring forth. 
+**³** And they said unto him, Thus saith Hezekiah, This day *is* a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and *there is* not strength to bring forth. 
 
-<sup>4</sup> It may be the LORD thy God will hear all the words of Rab-shakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the LORD thy God hath heard: wherefore lift up *thy* prayer for the remnant that are left. 
+**⁴** It may be the LORD thy God will hear all the words of Rab-shakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the LORD thy God hath heard: wherefore lift up *thy* prayer for the remnant that are left. 
 
-<sup>5</sup> So the servants of king Hezekiah came to Isaiah. 
+**⁵** So the servants of king Hezekiah came to Isaiah. 
 
-<sup>6</sup> ¶ And Isaiah said unto them, Thus shall ye say to your master, Thus saith the LORD, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me. 
+**⁶** ¶ And Isaiah said unto them, Thus shall ye say to your master, Thus saith the LORD, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me. 
 
-<sup>7</sup> Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land. 
+**⁷** Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land. 
 
-<sup>8</sup> ¶ So Rab-shakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish. 
+**⁸** ¶ So Rab-shakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish. 
 
-<sup>9</sup> And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying, 
+**⁹** And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying, 
 
-<sup>10</sup> Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria. 
+**¹⁰** Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria. 
 
-<sup>11</sup> Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered? 
+**¹¹** Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered? 
 
-<sup>12</sup> Have the gods of the nations delivered them which my fathers have destroyed; *as* Gozan, and Haran, and Rezeph, and the children of Eden which *were* in Thelasar? 
+**¹²** Have the gods of the nations delivered them which my fathers have destroyed; *as* Gozan, and Haran, and Rezeph, and the children of Eden which *were* in Thelasar? 
 
-<sup>13</sup> Where *is* the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah? 
+**¹³** Where *is* the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah? 
 
-<sup>14</sup> ¶ And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD. 
+**¹⁴** ¶ And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD. 
 
-<sup>15</sup> And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest *between* the cherubims, thou art the God, *even* thou alone, of all the kingdoms of the earth; thou hast made heaven and earth. 
+**¹⁵** And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest *between* the cherubims, thou art the God, *even* thou alone, of all the kingdoms of the earth; thou hast made heaven and earth. 
 
-<sup>16</sup> LORD, bow down thine ear, and hear: open, LORD, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God. 
+**¹⁶** LORD, bow down thine ear, and hear: open, LORD, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God. 
 
-<sup>17</sup> Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands, 
+**¹⁷** Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands, 
 
-<sup>18</sup> And have cast their gods into the fire: for they *were* no gods, but the work of men’s hands, wood and stone: therefore they have destroyed them. 
+**¹⁸** And have cast their gods into the fire: for they *were* no gods, but the work of men’s hands, wood and stone: therefore they have destroyed them. 
 
-<sup>19</sup> Now therefore, O LORD our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou *art* the LORD God, *even* thou only. 
+**¹⁹** Now therefore, O LORD our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou *art* the LORD God, *even* thou only. 
 
-<sup>20</sup> ¶ Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, *That* which thou hast prayed to me against Sennacherib king of Assyria I have heard. 
+**²⁰** ¶ Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, *That* which thou hast prayed to me against Sennacherib king of Assyria I have heard. 
 
-<sup>21</sup> This *is* the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised thee, *and* laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee. 
+**²¹** This *is* the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised thee, *and* laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee. 
 
-<sup>22</sup> Whom hast thou reproached and blasphemed? and against whom hast thou exalted *thy* voice, and lifted up thine eyes on high? *even* against the Holy *One* of Israel. 
+**²²** Whom hast thou reproached and blasphemed? and against whom hast thou exalted *thy* voice, and lifted up thine eyes on high? *even* against the Holy *One* of Israel. 
 
-<sup>23</sup> By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, *and* the choice fir trees thereof: and I will enter into the lodgings of his borders, *and into* the forest of his Carmel. 
+**²³** By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, *and* the choice fir trees thereof: and I will enter into the lodgings of his borders, *and into* the forest of his Carmel. 
 
-<sup>24</sup> I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places. 
+**²⁴** I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places. 
 
-<sup>25</sup> Hast thou not heard long ago *how* I have done it, *and* of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities *into* ruinous heaps. 
+**²⁵** Hast thou not heard long ago *how* I have done it, *and* of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities *into* ruinous heaps. 
 
-<sup>26</sup> Therefore their inhabitants were of small power, they were dismayed and confounded; they were *as* the grass of the field, and *as* the green herb, *as* the grass on the housetops, and *as corn* blasted before it be grown up. 
+**²⁶** Therefore their inhabitants were of small power, they were dismayed and confounded; they were *as* the grass of the field, and *as* the green herb, *as* the grass on the housetops, and *as corn* blasted before it be grown up. 
 
-<sup>27</sup> But I know thy abode, and thy going out, and thy coming in, and thy rage against me. 
+**²⁷** But I know thy abode, and thy going out, and thy coming in, and thy rage against me. 
 
-<sup>28</sup> Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest. 
+**²⁸** Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest. 
 
-<sup>29</sup> And this *shall be* a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof. 
+**²⁹** And this *shall be* a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof. 
 
-<sup>30</sup> And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward. 
+**³⁰** And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward. 
 
-<sup>31</sup> For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD *of hosts* shall do this. 
+**³¹** For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD *of hosts* shall do this. 
 
-<sup>32</sup> Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it. 
+**³²** Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it. 
 
-<sup>33</sup> By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD. 
+**³³** By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD. 
 
-<sup>34</sup> For I will defend this city, to save it, for mine own sake, and for my servant David’s sake. 
+**³⁴** For I will defend this city, to save it, for mine own sake, and for my servant David’s sake. 
 
-<sup>35</sup> ¶ And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they *were* all dead corpses. 
+**³⁵** ¶ And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they *were* all dead corpses. 
 
-<sup>36</sup> So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh. 
+**³⁶** So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh. 
 
-<sup>37</sup> And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esar-haddon his son reigned in his stead. 
+**³⁷** And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esar-haddon his son reigned in his stead. 
 

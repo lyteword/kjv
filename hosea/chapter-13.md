@@ -4,35 +4,35 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died. 
+**¹** When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died. 
 
-<sup>2</sup> And now they sin more and more, and have made them molten images of their silver, *and* idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves. 
+**²** And now they sin more and more, and have made them molten images of their silver, *and* idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves. 
 
-<sup>3</sup> Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff *that* is driven with the whirlwind out of the floor, and as the smoke out of the chimney. 
+**³** Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff *that* is driven with the whirlwind out of the floor, and as the smoke out of the chimney. 
 
-<sup>4</sup> Yet I *am* the LORD thy God from the land of Egypt, and thou shalt know no god but me: for *there is* no saviour beside me. 
+**⁴** Yet I *am* the LORD thy God from the land of Egypt, and thou shalt know no god but me: for *there is* no saviour beside me. 
 
-<sup>5</sup> ¶ I did know thee in the wilderness, in the land of great drought. 
+**⁵** ¶ I did know thee in the wilderness, in the land of great drought. 
 
-<sup>6</sup> According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me. 
+**⁶** According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me. 
 
-<sup>7</sup> Therefore I will be unto them as a lion: as a leopard by the way will I observe *them:* 
+**⁷** Therefore I will be unto them as a lion: as a leopard by the way will I observe *them:* 
 
-<sup>8</sup> I will meet them as a bear *that is* bereaved *of her whelps*, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them. 
+**⁸** I will meet them as a bear *that is* bereaved *of her whelps*, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them. 
 
-<sup>9</sup> ¶ O Israel, thou hast destroyed thyself; but in me *is* thine help. 
+**⁹** ¶ O Israel, thou hast destroyed thyself; but in me *is* thine help. 
 
-<sup>10</sup> I will be thy king: where *is any other* that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes? 
+**¹⁰** I will be thy king: where *is any other* that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes? 
 
-<sup>11</sup> I gave thee a king in mine anger, and took *him* away in my wrath. 
+**¹¹** I gave thee a king in mine anger, and took *him* away in my wrath. 
 
-<sup>12</sup> The iniquity of Ephraim *is* bound up; his sin *is* hid. 
+**¹²** The iniquity of Ephraim *is* bound up; his sin *is* hid. 
 
-<sup>13</sup> The sorrows of a travailing woman shall come upon him: he *is* an unwise son; for he should not stay long in *the place of* the breaking forth of children. 
+**¹³** The sorrows of a travailing woman shall come upon him: he *is* an unwise son; for he should not stay long in *the place of* the breaking forth of children. 
 
-<sup>14</sup> I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes. 
+**¹⁴** I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes. 
 
-<sup>15</sup> ¶ Though he be fruitful among *his* brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels. 
+**¹⁵** ¶ Though he be fruitful among *his* brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels. 
 
-<sup>16</sup> Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up. 
+**¹⁶** Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up. 
 

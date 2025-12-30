@@ -4,35 +4,35 @@ weight: 11
 
 # Chapter 11
 
-<sup>1</sup> And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots: 
+**¹** And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots: 
 
-<sup>2</sup> And the spirit of the LORD shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the LORD; 
+**²** And the spirit of the LORD shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the LORD; 
 
-<sup>3</sup> And shall make him of quick understanding in the fear of the LORD: and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears: 
+**³** And shall make him of quick understanding in the fear of the LORD: and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears: 
 
-<sup>4</sup> But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked. 
+**⁴** But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked. 
 
-<sup>5</sup> And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins. 
+**⁵** And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins. 
 
-<sup>6</sup> The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them. 
+**⁶** The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them. 
 
-<sup>7</sup> And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox. 
+**⁷** And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox. 
 
-<sup>8</sup> And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den. 
+**⁸** And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den. 
 
-<sup>9</sup> They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea. 
+**⁹** They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea. 
 
-<sup>10</sup> ¶ And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek: and his rest shall be glorious. 
+**¹⁰** ¶ And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek: and his rest shall be glorious. 
 
-<sup>11</sup> And it shall come to pass in that day, *that* the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea. 
+**¹¹** And it shall come to pass in that day, *that* the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea. 
 
-<sup>12</sup> And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth. 
+**¹²** And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth. 
 
-<sup>13</sup> The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim. 
+**¹³** The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim. 
 
-<sup>14</sup> But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together: they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them. 
+**¹⁴** But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together: they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them. 
 
-<sup>15</sup> And the LORD shall utterly destroy the tongue of the Egyptian sea; and with his mighty wind shall he shake his hand over the river, and shall smite it in the seven streams, and make *men* go over dryshod. 
+**¹⁵** And the LORD shall utterly destroy the tongue of the Egyptian sea; and with his mighty wind shall he shake his hand over the river, and shall smite it in the seven streams, and make *men* go over dryshod. 
 
-<sup>16</sup> And there shall be an highway for the remnant of his people, which shall be left, from Assyria; like as it was to Israel in the day that he came up out of the land of Egypt. 
+**¹⁶** And there shall be an highway for the remnant of his people, which shall be left, from Assyria; like as it was to Israel in the day that he came up out of the land of Egypt. 
 

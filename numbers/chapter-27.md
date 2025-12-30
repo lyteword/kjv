@@ -4,49 +4,49 @@ weight: 27
 
 # Chapter 27
 
-<sup>1</sup> Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these *are* the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah. 
+**¹** Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these *are* the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah. 
 
-<sup>2</sup> And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, *by* the door of the tabernacle of the congregation, saying, 
+**²** And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, *by* the door of the tabernacle of the congregation, saying, 
 
-<sup>3</sup> Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the LORD in the company of Korah; but died in his own sin, and had no sons. 
+**³** Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the LORD in the company of Korah; but died in his own sin, and had no sons. 
 
-<sup>4</sup> Why should the name of our father be done away from among his family, because he hath no son? Give unto us *therefore* a possession among the brethren of our father. 
+**⁴** Why should the name of our father be done away from among his family, because he hath no son? Give unto us *therefore* a possession among the brethren of our father. 
 
-<sup>5</sup> And Moses brought their cause before the LORD. 
+**⁵** And Moses brought their cause before the LORD. 
 
-<sup>6</sup> ¶ And the LORD spake unto Moses, saying, 
+**⁶** ¶ And the LORD spake unto Moses, saying, 
 
-<sup>7</sup> The daughters of Zelophehad speak right: thou shalt surely give them a possession of an inheritance among their father’s brethren; and thou shalt cause the inheritance of their father to pass unto them. 
+**⁷** The daughters of Zelophehad speak right: thou shalt surely give them a possession of an inheritance among their father’s brethren; and thou shalt cause the inheritance of their father to pass unto them. 
 
-<sup>8</sup> And thou shalt speak unto the children of Israel, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter. 
+**⁸** And thou shalt speak unto the children of Israel, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter. 
 
-<sup>9</sup> And if he have no daughter, then ye shall give his inheritance unto his brethren. 
+**⁹** And if he have no daughter, then ye shall give his inheritance unto his brethren. 
 
-<sup>10</sup> And if he have no brethren, then ye shall give his inheritance unto his father’s brethren. 
+**¹⁰** And if he have no brethren, then ye shall give his inheritance unto his father’s brethren. 
 
-<sup>11</sup> And if his father have no brethren, then ye shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute of judgment, as the LORD commanded Moses. 
+**¹¹** And if his father have no brethren, then ye shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute of judgment, as the LORD commanded Moses. 
 
-<sup>12</sup> ¶ And the LORD said unto Moses, Get thee up into this mount Abarim, and see the land which I have given unto the children of Israel. 
+**¹²** ¶ And the LORD said unto Moses, Get thee up into this mount Abarim, and see the land which I have given unto the children of Israel. 
 
-<sup>13</sup> And when thou hast seen it, thou also shalt be gathered unto thy people, as Aaron thy brother was gathered. 
+**¹³** And when thou hast seen it, thou also shalt be gathered unto thy people, as Aaron thy brother was gathered. 
 
-<sup>14</sup> For ye rebelled against my commandment in the desert of Zin, in the strife of the congregation, to sanctify me at the water before their eyes: that *is* the water of Meribah in Kadesh in the wilderness of Zin. 
+**¹⁴** For ye rebelled against my commandment in the desert of Zin, in the strife of the congregation, to sanctify me at the water before their eyes: that *is* the water of Meribah in Kadesh in the wilderness of Zin. 
 
-<sup>15</sup> ¶ And Moses spake unto the LORD, saying, 
+**¹⁵** ¶ And Moses spake unto the LORD, saying, 
 
-<sup>16</sup> Let the LORD, the God of the spirits of all flesh, set a man over the congregation, 
+**¹⁶** Let the LORD, the God of the spirits of all flesh, set a man over the congregation, 
 
-<sup>17</sup> Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the LORD be not as sheep which have no shepherd. 
+**¹⁷** Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the LORD be not as sheep which have no shepherd. 
 
-<sup>18</sup> ¶ And the LORD said unto Moses, Take thee Joshua the son of Nun, a man in whom *is* the spirit, and lay thine hand upon him; 
+**¹⁸** ¶ And the LORD said unto Moses, Take thee Joshua the son of Nun, a man in whom *is* the spirit, and lay thine hand upon him; 
 
-<sup>19</sup> And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight. 
+**¹⁹** And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight. 
 
-<sup>20</sup> And thou shalt put *some* of thine honour upon him, that all the congregation of the children of Israel may be obedient. 
+**²⁰** And thou shalt put *some* of thine honour upon him, that all the congregation of the children of Israel may be obedient. 
 
-<sup>21</sup> And he shall stand before Eleazar the priest, who shall ask *counsel* for him after the judgment of Urim before the LORD: at his word shall they go out, and at his word they shall come in, *both* he, and all the children of Israel with him, even all the congregation. 
+**²¹** And he shall stand before Eleazar the priest, who shall ask *counsel* for him after the judgment of Urim before the LORD: at his word shall they go out, and at his word they shall come in, *both* he, and all the children of Israel with him, even all the congregation. 
 
-<sup>22</sup> And Moses did as the LORD commanded him: and he took Joshua, and set him before Eleazar the priest, and before all the congregation: 
+**²²** And Moses did as the LORD commanded him: and he took Joshua, and set him before Eleazar the priest, and before all the congregation: 
 
-<sup>23</sup> And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses. 
+**²³** And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses. 
 
