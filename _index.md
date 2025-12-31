@@ -1,5 +1,6 @@
 ---
 title: King James Version
+linkTitle: KJV
 sidebar:
   exclude: true
 cascade:
