@@ -7,7 +7,15 @@ cascade:
   toc: true
 ---
 
-## The Old Testament
+The King James Version (KJV), also known as the King James Bible or the Authorized Version, is an Early Modern English translation of the Christian Bible. It was commissioned in 1604 for the Church of England and published in 1611 under the authority of King James VI and I. Renowned for its dignified and enduring style, the KJV has been used continuously for more than four hundred years. It has had a lasting influence on English literature, Christian theology, worship practices, and the development of common English expressions, making it one of the most influential Bible translations in history.
+
+## Table of Contents
+
+{{< cards >}}
+  {{< card link="./preface" title="Preface" icon="book-open" >}}
+{{< /cards >}}
+
+### The Old Testament
 
 {{< cards >}}
   {{< card link="./genesis" title="Genesis" icon="book-open" >}}
@@ -51,7 +59,7 @@ cascade:
   {{< card link="./malachi" title="Malachi" icon="book-open" >}}
 {{< /cards >}}
 
-## The New Testament
+### The New Testament
 
 {{< cards >}}
   {{< card link="./matthew" title="Matthew" icon="book-open" >}}
