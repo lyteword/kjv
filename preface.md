@@ -7,11 +7,15 @@ cascade:
   toc: true
 ---
 
-*Below is the original essay prefixed to the King James Version in the edition of 1611, in which the translators defend their version against criticisms they expected to be brought against it. The text here has been taken from The Holy Bible, an Exact Reprint Page for Page of the Authorized Version Published in the Year MDCXI (Oxford, 1833). In addition to the translators’ notes, the original epistle dedicatory to King James I from the 1611 edition is also included. Italics have been removed throughout the full preface text. The spelling has been modernized; the subject headings (which were originally set in the margins) are placed within the body of the text; and the Scripture references formerly in the margins are inserted into the text in square brackets. The many references to works of the Church Fathers that appeared in the margins are here omitted.*
+*Below is the original essay prefixed to the King James Version in the edition of 1611, in which the translators defend their version against criticisms they expected to be brought against it. The text here has been taken from "The Holy Bible, an Exact Reprint Page for Page of the Authorized Version Published in the Year 1611" (Oxford, 1833).*
+
+*In addition to the translators’ notes, the original epistle dedicatory to King James I from the 1611 edition is also included. Italics have been removed throughout the full preface text. The spelling has been modernized; the subject headings (which were originally set in the margins) are placed within the body of the text; and the Scripture references formerly in the margins are inserted into the text in square brackets. The many references to works of the Church Fathers that appeared in the margins are here omitted.*
 
 ## Epistle and Dedicatory
 
-> To the most high and mighty Prince, James by the grace of God, King of Great Britain, France and Ireland, Defender of the Faith , etc. The translators of The Bible, wish Grace, Mercy, and Peace, through Jesus Christ our Lord.
+*To the most high and mighty Prince, James by the grace of God, King of Great Britain, France and Ireland, Defender of the Faith, etc.*
+
+The translators of The Bible, wish Grace, Mercy, and Peace, through Jesus Christ our Lord.
 
 Great and manifold were the blessings (most dread Sovereign) which Almighty God, the Father of all Mercies, bestowed upon us, the people of England, when first He sent Your Majesty’s royal person to rule and reign over us. For whereas it was the expectation of many, who wished not well unto our Zion, that upon the setting of that bright Occidental star, Queen Elizabeth of most happy memory, some thick and palpable clouds of darkness would so have overshadowed this land that men should have been in doubt which way they were to walk, and that it should hardly be known who was to direct the unsettled state: the appearance of Your Majesty, as of the sun in his strength, instantly dispelled those supposed and surmised mists, and gave unto all that were well affected exceeding cause of comfort; especially when we beheld the government established in Your Highness and Your hopeful seed, by an undoubted title, and this also accompanied with peace and tranquility, at home and abroad.
 
