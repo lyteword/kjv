@@ -76,8 +76,8 @@ The King James Version (KJV), also known as the King James Bible or the Authoriz
   {{< card link="./colossians" title="Colossians" icon="book-open" >}}
   {{< card link="./1-thessalonians" title="1 Thessalonians" icon="book-open" >}}
   {{< card link="./2-thessalonians" title="2 Thessalonians" icon="book-open" >}}
-  {{< card link="./1-timothy" title="1-Timothy" icon="book-open" >}}
-  {{< card link="./2-timothy" title="2-Timothy" icon="book-open" >}}
+  {{< card link="./1-timothy" title="1 Timothy" icon="book-open" >}}
+  {{< card link="./2-timothy" title="2 Timothy" icon="book-open" >}}
   {{< card link="./titus" title="Titus" icon="book-open" >}}
   {{< card link="./philemon" title="Philemon" icon="book-open" >}}
   {{< card link="./hebrews" title="Hebrews" icon="book-open" >}}
