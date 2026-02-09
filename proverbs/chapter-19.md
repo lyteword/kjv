@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Proverbs 19 Online | Better *is* the poor that walketh in his integrity, than *he that is* perverse in his lips, and is a fool..."
 weight: 19
 ---
 
-# Chapter 19
+# Proverbs 19 
 
 **¹** Better *is* the poor that walketh in his integrity, than *he that is* perverse in his lips, and is a fool. 
 

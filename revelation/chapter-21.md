@@ -1,8 +1,11 @@
 ---
+title: "Revelation 21 KJV | Read the Bible Online"
+linkTitle: "21"
+description: "Read Revelation 21 Online | And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea..."
 weight: 21
 ---
 
-# Chapter 21
+# Revelation 21 
 
 **¹** And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea. 
 

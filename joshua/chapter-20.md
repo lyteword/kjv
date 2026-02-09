@@ -1,8 +1,11 @@
 ---
+title: "Joshua 20 KJV | Read the Bible Online"
+linkTitle: "20"
+description: "Read Joshua 20 Online | The LORD also spake unto Joshua, saying..."
 weight: 20
 ---
 
-# Chapter 20
+# Joshua 20 
 
 **¹** The LORD also spake unto Joshua, saying, 
 

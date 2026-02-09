@@ -1,8 +1,11 @@
 ---
+title: "Galatians 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Galatians 4 Online | Now I say, *That* the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all..."
 weight: 4
 ---
 
-# Chapter 4
+# Galatians 4 
 
 **¹** Now I say, *That* the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all; 
 

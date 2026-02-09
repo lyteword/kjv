@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Nehemiah 3 Online | Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel..."
 weight: 3
 ---
 
-# Chapter 3
+# Nehemiah 3 
 
 **¹** Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel. 
 

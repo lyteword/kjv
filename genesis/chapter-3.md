@@ -1,8 +1,11 @@
 ---
+title: "Genesis 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Genesis 3 Online | Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden..."
 weight: 3
 ---
 
-# Chapter 3
+# Genesis 3 
 
 **¹** Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? 
 

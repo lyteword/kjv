@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 13 KJV | Read the Bible Online"
+linkTitle: "13"
+description: "Read Deuteronomy 13 Online | If there arise among you a prophet, or a dreamer of dreams, and giveth thee a sign or a wonder..."
 weight: 13
 ---
 
-# Chapter 13
+# Deuteronomy 13 
 
 **¹** If there arise among you a prophet, or a dreamer of dreams, and giveth thee a sign or a wonder, 
 

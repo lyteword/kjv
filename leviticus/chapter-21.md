@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 21 KJV | Read the Bible Online"
+linkTitle: "21"
+description: "Read Leviticus 21 Online | And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people..."
 weight: 21
 ---
 
-# Chapter 21
+# Leviticus 21 
 
 **¹** And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people: 
 

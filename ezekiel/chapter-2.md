@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ezekiel 2 Online | And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee..."
 weight: 2
 ---
 
-# Chapter 2
+# Ezekiel 2 
 
 **¹** And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 40 KJV | Read the Bible Online"
+linkTitle: "40"
+description: "Read Job 40 Online | Moreover the LORD answered Job, and said..."
 weight: 40
 ---
 
-# Chapter 40
+# Job 40 
 
 **¹** Moreover the LORD answered Job, and said, 
 

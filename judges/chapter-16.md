@@ -1,8 +1,11 @@
 ---
+title: "Judges 16 KJV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Judges 16 Online | Then went Samson to Gaza, and saw there an harlot, and went in unto her..."
 weight: 16
 ---
 
-# Chapter 16
+# Judges 16 
 
 **¹** Then went Samson to Gaza, and saw there an harlot, and went in unto her. 
 

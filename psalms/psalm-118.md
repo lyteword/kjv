@@ -1,8 +1,11 @@
 ---
+title: "Psalm 118 KJV | Read the Bible Online"
+linkTitle: "118"
+description: "Read Psalm 118 Online | O give thanks unto the LORD; for *he is* good: because his mercy *endureth* for ever..."
 weight: 118
 ---
 
-# Psalm 118
+# Psalm 118 
 
 **¹** O give thanks unto the LORD; for *he is* good: because his mercy *endureth* for ever. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Numbers 12 Online | And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman..."
 weight: 12
 ---
 
-# Chapter 12
+# Numbers 12 
 
 **¹** And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman. 
 

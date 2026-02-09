@@ -1,8 +1,11 @@
 ---
+title: "2 Peter 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Peter 2 Online | But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Peter 2 
 
 **¹** But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction. 
 

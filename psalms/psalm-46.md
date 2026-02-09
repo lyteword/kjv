@@ -1,8 +1,11 @@
 ---
+title: "Psalm 46 KJV | Read the Bible Online"
+linkTitle: "46"
+description: "Read Psalm 46 Online | God *is* our refuge and strength, a very present help in trouble..."
 weight: 46
 ---
 
-# Psalm 46
+# Psalm 46 
 
 **¹** God *is* our refuge and strength, a very present help in trouble. 
 

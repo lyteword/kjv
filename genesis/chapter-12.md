@@ -1,8 +1,11 @@
 ---
+title: "Genesis 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Genesis 12 Online | Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee..."
 weight: 12
 ---
 
-# Chapter 12
+# Genesis 12 
 
 **¹** Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee: 
 

@@ -1,8 +1,11 @@
 ---
+title: "Amos 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Amos 3 Online | Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying..."
 weight: 3
 ---
 
-# Chapter 3
+# Amos 3 
 
 **¹** Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying, 
 

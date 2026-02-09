@@ -1,8 +1,11 @@
 ---
+title: "John 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read John 19 Online | Then Pilate therefore took Jesus, and scourged *him*..."
 weight: 19
 ---
 
-# Chapter 19
+# John 19 
 
 **¹** Then Pilate therefore took Jesus, and scourged *him*. 
 

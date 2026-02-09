@@ -1,8 +1,11 @@
 ---
+title: "Psalm 47 KJV | Read the Bible Online"
+linkTitle: "47"
+description: "Read Psalm 47 Online | O clap your hands, all ye people; shout unto God with the voice of triumph..."
 weight: 47
 ---
 
-# Psalm 47
+# Psalm 47 
 
 **¹** O clap your hands, all ye people; shout unto God with the voice of triumph. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 44 KJV | Read the Bible Online"
+linkTitle: "44"
+description: "Read Ezekiel 44 Online | Then he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it *was* shut..."
 weight: 44
 ---
 
-# Chapter 44
+# Ezekiel 44 
 
 **¹** Then he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it *was* shut. 
 

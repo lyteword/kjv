@@ -1,8 +1,11 @@
 ---
+title: "Philippians 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Philippians 4 Online | Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, *my* dearly beloved..."
 weight: 4
 ---
 
-# Chapter 4
+# Philippians 4 
 
 **¹** Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, *my* dearly beloved. 
 

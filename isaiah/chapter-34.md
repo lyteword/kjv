@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 34 KJV | Read the Bible Online"
+linkTitle: "34"
+description: "Read Isaiah 34 Online | Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it..."
 weight: 34
 ---
 
-# Chapter 34
+# Isaiah 34 
 
 **¹** Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Revelation 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Revelation 19 Online | And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God..."
 weight: 19
 ---
 
-# Chapter 19
+# Revelation 19 
 
 **¹** And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God: 
 

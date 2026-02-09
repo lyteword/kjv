@@ -1,8 +1,11 @@
 ---
+title: "Philippians 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Philippians 1 Online | Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons..."
 weight: 1
 ---
 
-# Chapter 1
+# Philippians 1 
 
 **¹** Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons: 
 

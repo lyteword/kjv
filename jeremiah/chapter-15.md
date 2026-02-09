@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 15 KJV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Jeremiah 15 Online | Then said the LORD unto me, Though Moses and Samuel stood before me, *yet* my mind *could* not *be* toward this people: cast *them* out of my sight, and let them go forth..."
 weight: 15
 ---
 
-# Chapter 15
+# Jeremiah 15 
 
 **¹** Then said the LORD unto me, Though Moses and Samuel stood before me, *yet* my mind *could* not *be* toward this people: cast *them* out of my sight, and let them go forth. 
 

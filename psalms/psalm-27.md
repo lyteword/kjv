@@ -1,8 +1,11 @@
 ---
+title: "Psalm 27 KJV | Read the Bible Online"
+linkTitle: "27"
+description: "Read Psalm 27 Online | The LORD *is* my light and my salvation; whom shall I fear? the LORD *is* the strength of my life; of whom shall I be afraid..."
 weight: 27
 ---
 
-# Psalm 27
+# Psalm 27 
 
 **¹** The LORD *is* my light and my salvation; whom shall I fear? the LORD *is* the strength of my life; of whom shall I be afraid? 
 

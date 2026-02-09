@@ -1,8 +1,11 @@
 ---
+title: "Luke 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Luke 1 Online | Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us..."
 weight: 1
 ---
 
-# Chapter 1
+# Luke 1 
 
 **¹** Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us, 
 

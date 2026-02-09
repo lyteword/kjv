@@ -1,8 +1,11 @@
 ---
+title: "Jude 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Jude 1 Online | Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, *and* called..."
 weight: 1
 ---
 
-# Chapter 1
+# Jude 1 
 
 **¹** Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, *and* called: 
 

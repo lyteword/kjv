@@ -1,8 +1,11 @@
 ---
+title: "Exodus 18 KJV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Exodus 18 Online | When Jethro, the priest of Midian, Moses’ father in law, heard of all that God had done for Moses, and for Israel his people, *and* that the LORD had brought Israel out of Egypt..."
 weight: 18
 ---
 
-# Chapter 18
+# Exodus 18 
 
 **¹** When Jethro, the priest of Midian, Moses’ father in law, heard of all that God had done for Moses, and for Israel his people, *and* that the LORD had brought Israel out of Egypt; 
 

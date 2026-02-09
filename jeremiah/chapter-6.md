@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Jeremiah 6 Online | O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Beth-haccerem: for evil appeareth out of the north, and great destruction..."
 weight: 6
 ---
 
-# Chapter 6
+# Jeremiah 6 
 
 **¹** O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Beth-haccerem: for evil appeareth out of the north, and great destruction. 
 

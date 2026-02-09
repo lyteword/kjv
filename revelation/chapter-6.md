@@ -1,8 +1,11 @@
 ---
+title: "Revelation 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Revelation 6 Online | And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see..."
 weight: 6
 ---
 
-# Chapter 6
+# Revelation 6 
 
 **¹** And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Ezekiel 1 Online | Now it came to pass in the thirtieth year, in the fourth *month*, in the fifth *day* of the month, as I *was* among the captives by the river of Chebar, *that* the heavens were opened, and I saw visions of God..."
 weight: 1
 ---
 
-# Chapter 1
+# Ezekiel 1 
 
 **¹** Now it came to pass in the thirtieth year, in the fourth *month*, in the fifth *day* of the month, as I *was* among the captives by the river of Chebar, *that* the heavens were opened, and I saw visions of God. 
 

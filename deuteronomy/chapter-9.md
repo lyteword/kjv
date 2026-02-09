@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 9 KJV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Deuteronomy 9 Online | Hear, O Israel: Thou *art* to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven..."
 weight: 9
 ---
 
-# Chapter 9
+# Deuteronomy 9 
 
 **¹** Hear, O Israel: Thou *art* to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven, 
 

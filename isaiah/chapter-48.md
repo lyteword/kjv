@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 48 KJV | Read the Bible Online"
+linkTitle: "48"
+description: "Read Isaiah 48 Online | Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the LORD, and make mention of the God of Israel, *but* not in truth, nor in righteousness..."
 weight: 48
 ---
 
-# Chapter 48
+# Isaiah 48 
 
 **¹** Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the LORD, and make mention of the God of Israel, *but* not in truth, nor in righteousness. 
 

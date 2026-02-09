@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 24 KJV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Proverbs 24 Online | Be not thou envious against evil men, neither desire to be with them..."
 weight: 24
 ---
 
-# Chapter 24
+# Proverbs 24 
 
 **¹** Be not thou envious against evil men, neither desire to be with them. 
 

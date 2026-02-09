@@ -1,8 +1,11 @@
 ---
+title: "1 John 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 John 3 Online | Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 John 3 
 
 **¹** Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not. 
 

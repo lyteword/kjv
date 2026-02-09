@@ -1,8 +1,11 @@
 ---
+title: "Matthew 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Matthew 1 Online | The book of the generation of Jesus Christ, the son of David, the son of Abraham..."
 weight: 1
 ---
 
-# Chapter 1
+# Matthew 1 
 
 **¹** The book of the generation of Jesus Christ, the son of David, the son of Abraham. 
 

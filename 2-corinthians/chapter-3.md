@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Corinthians 3 Online | Do we begin again to commend ourselves? or need we, as some *others*, epistles of commendation to you, or *letters* of commendation from you..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Corinthians 3 
 
 **¹** Do we begin again to commend ourselves? or need we, as some *others*, epistles of commendation to you, or *letters* of commendation from you? 
 

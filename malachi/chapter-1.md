@@ -1,8 +1,11 @@
 ---
+title: "Malachi 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Malachi 1 Online | The burden of the word of the LORD to Israel by Malachi..."
 weight: 1
 ---
 
-# Chapter 1
+# Malachi 1 
 
 **¹** The burden of the word of the LORD to Israel by Malachi. 
 

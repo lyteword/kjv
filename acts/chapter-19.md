@@ -1,8 +1,11 @@
 ---
+title: "Acts 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Acts 19 Online | And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples..."
 weight: 19
 ---
 
-# Chapter 19
+# Acts 19 
 
 **¹** And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 21 KJV | Read the Bible Online"
+linkTitle: "21"
+description: "Read Ezekiel 21 Online | And the word of the LORD came unto me, saying..."
 weight: 21
 ---
 
-# Chapter 21
+# Ezekiel 21 
 
 **¹** And the word of the LORD came unto me, saying, 
 

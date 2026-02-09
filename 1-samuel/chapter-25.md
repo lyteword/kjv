@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 25 KJV | Read the Bible Online"
+linkTitle: "25"
+description: "Read 1 Samuel 25 Online | And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran..."
 weight: 25
 ---
 
-# Chapter 25
+# 1 Samuel 25 
 
 **¹** And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran. 
 

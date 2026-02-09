@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Corinthians 5 Online | It is reported commonly *that there is* fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Corinthians 5 
 
 **¹** It is reported commonly *that there is* fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife. 
 

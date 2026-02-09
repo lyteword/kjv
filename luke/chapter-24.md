@@ -1,8 +1,11 @@
 ---
+title: "Luke 24 KJV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Luke 24 Online | Now upon the first *day* of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain *others* with them..."
 weight: 24
 ---
 
-# Chapter 24
+# Luke 24 
 
 **¹** Now upon the first *day* of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain *others* with them. 
 

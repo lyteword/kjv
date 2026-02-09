@@ -1,8 +1,11 @@
 ---
+title: "Psalm 61 KJV | Read the Bible Online"
+linkTitle: "61"
+description: "Read Psalm 61 Online | Hear my cry, O God; attend unto my prayer..."
 weight: 61
 ---
 
-# Psalm 61
+# Psalm 61 
 
 **¹** Hear my cry, O God; attend unto my prayer. 
 

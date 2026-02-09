@@ -1,8 +1,11 @@
 ---
+title: "Luke 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Luke 10 Online | After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come..."
 weight: 10
 ---
 
-# Chapter 10
+# Luke 10 
 
 **¹** After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come. 
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read 2 Corinthians 6 Online | We then, *as* workers together *with him*, beseech *you* also that ye receive not the grace of God in vain..."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Corinthians 6 
 
 **¹** We then, *as* workers together *with him*, beseech *you* also that ye receive not the grace of God in vain. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 76 KJV | Read the Bible Online"
+linkTitle: "76"
+description: "Read Psalm 76 Online | In Judah *is* God known: his name *is* great in Israel..."
 weight: 76
 ---
 
-# Psalm 76
+# Psalm 76 
 
 **¹** In Judah *is* God known: his name *is* great in Israel. 
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 17 KJV | Read the Bible Online"
+linkTitle: "17"
+description: "Read 2 Samuel 17 Online | Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night..."
 weight: 17
 ---
 
-# Chapter 17
+# 2 Samuel 17 
 
 **¹** Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night: 
 

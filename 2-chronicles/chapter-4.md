@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read 2 Chronicles 4 Online | Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof..."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Chronicles 4 
 
 **¹** Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof. 
 

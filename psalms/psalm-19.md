@@ -1,8 +1,11 @@
 ---
+title: "Psalm 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Psalm 19 Online | The heavens declare the glory of God; and the firmament sheweth his handywork..."
 weight: 19
 ---
 
-# Psalm 19
+# Psalm 19 
 
 **¹** The heavens declare the glory of God; and the firmament sheweth his handywork. 
 

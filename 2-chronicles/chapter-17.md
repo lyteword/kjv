@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 17 KJV | Read the Bible Online"
+linkTitle: "17"
+description: "Read 2 Chronicles 17 Online | And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel..."
 weight: 17
 ---
 
-# Chapter 17
+# 2 Chronicles 17 
 
 **¹** And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel. 
 

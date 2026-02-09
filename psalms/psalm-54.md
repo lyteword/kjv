@@ -1,8 +1,11 @@
 ---
+title: "Psalm 54 KJV | Read the Bible Online"
+linkTitle: "54"
+description: "Read Psalm 54 Online | Save me, O God, by thy name, and judge me by thy strength..."
 weight: 54
 ---
 
-# Psalm 54
+# Psalm 54 
 
 **¹** Save me, O God, by thy name, and judge me by thy strength. 
 

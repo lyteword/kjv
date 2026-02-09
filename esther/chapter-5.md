@@ -1,8 +1,11 @@
 ---
+title: "Esther 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Esther 5 Online | Now it came to pass on the third day, that Esther put on *her* royal *apparel*, and stood in the inner court of the king’s house, over against the king’s house: and the king sat upon his royal throne in the royal house, over against the gate of the house..."
 weight: 5
 ---
 
-# Chapter 5
+# Esther 5 
 
 **¹** Now it came to pass on the third day, that Esther put on *her* royal *apparel*, and stood in the inner court of the king’s house, over against the king’s house: and the king sat upon his royal throne in the royal house, over against the gate of the house. 
 

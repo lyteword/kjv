@@ -1,8 +1,11 @@
 ---
+title: "Acts 24 KJV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Acts 24 Online | And after five days Ananias the high priest descended with the elders, and *with* a certain orator *named* Tertullus, who informed the governor against Paul..."
 weight: 24
 ---
 
-# Chapter 24
+# Acts 24 
 
 **¹** And after five days Ananias the high priest descended with the elders, and *with* a certain orator *named* Tertullus, who informed the governor against Paul. 
 

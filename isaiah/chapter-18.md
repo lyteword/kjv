@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 18 KJV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Isaiah 18 Online | Woe to the land shadowing with wings, which *is* beyond the rivers of Ethiopia..."
 weight: 18
 ---
 
-# Chapter 18
+# Isaiah 18 
 
 **¹** Woe to the land shadowing with wings, which *is* beyond the rivers of Ethiopia: 
 

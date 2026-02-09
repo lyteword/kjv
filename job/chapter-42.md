@@ -1,8 +1,11 @@
 ---
+title: "Job 42 KJV | Read the Bible Online"
+linkTitle: "42"
+description: "Read Job 42 Online | Then Job answered the LORD, and said..."
 weight: 42
 ---
 
-# Chapter 42
+# Job 42 
 
 **¹** Then Job answered the LORD, and said, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Romans 8 Online | *There is* therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit..."
 weight: 8
 ---
 
-# Chapter 8
+# Romans 8 
 
 **¹** *There is* therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Revelation 11 KJV | Read the Bible Online"
+linkTitle: "11"
+description: "Read Revelation 11 Online | And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein..."
 weight: 11
 ---
 
-# Chapter 11
+# Revelation 11 
 
 **¹** And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein. 
 

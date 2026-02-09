@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 23 KJV | Read the Bible Online"
+linkTitle: "23"
+description: "Read 1 Chronicles 23 Online | So when David was old and full of days, he made Solomon his son king over Israel..."
 weight: 23
 ---
 
-# Chapter 23
+# 1 Chronicles 23 
 
 **¹** So when David was old and full of days, he made Solomon his son king over Israel. 
 

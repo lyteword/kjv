@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 15 KJV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Proverbs 15 Online | A soft answer turneth away wrath: but grievous words stir up anger..."
 weight: 15
 ---
 
-# Chapter 15
+# Proverbs 15 
 
 **¹** A soft answer turneth away wrath: but grievous words stir up anger. 
 

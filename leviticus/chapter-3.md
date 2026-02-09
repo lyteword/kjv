@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Leviticus 3 Online | And if his oblation *be* a sacrifice of peace offering, if he offer *it* of the herd; whether *it be* a male or female, he shall offer it without blemish before the LORD..."
 weight: 3
 ---
 
-# Chapter 3
+# Leviticus 3 
 
 **¹** And if his oblation *be* a sacrifice of peace offering, if he offer *it* of the herd; whether *it be* a male or female, he shall offer it without blemish before the LORD. 
 

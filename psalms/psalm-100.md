@@ -1,8 +1,11 @@
 ---
+title: "Psalm 100 KJV | Read the Bible Online"
+linkTitle: "100"
+description: "Read Psalm 100 Online | Make a joyful noise unto the LORD, all ye lands..."
 weight: 100
 ---
 
-# Psalm 100
+# Psalm 100 
 
 **¹** Make a joyful noise unto the LORD, all ye lands. 
 

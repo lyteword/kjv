@@ -1,8 +1,11 @@
 ---
+title: "James 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read James 4 Online | From whence *come* wars and fightings among you? *come they* not hence, *even* of your lusts that war in your members..."
 weight: 4
 ---
 
-# Chapter 4
+# James 4 
 
 **¹** From whence *come* wars and fightings among you? *come they* not hence, *even* of your lusts that war in your members? 
 

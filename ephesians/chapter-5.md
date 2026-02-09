@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Ephesians 5 Online | Be ye therefore followers of God, as dear children..."
 weight: 5
 ---
 
-# Chapter 5
+# Ephesians 5 
 
 **¹** Be ye therefore followers of God, as dear children; 
 

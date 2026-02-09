@@ -1,8 +1,11 @@
 ---
+title: "Numbers 29 KJV | Read the Bible Online"
+linkTitle: "29"
+description: "Read Numbers 29 Online | And in the seventh month, on the first *day* of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you..."
 weight: 29
 ---
 
-# Chapter 29
+# Numbers 29 
 
 **¹** And in the seventh month, on the first *day* of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you. 
 

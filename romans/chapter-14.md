@@ -1,8 +1,11 @@
 ---
+title: "Romans 14 KJV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Romans 14 Online | Him that is weak in the faith receive ye, *but* not to doubtful disputations..."
 weight: 14
 ---
 
-# Chapter 14
+# Romans 14 
 
 **¹** Him that is weak in the faith receive ye, *but* not to doubtful disputations. 
 

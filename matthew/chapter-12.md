@@ -1,8 +1,11 @@
 ---
+title: "Matthew 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Matthew 12 Online | At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat..."
 weight: 12
 ---
 
-# Chapter 12
+# Matthew 12 
 
 **¹** At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat. 
 

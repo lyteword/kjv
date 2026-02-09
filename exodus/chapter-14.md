@@ -1,8 +1,11 @@
 ---
+title: "Exodus 14 KJV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Exodus 14 Online | And the LORD spake unto Moses, saying..."
 weight: 14
 ---
 
-# Chapter 14
+# Exodus 14 
 
 **¹** And the LORD spake unto Moses, saying, 
 

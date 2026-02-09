@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Proverbs 2 Online | My son, if thou wilt receive my words, and hide my commandments with thee..."
 weight: 2
 ---
 
-# Chapter 2
+# Proverbs 2 
 
 **¹** My son, if thou wilt receive my words, and hide my commandments with thee; 
 

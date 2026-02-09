@@ -1,8 +1,11 @@
 ---
+title: "Psalm 113 KJV | Read the Bible Online"
+linkTitle: "113"
+description: "Read Psalm 113 Online | Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD..."
 weight: 113
 ---
 
-# Psalm 113
+# Psalm 113 
 
 **¹** Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD. 
 

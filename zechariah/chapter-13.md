@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 13 KJV | Read the Bible Online"
+linkTitle: "13"
+description: "Read Zechariah 13 Online | In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness..."
 weight: 13
 ---
 
-# Chapter 13
+# Zechariah 13 
 
 **¹** In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness. 
 

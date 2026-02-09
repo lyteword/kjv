@@ -1,8 +1,11 @@
 ---
+title: "Psalm 94 KJV | Read the Bible Online"
+linkTitle: "94"
+description: "Read Psalm 94 Online | O LORD God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself..."
 weight: 94
 ---
 
-# Psalm 94
+# Psalm 94 
 
 **¹** O LORD God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself. 
 

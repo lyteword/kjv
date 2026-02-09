@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 18 KJV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Ezekiel 18 Online | The word of the LORD came unto me again, saying..."
 weight: 18
 ---
 
-# Chapter 18
+# Ezekiel 18 
 
 **¹** The word of the LORD came unto me again, saying, 
 

@@ -1,8 +1,11 @@
 ---
+title: "John 16 KJV | Read the Bible Online"
+linkTitle: "16"
+description: "Read John 16 Online | These things have I spoken unto you, that ye should not be offended..."
 weight: 16
 ---
 
-# Chapter 16
+# John 16 
 
 **¹** These things have I spoken unto you, that ye should not be offended.
 

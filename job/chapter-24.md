@@ -1,8 +1,11 @@
 ---
+title: "Job 24 KJV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Job 24 Online | Why, seeing times are not hidden from the Almighty, do they that know him not see his days..."
 weight: 24
 ---
 
-# Chapter 24
+# Job 24 
 
 **¹** Why, seeing times are not hidden from the Almighty, do they that know him not see his days? 
 

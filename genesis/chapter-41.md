@@ -1,8 +1,11 @@
 ---
+title: "Genesis 41 KJV | Read the Bible Online"
+linkTitle: "41"
+description: "Read Genesis 41 Online | And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river..."
 weight: 41
 ---
 
-# Chapter 41
+# Genesis 41 
 
 **¹** And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river. 
 

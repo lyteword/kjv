@@ -1,8 +1,11 @@
 ---
+title: "Acts 13 KJV | Read the Bible Online"
+linkTitle: "13"
+description: "Read Acts 13 Online | Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul..."
 weight: 13
 ---
 
-# Chapter 13
+# Acts 13 
 
 **¹** Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul. 
 

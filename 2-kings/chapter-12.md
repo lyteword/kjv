@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read 2 Kings 12 Online | In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother’s name *was* Zibiah of Beer-sheba..."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Kings 12 
 
 **¹** In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother’s name *was* Zibiah of Beer-sheba. 
 

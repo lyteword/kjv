@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 15 KJV | Read the Bible Online"
+linkTitle: "15"
+description: "Read 1 Corinthians 15 Online | Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand..."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Corinthians 15 
 
 **¹** Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand; 
 

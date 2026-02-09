@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Timothy 3 Online | This know also, that in the last days perilous times shall come..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Timothy 3 
 
 **¹** This know also, that in the last days perilous times shall come. 
 

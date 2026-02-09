@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 36 KJV | Read the Bible Online"
+linkTitle: "36"
+description: "Read Isaiah 36 Online | Now it came to pass in the fourteenth year of king Hezekiah, *that* Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them..."
 weight: 36
 ---
 
-# Chapter 36
+# Isaiah 36 
 
 **¹** Now it came to pass in the fourteenth year of king Hezekiah, *that* Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them. 
 

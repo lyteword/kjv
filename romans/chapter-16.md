@@ -1,8 +1,11 @@
 ---
+title: "Romans 16 KJV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Romans 16 Online | I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea..."
 weight: 16
 ---
 
-# Chapter 16
+# Romans 16 
 
 **¹** I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea: 
 

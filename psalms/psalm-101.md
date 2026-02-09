@@ -1,8 +1,11 @@
 ---
+title: "Psalm 101 KJV | Read the Bible Online"
+linkTitle: "101"
+description: "Read Psalm 101 Online | I will sing of mercy and judgment: unto thee, O LORD, will I sing..."
 weight: 101
 ---
 
-# Psalm 101
+# Psalm 101 
 
 **¹** I will sing of mercy and judgment: unto thee, O LORD, will I sing. 
 

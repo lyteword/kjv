@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read 2 Kings 5 Online | Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, *but he was* a leper..."
 weight: 5
 ---
 
-# Chapter 5
+# 2 Kings 5 
 
 **¹** Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, *but he was* a leper. 
 

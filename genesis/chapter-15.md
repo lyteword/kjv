@@ -1,8 +1,11 @@
 ---
+title: "Genesis 15 KJV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Genesis 15 Online | After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I *am* thy shield, *and* thy exceeding great reward..."
 weight: 15
 ---
 
-# Chapter 15
+# Genesis 15 
 
 **¹** After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I *am* thy shield, *and* thy exceeding great reward. 
 

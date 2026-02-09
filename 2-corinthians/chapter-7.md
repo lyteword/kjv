@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read 2 Corinthians 7 Online | Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God..."
 weight: 7
 ---
 
-# Chapter 7
+# 2 Corinthians 7 
 
 **¹** Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God. 
 

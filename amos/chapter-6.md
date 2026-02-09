@@ -1,8 +1,11 @@
 ---
+title: "Amos 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Amos 6 Online | Woe to them *that are* at ease in Zion, and trust in the mountain of Samaria, *which are* named chief of the nations, to whom the house of Israel came..."
 weight: 6
 ---
 
-# Chapter 6
+# Amos 6 
 
 **¹** Woe to them *that are* at ease in Zion, and trust in the mountain of Samaria, *which are* named chief of the nations, to whom the house of Israel came! 
 

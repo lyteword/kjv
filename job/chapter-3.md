@@ -1,8 +1,11 @@
 ---
+title: "Job 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Job 3 Online | After this opened Job his mouth, and cursed his day..."
 weight: 3
 ---
 
-# Chapter 3
+# Job 3 
 
 **¹** After this opened Job his mouth, and cursed his day. 
 

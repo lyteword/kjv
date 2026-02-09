@@ -1,8 +1,11 @@
 ---
+title: "Psalm 66 KJV | Read the Bible Online"
+linkTitle: "66"
+description: "Read Psalm 66 Online | Make a joyful noise unto God, all ye lands..."
 weight: 66
 ---
 
-# Psalm 66
+# Psalm 66 
 
 **¹** Make a joyful noise unto God, all ye lands: 
 

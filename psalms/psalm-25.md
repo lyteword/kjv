@@ -1,8 +1,11 @@
 ---
+title: "Psalm 25 KJV | Read the Bible Online"
+linkTitle: "25"
+description: "Read Psalm 25 Online | Unto thee, O LORD, do I lift up my soul..."
 weight: 25
 ---
 
-# Psalm 25
+# Psalm 25 
 
 **¹** Unto thee, O LORD, do I lift up my soul. 
 

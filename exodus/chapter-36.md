@@ -1,8 +1,11 @@
 ---
+title: "Exodus 36 KJV | Read the Bible Online"
+linkTitle: "36"
+description: "Read Exodus 36 Online | Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the LORD had commanded..."
 weight: 36
 ---
 
-# Chapter 36
+# Exodus 36 
 
 **¹** Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the LORD had commanded. 
 

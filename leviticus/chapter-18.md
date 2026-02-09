@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 18 KJV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Leviticus 18 Online | And the LORD spake unto Moses, saying..."
 weight: 18
 ---
 
-# Chapter 18
+# Leviticus 18 
 
 **¹** And the LORD spake unto Moses, saying, 
 

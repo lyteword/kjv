@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Peter 1 Online | Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Peter 1 
 
 **¹** Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, 
 

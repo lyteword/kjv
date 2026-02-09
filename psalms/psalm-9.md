@@ -1,8 +1,11 @@
 ---
+title: "Psalm 9 KJV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Psalm 9 Online | I will praise *thee*, O LORD, with my whole heart; I will shew forth all thy marvellous works..."
 weight: 9
 ---
 
-# Psalm 9
+# Psalm 9 
 
 **¹** I will praise *thee*, O LORD, with my whole heart; I will shew forth all thy marvellous works. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 21 KJV | Read the Bible Online"
+linkTitle: "21"
+description: "Read Deuteronomy 21 Online | If *one* be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, *and* it be not known who hath slain him..."
 weight: 21
 ---
 
-# Chapter 21
+# Deuteronomy 21 
 
 **¹** If *one* be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, *and* it be not known who hath slain him: 
 

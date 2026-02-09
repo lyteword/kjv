@@ -1,8 +1,11 @@
 ---
+title: "Job 18 KJV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Job 18 Online | Then answered Bildad the Shuhite, and said..."
 weight: 18
 ---
 
-# Chapter 18
+# Job 18 
 
 **¹** Then answered Bildad the Shuhite, and said, 
 

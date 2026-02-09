@@ -1,8 +1,11 @@
 ---
+title: "Psalm 30 KJV | Read the Bible Online"
+linkTitle: "30"
+description: "Read Psalm 30 Online | I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me..."
 weight: 30
 ---
 
-# Psalm 30
+# Psalm 30 
 
 **¹** I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me. 
 

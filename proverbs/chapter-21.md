@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 21 KJV | Read the Bible Online"
+linkTitle: "21"
+description: "Read Proverbs 21 Online | The king’s heart *is* in the hand of the LORD, *as* the rivers of water: he turneth it whithersoever he will..."
 weight: 21
 ---
 
-# Chapter 21
+# Proverbs 21 
 
 **¹** The king’s heart *is* in the hand of the LORD, *as* the rivers of water: he turneth it whithersoever he will. 
 

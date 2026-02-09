@@ -1,8 +1,11 @@
 ---
+title: "Numbers 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Numbers 10 Online | And the LORD spake unto Moses, saying..."
 weight: 10
 ---
 
-# Chapter 10
+# Numbers 10 
 
 **¹** And the LORD spake unto Moses, saying, 
 

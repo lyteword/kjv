@@ -1,8 +1,11 @@
 ---
+title: "Genesis 28 KJV | Read the Bible Online"
+linkTitle: "28"
+description: "Read Genesis 28 Online | And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan..."
 weight: 28
 ---
 
-# Chapter 28
+# Genesis 28 
 
 **¹** And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan. 
 

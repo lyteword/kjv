@@ -1,8 +1,11 @@
 ---
+title: "Micah 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Micah 4 Online | But in the last days it shall come to pass, *that* the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it..."
 weight: 4
 ---
 
-# Chapter 4
+# Micah 4 
 
 **¹** But in the last days it shall come to pass, *that* the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it. 
 

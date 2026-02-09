@@ -1,8 +1,11 @@
 ---
+title: "Psalm 149 KJV | Read the Bible Online"
+linkTitle: "149"
+description: "Read Psalm 149 Online | Praise ye the LORD. Sing unto the LORD a new song, *and* his praise in the congregation of saints..."
 weight: 149
 ---
 
-# Psalm 149
+# Psalm 149 
 
 **¹** Praise ye the LORD. Sing unto the LORD a new song, *and* his praise in the congregation of saints. 
 

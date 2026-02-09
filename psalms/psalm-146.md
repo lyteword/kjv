@@ -1,8 +1,11 @@
 ---
+title: "Psalm 146 KJV | Read the Bible Online"
+linkTitle: "146"
+description: "Read Psalm 146 Online | Praise ye the LORD. Praise the LORD, O my soul..."
 weight: 146
 ---
 
-# Psalm 146
+# Psalm 146 
 
 **¹** Praise ye the LORD. Praise the LORD, O my soul. 
 

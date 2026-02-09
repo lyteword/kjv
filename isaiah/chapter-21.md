@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 21 KJV | Read the Bible Online"
+linkTitle: "21"
+description: "Read Isaiah 21 Online | The burden of the desert of the sea. As whirlwinds in the south pass through; *so* it cometh from the desert, from a terrible land..."
 weight: 21
 ---
 
-# Chapter 21
+# Isaiah 21 
 
 **¹** The burden of the desert of the sea. As whirlwinds in the south pass through; *so* it cometh from the desert, from a terrible land. 
 

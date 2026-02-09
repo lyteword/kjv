@@ -1,8 +1,11 @@
 ---
+title: "Daniel 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Daniel 1 Online | In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it..."
 weight: 1
 ---
 
-# Chapter 1
+# Daniel 1 
 
 **¹** In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it. 
 

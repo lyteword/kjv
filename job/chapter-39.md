@@ -1,8 +1,11 @@
 ---
+title: "Job 39 KJV | Read the Bible Online"
+linkTitle: "39"
+description: "Read Job 39 Online | Knowest thou the time when the wild goats of the rock bring forth? *or* canst thou mark when the hinds do calve..."
 weight: 39
 ---
 
-# Chapter 39
+# Job 39 
 
 **¹** Knowest thou the time when the wild goats of the rock bring forth? *or* canst thou mark when the hinds do calve? 
 

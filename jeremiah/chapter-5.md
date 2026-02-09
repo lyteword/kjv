@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Jeremiah 5 Online | Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be *any* that executeth judgment, that seeketh the truth; and I will pardon it..."
 weight: 5
 ---
 
-# Chapter 5
+# Jeremiah 5 
 
 **¹** Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be *any* that executeth judgment, that seeketh the truth; and I will pardon it. 
 

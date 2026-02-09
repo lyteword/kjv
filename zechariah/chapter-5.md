@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Zechariah 5 Online | Then I turned, and lifted up mine eyes, and looked, and behold a flying roll..."
 weight: 5
 ---
 
-# Chapter 5
+# Zechariah 5 
 
 **¹** Then I turned, and lifted up mine eyes, and looked, and behold a flying roll. 
 

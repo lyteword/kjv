@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ephesians 2 Online | And you *hath he quickened*, who were dead in trespasses and sins..."
 weight: 2
 ---
 
-# Chapter 2
+# Ephesians 2 
 
 **¹** And you *hath he quickened*, who were dead in trespasses and sins; 
 

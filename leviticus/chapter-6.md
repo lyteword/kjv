@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Leviticus 6 Online | And the LORD spake unto Moses, saying..."
 weight: 6
 ---
 
-# Chapter 6
+# Leviticus 6 
 
 **¹** And the LORD spake unto Moses, saying, 
 

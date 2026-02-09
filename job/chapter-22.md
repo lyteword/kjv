@@ -1,8 +1,11 @@
 ---
+title: "Job 22 KJV | Read the Bible Online"
+linkTitle: "22"
+description: "Read Job 22 Online | Then Eliphaz the Temanite answered and said..."
 weight: 22
 ---
 
-# Chapter 22
+# Job 22 
 
 **¹** Then Eliphaz the Temanite answered and said, 
 

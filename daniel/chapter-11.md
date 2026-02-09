@@ -1,8 +1,11 @@
 ---
+title: "Daniel 11 KJV | Read the Bible Online"
+linkTitle: "11"
+description: "Read Daniel 11 Online | Also I in the first year of Darius the Mede, *even* I, stood to confirm and to strengthen him..."
 weight: 11
 ---
 
-# Chapter 11
+# Daniel 11 
 
 **¹** Also I in the first year of Darius the Mede, *even* I, stood to confirm and to strengthen him. 
 

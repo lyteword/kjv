@@ -1,8 +1,11 @@
 ---
+title: "John 15 KJV | Read the Bible Online"
+linkTitle: "15"
+description: "Read John 15 Online | I am the true vine, and my Father is the husbandman..."
 weight: 15
 ---
 
-# Chapter 15
+# John 15 
 
 **¹** I am the true vine, and my Father is the husbandman.
 

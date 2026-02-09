@@ -1,8 +1,11 @@
 ---
+title: "Numbers 20 KJV | Read the Bible Online"
+linkTitle: "20"
+description: "Read Numbers 20 Online | Then came the children of Israel, *even* the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there..."
 weight: 20
 ---
 
-# Chapter 20
+# Numbers 20 
 
 **¹** Then came the children of Israel, *even* the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there. 
 

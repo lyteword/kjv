@@ -1,8 +1,11 @@
 ---
+title: "Psalm 32 KJV | Read the Bible Online"
+linkTitle: "32"
+description: "Read Psalm 32 Online | Blessed *is he whose* transgression *is* forgiven, *whose* sin *is* covered..."
 weight: 32
 ---
 
-# Psalm 32
+# Psalm 32 
 
 **¹** Blessed *is he whose* transgression *is* forgiven, *whose* sin *is* covered. 
 

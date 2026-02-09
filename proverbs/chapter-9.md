@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 9 KJV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Proverbs 9 Online | Wisdom hath builded her house, she hath hewn out her seven pillars..."
 weight: 9
 ---
 
-# Chapter 9
+# Proverbs 9 
 
 **¹** Wisdom hath builded her house, she hath hewn out her seven pillars: 
 

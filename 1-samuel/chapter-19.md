@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read 1 Samuel 19 Online | And Saul spake to Jonathan his son, and to all his servants, that they should kill David..."
 weight: 19
 ---
 
-# Chapter 19
+# 1 Samuel 19 
 
 **¹** And Saul spake to Jonathan his son, and to all his servants, that they should kill David. 
 

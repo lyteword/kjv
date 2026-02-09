@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read 1 Kings 7 Online | But Solomon was building his own house thirteen years, and he finished all his house..."
 weight: 7
 ---
 
-# Chapter 7
+# 1 Kings 7 
 
 **¹** But Solomon was building his own house thirteen years, and he finished all his house. 
 

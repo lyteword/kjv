@@ -1,8 +1,11 @@
 ---
+title: "Psalm 110 KJV | Read the Bible Online"
+linkTitle: "110"
+description: "Read Psalm 110 Online | The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool..."
 weight: 110
 ---
 
-# Psalm 110
+# Psalm 110 
 
 **¹** The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool. 
 

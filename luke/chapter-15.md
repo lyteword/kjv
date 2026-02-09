@@ -1,8 +1,11 @@
 ---
+title: "Luke 15 KJV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Luke 15 Online | Then drew near unto him all the publicans and sinners for to hear him..."
 weight: 15
 ---
 
-# Chapter 15
+# Luke 15 
 
 **¹** Then drew near unto him all the publicans and sinners for to hear him. 
 

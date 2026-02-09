@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 15 KJV | Read the Bible Online"
+linkTitle: "15"
+description: "Read 2 Chronicles 15 Online | And the Spirit of God came upon Azariah the son of Oded..."
 weight: 15
 ---
 
-# Chapter 15
+# 2 Chronicles 15 
 
 **¹** And the Spirit of God came upon Azariah the son of Oded: 
 

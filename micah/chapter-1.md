@@ -1,8 +1,11 @@
 ---
+title: "Micah 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Micah 1 Online | The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, *and* Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem..."
 weight: 1
 ---
 
-# Chapter 1
+# Micah 1 
 
 **¹** The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, *and* Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem. 
 

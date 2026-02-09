@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Corinthians 3 Online | And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, *even* as unto babes in Christ..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Corinthians 3 
 
 **¹** And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, *even* as unto babes in Christ. 
 

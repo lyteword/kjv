@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 26 KJV | Read the Bible Online"
+linkTitle: "26"
+description: "Read Jeremiah 26 Online | In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word from the LORD, saying..."
 weight: 26
 ---
 
-# Chapter 26
+# Jeremiah 26 
 
 **¹** In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word from the LORD, saying, 
 

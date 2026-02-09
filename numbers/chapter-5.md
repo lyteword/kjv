@@ -1,8 +1,11 @@
 ---
+title: "Numbers 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Numbers 5 Online | And the LORD spake unto Moses, saying..."
 weight: 5
 ---
 
-# Chapter 5
+# Numbers 5 
 
 **¹** And the LORD spake unto Moses, saying, 
 

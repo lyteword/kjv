@@ -1,8 +1,11 @@
 ---
+title: "Psalm 142 KJV | Read the Bible Online"
+linkTitle: "142"
+description: "Read Psalm 142 Online | I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication..."
 weight: 142
 ---
 
-# Psalm 142
+# Psalm 142 
 
 **¹** I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication. 
 

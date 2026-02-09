@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Deuteronomy 19 Online | When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses..."
 weight: 19
 ---
 
-# Chapter 19
+# Deuteronomy 19 
 
 **¹** When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses; 
 

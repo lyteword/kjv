@@ -1,8 +1,11 @@
 ---
+title: "Exodus 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Exodus 19 Online | In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they *into* the wilderness of Sinai..."
 weight: 19
 ---
 
-# Chapter 19
+# Exodus 19 
 
 **¹** In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they *into* the wilderness of Sinai. 
 

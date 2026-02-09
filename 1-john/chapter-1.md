@@ -1,8 +1,11 @@
 ---
+title: "1 John 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 John 1 Online | That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 John 1 
 
 **¹** That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; 
 

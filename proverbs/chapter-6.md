@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Proverbs 6 Online | My son, if thou be surety for thy friend, *if* thou hast stricken thy hand with a stranger..."
 weight: 6
 ---
 
-# Chapter 6
+# Proverbs 6 
 
 **¹** My son, if thou be surety for thy friend, *if* thou hast stricken thy hand with a stranger, 
 

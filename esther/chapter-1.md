@@ -1,8 +1,11 @@
 ---
+title: "Esther 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Esther 1 Online | Now it came to pass in the days of Ahasuerus, (this *is* Ahasuerus which reigned, from India even unto Ethiopia, *over* an hundred and seven and twenty provinces:..."
 weight: 1
 ---
 
-# Chapter 1
+# Esther 1 
 
 **¹** Now it came to pass in the days of Ahasuerus, (this *is* Ahasuerus which reigned, from India even unto Ethiopia, *over* an hundred and seven and twenty provinces:) 
 

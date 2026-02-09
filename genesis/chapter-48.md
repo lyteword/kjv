@@ -1,8 +1,11 @@
 ---
+title: "Genesis 48 KJV | Read the Bible Online"
+linkTitle: "48"
+description: "Read Genesis 48 Online | And it came to pass after these things, that *one* told Joseph, Behold, thy father *is* sick: and he took with him his two sons, Manasseh and Ephraim..."
 weight: 48
 ---
 
-# Chapter 48
+# Genesis 48 
 
 **¹** And it came to pass after these things, that *one* told Joseph, Behold, thy father *is* sick: and he took with him his two sons, Manasseh and Ephraim. 
 

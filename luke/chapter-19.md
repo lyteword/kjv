@@ -1,8 +1,11 @@
 ---
+title: "Luke 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Luke 19 Online | And *Jesus* entered and passed through Jericho..."
 weight: 19
 ---
 
-# Chapter 19
+# Luke 19 
 
 **¹** And *Jesus* entered and passed through Jericho. 
 

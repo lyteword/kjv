@@ -1,8 +1,11 @@
 ---
+title: "Exodus 38 KJV | Read the Bible Online"
+linkTitle: "38"
+description: "Read Exodus 38 Online | And he made the altar of burnt offering *of* shittim wood: five cubits *was* the length thereof, and five cubits the breadth thereof; *it was* foursquare; and three cubits the height thereof..."
 weight: 38
 ---
 
-# Chapter 38
+# Exodus 38 
 
 **¹** And he made the altar of burnt offering *of* shittim wood: five cubits *was* the length thereof, and five cubits the breadth thereof; *it was* foursquare; and three cubits the height thereof. 
 

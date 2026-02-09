@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Deuteronomy 8 Online | All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers..."
 weight: 8
 ---
 
-# Chapter 8
+# Deuteronomy 8 
 
 **¹** All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers. 
 

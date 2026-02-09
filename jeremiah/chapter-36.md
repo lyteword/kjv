@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 36 KJV | Read the Bible Online"
+linkTitle: "36"
+description: "Read Jeremiah 36 Online | And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, *that* this word came unto Jeremiah from the LORD, saying..."
 weight: 36
 ---
 
-# Chapter 36
+# Jeremiah 36 
 
 **¹** And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, *that* this word came unto Jeremiah from the LORD, saying, 
 

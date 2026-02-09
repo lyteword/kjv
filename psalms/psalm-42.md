@@ -1,8 +1,11 @@
 ---
+title: "Psalm 42 KJV | Read the Bible Online"
+linkTitle: "42"
+description: "Read Psalm 42 Online | As the hart panteth after the water brooks, so panteth my soul after thee, O God..."
 weight: 42
 ---
 
-# Psalm 42
+# Psalm 42 
 
 **¹** As the hart panteth after the water brooks, so panteth my soul after thee, O God. 
 

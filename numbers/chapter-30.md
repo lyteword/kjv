@@ -1,8 +1,11 @@
 ---
+title: "Numbers 30 KJV | Read the Bible Online"
+linkTitle: "30"
+description: "Read Numbers 30 Online | And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This *is* the thing which the LORD hath commanded..."
 weight: 30
 ---
 
-# Chapter 30
+# Numbers 30 
 
 **¹** And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This *is* the thing which the LORD hath commanded. 
 

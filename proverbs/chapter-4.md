@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Proverbs 4 Online | Hear, ye children, the instruction of a father, and attend to know understanding..."
 weight: 4
 ---
 
-# Chapter 4
+# Proverbs 4 
 
 **¹** Hear, ye children, the instruction of a father, and attend to know understanding. 
 

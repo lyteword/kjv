@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Peter 5 Online | The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Peter 5 
 
 **¹** The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed: 
 

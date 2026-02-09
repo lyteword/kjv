@@ -1,8 +1,11 @@
 ---
+title: "John 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read John 5 Online | After this there was a feast of the Jews; and Jesus went up to Jerusalem..."
 weight: 5
 ---
 
-# Chapter 5
+# John 5 
 
 **¹** After this there was a feast of the Jews; and Jesus went up to Jerusalem. 
 

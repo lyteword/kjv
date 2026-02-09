@@ -1,8 +1,11 @@
 ---
+title: "Ezra 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Ezra 7 Online | Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah..."
 weight: 7
 ---
 
-# Chapter 7
+# Ezra 7 
 
 **¹** Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah, 
 

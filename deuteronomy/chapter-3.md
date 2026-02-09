@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Deuteronomy 3 Online | Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei..."
 weight: 3
 ---
 
-# Chapter 3
+# Deuteronomy 3 
 
 **¹** Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei. 
 

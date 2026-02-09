@@ -1,8 +1,11 @@
 ---
+title: "Esther 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Esther 4 Online | When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry..."
 weight: 4
 ---
 
-# Chapter 4
+# Esther 4 
 
 **¹** When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry; 
 

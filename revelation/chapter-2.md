@@ -1,8 +1,11 @@
 ---
+title: "Revelation 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Revelation 2 Online | Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks..."
 weight: 2
 ---
 
-# Chapter 2
+# Revelation 2 
 
 **¹** Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;
 

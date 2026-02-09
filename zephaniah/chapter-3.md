@@ -1,8 +1,11 @@
 ---
+title: "Zephaniah 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Zephaniah 3 Online | Woe to her that is filthy and polluted, to the oppressing city..."
 weight: 3
 ---
 
-# Chapter 3
+# Zephaniah 3 
 
 **¹** Woe to her that is filthy and polluted, to the oppressing city! 
 

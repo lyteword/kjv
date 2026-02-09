@@ -1,8 +1,11 @@
 ---
+title: "Genesis 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Genesis 7 Online | And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation..."
 weight: 7
 ---
 
-# Chapter 7
+# Genesis 7 
 
 **¹** And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation. 
 

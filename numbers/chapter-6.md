@@ -1,8 +1,11 @@
 ---
+title: "Numbers 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Numbers 6 Online | And the LORD spake unto Moses, saying..."
 weight: 6
 ---
 
-# Chapter 6
+# Numbers 6 
 
 **¹** And the LORD spake unto Moses, saying, 
 

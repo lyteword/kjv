@@ -1,8 +1,11 @@
 ---
+title: "Amos 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Amos 1 Online | The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake..."
 weight: 1
 ---
 
-# Chapter 1
+# Amos 1 
 
 **¹** The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake. 
 

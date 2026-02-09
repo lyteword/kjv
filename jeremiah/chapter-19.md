@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Jeremiah 19 Online | Thus saith the LORD, Go and get a potter’s earthen bottle, and *take* of the ancients of the people, and of the ancients of the priests..."
 weight: 19
 ---
 
-# Chapter 19
+# Jeremiah 19 
 
 **¹** Thus saith the LORD, Go and get a potter’s earthen bottle, and *take* of the ancients of the people, and of the ancients of the priests; 
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 11 KJV | Read the Bible Online"
+linkTitle: "11"
+description: "Read Deuteronomy 11 Online | Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway..."
 weight: 11
 ---
 
-# Chapter 11
+# Deuteronomy 11 
 
 **¹** Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 23 KJV | Read the Bible Online"
+linkTitle: "23"
+description: "Read Deuteronomy 23 Online | He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the LORD..."
 weight: 23
 ---
 
-# Chapter 23
+# Deuteronomy 23 
 
 **¹** He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the LORD. 
 

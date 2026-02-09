@@ -1,8 +1,11 @@
 ---
+title: "2 Thessalonians 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Thessalonians 1 Online | Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Thessalonians 1 
 
 **¹** Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ: 
 

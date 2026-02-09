@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 28 KJV | Read the Bible Online"
+linkTitle: "28"
+description: "Read 1 Samuel 28 Online | And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men..."
 weight: 28
 ---
 
-# Chapter 28
+# 1 Samuel 28 
 
 **¹** And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men. 
 

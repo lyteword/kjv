@@ -1,8 +1,11 @@
 ---
+title: "John 14 KJV | Read the Bible Online"
+linkTitle: "14"
+description: "Read John 14 Online | Let not your heart be troubled: ye believe in God, believe also in me..."
 weight: 14
 ---
 
-# Chapter 14
+# John 14 
 
 **¹** Let not your heart be troubled: ye believe in God, believe also in me.
 

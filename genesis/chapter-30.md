@@ -1,8 +1,11 @@
 ---
+title: "Genesis 30 KJV | Read the Bible Online"
+linkTitle: "30"
+description: "Read Genesis 30 Online | And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die..."
 weight: 30
 ---
 
-# Chapter 30
+# Genesis 30 
 
 **¹** And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 109 KJV | Read the Bible Online"
+linkTitle: "109"
+description: "Read Psalm 109 Online | Hold not thy peace, O God of my praise..."
 weight: 109
 ---
 
-# Psalm 109
+# Psalm 109 
 
 **¹** Hold not thy peace, O God of my praise; 
 

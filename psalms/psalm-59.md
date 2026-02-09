@@ -1,8 +1,11 @@
 ---
+title: "Psalm 59 KJV | Read the Bible Online"
+linkTitle: "59"
+description: "Read Psalm 59 Online | Deliver me from mine enemies, O my God: defend me from them that rise up against me..."
 weight: 59
 ---
 
-# Psalm 59
+# Psalm 59 
 
 **¹** Deliver me from mine enemies, O my God: defend me from them that rise up against me. 
 

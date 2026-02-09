@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Chronicles 1 Online | And Solomon the son of David was strengthened in his kingdom, and the LORD his God *was* with him, and magnified him exceedingly..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Chronicles 1 
 
 **¹** And Solomon the son of David was strengthened in his kingdom, and the LORD his God *was* with him, and magnified him exceedingly. 
 

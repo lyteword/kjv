@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Corinthians 4 Online | Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Corinthians 4 
 
 **¹** Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. 
 

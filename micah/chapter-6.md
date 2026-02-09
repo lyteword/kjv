@@ -1,8 +1,11 @@
 ---
+title: "Micah 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Micah 6 Online | Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice..."
 weight: 6
 ---
 
-# Chapter 6
+# Micah 6 
 
 **¹** Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice. 
 

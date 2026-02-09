@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 13 KJV | Read the Bible Online"
+linkTitle: "13"
+description: "Read 1 Chronicles 13 Online | And David consulted with the captains of thousands and hundreds, *and* with every leader..."
 weight: 13
 ---
 
-# Chapter 13
+# 1 Chronicles 13 
 
 **¹** And David consulted with the captains of thousands and hundreds, *and* with every leader. 
 

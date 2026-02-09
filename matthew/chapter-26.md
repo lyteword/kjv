@@ -1,8 +1,11 @@
 ---
+title: "Matthew 26 KJV | Read the Bible Online"
+linkTitle: "26"
+description: "Read Matthew 26 Online | And it came to pass, when Jesus had finished all these sayings, he said unto his disciples..."
 weight: 26
 ---
 
-# Chapter 26
+# Matthew 26 
 
 **¹** And it came to pass, when Jesus had finished all these sayings, he said unto his disciples, 
 

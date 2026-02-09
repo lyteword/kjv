@@ -1,8 +1,11 @@
 ---
+title: "Ezra 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Ezra 8 Online | These *are* now the chief of their fathers, and *this is* the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king..."
 weight: 8
 ---
 
-# Chapter 8
+# Ezra 8 
 
 **¹** These *are* now the chief of their fathers, and *this is* the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king. 
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Chronicles 1 Online | Adam, Sheth, Enosh..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Chronicles 1 
 
 **¹** Adam, Sheth, Enosh, 
 

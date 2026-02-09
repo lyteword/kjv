@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 15 KJV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Deuteronomy 15 Online | At the end of *every* seven years thou shalt make a release..."
 weight: 15
 ---
 
-# Chapter 15
+# Deuteronomy 15 
 
 **¹** At the end of *every* seven years thou shalt make a release. 
 

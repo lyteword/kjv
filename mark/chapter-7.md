@@ -1,8 +1,11 @@
 ---
+title: "Mark 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Mark 7 Online | Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem..."
 weight: 7
 ---
 
-# Chapter 7
+# Mark 7 
 
 **¹** Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem. 
 

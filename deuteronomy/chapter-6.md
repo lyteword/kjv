@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Deuteronomy 6 Online | Now these *are* the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do *them* in the land whither ye go to possess it..."
 weight: 6
 ---
 
-# Chapter 6
+# Deuteronomy 6 
 
 **¹** Now these *are* the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do *them* in the land whither ye go to possess it: 
 

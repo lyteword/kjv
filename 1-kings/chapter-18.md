@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 18 KJV | Read the Bible Online"
+linkTitle: "18"
+description: "Read 1 Kings 18 Online | And it came to pass *after* many days, that the word of the LORD came to Elijah in the third year, saying, Go, shew thyself unto Ahab; and I will send rain upon the earth..."
 weight: 18
 ---
 
-# Chapter 18
+# 1 Kings 18 
 
 **¹** And it came to pass *after* many days, that the word of the LORD came to Elijah in the third year, saying, Go, shew thyself unto Ahab; and I will send rain upon the earth. 
 

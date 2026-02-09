@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 38 KJV | Read the Bible Online"
+linkTitle: "38"
+description: "Read Ezekiel 38 Online | And the word of the LORD came unto me, saying..."
 weight: 38
 ---
 
-# Chapter 38
+# Ezekiel 38 
 
 **¹** And the word of the LORD came unto me, saying, 
 

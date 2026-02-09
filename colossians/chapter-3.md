@@ -1,8 +1,11 @@
 ---
+title: "Colossians 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Colossians 3 Online | If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God..."
 weight: 3
 ---
 
-# Chapter 3
+# Colossians 3 
 
 **¹** If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God. 
 

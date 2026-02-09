@@ -1,8 +1,11 @@
 ---
+title: "Ruth 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ruth 2 Online | And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech; and his name *was* Boaz..."
 weight: 2
 ---
 
-# Chapter 2
+# Ruth 2 
 
 **¹** And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech; and his name *was* Boaz. 
 

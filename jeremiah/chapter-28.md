@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 28 KJV | Read the Bible Online"
+linkTitle: "28"
+description: "Read Jeremiah 28 Online | And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, *and* in the fifth month, *that* Hananiah the son of Azur the prophet, which *was* of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying..."
 weight: 28
 ---
 
-# Chapter 28
+# Jeremiah 28 
 
 **¹** And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, *and* in the fifth month, *that* Hananiah the son of Azur the prophet, which *was* of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying, 
 

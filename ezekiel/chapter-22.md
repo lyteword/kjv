@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 22 KJV | Read the Bible Online"
+linkTitle: "22"
+description: "Read Ezekiel 22 Online | Moreover the word of the LORD came unto me, saying..."
 weight: 22
 ---
 
-# Chapter 22
+# Ezekiel 22 
 
 **¹** Moreover the word of the LORD came unto me, saying, 
 

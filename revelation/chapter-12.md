@@ -1,8 +1,11 @@
 ---
+title: "Revelation 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Revelation 12 Online | And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars..."
 weight: 12
 ---
 
-# Chapter 12
+# Revelation 12 
 
 **¹** And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars: 
 

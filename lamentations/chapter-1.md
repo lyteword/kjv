@@ -1,8 +1,11 @@
 ---
+title: "Lamentations 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Lamentations 1 Online | How doth the city sit solitary, *that was* full of people! *how* is she become as a widow! she *that was* great among the nations, *and* princess among the provinces, *how* is she become tributary..."
 weight: 1
 ---
 
-# Chapter 1
+# Lamentations 1 
 
 **¹** How doth the city sit solitary, *that was* full of people! *how* is she become as a widow! she *that was* great among the nations, *and* princess among the provinces, *how* is she become tributary! 
 

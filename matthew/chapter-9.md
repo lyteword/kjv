@@ -1,8 +1,11 @@
 ---
+title: "Matthew 9 KJV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Matthew 9 Online | And he entered into a ship, and passed over, and came into his own city..."
 weight: 9
 ---
 
-# Chapter 9
+# Matthew 9 
 
 **¹** And he entered into a ship, and passed over, and came into his own city. 
 

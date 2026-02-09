@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 20 KJV | Read the Bible Online"
+linkTitle: "20"
+description: "Read Leviticus 20 Online | And the LORD spake unto Moses, saying..."
 weight: 20
 ---
 
-# Chapter 20
+# Leviticus 20 
 
 **¹** And the LORD spake unto Moses, saying, 
 

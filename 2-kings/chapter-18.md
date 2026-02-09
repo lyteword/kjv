@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 18 KJV | Read the Bible Online"
+linkTitle: "18"
+description: "Read 2 Kings 18 Online | Now it came to pass in the third year of Hoshea son of Elah king of Israel, *that* Hezekiah the son of Ahaz king of Judah began to reign..."
 weight: 18
 ---
 
-# Chapter 18
+# 2 Kings 18 
 
 **¹** Now it came to pass in the third year of Hoshea son of Elah king of Israel, *that* Hezekiah the son of Ahaz king of Judah began to reign. 
 

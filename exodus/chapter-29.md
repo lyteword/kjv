@@ -1,8 +1,11 @@
 ---
+title: "Exodus 29 KJV | Read the Bible Online"
+linkTitle: "29"
+description: "Read Exodus 29 Online | And this *is* the thing that thou shalt do unto them to hallow them, to minister unto me in the priest’s office: Take one young bullock, and two rams without blemish..."
 weight: 29
 ---
 
-# Chapter 29
+# Exodus 29 
 
 **¹** And this *is* the thing that thou shalt do unto them to hallow them, to minister unto me in the priest’s office: Take one young bullock, and two rams without blemish, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Revelation 18 KJV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Revelation 18 Online | And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory..."
 weight: 18
 ---
 
-# Chapter 18
+# Revelation 18 
 
 **¹** And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 34 KJV | Read the Bible Online"
+linkTitle: "34"
+description: "Read Jeremiah 34 Online | The word which came unto Jeremiah from the LORD, when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying..."
 weight: 34
 ---
 
-# Chapter 34
+# Jeremiah 34 
 
 **¹** The word which came unto Jeremiah from the LORD, when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying, 
 

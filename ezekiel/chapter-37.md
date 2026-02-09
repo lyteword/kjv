@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 37 KJV | Read the Bible Online"
+linkTitle: "37"
+description: "Read Ezekiel 37 Online | The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which *was* full of bones..."
 weight: 37
 ---
 
-# Chapter 37
+# Ezekiel 37 
 
 **¹** The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which *was* full of bones, 
 

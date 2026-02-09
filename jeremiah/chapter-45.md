@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 45 KJV | Read the Bible Online"
+linkTitle: "45"
+description: "Read Jeremiah 45 Online | The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying..."
 weight: 45
 ---
 
-# Chapter 45
+# Jeremiah 45 
 
 **¹** The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying, 
 

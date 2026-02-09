@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Thessalonians 3 Online | Wherefore when we could no longer forbear, we thought it good to be left at Athens alone..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Thessalonians 3 
 
 **¹** Wherefore when we could no longer forbear, we thought it good to be left at Athens alone; 
 

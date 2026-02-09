@@ -1,8 +1,11 @@
 ---
+title: "Luke 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Luke 3 Online | Now in the fifteenth year of the reign of Tiberius Cæsar, Pontius Pilate being governor of Judæa, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene..."
 weight: 3
 ---
 
-# Chapter 3
+# Luke 3 
 
 **¹** Now in the fifteenth year of the reign of Tiberius Cæsar, Pontius Pilate being governor of Judæa, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene, 
 

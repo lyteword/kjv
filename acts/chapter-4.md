@@ -1,8 +1,11 @@
 ---
+title: "Acts 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Acts 4 Online | And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them..."
 weight: 4
 ---
 
-# Chapter 4
+# Acts 4 
 
 **¹** And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them, 
 

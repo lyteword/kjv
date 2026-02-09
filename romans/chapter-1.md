@@ -1,8 +1,11 @@
 ---
+title: "Romans 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Romans 1 Online | Paul, a servant of Jesus Christ, called *to be* an apostle, separated unto the gospel of God..."
 weight: 1
 ---
 
-# Chapter 1
+# Romans 1 
 
 **¹** Paul, a servant of Jesus Christ, called *to be* an apostle, separated unto the gospel of God, 
 

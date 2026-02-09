@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read 2 Timothy 4 Online | I charge *thee* therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom..."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Timothy 4 
 
 **¹** I charge *thee* therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom; 
 

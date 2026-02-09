@@ -1,8 +1,11 @@
 ---
+title: "Job 29 KJV | Read the Bible Online"
+linkTitle: "29"
+description: "Read Job 29 Online | Moreover Job continued his parable, and said..."
 weight: 29
 ---
 
-# Chapter 29
+# Job 29 
 
 **¹** Moreover Job continued his parable, and said, 
 

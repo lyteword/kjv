@@ -1,8 +1,11 @@
 ---
+title: "Romans 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Romans 6 Online | What shall we say then? Shall we continue in sin, that grace may abound..."
 weight: 6
 ---
 
-# Chapter 6
+# Romans 6 
 
 **¹** What shall we say then? Shall we continue in sin, that grace may abound? 
 

@@ -1,8 +1,11 @@
 ---
+title: "Jonah 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Jonah 1 Online | Now the word of the LORD came unto Jonah the son of Amittai, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Jonah 1 
 
 **¹** Now the word of the LORD came unto Jonah the son of Amittai, saying, 
 
