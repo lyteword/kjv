@@ -1,8 +1,11 @@
 ---
+title: "Psalm 84 KJV | Read the Bible Online"
+linkTitle: "84"
+description: "Read Psalm 84 Online | How amiable *are* thy tabernacles, O LORD of hosts..."
 weight: 84
 ---
 
-# Psalm 84
+# Psalm 84 
 
 **¹** How amiable *are* thy tabernacles, O LORD of hosts! 
 

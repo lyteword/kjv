@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Nehemiah 2 Online | And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, *that* wine *was* before him: and I took up the wine, and gave *it* unto the king. Now I had not been *beforetime* sad in his presence..."
 weight: 2
 ---
 
-# Chapter 2
+# Nehemiah 2 
 
 **¹** And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, *that* wine *was* before him: and I took up the wine, and gave *it* unto the king. Now I had not been *beforetime* sad in his presence. 
 

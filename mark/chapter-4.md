@@ -1,8 +1,11 @@
 ---
+title: "Mark 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Mark 4 Online | And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land..."
 weight: 4
 ---
 
-# Chapter 4
+# Mark 4 
 
 **¹** And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land. 
 

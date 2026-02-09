@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 13 KJV | Read the Bible Online"
+linkTitle: "13"
+description: "Read 1 Samuel 13 Online | Saul reigned one year; and when he had reigned two years over Israel..."
 weight: 13
 ---
 
-# Chapter 13
+# 1 Samuel 13 
 
 **¹** Saul reigned one year; and when he had reigned two years over Israel, 
 

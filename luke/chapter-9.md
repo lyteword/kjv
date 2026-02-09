@@ -1,8 +1,11 @@
 ---
+title: "Luke 9 KJV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Luke 9 Online | Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases..."
 weight: 9
 ---
 
-# Chapter 9
+# Luke 9 
 
 **¹** Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases. 
 

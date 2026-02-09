@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Deuteronomy 1 Online | These *be* the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red *sea*, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab..."
 weight: 1
 ---
 
-# Chapter 1
+# Deuteronomy 1 
 
 **¹** These *be* the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red *sea*, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab. 
 

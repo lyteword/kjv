@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Isaiah 10 Online | Woe unto them that decree unrighteous decrees, and that write grievousness *which* they have prescribed..."
 weight: 10
 ---
 
-# Chapter 10
+# Isaiah 10 
 
 **¹** Woe unto them that decree unrighteous decrees, and that write grievousness *which* they have prescribed; 
 

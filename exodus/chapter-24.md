@@ -1,8 +1,11 @@
 ---
+title: "Exodus 24 KJV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Exodus 24 Online | And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off..."
 weight: 24
 ---
 
-# Chapter 24
+# Exodus 24 
 
 **¹** And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off. 
 

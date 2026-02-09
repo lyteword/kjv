@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 34 KJV | Read the Bible Online"
+linkTitle: "34"
+description: "Read 2 Chronicles 34 Online | Josiah *was* eight years old when he began to reign, and he reigned in Jerusalem one and thirty years..."
 weight: 34
 ---
 
-# Chapter 34
+# 2 Chronicles 34 
 
 **¹** Josiah *was* eight years old when he began to reign, and he reigned in Jerusalem one and thirty years. 
 

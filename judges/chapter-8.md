@@ -1,8 +1,11 @@
 ---
+title: "Judges 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Judges 8 Online | And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply..."
 weight: 8
 ---
 
-# Chapter 8
+# Judges 8 
 
 **¹** And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply. 
 

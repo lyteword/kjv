@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read 2 Kings 7 Online | Then Elisha said, Hear ye the word of the LORD; Thus saith the LORD, To morrow about this time *shall* a measure of fine flour *be sold* for a shekel, and two measures of barley for a shekel, in the gate of Samaria..."
 weight: 7
 ---
 
-# Chapter 7
+# 2 Kings 7 
 
 **¹** Then Elisha said, Hear ye the word of the LORD; Thus saith the LORD, To morrow about this time *shall* a measure of fine flour *be sold* for a shekel, and two measures of barley for a shekel, in the gate of Samaria. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Numbers 8 Online | And the LORD spake unto Moses, saying..."
 weight: 8
 ---
 
-# Chapter 8
+# Numbers 8 
 
 **¹** And the LORD spake unto Moses, saying, 
 

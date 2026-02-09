@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Ecclesiastes 6 Online | There is an evil which I have seen under the sun, and it *is* common among men..."
 weight: 6
 ---
 
-# Chapter 6
+# Ecclesiastes 6 
 
 **¹** There is an evil which I have seen under the sun, and it *is* common among men: 
 

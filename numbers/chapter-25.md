@@ -1,8 +1,11 @@
 ---
+title: "Numbers 25 KJV | Read the Bible Online"
+linkTitle: "25"
+description: "Read Numbers 25 Online | And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab..."
 weight: 25
 ---
 
-# Chapter 25
+# Numbers 25 
 
 **¹** And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab. 
 

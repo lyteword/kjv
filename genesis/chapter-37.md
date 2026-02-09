@@ -1,8 +1,11 @@
 ---
+title: "Genesis 37 KJV | Read the Bible Online"
+linkTitle: "37"
+description: "Read Genesis 37 Online | And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan..."
 weight: 37
 ---
 
-# Chapter 37
+# Genesis 37 
 
 **¹** And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan. 
 

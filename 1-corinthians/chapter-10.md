@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read 1 Corinthians 10 Online | Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea..."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Corinthians 10 
 
 **¹** Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea; 
 

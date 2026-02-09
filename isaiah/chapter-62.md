@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 62 KJV | Read the Bible Online"
+linkTitle: "62"
+description: "Read Isaiah 62 Online | For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp *that* burneth..."
 weight: 62
 ---
 
-# Chapter 62
+# Isaiah 62 
 
 **¹** For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp *that* burneth. 
 

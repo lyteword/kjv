@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 13 KJV | Read the Bible Online"
+linkTitle: "13"
+description: "Read Proverbs 13 Online | A wise son *heareth* his father’s instruction: but a scorner heareth not rebuke..."
 weight: 13
 ---
 
-# Chapter 13
+# Proverbs 13 
 
 **¹** A wise son *heareth* his father’s instruction: but a scorner heareth not rebuke. 
 

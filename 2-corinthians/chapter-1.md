@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Corinthians 1 Online | Paul, an apostle of Jesus Christ by the will of God, and Timothy *our* brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Corinthians 1 
 
 **¹** Paul, an apostle of Jesus Christ by the will of God, and Timothy *our* brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia: 
 

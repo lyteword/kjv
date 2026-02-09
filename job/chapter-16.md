@@ -1,8 +1,11 @@
 ---
+title: "Job 16 KJV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Job 16 Online | Then Job answered and said..."
 weight: 16
 ---
 
-# Chapter 16
+# Job 16 
 
 **¹** Then Job answered and said, 
 

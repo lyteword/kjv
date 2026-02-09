@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Proverbs 1 Online | The proverbs of Solomon the son of David, king of Israel..."
 weight: 1
 ---
 
-# Chapter 1
+# Proverbs 1 
 
 **¹** The proverbs of Solomon the son of David, king of Israel; 
 

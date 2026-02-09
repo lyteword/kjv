@@ -1,8 +1,11 @@
 ---
+title: "Psalm 136 KJV | Read the Bible Online"
+linkTitle: "136"
+description: "Read Psalm 136 Online | O give thanks unto the LORD; for *he is* good: for his mercy *endureth* for ever..."
 weight: 136
 ---
 
-# Psalm 136
+# Psalm 136 
 
 **¹** O give thanks unto the LORD; for *he is* good: for his mercy *endureth* for ever. 
 

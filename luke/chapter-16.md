@@ -1,8 +1,11 @@
 ---
+title: "Luke 16 KJV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Luke 16 Online | And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods..."
 weight: 16
 ---
 
-# Chapter 16
+# Luke 16 
 
 **¹** And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.
 

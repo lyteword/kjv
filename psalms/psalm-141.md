@@ -1,8 +1,11 @@
 ---
+title: "Psalm 141 KJV | Read the Bible Online"
+linkTitle: "141"
+description: "Read Psalm 141 Online | LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee..."
 weight: 141
 ---
 
-# Psalm 141
+# Psalm 141 
 
 **¹** LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee. 
 

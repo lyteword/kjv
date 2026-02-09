@@ -1,8 +1,11 @@
 ---
+title: "Judges 9 KJV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Judges 9 Online | And Abimelech the son of Jerubbaal went to Shechem unto his mother’s brethren, and communed with them, and with all the family of the house of his mother’s father, saying..."
 weight: 9
 ---
 
-# Chapter 9
+# Judges 9 
 
 **¹** And Abimelech the son of Jerubbaal went to Shechem unto his mother’s brethren, and communed with them, and with all the family of the house of his mother’s father, saying, 
 

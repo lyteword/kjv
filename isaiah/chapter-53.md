@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 53 KJV | Read the Bible Online"
+linkTitle: "53"
+description: "Read Isaiah 53 Online | Who hath believed our report? and to whom is the arm of the LORD revealed..."
 weight: 53
 ---
 
-# Chapter 53
+# Isaiah 53 
 
 **¹** Who hath believed our report? and to whom is the arm of the LORD revealed? 
 

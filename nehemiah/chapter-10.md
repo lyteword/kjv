@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Nehemiah 10 Online | Now those that sealed *were*, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah..."
 weight: 10
 ---
 
-# Chapter 10
+# Nehemiah 10 
 
 **¹** Now those that sealed *were*, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah, 
 

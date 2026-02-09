@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Ephesians 1 Online | Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus..."
 weight: 1
 ---
 
-# Chapter 1
+# Ephesians 1 
 
 **¹** Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus: 
 

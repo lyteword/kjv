@@ -1,8 +1,11 @@
 ---
+title: "Revelation 17 KJV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Revelation 17 Online | And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters..."
 weight: 17
 ---
 
-# Chapter 17
+# Revelation 17 
 
 **¹** And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters: 
 

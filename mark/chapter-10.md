@@ -1,8 +1,11 @@
 ---
+title: "Mark 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Mark 10 Online | And he arose from thence, and cometh into the coasts of Judæa by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again..."
 weight: 10
 ---
 
-# Chapter 10
+# Mark 10 
 
 **¹** And he arose from thence, and cometh into the coasts of Judæa by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again. 
 

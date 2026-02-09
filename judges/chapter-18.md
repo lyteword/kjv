@@ -1,8 +1,11 @@
 ---
+title: "Judges 18 KJV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Judges 18 Online | In those days *there was* no king in Israel: and in those days the tribe of the Danites sought them an inheritance to dwell in; for unto that day *all their* inheritance had not fallen unto them among the tribes of Israel..."
 weight: 18
 ---
 
-# Chapter 18
+# Judges 18 
 
 **¹** In those days *there was* no king in Israel: and in those days the tribe of the Danites sought them an inheritance to dwell in; for unto that day *all their* inheritance had not fallen unto them among the tribes of Israel. 
 

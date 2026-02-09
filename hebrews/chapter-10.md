@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Hebrews 10 Online | For the law having a shadow of good things to come, *and* not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect..."
 weight: 10
 ---
 
-# Chapter 10
+# Hebrews 10 
 
 **¹** For the law having a shadow of good things to come, *and* not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect. 
 

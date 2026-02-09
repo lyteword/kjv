@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Peter 4 Online | Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Peter 4 
 
 **¹** Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin; 
 

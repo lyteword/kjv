@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Isaiah 8 Online | Moreover the LORD said unto me, Take thee a great roll, and write in it with a man’s pen concerning Maher-shalal-hash-baz..."
 weight: 8
 ---
 
-# Chapter 8
+# Isaiah 8 
 
 **¹** Moreover the LORD said unto me, Take thee a great roll, and write in it with a man’s pen concerning Maher-shalal-hash-baz. 
 

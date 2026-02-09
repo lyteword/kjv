@@ -1,8 +1,11 @@
 ---
+title: "Amos 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Amos 7 Online | Thus hath the Lord GOD shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, *it was* the latter growth after the king’s mowings..."
 weight: 7
 ---
 
-# Chapter 7
+# Amos 7 
 
 **¹** Thus hath the Lord GOD shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, *it was* the latter growth after the king’s mowings. 
 

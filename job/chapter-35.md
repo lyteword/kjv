@@ -1,8 +1,11 @@
 ---
+title: "Job 35 KJV | Read the Bible Online"
+linkTitle: "35"
+description: "Read Job 35 Online | Elihu spake moreover, and said..."
 weight: 35
 ---
 
-# Chapter 35
+# Job 35 
 
 **¹** Elihu spake moreover, and said, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 33 KJV | Read the Bible Online"
+linkTitle: "33"
+description: "Read Jeremiah 33 Online | Moreover the word of the LORD came unto Jeremiah the second time, while he was yet shut up in the court of the prison, saying..."
 weight: 33
 ---
 
-# Chapter 33
+# Jeremiah 33 
 
 **¹** Moreover the word of the LORD came unto Jeremiah the second time, while he was yet shut up in the court of the prison, saying, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Hebrews 2 Online | Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let *them* slip..."
 weight: 2
 ---
 
-# Chapter 2
+# Hebrews 2 
 
 **¹** Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let *them* slip. 
 

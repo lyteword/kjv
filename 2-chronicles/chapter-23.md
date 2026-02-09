@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 23 KJV | Read the Bible Online"
+linkTitle: "23"
+description: "Read 2 Chronicles 23 Online | And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him..."
 weight: 23
 ---
 
-# Chapter 23
+# 2 Chronicles 23 
 
 **¹** And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him. 
 

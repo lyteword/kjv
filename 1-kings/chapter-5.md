@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Kings 5 Online | And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Kings 5 
 
 **¹** And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David. 
 

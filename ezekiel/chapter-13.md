@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 13 KJV | Read the Bible Online"
+linkTitle: "13"
+description: "Read Ezekiel 13 Online | And the word of the LORD came unto me, saying..."
 weight: 13
 ---
 
-# Chapter 13
+# Ezekiel 13 
 
 **¹** And the word of the LORD came unto me, saying, 
 

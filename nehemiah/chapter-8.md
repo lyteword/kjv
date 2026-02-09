@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Nehemiah 8 Online | And all the people gathered themselves together as one man into the street that *was* before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel..."
 weight: 8
 ---
 
-# Chapter 8
+# Nehemiah 8 
 
 **¹** And all the people gathered themselves together as one man into the street that *was* before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel. 
 

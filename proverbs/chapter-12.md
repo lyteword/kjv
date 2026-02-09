@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Proverbs 12 Online | Whoso loveth instruction loveth knowledge: but he that hateth reproof *is* brutish..."
 weight: 12
 ---
 
-# Chapter 12
+# Proverbs 12 
 
 **¹** Whoso loveth instruction loveth knowledge: but he that hateth reproof *is* brutish. 
 

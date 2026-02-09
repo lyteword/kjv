@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 17 KJV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Ezekiel 17 Online | And the word of the LORD came unto me, saying..."
 weight: 17
 ---
 
-# Chapter 17
+# Ezekiel 17 
 
 **¹** And the word of the LORD came unto me, saying, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 39 KJV | Read the Bible Online"
+linkTitle: "39"
+description: "Read Genesis 39 Online | And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither..."
 weight: 39
 ---
 
-# Chapter 39
+# Genesis 39 
 
 **¹** And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither. 
 

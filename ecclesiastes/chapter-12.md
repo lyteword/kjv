@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Ecclesiastes 12 Online | Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them..."
 weight: 12
 ---
 
-# Chapter 12
+# Ecclesiastes 12 
 
 **¹** Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them; 
 

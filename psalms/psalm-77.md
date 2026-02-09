@@ -1,8 +1,11 @@
 ---
+title: "Psalm 77 KJV | Read the Bible Online"
+linkTitle: "77"
+description: "Read Psalm 77 Online | I cried unto God with my voice, *even* unto God with my voice; and he gave ear unto me..."
 weight: 77
 ---
 
-# Psalm 77
+# Psalm 77 
 
 **¹** I cried unto God with my voice, *even* unto God with my voice; and he gave ear unto me. 
 

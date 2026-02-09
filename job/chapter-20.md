@@ -1,8 +1,11 @@
 ---
+title: "Job 20 KJV | Read the Bible Online"
+linkTitle: "20"
+description: "Read Job 20 Online | Then answered Zophar the Naamathite, and said..."
 weight: 20
 ---
 
-# Chapter 20
+# Job 20 
 
 **¹** Then answered Zophar the Naamathite, and said, 
 

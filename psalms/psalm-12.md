@@ -1,8 +1,11 @@
 ---
+title: "Psalm 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Psalm 12 Online | Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men..."
 weight: 12
 ---
 
-# Psalm 12
+# Psalm 12 
 
 **¹** Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men. 
 

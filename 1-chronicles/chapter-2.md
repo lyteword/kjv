@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Chronicles 2 Online | These *are* the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Chronicles 2 
 
 **¹** These *are* the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun, 
 

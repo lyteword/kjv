@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 21 KJV | Read the Bible Online"
+linkTitle: "21"
+description: "Read 1 Chronicles 21 Online | And Satan stood up against Israel, and provoked David to number Israel..."
 weight: 21
 ---
 
-# Chapter 21
+# 1 Chronicles 21 
 
 **¹** And Satan stood up against Israel, and provoked David to number Israel. 
 

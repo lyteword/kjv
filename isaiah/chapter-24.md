@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 24 KJV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Isaiah 24 Online | Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof..."
 weight: 24
 ---
 
-# Chapter 24
+# Isaiah 24 
 
 **¹** Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof. 
 

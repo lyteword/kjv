@@ -1,8 +1,11 @@
 ---
+title: "Joel 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Joel 1 Online | The word of the LORD that came to Joel the son of Pethuel..."
 weight: 1
 ---
 
-# Chapter 1
+# Joel 1 
 
 **¹** The word of the LORD that came to Joel the son of Pethuel. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Hebrews 4 Online | Let us therefore fear, lest, a promise being left *us* of entering into his rest, any of you should seem to come short of it..."
 weight: 4
 ---
 
-# Chapter 4
+# Hebrews 4 
 
 **¹** Let us therefore fear, lest, a promise being left *us* of entering into his rest, any of you should seem to come short of it. 
 

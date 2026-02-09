@@ -1,8 +1,11 @@
 ---
+title: "Psalm 39 KJV | Read the Bible Online"
+linkTitle: "39"
+description: "Read Psalm 39 Online | I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me..."
 weight: 39
 ---
 
-# Psalm 39
+# Psalm 39 
 
 **¹** I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me. 
 

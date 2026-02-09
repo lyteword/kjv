@@ -1,8 +1,11 @@
 ---
+title: "Matthew 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Matthew 5 Online | And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him..."
 weight: 5
 ---
 
-# Chapter 5
+# Matthew 5 
 
 **¹** And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him: 
 

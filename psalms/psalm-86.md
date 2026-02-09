@@ -1,8 +1,11 @@
 ---
+title: "Psalm 86 KJV | Read the Bible Online"
+linkTitle: "86"
+description: "Read Psalm 86 Online | Bow down thine ear, O LORD, hear me: for I *am* poor and needy..."
 weight: 86
 ---
 
-# Psalm 86
+# Psalm 86 
 
 **¹** Bow down thine ear, O LORD, hear me: for I *am* poor and needy. 
 

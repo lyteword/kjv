@@ -1,8 +1,11 @@
 ---
+title: "Psalm 57 KJV | Read the Bible Online"
+linkTitle: "57"
+description: "Read Psalm 57 Online | Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until *these* calamities be overpast..."
 weight: 57
 ---
 
-# Psalm 57
+# Psalm 57 
 
 **¹** Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until *these* calamities be overpast. 
 

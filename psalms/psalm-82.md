@@ -1,8 +1,11 @@
 ---
+title: "Psalm 82 KJV | Read the Bible Online"
+linkTitle: "82"
+description: "Read Psalm 82 Online | God standeth in the congregation of the mighty; he judgeth among the gods..."
 weight: 82
 ---
 
-# Psalm 82
+# Psalm 82 
 
 **¹** God standeth in the congregation of the mighty; he judgeth among the gods. 
 

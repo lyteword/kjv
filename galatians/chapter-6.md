@@ -1,8 +1,11 @@
 ---
+title: "Galatians 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Galatians 6 Online | Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted..."
 weight: 6
 ---
 
-# Chapter 6
+# Galatians 6 
 
 **¹** Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted. 
 

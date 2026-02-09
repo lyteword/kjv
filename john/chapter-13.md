@@ -1,8 +1,11 @@
 ---
+title: "John 13 KJV | Read the Bible Online"
+linkTitle: "13"
+description: "Read John 13 Online | Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end..."
 weight: 13
 ---
 
-# Chapter 13
+# John 13 
 
 **¹** Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end. 
 

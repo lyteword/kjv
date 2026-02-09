@@ -1,8 +1,11 @@
 ---
+title: "Mark 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Mark 5 Online | And they came over unto the other side of the sea, into the country of the Gadarenes..."
 weight: 5
 ---
 
-# Chapter 5
+# Mark 5 
 
 **¹** And they came over unto the other side of the sea, into the country of the Gadarenes. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Joshua 18 KJV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Joshua 18 Online | And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them..."
 weight: 18
 ---
 
-# Chapter 18
+# Joshua 18 
 
 **¹** And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them. 
 

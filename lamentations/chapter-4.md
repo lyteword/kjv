@@ -1,8 +1,11 @@
 ---
+title: "Lamentations 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Lamentations 4 Online | How is the gold become dim! *how* is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street..."
 weight: 4
 ---
 
-# Chapter 4
+# Lamentations 4 
 
 **¹** How is the gold become dim! *how* is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street. 
 

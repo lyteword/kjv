@@ -1,8 +1,11 @@
 ---
+title: "Joel 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Joel 2 Online | Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for *it is* nigh at hand..."
 weight: 2
 ---
 
-# Chapter 2
+# Joel 2 
 
 **¹** Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for *it is* nigh at hand; 
 

@@ -1,8 +1,11 @@
 ---
+title: "Hosea 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Hosea 8 Online | *Set* the trumpet to thy mouth. *He shall come* as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law..."
 weight: 8
 ---
 
-# Chapter 8
+# Hosea 8 
 
 **¹** *Set* the trumpet to thy mouth. *He shall come* as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law. 
 

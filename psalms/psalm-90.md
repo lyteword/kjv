@@ -1,8 +1,11 @@
 ---
+title: "Psalm 90 KJV | Read the Bible Online"
+linkTitle: "90"
+description: "Read Psalm 90 Online | Lord, thou hast been our dwelling place in all generations..."
 weight: 90
 ---
 
-# Psalm 90
+# Psalm 90 
 
 **¹** Lord, thou hast been our dwelling place in all generations. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 115 KJV | Read the Bible Online"
+linkTitle: "115"
+description: "Read Psalm 115 Online | Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, *and* for thy truth’s sake..."
 weight: 115
 ---
 
-# Psalm 115
+# Psalm 115 
 
 **¹** Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, *and* for thy truth’s sake. 
 

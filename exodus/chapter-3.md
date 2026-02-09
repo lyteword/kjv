@@ -1,8 +1,11 @@
 ---
+title: "Exodus 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Exodus 3 Online | Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, *even* to Horeb..."
 weight: 3
 ---
 
-# Chapter 3
+# Exodus 3 
 
 **¹** Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, *even* to Horeb. 
 

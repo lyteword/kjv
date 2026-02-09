@@ -1,8 +1,11 @@
 ---
+title: "Genesis 16 KJV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Genesis 16 Online | Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name *was* Hagar..."
 weight: 16
 ---
 
-# Chapter 16
+# Genesis 16 
 
 **¹** Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name *was* Hagar. 
 

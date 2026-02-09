@@ -1,8 +1,11 @@
 ---
+title: "Exodus 35 KJV | Read the Bible Online"
+linkTitle: "35"
+description: "Read Exodus 35 Online | And Moses gathered all the congregation of the children of Israel together, and said unto them, These *are* the words which the LORD hath commanded, that *ye* should do them..."
 weight: 35
 ---
 
-# Chapter 35
+# Exodus 35 
 
 **¹** And Moses gathered all the congregation of the children of Israel together, and said unto them, These *are* the words which the LORD hath commanded, that *ye* should do them. 
 

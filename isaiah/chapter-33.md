@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 33 KJV | Read the Bible Online"
+linkTitle: "33"
+description: "Read Isaiah 33 Online | Woe to thee that spoilest, and thou *wast* not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; *and* when thou shalt make an end to deal treacherously, they shall deal treacherously with thee..."
 weight: 33
 ---
 
-# Chapter 33
+# Isaiah 33 
 
 **¹** Woe to thee that spoilest, and thou *wast* not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; *and* when thou shalt make an end to deal treacherously, they shall deal treacherously with thee. 
 

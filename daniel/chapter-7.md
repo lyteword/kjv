@@ -1,8 +1,11 @@
 ---
+title: "Daniel 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Daniel 7 Online | In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, *and* told the sum of the matters..."
 weight: 7
 ---
 
-# Chapter 7
+# Daniel 7 
 
 **¹** In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, *and* told the sum of the matters. 
 

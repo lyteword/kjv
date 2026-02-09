@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 20 KJV | Read the Bible Online"
+linkTitle: "20"
+description: "Read 1 Kings 20 Online | And Ben-hadad the king of Syria gathered all his host together: and *there were* thirty and two kings with him, and horses, and chariots: and he went up and besieged Samaria, and warred against it..."
 weight: 20
 ---
 
-# Chapter 20
+# 1 Kings 20 
 
 **¹** And Ben-hadad the king of Syria gathered all his host together: and *there were* thirty and two kings with him, and horses, and chariots: and he went up and besieged Samaria, and warred against it. 
 

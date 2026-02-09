@@ -1,8 +1,11 @@
 ---
+title: "Joshua 24 KJV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Joshua 24 Online | And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God..."
 weight: 24
 ---
 
-# Chapter 24
+# Joshua 24 
 
 **¹** And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God. 
 

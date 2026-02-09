@@ -1,8 +1,11 @@
 ---
+title: "Job 30 KJV | Read the Bible Online"
+linkTitle: "30"
+description: "Read Job 30 Online | But now *they that are* younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock..."
 weight: 30
 ---
 
-# Chapter 30
+# Job 30 
 
 **¹** But now *they that are* younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock. 
 

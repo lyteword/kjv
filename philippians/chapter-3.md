@@ -1,8 +1,11 @@
 ---
+title: "Philippians 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Philippians 3 Online | Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed *is* not grievous, but for you *it is* safe..."
 weight: 3
 ---
 
-# Chapter 3
+# Philippians 3 
 
 **¹** Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed *is* not grievous, but for you *it is* safe. 
 

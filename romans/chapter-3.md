@@ -1,8 +1,11 @@
 ---
+title: "Romans 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Romans 3 Online | What advantage then hath the Jew? or what profit *is there* of circumcision..."
 weight: 3
 ---
 
-# Chapter 3
+# Romans 3 
 
 **¹** What advantage then hath the Jew? or what profit *is there* of circumcision? 
 

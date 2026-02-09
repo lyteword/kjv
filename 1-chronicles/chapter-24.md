@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 24 KJV | Read the Bible Online"
+linkTitle: "24"
+description: "Read 1 Chronicles 24 Online | Now *these are* the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar..."
 weight: 24
 ---
 
-# Chapter 24
+# 1 Chronicles 24 
 
 **¹** Now *these are* the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar. 
 

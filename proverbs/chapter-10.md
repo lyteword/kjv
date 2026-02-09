@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Proverbs 10 Online | The proverbs of Solomon. A wise son maketh a glad father: but a foolish son *is* the heaviness of his mother..."
 weight: 10
 ---
 
-# Chapter 10
+# Proverbs 10 
 
 **¹** The proverbs of Solomon. A wise son maketh a glad father: but a foolish son *is* the heaviness of his mother. 
 

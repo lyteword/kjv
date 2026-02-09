@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read 2 Corinthians 10 Online | Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence *am* base among you, but being absent am bold toward you..."
 weight: 10
 ---
 
-# Chapter 10
+# 2 Corinthians 10 
 
 **¹** Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence *am* base among you, but being absent am bold toward you: 
 

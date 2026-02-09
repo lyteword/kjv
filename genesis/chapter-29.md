@@ -1,8 +1,11 @@
 ---
+title: "Genesis 29 KJV | Read the Bible Online"
+linkTitle: "29"
+description: "Read Genesis 29 Online | Then Jacob went on his journey, and came into the land of the people of the east..."
 weight: 29
 ---
 
-# Chapter 29
+# Genesis 29 
 
 **¹** Then Jacob went on his journey, and came into the land of the people of the east. 
 

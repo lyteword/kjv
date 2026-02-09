@@ -1,8 +1,11 @@
 ---
+title: "Psalm 52 KJV | Read the Bible Online"
+linkTitle: "52"
+description: "Read Psalm 52 Online | Why boastest thou thyself in mischief, O mighty man? the goodness of God *endureth* continually..."
 weight: 52
 ---
 
-# Psalm 52
+# Psalm 52 
 
 **¹** Why boastest thou thyself in mischief, O mighty man? the goodness of God *endureth* continually. 
 

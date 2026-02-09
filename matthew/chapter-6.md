@@ -1,8 +1,11 @@
 ---
+title: "Matthew 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Matthew 6 Online | Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven..."
 weight: 6
 ---
 
-# Chapter 6
+# Matthew 6 
 
 **¹** Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.
 

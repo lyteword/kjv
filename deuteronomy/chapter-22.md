@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 22 KJV | Read the Bible Online"
+linkTitle: "22"
+description: "Read Deuteronomy 22 Online | Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother..."
 weight: 22
 ---
 
-# Chapter 22
+# Deuteronomy 22 
 
 **¹** Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother. 
 

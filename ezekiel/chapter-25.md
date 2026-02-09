@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 25 KJV | Read the Bible Online"
+linkTitle: "25"
+description: "Read Ezekiel 25 Online | The word of the LORD came again unto me, saying..."
 weight: 25
 ---
 
-# Chapter 25
+# Ezekiel 25 
 
 **¹** The word of the LORD came again unto me, saying, 
 

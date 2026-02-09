@@ -1,8 +1,11 @@
 ---
+title: "Psalm 50 KJV | Read the Bible Online"
+linkTitle: "50"
+description: "Read Psalm 50 Online | The mighty God, *even* the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof..."
 weight: 50
 ---
 
-# Psalm 50
+# Psalm 50 
 
 **¹** The mighty God, *even* the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof. 
 

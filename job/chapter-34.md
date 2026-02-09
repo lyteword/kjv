@@ -1,8 +1,11 @@
 ---
+title: "Job 34 KJV | Read the Bible Online"
+linkTitle: "34"
+description: "Read Job 34 Online | Furthermore Elihu answered and said..."
 weight: 34
 ---
 
-# Chapter 34
+# Job 34 
 
 **¹** Furthermore Elihu answered and said, 
 

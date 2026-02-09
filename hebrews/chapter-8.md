@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Hebrews 8 Online | Now of the things which we have spoken *this is* the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens..."
 weight: 8
 ---
 
-# Chapter 8
+# Hebrews 8 
 
 **¹** Now of the things which we have spoken *this is* the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens; 
 

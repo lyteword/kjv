@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 24 KJV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Deuteronomy 24 Online | When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give *it* in her hand, and send her out of his house..."
 weight: 24
 ---
 
-# Chapter 24
+# Deuteronomy 24 
 
 **¹** When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give *it* in her hand, and send her out of his house. 
 

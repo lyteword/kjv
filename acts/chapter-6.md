@@ -1,8 +1,11 @@
 ---
+title: "Acts 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Acts 6 Online | And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration..."
 weight: 6
 ---
 
-# Chapter 6
+# Acts 6 
 
 **¹** And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 72 KJV | Read the Bible Online"
+linkTitle: "72"
+description: "Read Psalm 72 Online | Give the king thy judgments, O God, and thy righteousness unto the king’s son..."
 weight: 72
 ---
 
-# Psalm 72
+# Psalm 72 
 
 **¹** Give the king thy judgments, O God, and thy righteousness unto the king’s son. 
 

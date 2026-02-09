@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Isaiah 4 Online | And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach..."
 weight: 4
 ---
 
-# Chapter 4
+# Isaiah 4 
 
 **¹** And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach. 
 

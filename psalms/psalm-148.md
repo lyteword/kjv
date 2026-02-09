@@ -1,8 +1,11 @@
 ---
+title: "Psalm 148 KJV | Read the Bible Online"
+linkTitle: "148"
+description: "Read Psalm 148 Online | Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights..."
 weight: 148
 ---
 
-# Psalm 148
+# Psalm 148 
 
 **¹** Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights. 
 

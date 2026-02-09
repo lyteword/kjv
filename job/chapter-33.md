@@ -1,8 +1,11 @@
 ---
+title: "Job 33 KJV | Read the Bible Online"
+linkTitle: "33"
+description: "Read Job 33 Online | Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words..."
 weight: 33
 ---
 
-# Chapter 33
+# Job 33 
 
 **¹** Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words. 
 

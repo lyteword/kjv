@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Samuel 1 Online | Now there was a certain man of Ramathaim-zophim, of mount Ephraim, and his name *was* Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Samuel 1 
 
 **¹** Now there was a certain man of Ramathaim-zophim, of mount Ephraim, and his name *was* Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite: 
 

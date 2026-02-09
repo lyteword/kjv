@@ -1,8 +1,11 @@
 ---
+title: "Matthew 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Matthew 10 Online | And when he had called unto *him* his twelve disciples, he gave them power *against* unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease..."
 weight: 10
 ---
 
-# Chapter 10
+# Matthew 10 
 
 **¹** And when he had called unto *him* his twelve disciples, he gave them power *against* unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease. 
 

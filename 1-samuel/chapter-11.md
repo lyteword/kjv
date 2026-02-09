@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 11 KJV | Read the Bible Online"
+linkTitle: "11"
+description: "Read 1 Samuel 11 Online | Then Nahash the Ammonite came up, and encamped against Jabesh-gilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee..."
 weight: 11
 ---
 
-# Chapter 11
+# 1 Samuel 11 
 
 **¹** Then Nahash the Ammonite came up, and encamped against Jabesh-gilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee. 
 

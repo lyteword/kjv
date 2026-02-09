@@ -1,8 +1,11 @@
 ---
+title: "Genesis 38 KJV | Read the Bible Online"
+linkTitle: "38"
+description: "Read Genesis 38 Online | And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name *was* Hirah..."
 weight: 38
 ---
 
-# Chapter 38
+# Genesis 38 
 
 **¹** And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name *was* Hirah. 
 

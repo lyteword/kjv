@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read 1 Samuel 10 Online | Then Samuel took a vial of oil, and poured *it* upon his head, and kissed him, and said, *Is it* not because the LORD hath anointed thee *to be* captain over his inheritance..."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Samuel 10 
 
 **¹** Then Samuel took a vial of oil, and poured *it* upon his head, and kissed him, and said, *Is it* not because the LORD hath anointed thee *to be* captain over his inheritance? 
 

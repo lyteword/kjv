@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 16 KJV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Proverbs 16 Online | The preparations of the heart in man, and the answer of the tongue, *is* from the LORD..."
 weight: 16
 ---
 
-# Chapter 16
+# Proverbs 16 
 
 **¹** The preparations of the heart in man, and the answer of the tongue, *is* from the LORD. 
 

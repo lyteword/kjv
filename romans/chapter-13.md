@@ -1,8 +1,11 @@
 ---
+title: "Romans 13 KJV | Read the Bible Online"
+linkTitle: "13"
+description: "Read Romans 13 Online | Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God..."
 weight: 13
 ---
 
-# Chapter 13
+# Romans 13 
 
 **¹** Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. 
 

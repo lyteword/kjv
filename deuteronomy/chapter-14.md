@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 14 KJV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Deuteronomy 14 Online | Ye *are* the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead..."
 weight: 14
 ---
 
-# Chapter 14
+# Deuteronomy 14 
 
 **¹** Ye *are* the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead. 
 

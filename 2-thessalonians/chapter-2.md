@@ -1,8 +1,11 @@
 ---
+title: "2 Thessalonians 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Thessalonians 2 Online | Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and *by* our gathering together unto him..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Thessalonians 2 
 
 **¹** Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and *by* our gathering together unto him, 
 

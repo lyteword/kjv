@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read 1 Corinthians 7 Online | Now concerning the things whereof ye wrote unto me: *It is* good for a man not to touch a woman..."
 weight: 7
 ---
 
-# Chapter 7
+# 1 Corinthians 7 
 
 **¹** Now concerning the things whereof ye wrote unto me: *It is* good for a man not to touch a woman. 
 

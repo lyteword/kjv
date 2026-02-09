@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Timothy 2 Online | I exhort therefore, that, first of all, supplications, prayers, intercessions, *and* giving of thanks, be made for all men..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Timothy 2 
 
 **¹** I exhort therefore, that, first of all, supplications, prayers, intercessions, *and* giving of thanks, be made for all men; 
 

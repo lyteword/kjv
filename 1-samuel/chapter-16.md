@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 16 KJV | Read the Bible Online"
+linkTitle: "16"
+description: "Read 1 Samuel 16 Online | And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Beth-lehemite: for I have provided me a king among his sons..."
 weight: 16
 ---
 
-# Chapter 16
+# 1 Samuel 16 
 
 **¹** And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Beth-lehemite: for I have provided me a king among his sons. 
 

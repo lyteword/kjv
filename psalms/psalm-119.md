@@ -1,8 +1,11 @@
 ---
+title: "Psalm 119 KJV | Read the Bible Online"
+linkTitle: "119"
+description: "Read Psalm 119 Online | Blessed *are* the undefiled in the way, who walk in the law of the LORD..."
 weight: 119
 ---
 
-# Psalm 119
+# Psalm 119 
 
 **¹** Blessed *are* the undefiled in the way, who walk in the law of the LORD. 
 

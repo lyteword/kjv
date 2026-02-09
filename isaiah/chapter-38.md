@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 38 KJV | Read the Bible Online"
+linkTitle: "38"
+description: "Read Isaiah 38 Online | In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live..."
 weight: 38
 ---
 
-# Chapter 38
+# Isaiah 38 
 
 **¹** In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live. 
 

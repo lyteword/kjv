@@ -1,8 +1,11 @@
 ---
+title: "Psalm 107 KJV | Read the Bible Online"
+linkTitle: "107"
+description: "Read Psalm 107 Online | O give thanks unto the LORD, for *he is* good: for his mercy *endureth* for ever..."
 weight: 107
 ---
 
-# Psalm 107
+# Psalm 107 
 
 **¹** O give thanks unto the LORD, for *he is* good: for his mercy *endureth* for ever. 
 

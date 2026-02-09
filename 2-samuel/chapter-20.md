@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 20 KJV | Read the Bible Online"
+linkTitle: "20"
+description: "Read 2 Samuel 20 Online | And there happened to be there a man of Belial, whose name *was* Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel..."
 weight: 20
 ---
 
-# Chapter 20
+# 2 Samuel 20 
 
 **¹** And there happened to be there a man of Belial, whose name *was* Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel. 
 

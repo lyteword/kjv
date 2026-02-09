@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 25 KJV | Read the Bible Online"
+linkTitle: "25"
+description: "Read Leviticus 25 Online | And the LORD spake unto Moses in mount Sinai, saying..."
 weight: 25
 ---
 
-# Chapter 25
+# Leviticus 25 
 
 **¹** And the LORD spake unto Moses in mount Sinai, saying, 
 

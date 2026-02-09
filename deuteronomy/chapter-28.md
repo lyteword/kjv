@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 28 KJV | Read the Bible Online"
+linkTitle: "28"
+description: "Read Deuteronomy 28 Online | And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe *and* to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth..."
 weight: 28
 ---
 
-# Chapter 28
+# Deuteronomy 28 
 
 **¹** And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe *and* to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth: 
 

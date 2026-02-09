@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Thessalonians 2 Online | For yourselves, brethren, know our entrance in unto you, that it was not in vain..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Thessalonians 2 
 
 **¹** For yourselves, brethren, know our entrance in unto you, that it was not in vain: 
 

@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Ecclesiastes 3 Online | To every *thing there is* a season, and a time to every purpose under the heaven..."
 weight: 3
 ---
 
-# Chapter 3
+# Ecclesiastes 3 
 
 **¹** To every *thing there is* a season, and a time to every purpose under the heaven: 
 

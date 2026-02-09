@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 20 KJV | Read the Bible Online"
+linkTitle: "20"
+description: "Read 2 Chronicles 20 Online | It came to pass after this also, *that* the children of Moab, and the children of Ammon, and with them *other* beside the Ammonites, came against Jehoshaphat to battle..."
 weight: 20
 ---
 
-# Chapter 20
+# 2 Chronicles 20 
 
 **¹** It came to pass after this also, *that* the children of Moab, and the children of Ammon, and with them *other* beside the Ammonites, came against Jehoshaphat to battle. 
 

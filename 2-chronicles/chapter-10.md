@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read 2 Chronicles 10 Online | And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king..."
 weight: 10
 ---
 
-# Chapter 10
+# 2 Chronicles 10 
 
 **¹** And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king. 
 

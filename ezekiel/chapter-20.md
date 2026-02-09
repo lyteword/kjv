@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 20 KJV | Read the Bible Online"
+linkTitle: "20"
+description: "Read Ezekiel 20 Online | And it came to pass in the seventh year, in the fifth *month*, the tenth *day* of the month, *that* certain of the elders of Israel came to enquire of the LORD, and sat before me..."
 weight: 20
 ---
 
-# Chapter 20
+# Ezekiel 20 
 
 **¹** And it came to pass in the seventh year, in the fifth *month*, the tenth *day* of the month, *that* certain of the elders of Israel came to enquire of the LORD, and sat before me. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Titus 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Titus 1 Online | Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness..."
 weight: 1
 ---
 
-# Chapter 1
+# Titus 1 
 
 **¹** Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness; 
 

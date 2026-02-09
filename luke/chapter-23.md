@@ -1,8 +1,11 @@
 ---
+title: "Luke 23 KJV | Read the Bible Online"
+linkTitle: "23"
+description: "Read Luke 23 Online | And the whole multitude of them arose, and led him unto Pilate..."
 weight: 23
 ---
 
-# Chapter 23
+# Luke 23 
 
 **¹** And the whole multitude of them arose, and led him unto Pilate. 
 

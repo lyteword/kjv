@@ -1,8 +1,11 @@
 ---
+title: "Daniel 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Daniel 5 Online | Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand..."
 weight: 5
 ---
 
-# Chapter 5
+# Daniel 5 
 
 **¹** Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand. 
 

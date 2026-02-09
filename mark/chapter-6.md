@@ -1,8 +1,11 @@
 ---
+title: "Mark 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Mark 6 Online | And he went out from thence, and came into his own country; and his disciples follow him..."
 weight: 6
 ---
 
-# Chapter 6
+# Mark 6 
 
 **¹** And he went out from thence, and came into his own country; and his disciples follow him. 
 

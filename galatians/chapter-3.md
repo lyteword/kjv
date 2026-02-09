@@ -1,8 +1,11 @@
 ---
+title: "Galatians 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Galatians 3 Online | O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you..."
 weight: 3
 ---
 
-# Chapter 3
+# Galatians 3 
 
 **¹** O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you? 
 

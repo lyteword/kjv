@@ -1,8 +1,11 @@
 ---
+title: "Revelation 14 KJV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Revelation 14 Online | And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty *and* four thousand, having his Father’s name written in their foreheads..."
 weight: 14
 ---
 
-# Chapter 14
+# Revelation 14 
 
 **¹** And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty *and* four thousand, having his Father’s name written in their foreheads. 
 

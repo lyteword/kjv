@@ -1,8 +1,11 @@
 ---
+title: "Job 26 KJV | Read the Bible Online"
+linkTitle: "26"
+description: "Read Job 26 Online | But Job answered and said..."
 weight: 26
 ---
 
-# Chapter 26
+# Job 26 
 
 **¹** But Job answered and said, 
 

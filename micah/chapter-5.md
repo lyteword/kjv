@@ -1,8 +1,11 @@
 ---
+title: "Micah 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Micah 5 Online | Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek..."
 weight: 5
 ---
 
-# Chapter 5
+# Micah 5 
 
 **¹** Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek. 
 

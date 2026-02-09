@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 66 KJV | Read the Bible Online"
+linkTitle: "66"
+description: "Read Isaiah 66 Online | Thus saith the LORD, The heaven *is* my throne, and the earth *is* my footstool: where *is* the house that ye build unto me? and where *is* the place of my rest..."
 weight: 66
 ---
 
-# Chapter 66
+# Isaiah 66 
 
 **¹** Thus saith the LORD, The heaven *is* my throne, and the earth *is* my footstool: where *is* the house that ye build unto me? and where *is* the place of my rest? 
 

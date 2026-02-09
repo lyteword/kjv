@@ -1,8 +1,11 @@
 ---
+title: "Psalm 133 KJV | Read the Bible Online"
+linkTitle: "133"
+description: "Read Psalm 133 Online | Behold, how good and how pleasant *it is* for brethren to dwell together in unity..."
 weight: 133
 ---
 
-# Psalm 133
+# Psalm 133 
 
 **¹** Behold, how good and how pleasant *it is* for brethren to dwell together in unity! 
 

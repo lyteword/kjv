@@ -1,8 +1,11 @@
 ---
+title: "Judges 15 KJV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Judges 15 Online | But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in..."
 weight: 15
 ---
 
-# Chapter 15
+# Judges 15 
 
 **¹** But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Philippians 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Philippians 2 Online | If *there be* therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies..."
 weight: 2
 ---
 
-# Chapter 2
+# Philippians 2 
 
 **¹** If *there be* therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies, 
 

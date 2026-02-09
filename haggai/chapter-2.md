@@ -1,8 +1,11 @@
 ---
+title: "Haggai 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Haggai 2 Online | In the seventh *month*, in the one and twentieth *day* of the month, came the word of the LORD by the prophet Haggai, saying..."
 weight: 2
 ---
 
-# Chapter 2
+# Haggai 2 
 
 **¹** In the seventh *month*, in the one and twentieth *day* of the month, came the word of the LORD by the prophet Haggai, saying, 
 

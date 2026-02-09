@@ -1,8 +1,11 @@
 ---
+title: "Matthew 23 KJV | Read the Bible Online"
+linkTitle: "23"
+description: "Read Matthew 23 Online | Then spake Jesus to the multitude, and to his disciples..."
 weight: 23
 ---
 
-# Chapter 23
+# Matthew 23 
 
 **¹** Then spake Jesus to the multitude, and to his disciples, 
 

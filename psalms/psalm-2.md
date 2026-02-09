@@ -1,8 +1,11 @@
 ---
+title: "Psalm 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Psalm 2 Online | Why do the heathen rage, and the people imagine a vain thing..."
 weight: 2
 ---
 
-# Psalm 2
+# Psalm 2 
 
 **¹** Why do the heathen rage, and the people imagine a vain thing? 
 

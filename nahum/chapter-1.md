@@ -1,8 +1,11 @@
 ---
+title: "Nahum 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Nahum 1 Online | The burden of Nineveh. The book of the vision of Nahum the Elkoshite..."
 weight: 1
 ---
 
-# Chapter 1
+# Nahum 1 
 
 **¹** The burden of Nineveh. The book of the vision of Nahum the Elkoshite. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 59 KJV | Read the Bible Online"
+linkTitle: "59"
+description: "Read Isaiah 59 Online | Behold, the LORD’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear..."
 weight: 59
 ---
 
-# Chapter 59
+# Isaiah 59 
 
 **¹** Behold, the LORD’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear: 
 

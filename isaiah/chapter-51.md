@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 51 KJV | Read the Bible Online"
+linkTitle: "51"
+description: "Read Isaiah 51 Online | Hearken to me, ye that follow after righteousness, ye that seek the LORD: look unto the rock *whence* ye are hewn, and to the hole of the pit *whence* ye are digged..."
 weight: 51
 ---
 
-# Chapter 51
+# Isaiah 51 
 
 **¹** Hearken to me, ye that follow after righteousness, ye that seek the LORD: look unto the rock *whence* ye are hewn, and to the hole of the pit *whence* ye are digged. 
 

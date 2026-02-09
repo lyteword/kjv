@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read 1 Corinthians 6 Online | Dare any of you, having a matter against another, go to law before the unjust, and not before the saints..."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Corinthians 6 
 
 **¹** Dare any of you, having a matter against another, go to law before the unjust, and not before the saints? 
 

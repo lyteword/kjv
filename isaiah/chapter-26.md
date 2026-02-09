@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 26 KJV | Read the Bible Online"
+linkTitle: "26"
+description: "Read Isaiah 26 Online | In that day shall this song be sung in the land of Judah; We have a strong city; salvation will *God* appoint *for* walls and bulwarks..."
 weight: 26
 ---
 
-# Chapter 26
+# Isaiah 26 
 
 **¹** In that day shall this song be sung in the land of Judah; We have a strong city; salvation will *God* appoint *for* walls and bulwarks. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Numbers 2 Online | And the LORD spake unto Moses and unto Aaron, saying..."
 weight: 2
 ---
 
-# Chapter 2
+# Numbers 2 
 
 **¹** And the LORD spake unto Moses and unto Aaron, saying, 
 

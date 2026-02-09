@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read 2 Samuel 12 Online | And the LORD sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor..."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Samuel 12 
 
 **¹** And the LORD sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor. 
 

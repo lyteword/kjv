@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Thessalonians 5 Online | But of the times and the seasons, brethren, ye have no need that I write unto you..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Thessalonians 5 
 
 **¹** But of the times and the seasons, brethren, ye have no need that I write unto you. 
 

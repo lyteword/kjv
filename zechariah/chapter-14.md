@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 14 KJV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Zechariah 14 Online | Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee..."
 weight: 14
 ---
 
-# Chapter 14
+# Zechariah 14 
 
 **¹** Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee. 
 

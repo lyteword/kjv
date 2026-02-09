@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 35 KJV | Read the Bible Online"
+linkTitle: "35"
+description: "Read Isaiah 35 Online | The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose..."
 weight: 35
 ---
 
-# Chapter 35
+# Isaiah 35 
 
 **¹** The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose. 
 

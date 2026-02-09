@@ -1,8 +1,11 @@
 ---
+title: "Matthew 28 KJV | Read the Bible Online"
+linkTitle: "28"
+description: "Read Matthew 28 Online | In the end of the sabbath, as it began to dawn toward the first *day* of the week, came Mary Magdalene and the other Mary to see the sepulchre..."
 weight: 28
 ---
 
-# Chapter 28
+# Matthew 28 
 
 **¹** In the end of the sabbath, as it began to dawn toward the first *day* of the week, came Mary Magdalene and the other Mary to see the sepulchre. 
 

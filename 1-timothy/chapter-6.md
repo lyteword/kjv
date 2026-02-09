@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read 1 Timothy 6 Online | Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and *his* doctrine be not blasphemed..."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Timothy 6 
 
 **¹** Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and *his* doctrine be not blasphemed. 
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 36 KJV | Read the Bible Online"
+linkTitle: "36"
+description: "Read 2 Chronicles 36 Online | Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem..."
 weight: 36
 ---
 
-# Chapter 36
+# 2 Chronicles 36 
 
 **¹** Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem. 
 

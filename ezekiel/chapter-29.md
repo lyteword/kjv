@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 29 KJV | Read the Bible Online"
+linkTitle: "29"
+description: "Read Ezekiel 29 Online | In the tenth year, in the tenth *month*, in the twelfth *day* of the month, the word of the LORD came unto me, saying..."
 weight: 29
 ---
 
-# Chapter 29
+# Ezekiel 29 
 
 **¹** In the tenth year, in the tenth *month*, in the twelfth *day* of the month, the word of the LORD came unto me, saying, 
 

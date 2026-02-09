@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 25 KJV | Read the Bible Online"
+linkTitle: "25"
+description: "Read Deuteronomy 25 Online | If there be a controversy between men, and they come unto judgment, that *the judges* may judge them; then they shall justify the righteous, and condemn the wicked..."
 weight: 25
 ---
 
-# Chapter 25
+# Deuteronomy 25 
 
 **¹** If there be a controversy between men, and they come unto judgment, that *the judges* may judge them; then they shall justify the righteous, and condemn the wicked. 
 

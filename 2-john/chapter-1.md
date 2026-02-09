@@ -1,8 +1,11 @@
 ---
+title: "2 John 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 John 1 Online | The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 John 1 
 
 **¹** The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth; 
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 24 KJV | Read the Bible Online"
+linkTitle: "24"
+description: "Read 1 Samuel 24 Online | And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David *is* in the wilderness of En-gedi..."
 weight: 24
 ---
 
-# Chapter 24
+# 1 Samuel 24 
 
 **¹** And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David *is* in the wilderness of En-gedi. 
 

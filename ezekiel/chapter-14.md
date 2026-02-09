@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 14 KJV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Ezekiel 14 Online | Then came certain of the elders of Israel unto me, and sat before me..."
 weight: 14
 ---
 
-# Chapter 14
+# Ezekiel 14 
 
 **¹** Then came certain of the elders of Israel unto me, and sat before me. 
 

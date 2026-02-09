@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Deuteronomy 4 Online | Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do *them*, that ye may live, and go in and possess the land which the LORD God of your fathers giveth you..."
 weight: 4
 ---
 
-# Chapter 4
+# Deuteronomy 4 
 
 **¹** Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do *them*, that ye may live, and go in and possess the land which the LORD God of your fathers giveth you. 
 

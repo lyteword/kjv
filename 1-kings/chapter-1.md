@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Kings 1 Online | Now king David was old *and* stricken in years; and they covered him with clothes, but he gat no heat..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Kings 1 
 
 **¹** Now king David was old *and* stricken in years; and they covered him with clothes, but he gat no heat. 
 

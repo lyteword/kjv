@@ -1,8 +1,11 @@
 ---
+title: "Psalm 126 KJV | Read the Bible Online"
+linkTitle: "126"
+description: "Read Psalm 126 Online | When the LORD turned again the captivity of Zion, we were like them that dream..."
 weight: 126
 ---
 
-# Psalm 126
+# Psalm 126 
 
 **¹** When the LORD turned again the captivity of Zion, we were like them that dream. 
 

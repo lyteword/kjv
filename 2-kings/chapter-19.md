@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read 2 Kings 19 Online | And it came to pass, when king Hezekiah heard *it*, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD..."
 weight: 19
 ---
 
-# Chapter 19
+# 2 Kings 19 
 
 **¹** And it came to pass, when king Hezekiah heard *it*, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD. 
 

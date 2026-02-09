@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Jeremiah 7 Online | The word that came to Jeremiah from the LORD, saying..."
 weight: 7
 ---
 
-# Chapter 7
+# Jeremiah 7 
 
 **¹** The word that came to Jeremiah from the LORD, saying, 
 

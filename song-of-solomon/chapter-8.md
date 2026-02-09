@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Song Of Solomon 8 Online | O that thou *wert* as my brother, that sucked the breasts of my mother! *when* I should find thee without, I would kiss thee; yea, I should not be despised..."
 weight: 8
 ---
 
-# Chapter 8
+# Song Of Solomon 8 
 
 **¹** O that thou *wert* as my brother, that sucked the breasts of my mother! *when* I should find thee without, I would kiss thee; yea, I should not be despised. 
 

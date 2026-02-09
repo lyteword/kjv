@@ -1,8 +1,11 @@
 ---
+title: "Joshua 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Joshua 8 Online | And the LORD said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land..."
 weight: 8
 ---
 
-# Chapter 8
+# Joshua 8 
 
 **¹** And the LORD said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land: 
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read 2 Samuel 8 Online | And after this it came to pass, that David smote the Philistines, and subdued them: and David took Metheg-ammah out of the hand of the Philistines..."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Samuel 8 
 
 **¹** And after this it came to pass, that David smote the Philistines, and subdued them: and David took Metheg-ammah out of the hand of the Philistines. 
 

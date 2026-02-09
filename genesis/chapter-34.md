@@ -1,8 +1,11 @@
 ---
+title: "Genesis 34 KJV | Read the Bible Online"
+linkTitle: "34"
+description: "Read Genesis 34 Online | And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land..."
 weight: 34
 ---
 
-# Chapter 34
+# Genesis 34 
 
 **¹** And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land. 
 

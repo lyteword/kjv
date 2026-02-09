@@ -1,8 +1,11 @@
 ---
+title: "Genesis 33 KJV | Read the Bible Online"
+linkTitle: "33"
+description: "Read Genesis 33 Online | And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids..."
 weight: 33
 ---
 
-# Chapter 33
+# Genesis 33 
 
 **¹** And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids. 
 

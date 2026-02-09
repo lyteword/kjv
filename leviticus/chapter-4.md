@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Leviticus 4 Online | And the LORD spake unto Moses, saying..."
 weight: 4
 ---
 
-# Chapter 4
+# Leviticus 4 
 
 **¹** And the LORD spake unto Moses, saying, 
 

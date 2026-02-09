@@ -1,8 +1,11 @@
 ---
+title: "Psalm 120 KJV | Read the Bible Online"
+linkTitle: "120"
+description: "Read Psalm 120 Online | In my distress I cried unto the LORD, and he heard me..."
 weight: 120
 ---
 
-# Psalm 120
+# Psalm 120 
 
 **¹** In my distress I cried unto the LORD, and he heard me. 
 

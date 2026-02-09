@@ -1,8 +1,11 @@
 ---
+title: "Acts 3 KJV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Acts 3 Online | Now Peter and John went up together into the temple at the hour of prayer, *being* the ninth *hour*..."
 weight: 3
 ---
 
-# Chapter 3
+# Acts 3 
 
 **¹** Now Peter and John went up together into the temple at the hour of prayer, *being* the ninth *hour*. 
 

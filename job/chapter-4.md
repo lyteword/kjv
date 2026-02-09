@@ -1,8 +1,11 @@
 ---
+title: "Job 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Job 4 Online | Then Eliphaz the Temanite answered and said..."
 weight: 4
 ---
 
-# Chapter 4
+# Job 4 
 
 **¹** Then Eliphaz the Temanite answered and said, 
 

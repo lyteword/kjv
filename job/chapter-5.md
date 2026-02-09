@@ -1,8 +1,11 @@
 ---
+title: "Job 5 KJV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Job 5 Online | Call now, if there be any that will answer thee; and to which of the saints wilt thou turn..."
 weight: 5
 ---
 
-# Chapter 5
+# Job 5 
 
 **¹** Call now, if there be any that will answer thee; and to which of the saints wilt thou turn? 
 

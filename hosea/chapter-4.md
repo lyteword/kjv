@@ -1,8 +1,11 @@
 ---
+title: "Hosea 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Hosea 4 Online | Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because *there is* no truth, nor mercy, nor knowledge of God in the land..."
 weight: 4
 ---
 
-# Chapter 4
+# Hosea 4 
 
 **¹** Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because *there is* no truth, nor mercy, nor knowledge of God in the land. 
 

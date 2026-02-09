@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 31 KJV | Read the Bible Online"
+linkTitle: "31"
+description: "Read Proverbs 31 Online | The words of king Lemuel, the prophecy that his mother taught him..."
 weight: 31
 ---
 
-# Chapter 31
+# Proverbs 31 
 
 **¹** The words of king Lemuel, the prophecy that his mother taught him. 
 

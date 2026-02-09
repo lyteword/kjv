@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Leviticus 2 Online | And when any will offer a meat offering unto the LORD, his offering shall be *of* fine flour; and he shall pour oil upon it, and put frankincense thereon..."
 weight: 2
 ---
 
-# Chapter 2
+# Leviticus 2 
 
 **¹** And when any will offer a meat offering unto the LORD, his offering shall be *of* fine flour; and he shall pour oil upon it, and put frankincense thereon: 
 

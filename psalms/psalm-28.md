@@ -1,8 +1,11 @@
 ---
+title: "Psalm 28 KJV | Read the Bible Online"
+linkTitle: "28"
+description: "Read Psalm 28 Online | Unto thee will I cry, O LORD my rock; be not silent to me: lest, *if* thou be silent to me, I become like them that go down into the pit..."
 weight: 28
 ---
 
-# Psalm 28
+# Psalm 28 
 
 **¹** Unto thee will I cry, O LORD my rock; be not silent to me: lest, *if* thou be silent to me, I become like them that go down into the pit. 
 

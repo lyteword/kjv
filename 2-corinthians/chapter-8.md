@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read 2 Corinthians 8 Online | Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia..."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Corinthians 8 
 
 **¹** Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia; 
 

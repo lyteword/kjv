@@ -1,8 +1,11 @@
 ---
+title: "Luke 13 KJV | Read the Bible Online"
+linkTitle: "13"
+description: "Read Luke 13 Online | There were present at that season some that told him of the Galilæans, whose blood Pilate had mingled with their sacrifices..."
 weight: 13
 ---
 
-# Chapter 13
+# Luke 13 
 
 **¹** There were present at that season some that told him of the Galilæans, whose blood Pilate had mingled with their sacrifices. 
 

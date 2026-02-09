@@ -1,8 +1,11 @@
 ---
+title: "Jonah 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Jonah 2 Online | Then Jonah prayed unto the LORD his God out of the fish’s belly..."
 weight: 2
 ---
 
-# Chapter 2
+# Jonah 2 
 
 **¹** Then Jonah prayed unto the LORD his God out of the fish’s belly, 
 

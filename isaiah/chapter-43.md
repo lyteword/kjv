@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 43 KJV | Read the Bible Online"
+linkTitle: "43"
+description: "Read Isaiah 43 Online | But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called *thee* by thy name; thou *art* mine..."
 weight: 43
 ---
 
-# Chapter 43
+# Isaiah 43 
 
 **¹** But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called *thee* by thy name; thou *art* mine. 
 

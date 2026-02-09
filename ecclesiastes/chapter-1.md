@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Ecclesiastes 1 Online | The words of the Preacher, the son of David, king in Jerusalem..."
 weight: 1
 ---
 
-# Chapter 1
+# Ecclesiastes 1 
 
 **¹** The words of the Preacher, the son of David, king in Jerusalem. 
 

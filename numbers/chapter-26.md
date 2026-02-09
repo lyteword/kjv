@@ -1,8 +1,11 @@
 ---
+title: "Numbers 26 KJV | Read the Bible Online"
+linkTitle: "26"
+description: "Read Numbers 26 Online | And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying..."
 weight: 26
 ---
 
-# Chapter 26
+# Numbers 26 
 
 **¹** And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying, 
 

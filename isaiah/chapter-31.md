@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 31 KJV | Read the Bible Online"
+linkTitle: "31"
+description: "Read Isaiah 31 Online | Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because *they are* many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD..."
 weight: 31
 ---
 
-# Chapter 31
+# Isaiah 31 
 
 **¹** Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because *they are* many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD! 
 

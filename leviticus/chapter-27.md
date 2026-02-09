@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 27 KJV | Read the Bible Online"
+linkTitle: "27"
+description: "Read Leviticus 27 Online | And the LORD spake unto Moses, saying..."
 weight: 27
 ---
 
-# Chapter 27
+# Leviticus 27 
 
 **¹** And the LORD spake unto Moses, saying, 
 

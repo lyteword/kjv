@@ -1,8 +1,11 @@
 ---
+title: "Luke 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Luke 12 Online | In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy..."
 weight: 12
 ---
 
-# Chapter 12
+# Luke 12 
 
 **¹** In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.
 

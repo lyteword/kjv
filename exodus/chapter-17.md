@@ -1,8 +1,11 @@
 ---
+title: "Exodus 17 KJV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Exodus 17 Online | And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and *there was* no water for the people to drink..."
 weight: 17
 ---
 
-# Chapter 17
+# Exodus 17 
 
 **¹** And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and *there was* no water for the people to drink. 
 

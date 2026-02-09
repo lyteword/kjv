@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 25 KJV | Read the Bible Online"
+linkTitle: "25"
+description: "Read Proverbs 25 Online | These *are* also proverbs of Solomon, which the men of Hezekiah king of Judah copied out..."
 weight: 25
 ---
 
-# Chapter 25
+# Proverbs 25 
 
 **¹** These *are* also proverbs of Solomon, which the men of Hezekiah king of Judah copied out. 
 

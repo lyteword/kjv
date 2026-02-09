@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 9 KJV | Read the Bible Online"
+linkTitle: "9"
+description: "Read 2 Samuel 9 Online | And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake..."
 weight: 9
 ---
 
-# Chapter 9
+# 2 Samuel 9 
 
 **¹** And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake? 
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Matthew 19 Online | And it came to pass, *that* when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan..."
 weight: 19
 ---
 
-# Chapter 19
+# Matthew 19 
 
 **¹** And it came to pass, *that* when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan; 
 

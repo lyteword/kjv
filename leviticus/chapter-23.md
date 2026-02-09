@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 23 KJV | Read the Bible Online"
+linkTitle: "23"
+description: "Read Leviticus 23 Online | And the LORD spake unto Moses, saying..."
 weight: 23
 ---
 
-# Chapter 23
+# Leviticus 23 
 
 **¹** And the LORD spake unto Moses, saying, 
 

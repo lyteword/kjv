@@ -1,8 +1,11 @@
 ---
+title: "Psalm 16 KJV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Psalm 16 Online | Preserve me, O God: for in thee do I put my trust..."
 weight: 16
 ---
 
-# Psalm 16
+# Psalm 16 
 
 **¹** Preserve me, O God: for in thee do I put my trust. 
 

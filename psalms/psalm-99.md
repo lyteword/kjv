@@ -1,8 +1,11 @@
 ---
+title: "Psalm 99 KJV | Read the Bible Online"
+linkTitle: "99"
+description: "Read Psalm 99 Online | The LORD reigneth; let the people tremble: he sitteth *between* the cherubims; let the earth be moved..."
 weight: 99
 ---
 
-# Psalm 99
+# Psalm 99 
 
 **¹** The LORD reigneth; let the people tremble: he sitteth *between* the cherubims; let the earth be moved. 
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 25 KJV | Read the Bible Online"
+linkTitle: "25"
+description: "Read 2 Kings 25 Online | And it came to pass in the ninth year of his reign, in the tenth month, in the tenth *day* of the month, *that* Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about..."
 weight: 25
 ---
 
-# Chapter 25
+# 2 Kings 25 
 
 **¹** And it came to pass in the ninth year of his reign, in the tenth month, in the tenth *day* of the month, *that* Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about. 
 

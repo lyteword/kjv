@@ -1,8 +1,11 @@
 ---
+title: "John 2 KJV | Read the Bible Online"
+linkTitle: "2"
+description: "Read John 2 Online | And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there..."
 weight: 2
 ---
 
-# Chapter 2
+# John 2 
 
 **¹** And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there: 
 

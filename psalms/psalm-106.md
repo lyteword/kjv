@@ -1,8 +1,11 @@
 ---
+title: "Psalm 106 KJV | Read the Bible Online"
+linkTitle: "106"
+description: "Read Psalm 106 Online | Praise ye the LORD. O give thanks unto the LORD; for *he is* good: for his mercy *endureth* for ever..."
 weight: 106
 ---
 
-# Psalm 106
+# Psalm 106 
 
 **¹** Praise ye the LORD. O give thanks unto the LORD; for *he is* good: for his mercy *endureth* for ever. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 1 KJV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Psalm 1 Online | Blessed *is* the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful..."
 weight: 1
 ---
 
-# Psalm 1
+# Psalm 1 
 
 **¹** Blessed *is* the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. 
 

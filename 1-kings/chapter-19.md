@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read 1 Kings 19 Online | And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword..."
 weight: 19
 ---
 
-# Chapter 19
+# 1 Kings 19 
 
 **¹** And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword. 
 

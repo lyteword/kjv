@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Hebrews 6 Online | Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God..."
 weight: 6
 ---
 
-# Chapter 6
+# Hebrews 6 
 
 **¹** Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God, 
 

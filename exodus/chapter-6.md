@@ -1,8 +1,11 @@
 ---
+title: "Exodus 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Exodus 6 Online | Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land..."
 weight: 6
 ---
 
-# Chapter 6
+# Exodus 6 
 
 **¹** Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land. 
 

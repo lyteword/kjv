@@ -1,8 +1,11 @@
 ---
+title: "Genesis 45 KJV | Read the Bible Online"
+linkTitle: "45"
+description: "Read Genesis 45 Online | Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren..."
 weight: 45
 ---
 
-# Chapter 45
+# Genesis 45 
 
 **¹** Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren. 
 

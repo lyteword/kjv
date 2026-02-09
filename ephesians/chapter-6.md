@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 6 KJV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Ephesians 6 Online | Children, obey your parents in the Lord: for this is right..."
 weight: 6
 ---
 
-# Chapter 6
+# Ephesians 6 
 
 **¹** Children, obey your parents in the Lord: for this is right. 
 

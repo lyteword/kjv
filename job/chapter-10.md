@@ -1,8 +1,11 @@
 ---
+title: "Job 10 KJV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Job 10 Online | My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul..."
 weight: 10
 ---
 
-# Chapter 10
+# Job 10 
 
 **¹** My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul. 
 

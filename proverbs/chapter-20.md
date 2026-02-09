@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 20 KJV | Read the Bible Online"
+linkTitle: "20"
+description: "Read Proverbs 20 Online | Wine *is* a mocker, strong drink *is* raging: and whosoever is deceived thereby is not wise..."
 weight: 20
 ---
 
-# Chapter 20
+# Proverbs 20 
 
 **¹** Wine *is* a mocker, strong drink *is* raging: and whosoever is deceived thereby is not wise. 
 

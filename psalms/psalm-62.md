@@ -1,8 +1,11 @@
 ---
+title: "Psalm 62 KJV | Read the Bible Online"
+linkTitle: "62"
+description: "Read Psalm 62 Online | Truly my soul waiteth upon God: from him *cometh* my salvation..."
 weight: 62
 ---
 
-# Psalm 62
+# Psalm 62 
 
 **¹** Truly my soul waiteth upon God: from him *cometh* my salvation. 
 

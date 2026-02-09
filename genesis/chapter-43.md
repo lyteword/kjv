@@ -1,8 +1,11 @@
 ---
+title: "Genesis 43 KJV | Read the Bible Online"
+linkTitle: "43"
+description: "Read Genesis 43 Online | And the famine *was* sore in the land..."
 weight: 43
 ---
 
-# Chapter 43
+# Genesis 43 
 
 **¹** And the famine *was* sore in the land. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Ecclesiastes 7 Online | A good name *is* better than precious ointment; and the day of death than the day of one’s birth..."
 weight: 7
 ---
 
-# Chapter 7
+# Ecclesiastes 7 
 
 **¹** A good name *is* better than precious ointment; and the day of death than the day of one’s birth. 
 

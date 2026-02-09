@@ -1,8 +1,11 @@
 ---
+title: "Exodus 4 KJV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Exodus 4 Online | And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee..."
 weight: 4
 ---
 
-# Chapter 4
+# Exodus 4 
 
 **¹** And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee. 
 

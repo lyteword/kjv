@@ -1,8 +1,11 @@
 ---
+title: "Exodus 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Exodus 8 Online | And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me..."
 weight: 8
 ---
 
-# Chapter 8
+# Exodus 8 
 
 **¹** And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me. 
 

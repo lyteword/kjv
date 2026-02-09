@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 21 KJV | Read the Bible Online"
+linkTitle: "21"
+description: "Read 2 Samuel 21 Online | Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, *It is* for Saul, and for *his* bloody house, because he slew the Gibeonites..."
 weight: 21
 ---
 
-# Chapter 21
+# 2 Samuel 21 
 
 **¹** Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, *It is* for Saul, and for *his* bloody house, because he slew the Gibeonites. 
 

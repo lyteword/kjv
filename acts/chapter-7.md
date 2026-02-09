@@ -1,8 +1,11 @@
 ---
+title: "Acts 7 KJV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Acts 7 Online | Then said the high priest, Are these things so..."
 weight: 7
 ---
 
-# Chapter 7
+# Acts 7 
 
 **¹** Then said the high priest, Are these things so? 
 

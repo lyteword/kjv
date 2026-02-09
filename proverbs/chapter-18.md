@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 18 KJV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Proverbs 18 Online | Through desire a man, having separated himself, seeketh *and* intermeddleth with all wisdom..."
 weight: 18
 ---
 
-# Chapter 18
+# Proverbs 18 
 
 **¹** Through desire a man, having separated himself, seeketh *and* intermeddleth with all wisdom. 
 

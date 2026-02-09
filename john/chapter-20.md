@@ -1,8 +1,11 @@
 ---
+title: "John 20 KJV | Read the Bible Online"
+linkTitle: "20"
+description: "Read John 20 Online | The first *day* of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre..."
 weight: 20
 ---
 
-# Chapter 20
+# John 20 
 
 **¹** The first *day* of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre. 
 

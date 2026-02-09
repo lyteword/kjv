@@ -1,8 +1,11 @@
 ---
+title: "Genesis 44 KJV | Read the Bible Online"
+linkTitle: "44"
+description: "Read Genesis 44 Online | And he commanded the steward of his house, saying, Fill the men’s sacks *with* food, as much as they can carry, and put every man’s money in his sack’s mouth..."
 weight: 44
 ---
 
-# Chapter 44
+# Genesis 44 
 
 **¹** And he commanded the steward of his house, saying, Fill the men’s sacks *with* food, as much as they can carry, and put every man’s money in his sack’s mouth. 
 

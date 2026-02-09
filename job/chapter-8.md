@@ -1,8 +1,11 @@
 ---
+title: "Job 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Job 8 Online | Then answered Bildad the Shuhite, and said..."
 weight: 8
 ---
 
-# Chapter 8
+# Job 8 
 
 **¹** Then answered Bildad the Shuhite, and said, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 19 KJV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Job 19 Online | Then Job answered and said..."
 weight: 19
 ---
 
-# Chapter 19
+# Job 19 
 
 **¹** Then Job answered and said, 
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read 1 Corinthians 8 Online | Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth..."
 weight: 8
 ---
 
-# Chapter 8
+# 1 Corinthians 8 
 
 **¹** Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth. 
 

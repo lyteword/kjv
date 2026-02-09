@@ -1,8 +1,11 @@
 ---
+title: "Judges 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Judges 12 Online | And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire..."
 weight: 12
 ---
 
-# Chapter 12
+# Judges 12 
 
 **¹** And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire. 
 

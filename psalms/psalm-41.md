@@ -1,8 +1,11 @@
 ---
+title: "Psalm 41 KJV | Read the Bible Online"
+linkTitle: "41"
+description: "Read Psalm 41 Online | Blessed *is* he that considereth the poor: the LORD will deliver him in time of trouble..."
 weight: 41
 ---
 
-# Psalm 41
+# Psalm 41 
 
 **¹** Blessed *is* he that considereth the poor: the LORD will deliver him in time of trouble. 
 

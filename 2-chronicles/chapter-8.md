@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 8 KJV | Read the Bible Online"
+linkTitle: "8"
+description: "Read 2 Chronicles 8 Online | And it came to pass at the end of twenty years, wherein Solomon had built the house of the LORD, and his own house..."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Chronicles 8 
 
 **¹** And it came to pass at the end of twenty years, wherein Solomon had built the house of the LORD, and his own house, 
 

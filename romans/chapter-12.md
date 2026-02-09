@@ -1,8 +1,11 @@
 ---
+title: "Romans 12 KJV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Romans 12 Online | I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, *which is* your reasonable service..."
 weight: 12
 ---
 
-# Chapter 12
+# Romans 12 
 
 **¹** I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, *which is* your reasonable service. 
 

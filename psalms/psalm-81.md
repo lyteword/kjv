@@ -1,8 +1,11 @@
 ---
+title: "Psalm 81 KJV | Read the Bible Online"
+linkTitle: "81"
+description: "Read Psalm 81 Online | Sing aloud unto God our strength: make a joyful noise unto the God of Jacob..."
 weight: 81
 ---
 
-# Psalm 81
+# Psalm 81 
 
 **¹** Sing aloud unto God our strength: make a joyful noise unto the God of Jacob. 
 

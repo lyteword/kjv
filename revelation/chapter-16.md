@@ -1,8 +1,11 @@
 ---
+title: "Revelation 16 KJV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Revelation 16 Online | And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth..."
 weight: 16
 ---
 
-# Chapter 16
+# Revelation 16 
 
 **¹** And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth. 
 
