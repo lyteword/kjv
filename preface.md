@@ -1,11 +1,14 @@
 ---
-title: Preface to the King James Version
-linkTitle: Preface
+title: "Preface to the King James Version | Read Online"
+description: "Read the original essay prefixed to the King James Version"
+linkTitle: "Preface"
 sidebar:
   exclude: true
 cascade:
   toc: true
 ---
+
+# Preface
 
 *Below is the original essay prefixed to the King James Version in the edition of 1611, in which the translators defend their version against criticisms they expected to be brought against it. The text here has been taken from "The Holy Bible, an Exact Reprint Page for Page of the Authorized Version Published in the Year 1611" (Oxford, 1833).*
 
