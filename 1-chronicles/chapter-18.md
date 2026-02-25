@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 18 KJV | Read the Bible Online"
 linkTitle: "18"
-description: "Read 1 Chronicles 18 Online | Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines..."
+description: >
+  Read 1 Chronicles 18 Online | Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines...
 weight: 18
 ---
 

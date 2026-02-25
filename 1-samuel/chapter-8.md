@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read 1 Samuel 8 Online | And it came to pass, when Samuel was old, that he made his sons judges over Israel..."
+description: >
+  Read 1 Samuel 8 Online | And it came to pass, when Samuel was old, that he made his sons judges over Israel...
 weight: 8
 ---
 

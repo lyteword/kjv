@@ -1,7 +1,8 @@
 ---
 title: "Daniel 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Daniel 10 Online | In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing *was* true, but the time appointed *was* long: and he understood the thing, and had understanding of the vision..."
+description: >
+  Read Daniel 10 Online | In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing *was* true, but the time appointed *was* long: and he understood the thing, and had understanding of the vision...
 weight: 10
 ---
 

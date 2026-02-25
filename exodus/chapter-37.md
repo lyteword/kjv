@@ -1,7 +1,8 @@
 ---
 title: "Exodus 37 KJV | Read the Bible Online"
 linkTitle: "37"
-description: "Read Exodus 37 Online | And Bezaleel made the ark *of* shittim wood: two cubits and a half *was* the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it..."
+description: >
+  Read Exodus 37 Online | And Bezaleel made the ark *of* shittim wood: two cubits and a half *was* the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it...
 weight: 37
 ---
 

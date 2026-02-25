@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Deuteronomy 2 Online | Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days..."
+description: >
+  Read Deuteronomy 2 Online | Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days...
 weight: 2
 ---
 

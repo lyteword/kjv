@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read 1 Chronicles 10 Online | Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa..."
+description: >
+  Read 1 Chronicles 10 Online | Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa...
 weight: 10
 ---
 

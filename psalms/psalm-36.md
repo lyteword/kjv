@@ -1,7 +1,8 @@
 ---
 title: "Psalm 36 KJV | Read the Bible Online"
 linkTitle: "36"
-description: "Read Psalm 36 Online | The transgression of the wicked saith within my heart, *that there is* no fear of God before his eyes..."
+description: >
+  Read Psalm 36 Online | The transgression of the wicked saith within my heart, *that there is* no fear of God before his eyes...
 weight: 36
 ---
 

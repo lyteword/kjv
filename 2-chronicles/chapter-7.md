@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read 2 Chronicles 7 Online | Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house..."
+description: >
+  Read 2 Chronicles 7 Online | Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house...
 weight: 7
 ---
 

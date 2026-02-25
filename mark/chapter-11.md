@@ -1,7 +1,8 @@
 ---
 title: "Mark 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Mark 11 Online | And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples..."
+description: >
+  Read Mark 11 Online | And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples...
 weight: 11
 ---
 

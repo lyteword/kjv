@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 33 KJV | Read the Bible Online"
 linkTitle: "33"
-description: "Read 2 Chronicles 33 Online | Manasseh *was* twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem..."
+description: >
+  Read 2 Chronicles 33 Online | Manasseh *was* twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem...
 weight: 33
 ---
 

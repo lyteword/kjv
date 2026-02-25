@@ -1,7 +1,8 @@
 ---
 title: "Matthew 27 KJV | Read the Bible Online"
 linkTitle: "27"
-description: "Read Matthew 27 Online | When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death..."
+description: >
+  Read Matthew 27 Online | When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death...
 weight: 27
 ---
 

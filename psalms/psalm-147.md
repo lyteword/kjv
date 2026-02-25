@@ -1,7 +1,8 @@
 ---
 title: "Psalm 147 KJV | Read the Bible Online"
 linkTitle: "147"
-description: "Read Psalm 147 Online | Praise ye the LORD: for *it is* good to sing praises unto our God; for *it is* pleasant; *and* praise is comely..."
+description: >
+  Read Psalm 147 Online | Praise ye the LORD: for *it is* good to sing praises unto our God; for *it is* pleasant; *and* praise is comely...
 weight: 147
 ---
 

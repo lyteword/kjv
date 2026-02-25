@@ -1,7 +1,8 @@
 ---
 title: "Romans 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Romans 7 Online | Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth..."
+description: >
+  Read Romans 7 Online | Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth...
 weight: 7
 ---
 

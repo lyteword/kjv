@@ -1,7 +1,8 @@
 ---
 title: "Matthew 18 KJV | Read the Bible Online"
 linkTitle: "18"
-description: "Read Matthew 18 Online | At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven..."
+description: >
+  Read Matthew 18 Online | At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven...
 weight: 18
 ---
 

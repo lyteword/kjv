@@ -1,7 +1,8 @@
 ---
 title: "Psalm 29 KJV | Read the Bible Online"
 linkTitle: "29"
-description: "Read Psalm 29 Online | Give unto the LORD, O ye mighty, give unto the LORD glory and strength..."
+description: >
+  Read Psalm 29 Online | Give unto the LORD, O ye mighty, give unto the LORD glory and strength...
 weight: 29
 ---
 

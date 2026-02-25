@@ -1,7 +1,8 @@
 ---
 title: "Exodus 30 KJV | Read the Bible Online"
 linkTitle: "30"
-description: "Read Exodus 30 Online | And thou shalt make an altar to burn incense upon: *of* shittim wood shalt thou make it..."
+description: >
+  Read Exodus 30 Online | And thou shalt make an altar to burn incense upon: *of* shittim wood shalt thou make it...
 weight: 30
 ---
 

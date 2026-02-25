@@ -1,7 +1,8 @@
 ---
 title: "Job 21 KJV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Job 21 Online | But Job answered and said..."
+description: >
+  Read Job 21 Online | But Job answered and said...
 weight: 21
 ---
 

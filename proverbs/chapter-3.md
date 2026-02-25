@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Proverbs 3 Online | My son, forget not my law; but let thine heart keep my commandments..."
+description: >
+  Read Proverbs 3 Online | My son, forget not my law; but let thine heart keep my commandments...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Romans 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Romans 11 Online | I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, *of* the tribe of Benjamin..."
+description: >
+  Read Romans 11 Online | I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, *of* the tribe of Benjamin...
 weight: 11
 ---
 

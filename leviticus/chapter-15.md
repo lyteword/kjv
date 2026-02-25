@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 15 KJV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Leviticus 15 Online | And the LORD spake unto Moses and to Aaron, saying..."
+description: >
+  Read Leviticus 15 Online | And the LORD spake unto Moses and to Aaron, saying...
 weight: 15
 ---
 

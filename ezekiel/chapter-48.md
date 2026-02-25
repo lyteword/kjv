@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 48 KJV | Read the Bible Online"
 linkTitle: "48"
-description: "Read Ezekiel 48 Online | Now these *are* the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east *and* west; a *portion for* Dan..."
+description: >
+  Read Ezekiel 48 Online | Now these *are* the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east *and* west; a *portion for* Dan...
 weight: 48
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 52 KJV | Read the Bible Online"
 linkTitle: "52"
-description: "Read Isaiah 52 Online | Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean..."
+description: >
+  Read Isaiah 52 Online | Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean...
 weight: 52
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "John 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read John 7 Online | After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him..."
+description: >
+  Read John 7 Online | After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him...
 weight: 7
 ---
 

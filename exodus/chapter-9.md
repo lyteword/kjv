@@ -1,7 +1,8 @@
 ---
 title: "Exodus 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Exodus 9 Online | Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me..."
+description: >
+  Read Exodus 9 Online | Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me...
 weight: 9
 ---
 

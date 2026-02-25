@@ -1,7 +1,8 @@
 ---
 title: "Genesis 35 KJV | Read the Bible Online"
 linkTitle: "35"
-description: "Read Genesis 35 Online | And God said unto Jacob, Arise, go up to Beth-el, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother..."
+description: >
+  Read Genesis 35 Online | And God said unto Jacob, Arise, go up to Beth-el, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother...
 weight: 35
 ---
 

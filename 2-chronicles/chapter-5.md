@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read 2 Chronicles 5 Online | Thus all the work that Solomon made for the house of the LORD was finished: and Solomon brought in *all* the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God..."
+description: >
+  Read 2 Chronicles 5 Online | Thus all the work that Solomon made for the house of the LORD was finished: and Solomon brought in *all* the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God...
 weight: 5
 ---
 

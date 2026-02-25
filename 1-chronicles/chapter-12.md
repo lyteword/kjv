@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 12 KJV | Read the Bible Online"
 linkTitle: "12"
-description: "Read 1 Chronicles 12 Online | Now these *are* they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they *were* among the mighty men, helpers of the war..."
+description: >
+  Read 1 Chronicles 12 Online | Now these *are* they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they *were* among the mighty men, helpers of the war...
 weight: 12
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 85 KJV | Read the Bible Online"
 linkTitle: "85"
-description: "Read Psalm 85 Online | LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob..."
+description: >
+  Read Psalm 85 Online | LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob...
 weight: 85
 ---
 

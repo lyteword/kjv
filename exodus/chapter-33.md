@@ -1,7 +1,8 @@
 ---
 title: "Exodus 33 KJV | Read the Bible Online"
 linkTitle: "33"
-description: "Read Exodus 33 Online | And the LORD said unto Moses, Depart, *and* go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it..."
+description: >
+  Read Exodus 33 Online | And the LORD said unto Moses, Depart, *and* go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it...
 weight: 33
 ---
 

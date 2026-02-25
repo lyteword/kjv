@@ -1,7 +1,8 @@
 ---
 title: "Job 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Job 11 Online | Then answered Zophar the Naamathite, and said..."
+description: >
+  Read Job 11 Online | Then answered Zophar the Naamathite, and said...
 weight: 11
 ---
 

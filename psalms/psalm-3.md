@@ -1,7 +1,8 @@
 ---
 title: "Psalm 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Psalm 3 Online | LORD, how are they increased that trouble me! many *are* they that rise up against me..."
+description: >
+  Read Psalm 3 Online | LORD, how are they increased that trouble me! many *are* they that rise up against me...
 weight: 3
 ---
 

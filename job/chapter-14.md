@@ -1,7 +1,8 @@
 ---
 title: "Job 14 KJV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Job 14 Online | Man *that is* born of a woman *is* of few days, and full of trouble..."
+description: >
+  Read Job 14 Online | Man *that is* born of a woman *is* of few days, and full of trouble...
 weight: 14
 ---
 

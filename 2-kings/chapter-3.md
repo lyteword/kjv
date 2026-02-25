@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Kings 3 Online | Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years..."
+description: >
+  Read 2 Kings 3 Online | Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years...
 weight: 3
 ---
 

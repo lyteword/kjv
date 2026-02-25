@@ -1,7 +1,8 @@
 ---
 title: "Luke 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Luke 2 Online | And it came to pass in those days, that there went out a decree from Cæsar Augustus, that all the world should be taxed..."
+description: >
+  Read Luke 2 Online | And it came to pass in those days, that there went out a decree from Cæsar Augustus, that all the world should be taxed...
 weight: 2
 ---
 

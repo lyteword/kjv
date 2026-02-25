@@ -1,7 +1,8 @@
 ---
 title: "Matthew 24 KJV | Read the Bible Online"
 linkTitle: "24"
-description: "Read Matthew 24 Online | And Jesus went out, and departed from the temple: and his disciples came to *him* for to shew him the buildings of the temple..."
+description: >
+  Read Matthew 24 Online | And Jesus went out, and departed from the temple: and his disciples came to *him* for to shew him the buildings of the temple...
 weight: 24
 ---
 

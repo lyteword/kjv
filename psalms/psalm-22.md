@@ -1,7 +1,8 @@
 ---
 title: "Psalm 22 KJV | Read the Bible Online"
 linkTitle: "22"
-description: "Read Psalm 22 Online | My God, my God, why hast thou forsaken me? *why art thou so* far from helping me, *and from* the words of my roaring..."
+description: >
+  Read Psalm 22 Online | My God, my God, why hast thou forsaken me? *why art thou so* far from helping me, *and from* the words of my roaring...
 weight: 22
 ---
 

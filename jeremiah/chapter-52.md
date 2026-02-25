@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 52 KJV | Read the Bible Online"
 linkTitle: "52"
-description: "Read Jeremiah 52 Online | Zedekiah *was* one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name *was* Hamutal the daughter of Jeremiah of Libnah..."
+description: >
+  Read Jeremiah 52 Online | Zedekiah *was* one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name *was* Hamutal the daughter of Jeremiah of Libnah...
 weight: 52
 ---
 

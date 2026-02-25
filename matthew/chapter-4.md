@@ -1,7 +1,8 @@
 ---
 title: "Matthew 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Matthew 4 Online | Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil..."
+description: >
+  Read Matthew 4 Online | Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil...
 weight: 4
 ---
 

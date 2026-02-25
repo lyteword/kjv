@@ -1,7 +1,8 @@
 ---
 title: "Lamentations 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Lamentations 5 Online | Remember, O LORD, what is come upon us: consider, and behold our reproach..."
+description: >
+  Read Lamentations 5 Online | Remember, O LORD, what is come upon us: consider, and behold our reproach...
 weight: 5
 ---
 

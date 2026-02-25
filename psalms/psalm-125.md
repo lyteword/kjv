@@ -1,7 +1,8 @@
 ---
 title: "Psalm 125 KJV | Read the Bible Online"
 linkTitle: "125"
-description: "Read Psalm 125 Online | They that trust in the LORD *shall be* as mount Zion, *which* cannot be removed, *but* abideth for ever..."
+description: >
+  Read Psalm 125 Online | They that trust in the LORD *shall be* as mount Zion, *which* cannot be removed, *but* abideth for ever...
 weight: 125
 ---
 

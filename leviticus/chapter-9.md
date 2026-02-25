@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Leviticus 9 Online | And it came to pass on the eighth day, *that* Moses called Aaron and his sons, and the elders of Israel..."
+description: >
+  Read Leviticus 9 Online | And it came to pass on the eighth day, *that* Moses called Aaron and his sons, and the elders of Israel...
 weight: 9
 ---
 

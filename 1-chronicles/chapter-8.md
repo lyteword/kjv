@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read 1 Chronicles 8 Online | Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third..."
+description: >
+  Read 1 Chronicles 8 Online | Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third...
 weight: 8
 ---
 

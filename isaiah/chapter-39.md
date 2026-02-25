@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 39 KJV | Read the Bible Online"
 linkTitle: "39"
-description: "Read Isaiah 39 Online | At that time Merodach-baladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered..."
+description: >
+  Read Isaiah 39 Online | At that time Merodach-baladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered...
 weight: 39
 ---
 

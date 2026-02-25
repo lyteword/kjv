@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 31 KJV | Read the Bible Online"
 linkTitle: "31"
-description: "Read 1 Samuel 31 Online | Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa..."
+description: >
+  Read 1 Samuel 31 Online | Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa...
 weight: 31
 ---
 

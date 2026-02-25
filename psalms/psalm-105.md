@@ -1,7 +1,8 @@
 ---
 title: "Psalm 105 KJV | Read the Bible Online"
 linkTitle: "105"
-description: "Read Psalm 105 Online | O give thanks unto the LORD; call upon his name: make known his deeds among the people..."
+description: >
+  Read Psalm 105 Online | O give thanks unto the LORD; call upon his name: make known his deeds among the people...
 weight: 105
 ---
 

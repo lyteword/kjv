@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 21 KJV | Read the Bible Online"
 linkTitle: "21"
-description: "Read 1 Kings 21 Online | And it came to pass after these things, *that* Naboth the Jezreelite had a vineyard, which *was* in Jezreel, hard by the palace of Ahab king of Samaria..."
+description: >
+  Read 1 Kings 21 Online | And it came to pass after these things, *that* Naboth the Jezreelite had a vineyard, which *was* in Jezreel, hard by the palace of Ahab king of Samaria...
 weight: 21
 ---
 

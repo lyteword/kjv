@@ -1,7 +1,8 @@
 ---
 title: "Psalm 138 KJV | Read the Bible Online"
 linkTitle: "138"
-description: "Read Psalm 138 Online | I will praise thee with my whole heart: before the gods will I sing praise unto thee..."
+description: >
+  Read Psalm 138 Online | I will praise thee with my whole heart: before the gods will I sing praise unto thee...
 weight: 138
 ---
 

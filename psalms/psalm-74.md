@@ -1,7 +1,8 @@
 ---
 title: "Psalm 74 KJV | Read the Bible Online"
 linkTitle: "74"
-description: "Read Psalm 74 Online | O God, why hast thou cast *us* off for ever? *why* doth thine anger smoke against the sheep of thy pasture..."
+description: >
+  Read Psalm 74 Online | O God, why hast thou cast *us* off for ever? *why* doth thine anger smoke against the sheep of thy pasture...
 weight: 74
 ---
 

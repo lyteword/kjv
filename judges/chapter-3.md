@@ -1,7 +1,8 @@
 ---
 title: "Judges 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Judges 3 Online | Now these *are* the nations which the LORD left, to prove Israel by them, *even* as many *of Israel* as had not known all the wars of Canaan..."
+description: >
+  Read Judges 3 Online | Now these *are* the nations which the LORD left, to prove Israel by them, *even* as many *of Israel* as had not known all the wars of Canaan...
 weight: 3
 ---
 

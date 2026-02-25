@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 30 KJV | Read the Bible Online"
 linkTitle: "30"
-description: "Read Jeremiah 30 Online | The word that came to Jeremiah from the LORD, saying..."
+description: >
+  Read Jeremiah 30 Online | The word that came to Jeremiah from the LORD, saying...
 weight: 30
 ---
 

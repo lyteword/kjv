@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 18 KJV | Read the Bible Online"
 linkTitle: "18"
-description: "Read 2 Chronicles 18 Online | Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab..."
+description: >
+  Read 2 Chronicles 18 Online | Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab...
 weight: 18
 ---
 

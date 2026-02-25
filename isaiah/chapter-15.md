@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 15 KJV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Isaiah 15 Online | The burden of Moab. Because in the night Ar of Moab is laid waste, *and* brought to silence; because in the night Kir of Moab is laid waste, *and* brought to silence..."
+description: >
+  Read Isaiah 15 Online | The burden of Moab. Because in the night Ar of Moab is laid waste, *and* brought to silence; because in the night Kir of Moab is laid waste, *and* brought to silence...
 weight: 15
 ---
 

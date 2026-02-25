@@ -1,7 +1,8 @@
 ---
 title: "Revelation 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Revelation 9 Online | And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit..."
+description: >
+  Read Revelation 9 Online | And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit...
 weight: 9
 ---
 

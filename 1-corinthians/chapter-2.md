@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read 1 Corinthians 2 Online | And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God..."
+description: >
+  Read 1 Corinthians 2 Online | And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God...
 weight: 2
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 39 KJV | Read the Bible Online"
 linkTitle: "39"
-description: "Read Jeremiah 39 Online | In the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and they besieged it..."
+description: >
+  Read Jeremiah 39 Online | In the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and they besieged it...
 weight: 39
 ---
 

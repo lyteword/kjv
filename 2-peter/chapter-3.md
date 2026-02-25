@@ -1,7 +1,8 @@
 ---
 title: "2 Peter 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Peter 3 Online | This second epistle, beloved, I now write unto you; in *both* which I stir up your pure minds by way of remembrance..."
+description: >
+  Read 2 Peter 3 Online | This second epistle, beloved, I now write unto you; in *both* which I stir up your pure minds by way of remembrance...
 weight: 3
 ---
 

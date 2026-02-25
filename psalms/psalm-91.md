@@ -1,7 +1,8 @@
 ---
 title: "Psalm 91 KJV | Read the Bible Online"
 linkTitle: "91"
-description: "Read Psalm 91 Online | He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty..."
+description: >
+  Read Psalm 91 Online | He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty...
 weight: 91
 ---
 

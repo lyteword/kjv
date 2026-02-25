@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read 2 Samuel 7 Online | And it came to pass, when the king sat in his house, and the LORD had given him rest round about from all his enemies..."
+description: >
+  Read 2 Samuel 7 Online | And it came to pass, when the king sat in his house, and the LORD had given him rest round about from all his enemies...
 weight: 7
 ---
 

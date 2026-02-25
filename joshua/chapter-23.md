@@ -1,7 +1,8 @@
 ---
 title: "Joshua 23 KJV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Joshua 23 Online | And it came to pass a long time after that the LORD had given rest unto Israel from all their enemies round about, that Joshua waxed old *and* stricken in age..."
+description: >
+  Read Joshua 23 Online | And it came to pass a long time after that the LORD had given rest unto Israel from all their enemies round about, that Joshua waxed old *and* stricken in age...
 weight: 23
 ---
 

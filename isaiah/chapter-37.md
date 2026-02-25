@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 37 KJV | Read the Bible Online"
 linkTitle: "37"
-description: "Read Isaiah 37 Online | And it came to pass, when king Hezekiah heard *it*, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD..."
+description: >
+  Read Isaiah 37 Online | And it came to pass, when king Hezekiah heard *it*, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD...
 weight: 37
 ---
 

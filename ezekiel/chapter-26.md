@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 26 KJV | Read the Bible Online"
 linkTitle: "26"
-description: "Read Ezekiel 26 Online | And it came to pass in the eleventh year, in the first *day* of the month, *that* the word of the LORD came unto me, saying..."
+description: >
+  Read Ezekiel 26 Online | And it came to pass in the eleventh year, in the first *day* of the month, *that* the word of the LORD came unto me, saying...
 weight: 26
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Timothy 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 Timothy 4 Online | Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils..."
+description: >
+  Read 1 Timothy 4 Online | Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils...
 weight: 4
 ---
 

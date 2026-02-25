@@ -1,7 +1,8 @@
 ---
 title: "Luke 19 KJV | Read the Bible Online"
 linkTitle: "19"
-description: "Read Luke 19 Online | And *Jesus* entered and passed through Jericho..."
+description: >
+  Read Luke 19 Online | And *Jesus* entered and passed through Jericho...
 weight: 19
 ---
 

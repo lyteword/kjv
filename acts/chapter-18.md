@@ -1,7 +1,8 @@
 ---
 title: "Acts 18 KJV | Read the Bible Online"
 linkTitle: "18"
-description: "Read Acts 18 Online | After these things Paul departed from Athens, and came to Corinth..."
+description: >
+  Read Acts 18 Online | After these things Paul departed from Athens, and came to Corinth...
 weight: 18
 ---
 

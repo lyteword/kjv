@@ -1,7 +1,8 @@
 ---
 title: "Psalm 56 KJV | Read the Bible Online"
 linkTitle: "56"
-description: "Read Psalm 56 Online | Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me..."
+description: >
+  Read Psalm 56 Online | Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me...
 weight: 56
 ---
 

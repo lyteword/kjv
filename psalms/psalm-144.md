@@ -1,7 +1,8 @@
 ---
 title: "Psalm 144 KJV | Read the Bible Online"
 linkTitle: "144"
-description: "Read Psalm 144 Online | Blessed *be* the LORD my strength, which teacheth my hands to war, *and* my fingers to fight..."
+description: >
+  Read Psalm 144 Online | Blessed *be* the LORD my strength, which teacheth my hands to war, *and* my fingers to fight...
 weight: 144
 ---
 

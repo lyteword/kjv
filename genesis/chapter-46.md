@@ -1,7 +1,8 @@
 ---
 title: "Genesis 46 KJV | Read the Bible Online"
 linkTitle: "46"
-description: "Read Genesis 46 Online | And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac..."
+description: >
+  Read Genesis 46 Online | And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac...
 weight: 46
 ---
 

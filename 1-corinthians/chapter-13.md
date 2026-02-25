@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 13 KJV | Read the Bible Online"
 linkTitle: "13"
-description: "Read 1 Corinthians 13 Online | Though I speak with the tongues of men and of angels, and have not charity, I am become *as* sounding brass, or a tinkling cymbal..."
+description: >
+  Read 1 Corinthians 13 Online | Though I speak with the tongues of men and of angels, and have not charity, I am become *as* sounding brass, or a tinkling cymbal...
 weight: 13
 ---
 

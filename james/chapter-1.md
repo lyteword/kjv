@@ -1,7 +1,8 @@
 ---
 title: "James 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read James 1 Online | James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting..."
+description: >
+  Read James 1 Online | James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting...
 weight: 1
 ---
 

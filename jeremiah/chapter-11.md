@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Jeremiah 11 Online | The word that came to Jeremiah from the LORD, saying..."
+description: >
+  Read Jeremiah 11 Online | The word that came to Jeremiah from the LORD, saying...
 weight: 11
 ---
 

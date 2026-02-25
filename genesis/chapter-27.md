@@ -1,7 +1,8 @@
 ---
 title: "Genesis 27 KJV | Read the Bible Online"
 linkTitle: "27"
-description: "Read Genesis 27 Online | And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, *here am* I..."
+description: >
+  Read Genesis 27 Online | And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, *here am* I...
 weight: 27
 ---
 

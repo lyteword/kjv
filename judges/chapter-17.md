@@ -1,7 +1,8 @@
 ---
 title: "Judges 17 KJV | Read the Bible Online"
 linkTitle: "17"
-description: "Read Judges 17 Online | And there was a man of mount Ephraim, whose name *was* Micah..."
+description: >
+  Read Judges 17 Online | And there was a man of mount Ephraim, whose name *was* Micah...
 weight: 17
 ---
 

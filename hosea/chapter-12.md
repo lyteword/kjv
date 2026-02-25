@@ -1,7 +1,8 @@
 ---
 title: "Hosea 12 KJV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Hosea 12 Online | Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt..."
+description: >
+  Read Hosea 12 Online | Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt...
 weight: 12
 ---
 

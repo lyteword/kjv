@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 26 KJV | Read the Bible Online"
 linkTitle: "26"
-description: "Read 1 Chronicles 26 Online | Concerning the divisions of the porters: Of the Korhites *was* Meshelemiah the son of Kore, of the sons of Asaph..."
+description: >
+  Read 1 Chronicles 26 Online | Concerning the divisions of the porters: Of the Korhites *was* Meshelemiah the son of Kore, of the sons of Asaph...
 weight: 26
 ---
 

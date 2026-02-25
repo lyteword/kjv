@@ -1,7 +1,8 @@
 ---
 title: "Numbers 18 KJV | Read the Bible Online"
 linkTitle: "18"
-description: "Read Numbers 18 Online | And the LORD said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood..."
+description: >
+  Read Numbers 18 Online | And the LORD said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood...
 weight: 18
 ---
 

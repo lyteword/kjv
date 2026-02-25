@@ -1,7 +1,8 @@
 ---
 title: "Numbers 35 KJV | Read the Bible Online"
 linkTitle: "35"
-description: "Read Numbers 35 Online | And the LORD spake unto Moses in the plains of Moab by Jordan *near* Jericho, saying..."
+description: >
+  Read Numbers 35 Online | And the LORD spake unto Moses in the plains of Moab by Jordan *near* Jericho, saying...
 weight: 35
 ---
 

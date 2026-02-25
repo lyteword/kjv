@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Song Of Solomon 7 Online | How beautiful are thy feet with shoes, O prince’s daughter! the joints of thy thighs *are* like jewels, the work of the hands of a cunning workman..."
+description: >
+  Read Song Of Solomon 7 Online | How beautiful are thy feet with shoes, O prince’s daughter! the joints of thy thighs *are* like jewels, the work of the hands of a cunning workman...
 weight: 7
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 38 KJV | Read the Bible Online"
 linkTitle: "38"
-description: "Read Psalm 38 Online | O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure..."
+description: >
+  Read Psalm 38 Online | O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure...
 weight: 38
 ---
 

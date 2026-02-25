@@ -1,7 +1,8 @@
 ---
 title: "Acts 22 KJV | Read the Bible Online"
 linkTitle: "22"
-description: "Read Acts 22 Online | Men, brethren, and fathers, hear ye my defence *which I make* now unto you..."
+description: >
+  Read Acts 22 Online | Men, brethren, and fathers, hear ye my defence *which I make* now unto you...
 weight: 22
 ---
 

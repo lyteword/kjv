@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 14 KJV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Proverbs 14 Online | Every wise woman buildeth her house: but the foolish plucketh it down with her hands..."
+description: >
+  Read Proverbs 14 Online | Every wise woman buildeth her house: but the foolish plucketh it down with her hands...
 weight: 14
 ---
 

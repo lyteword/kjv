@@ -1,7 +1,8 @@
 ---
 title: "Psalm 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Psalm 7 Online | O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me..."
+description: >
+  Read Psalm 7 Online | O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me...
 weight: 7
 ---
 

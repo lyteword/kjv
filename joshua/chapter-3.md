@@ -1,7 +1,8 @@
 ---
 title: "Joshua 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Joshua 3 Online | And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over..."
+description: >
+  Read Joshua 3 Online | And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over...
 weight: 3
 ---
 

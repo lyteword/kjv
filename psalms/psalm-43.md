@@ -1,7 +1,8 @@
 ---
 title: "Psalm 43 KJV | Read the Bible Online"
 linkTitle: "43"
-description: "Read Psalm 43 Online | Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man..."
+description: >
+  Read Psalm 43 Online | Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man...
 weight: 43
 ---
 

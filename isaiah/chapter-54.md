@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 54 KJV | Read the Bible Online"
 linkTitle: "54"
-description: "Read Isaiah 54 Online | Sing, O barren, thou *that* didst not bear; break forth into singing, and cry aloud, thou *that* didst not travail with child: for more *are* the children of the desolate than the children of the married wife, saith the LORD..."
+description: >
+  Read Isaiah 54 Online | Sing, O barren, thou *that* didst not bear; break forth into singing, and cry aloud, thou *that* didst not travail with child: for more *are* the children of the desolate than the children of the married wife, saith the LORD...
 weight: 54
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Matthew 15 KJV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Matthew 15 Online | Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying..."
+description: >
+  Read Matthew 15 Online | Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying...
 weight: 15
 ---
 

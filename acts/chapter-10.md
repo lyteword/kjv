@@ -1,7 +1,8 @@
 ---
 title: "Acts 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Acts 10 Online | There was a certain man in Cæsarea called Cornelius, a centurion of the band called the Italian *band*..."
+description: >
+  Read Acts 10 Online | There was a certain man in Cæsarea called Cornelius, a centurion of the band called the Italian *band*...
 weight: 10
 ---
 

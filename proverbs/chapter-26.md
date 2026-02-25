@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 26 KJV | Read the Bible Online"
 linkTitle: "26"
-description: "Read Proverbs 26 Online | As snow in summer, and as rain in harvest, so honour is not seemly for a fool..."
+description: >
+  Read Proverbs 26 Online | As snow in summer, and as rain in harvest, so honour is not seemly for a fool...
 weight: 26
 ---
 

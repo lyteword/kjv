@@ -1,7 +1,8 @@
 ---
 title: "1 Peter 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Peter 3 Online | Likewise, ye wives, *be* in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives..."
+description: >
+  Read 1 Peter 3 Online | Likewise, ye wives, *be* in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives...
 weight: 3
 ---
 

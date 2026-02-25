@@ -1,7 +1,8 @@
 ---
 title: "Psalm 78 KJV | Read the Bible Online"
 linkTitle: "78"
-description: "Read Psalm 78 Online | Give ear, O my people, *to* my law: incline your ears to the words of my mouth..."
+description: >
+  Read Psalm 78 Online | Give ear, O my people, *to* my law: incline your ears to the words of my mouth...
 weight: 78
 ---
 

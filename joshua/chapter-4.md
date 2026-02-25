@@ -1,7 +1,8 @@
 ---
 title: "Joshua 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Joshua 4 Online | And it came to pass, when all the people were clean passed over Jordan, that the LORD spake unto Joshua, saying..."
+description: >
+  Read Joshua 4 Online | And it came to pass, when all the people were clean passed over Jordan, that the LORD spake unto Joshua, saying...
 weight: 4
 ---
 

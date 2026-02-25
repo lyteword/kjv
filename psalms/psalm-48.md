@@ -1,7 +1,8 @@
 ---
 title: "Psalm 48 KJV | Read the Bible Online"
 linkTitle: "48"
-description: "Read Psalm 48 Online | Great *is* the LORD, and greatly to be praised in the city of our God, *in* the mountain of his holiness..."
+description: >
+  Read Psalm 48 Online | Great *is* the LORD, and greatly to be praised in the city of our God, *in* the mountain of his holiness...
 weight: 48
 ---
 

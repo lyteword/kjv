@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 16 KJV | Read the Bible Online"
 linkTitle: "16"
-description: "Read 2 Kings 16 Online | In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign..."
+description: >
+  Read 2 Kings 16 Online | In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign...
 weight: 16
 ---
 

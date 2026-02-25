@@ -1,7 +1,8 @@
 ---
 title: "Revelation 13 KJV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Revelation 13 Online | And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy..."
+description: >
+  Read Revelation 13 Online | And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy...
 weight: 13
 ---
 

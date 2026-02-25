@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Nehemiah 11 Online | And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts *to dwell* in *other* cities..."
+description: >
+  Read Nehemiah 11 Online | And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts *to dwell* in *other* cities...
 weight: 11
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Genesis 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Genesis 11 Online | And the whole earth was of one language, and of one speech..."
+description: >
+  Read Genesis 11 Online | And the whole earth was of one language, and of one speech...
 weight: 11
 ---
 

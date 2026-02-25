@@ -1,7 +1,8 @@
 ---
 title: "Psalm 35 KJV | Read the Bible Online"
 linkTitle: "35"
-description: "Read Psalm 35 Online | Plead *my cause*, O LORD, with them that strive with me: fight against them that fight against me..."
+description: >
+  Read Psalm 35 Online | Plead *my cause*, O LORD, with them that strive with me: fight against them that fight against me...
 weight: 35
 ---
 

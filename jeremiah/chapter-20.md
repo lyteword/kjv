@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 20 KJV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Jeremiah 20 Online | Now Pashur the son of Immer the priest, who *was* also chief governor in the house of the LORD, heard that Jeremiah prophesied these things..."
+description: >
+  Read Jeremiah 20 Online | Now Pashur the son of Immer the priest, who *was* also chief governor in the house of the LORD, heard that Jeremiah prophesied these things...
 weight: 20
 ---
 

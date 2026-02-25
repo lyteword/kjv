@@ -1,7 +1,8 @@
 ---
 title: "Genesis 21 KJV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Genesis 21 Online | And the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken..."
+description: >
+  Read Genesis 21 Online | And the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken...
 weight: 21
 ---
 

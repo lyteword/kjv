@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Ecclesiastes 10 Online | Dead flies cause the ointment of the apothecary to send forth a stinking savour: *so doth* a little folly him that is in reputation for wisdom *and* honour..."
+description: >
+  Read Ecclesiastes 10 Online | Dead flies cause the ointment of the apothecary to send forth a stinking savour: *so doth* a little folly him that is in reputation for wisdom *and* honour...
 weight: 10
 ---
 

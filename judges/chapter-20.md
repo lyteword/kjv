@@ -1,7 +1,8 @@
 ---
 title: "Judges 20 KJV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Judges 20 Online | Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beer-sheba, with the land of Gilead, unto the LORD in Mizpeh..."
+description: >
+  Read Judges 20 Online | Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beer-sheba, with the land of Gilead, unto the LORD in Mizpeh...
 weight: 20
 ---
 

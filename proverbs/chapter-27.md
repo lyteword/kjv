@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 27 KJV | Read the Bible Online"
 linkTitle: "27"
-description: "Read Proverbs 27 Online | Boast not thyself of to morrow; for thou knowest not what a day may bring forth..."
+description: >
+  Read Proverbs 27 Online | Boast not thyself of to morrow; for thou knowest not what a day may bring forth...
 weight: 27
 ---
 

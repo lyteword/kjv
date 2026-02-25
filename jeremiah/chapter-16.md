@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 16 KJV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Jeremiah 16 Online | The word of the LORD came also unto me, saying..."
+description: >
+  Read Jeremiah 16 Online | The word of the LORD came also unto me, saying...
 weight: 16
 ---
 

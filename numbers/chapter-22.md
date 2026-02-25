@@ -1,7 +1,8 @@
 ---
 title: "Numbers 22 KJV | Read the Bible Online"
 linkTitle: "22"
-description: "Read Numbers 22 Online | And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan *by* Jericho..."
+description: >
+  Read Numbers 22 Online | And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan *by* Jericho...
 weight: 22
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 15 KJV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Ezekiel 15 Online | And the word of the LORD came unto me, saying..."
+description: >
+  Read Ezekiel 15 Online | And the word of the LORD came unto me, saying...
 weight: 15
 ---
 

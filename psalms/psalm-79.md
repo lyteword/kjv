@@ -1,7 +1,8 @@
 ---
 title: "Psalm 79 KJV | Read the Bible Online"
 linkTitle: "79"
-description: "Read Psalm 79 Online | O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps..."
+description: >
+  Read Psalm 79 Online | O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps...
 weight: 79
 ---
 

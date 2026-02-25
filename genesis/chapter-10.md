@@ -1,7 +1,8 @@
 ---
 title: "Genesis 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Genesis 10 Online | Now these *are* the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood..."
+description: >
+  Read Genesis 10 Online | Now these *are* the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood...
 weight: 10
 ---
 

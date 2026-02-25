@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 32 KJV | Read the Bible Online"
 linkTitle: "32"
-description: "Read 2 Chronicles 32 Online | After these things, and the establishment thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself..."
+description: >
+  Read 2 Chronicles 32 Online | After these things, and the establishment thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself...
 weight: 32
 ---
 

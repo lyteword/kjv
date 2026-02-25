@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 47 KJV | Read the Bible Online"
 linkTitle: "47"
-description: "Read Jeremiah 47 Online | The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza..."
+description: >
+  Read Jeremiah 47 Online | The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza...
 weight: 47
 ---
 

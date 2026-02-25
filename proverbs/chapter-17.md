@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 17 KJV | Read the Bible Online"
 linkTitle: "17"
-description: "Read Proverbs 17 Online | Better *is* a dry morsel, and quietness therewith, than an house full of sacrifices *with* strife..."
+description: >
+  Read Proverbs 17 Online | Better *is* a dry morsel, and quietness therewith, than an house full of sacrifices *with* strife...
 weight: 17
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 29 KJV | Read the Bible Online"
 linkTitle: "29"
-description: "Read Isaiah 29 Online | Woe to Ariel, to Ariel, the city *where* David dwelt! add ye year to year; let them kill sacrifices..."
+description: >
+  Read Isaiah 29 Online | Woe to Ariel, to Ariel, the city *where* David dwelt! add ye year to year; let them kill sacrifices...
 weight: 29
 ---
 

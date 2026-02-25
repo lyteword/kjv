@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Ecclesiastes 9 Online | For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, *are* in the hand of God: no man knoweth either love or hatred *by* all *that is* before them..."
+description: >
+  Read Ecclesiastes 9 Online | For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, *are* in the hand of God: no man knoweth either love or hatred *by* all *that is* before them...
 weight: 9
 ---
 

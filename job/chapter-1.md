@@ -1,7 +1,8 @@
 ---
 title: "Job 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Job 1 Online | There was a man in the land of Uz, whose name *was* Job; and that man was perfect and upright, and one that feared God, and eschewed evil..."
+description: >
+  Read Job 1 Online | There was a man in the land of Uz, whose name *was* Job; and that man was perfect and upright, and one that feared God, and eschewed evil...
 weight: 1
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Psalm 5 Online | Give ear to my words, O LORD, consider my meditation..."
+description: >
+  Read Psalm 5 Online | Give ear to my words, O LORD, consider my meditation...
 weight: 5
 ---
 

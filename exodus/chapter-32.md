@@ -1,7 +1,8 @@
 ---
 title: "Exodus 32 KJV | Read the Bible Online"
 linkTitle: "32"
-description: "Read Exodus 32 Online | And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for *as for* this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him..."
+description: >
+  Read Exodus 32 Online | And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for *as for* this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him...
 weight: 32
 ---
 

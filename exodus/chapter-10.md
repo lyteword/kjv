@@ -1,7 +1,8 @@
 ---
 title: "Exodus 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Exodus 10 Online | And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him..."
+description: >
+  Read Exodus 10 Online | And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him...
 weight: 10
 ---
 

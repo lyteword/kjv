@@ -1,7 +1,8 @@
 ---
 title: "Ezra 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Ezra 6 Online | Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon..."
+description: >
+  Read Ezra 6 Online | Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon...
 weight: 6
 ---
 

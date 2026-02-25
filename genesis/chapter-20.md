@@ -1,7 +1,8 @@
 ---
 title: "Genesis 20 KJV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Genesis 20 Online | And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar..."
+description: >
+  Read Genesis 20 Online | And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar...
 weight: 20
 ---
 

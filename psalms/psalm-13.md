@@ -1,7 +1,8 @@
 ---
 title: "Psalm 13 KJV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Psalm 13 Online | How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me..."
+description: >
+  Read Psalm 13 Online | How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me...
 weight: 13
 ---
 

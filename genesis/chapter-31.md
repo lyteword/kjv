@@ -1,7 +1,8 @@
 ---
 title: "Genesis 31 KJV | Read the Bible Online"
 linkTitle: "31"
-description: "Read Genesis 31 Online | And he heard the words of Laban’s sons, saying, Jacob hath taken away all that *was* our father’s; and of *that* which *was* our father’s hath he gotten all this glory..."
+description: >
+  Read Genesis 31 Online | And he heard the words of Laban’s sons, saying, Jacob hath taken away all that *was* our father’s; and of *that* which *was* our father’s hath he gotten all this glory...
 weight: 31
 ---
 

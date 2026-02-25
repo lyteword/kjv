@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Song Of Solomon 3 Online | By night on my bed I sought him whom my soul loveth: I sought him, but I found him not..."
+description: >
+  Read Song Of Solomon 3 Online | By night on my bed I sought him whom my soul loveth: I sought him, but I found him not...
 weight: 3
 ---
 

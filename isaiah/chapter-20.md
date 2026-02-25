@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 20 KJV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Isaiah 20 Online | In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it..."
+description: >
+  Read Isaiah 20 Online | In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it...
 weight: 20
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Job 15 KJV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Job 15 Online | Then answered Eliphaz the Temanite, and said..."
+description: >
+  Read Job 15 Online | Then answered Eliphaz the Temanite, and said...
 weight: 15
 ---
 

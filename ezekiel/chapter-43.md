@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 43 KJV | Read the Bible Online"
 linkTitle: "43"
-description: "Read Ezekiel 43 Online | Afterward he brought me to the gate, *even* the gate that looketh toward the east..."
+description: >
+  Read Ezekiel 43 Online | Afterward he brought me to the gate, *even* the gate that looketh toward the east...
 weight: 43
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ezra 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Ezra 2 Online | Now these *are* the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city..."
+description: >
+  Read Ezra 2 Online | Now these *are* the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city...
 weight: 2
 ---
 

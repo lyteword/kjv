@@ -1,7 +1,8 @@
 ---
 title: "Revelation 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Revelation 5 Online | And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals..."
+description: >
+  Read Revelation 5 Online | And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals...
 weight: 5
 ---
 

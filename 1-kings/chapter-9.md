@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read 1 Kings 9 Online | And it came to pass, when Solomon had finished the building of the house of the LORD, and the king’s house, and all Solomon’s desire which he was pleased to do..."
+description: >
+  Read 1 Kings 9 Online | And it came to pass, when Solomon had finished the building of the house of the LORD, and the king’s house, and all Solomon’s desire which he was pleased to do...
 weight: 9
 ---
 

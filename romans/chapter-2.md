@@ -1,7 +1,8 @@
 ---
 title: "Romans 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Romans 2 Online | Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things..."
+description: >
+  Read Romans 2 Online | Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things...
 weight: 2
 ---
 

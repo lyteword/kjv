@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 14 KJV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Jeremiah 14 Online | The word of the LORD that came to Jeremiah concerning the dearth..."
+description: >
+  Read Jeremiah 14 Online | The word of the LORD that came to Jeremiah concerning the dearth...
 weight: 14
 ---
 

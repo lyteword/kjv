@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 63 KJV | Read the Bible Online"
 linkTitle: "63"
-description: "Read Isaiah 63 Online | Who *is* this that cometh from Edom, with dyed garments from Bozrah? this *that is* glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save..."
+description: >
+  Read Isaiah 63 Online | Who *is* this that cometh from Edom, with dyed garments from Bozrah? this *that is* glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save...
 weight: 63
 ---
 

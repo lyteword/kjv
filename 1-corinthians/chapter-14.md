@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 14 KJV | Read the Bible Online"
 linkTitle: "14"
-description: "Read 1 Corinthians 14 Online | Follow after charity, and desire spiritual *gifts*, but rather that ye may prophesy..."
+description: >
+  Read 1 Corinthians 14 Online | Follow after charity, and desire spiritual *gifts*, but rather that ye may prophesy...
 weight: 14
 ---
 

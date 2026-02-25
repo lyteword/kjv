@@ -1,7 +1,8 @@
 ---
 title: "John 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read John 3 Online | There was a man of the Pharisees, named Nicodemus, a ruler of the Jews..."
+description: >
+  Read John 3 Online | There was a man of the Pharisees, named Nicodemus, a ruler of the Jews...
 weight: 3
 ---
 

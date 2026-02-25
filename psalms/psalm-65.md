@@ -1,7 +1,8 @@
 ---
 title: "Psalm 65 KJV | Read the Bible Online"
 linkTitle: "65"
-description: "Read Psalm 65 Online | Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed..."
+description: >
+  Read Psalm 65 Online | Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed...
 weight: 65
 ---
 

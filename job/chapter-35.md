@@ -1,7 +1,8 @@
 ---
 title: "Job 35 KJV | Read the Bible Online"
 linkTitle: "35"
-description: "Read Job 35 Online | Elihu spake moreover, and said..."
+description: >
+  Read Job 35 Online | Elihu spake moreover, and said...
 weight: 35
 ---
 

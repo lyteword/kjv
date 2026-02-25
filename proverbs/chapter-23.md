@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 23 KJV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Proverbs 23 Online | When thou sittest to eat with a ruler, consider diligently what *is* before thee..."
+description: >
+  Read Proverbs 23 Online | When thou sittest to eat with a ruler, consider diligently what *is* before thee...
 weight: 23
 ---
 

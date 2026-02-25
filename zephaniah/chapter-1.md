@@ -1,7 +1,8 @@
 ---
 title: "Zephaniah 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Zephaniah 1 Online | The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah..."
+description: >
+  Read Zephaniah 1 Online | The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah...
 weight: 1
 ---
 

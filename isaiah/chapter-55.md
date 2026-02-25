@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 55 KJV | Read the Bible Online"
 linkTitle: "55"
-description: "Read Isaiah 55 Online | Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price..."
+description: >
+  Read Isaiah 55 Online | Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price...
 weight: 55
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Acts 15 KJV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Acts 15 Online | And certain men which came down from Judæa taught the brethren, *and said*, Except ye be circumcised after the manner of Moses, ye cannot be saved..."
+description: >
+  Read Acts 15 Online | And certain men which came down from Judæa taught the brethren, *and said*, Except ye be circumcised after the manner of Moses, ye cannot be saved...
 weight: 15
 ---
 

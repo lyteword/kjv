@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 22 KJV | Read the Bible Online"
 linkTitle: "22"
-description: "Read 2 Samuel 22 Online | And David spake unto the LORD the words of this song in the day *that* the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul..."
+description: >
+  Read 2 Samuel 22 Online | And David spake unto the LORD the words of this song in the day *that* the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul...
 weight: 22
 ---
 

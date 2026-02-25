@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 25 KJV | Read the Bible Online"
 linkTitle: "25"
-description: "Read Isaiah 25 Online | O LORD, thou *art* my God; I will exalt thee, I will praise thy name; for thou hast done wonderful *things; thy* counsels of old *are* faithfulness *and* truth..."
+description: >
+  Read Isaiah 25 Online | O LORD, thou *art* my God; I will exalt thee, I will praise thy name; for thou hast done wonderful *things; thy* counsels of old *are* faithfulness *and* truth...
 weight: 25
 ---
 

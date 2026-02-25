@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Kings 3 Online | And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh’s daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the LORD, and the wall of Jerusalem round about..."
+description: >
+  Read 1 Kings 3 Online | And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh’s daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the LORD, and the wall of Jerusalem round about...
 weight: 3
 ---
 

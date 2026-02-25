@@ -1,7 +1,8 @@
 ---
 title: "Psalm 104 KJV | Read the Bible Online"
 linkTitle: "104"
-description: "Read Psalm 104 Online | Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty..."
+description: >
+  Read Psalm 104 Online | Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty...
 weight: 104
 ---
 

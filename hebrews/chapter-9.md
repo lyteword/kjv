@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Hebrews 9 Online | Then verily the first *covenant* had also ordinances of divine service, and a worldly sanctuary..."
+description: >
+  Read Hebrews 9 Online | Then verily the first *covenant* had also ordinances of divine service, and a worldly sanctuary...
 weight: 9
 ---
 

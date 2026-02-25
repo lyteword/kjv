@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Jeremiah 10 Online | Hear ye the word which the LORD speaketh unto you, O house of Israel..."
+description: >
+  Read Jeremiah 10 Online | Hear ye the word which the LORD speaketh unto you, O house of Israel...
 weight: 10
 ---
 

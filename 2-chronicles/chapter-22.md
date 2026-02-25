@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 22 KJV | Read the Bible Online"
 linkTitle: "22"
-description: "Read 2 Chronicles 22 Online | And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned..."
+description: >
+  Read 2 Chronicles 22 Online | And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned...
 weight: 22
 ---
 

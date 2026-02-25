@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Isaiah 2 Online | The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem..."
+description: >
+  Read Isaiah 2 Online | The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem...
 weight: 2
 ---
 

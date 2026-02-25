@@ -1,7 +1,8 @@
 ---
 title: "Revelation 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Revelation 10 Online | And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow *was* upon his head, and his face *was* as it were the sun, and his feet as pillars of fire..."
+description: >
+  Read Revelation 10 Online | And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow *was* upon his head, and his face *was* as it were the sun, and his feet as pillars of fire...
 weight: 10
 ---
 

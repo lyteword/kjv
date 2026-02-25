@@ -1,7 +1,8 @@
 ---
 title: "Joshua 16 KJV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Joshua 16 Online | And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Beth-el..."
+description: >
+  Read Joshua 16 Online | And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Beth-el...
 weight: 16
 ---
 

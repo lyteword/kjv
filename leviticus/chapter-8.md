@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Leviticus 8 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Leviticus 8 Online | And the LORD spake unto Moses, saying...
 weight: 8
 ---
 

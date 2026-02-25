@@ -1,7 +1,8 @@
 ---
 title: "Psalm 49 KJV | Read the Bible Online"
 linkTitle: "49"
-description: "Read Psalm 49 Online | Hear this, all *ye* people; give ear, all *ye* inhabitants of the world..."
+description: >
+  Read Psalm 49 Online | Hear this, all *ye* people; give ear, all *ye* inhabitants of the world...
 weight: 49
 ---
 

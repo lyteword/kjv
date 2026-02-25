@@ -1,7 +1,8 @@
 ---
 title: "Hosea 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Hosea 3 Online | Then said the LORD unto me, Go yet, love a woman beloved of *her* friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine..."
+description: >
+  Read Hosea 3 Online | Then said the LORD unto me, Go yet, love a woman beloved of *her* friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Daniel 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Daniel 8 Online | In the third year of the reign of king Belshazzar a vision appeared unto me, *even unto* me Daniel, after that which appeared unto me at the first..."
+description: >
+  Read Daniel 8 Online | In the third year of the reign of king Belshazzar a vision appeared unto me, *even unto* me Daniel, after that which appeared unto me at the first...
 weight: 8
 ---
 

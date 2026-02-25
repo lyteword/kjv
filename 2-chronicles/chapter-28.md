@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 28 KJV | Read the Bible Online"
 linkTitle: "28"
-description: "Read 2 Chronicles 28 Online | Ahaz *was* twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not *that which was* right in the sight of the LORD, like David his father..."
+description: >
+  Read 2 Chronicles 28 Online | Ahaz *was* twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not *that which was* right in the sight of the LORD, like David his father...
 weight: 28
 ---
 

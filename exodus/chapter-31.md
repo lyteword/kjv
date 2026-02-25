@@ -1,7 +1,8 @@
 ---
 title: "Exodus 31 KJV | Read the Bible Online"
 linkTitle: "31"
-description: "Read Exodus 31 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Exodus 31 Online | And the LORD spake unto Moses, saying...
 weight: 31
 ---
 

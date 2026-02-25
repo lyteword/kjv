@@ -1,7 +1,8 @@
 ---
 title: "Exodus 39 KJV | Read the Bible Online"
 linkTitle: "39"
-description: "Read Exodus 39 Online | And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy *place*, and made the holy garments for Aaron; as the LORD commanded Moses..."
+description: >
+  Read Exodus 39 Online | And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy *place*, and made the holy garments for Aaron; as the LORD commanded Moses...
 weight: 39
 ---
 

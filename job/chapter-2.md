@@ -1,7 +1,8 @@
 ---
 title: "Job 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Job 2 Online | Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD..."
+description: >
+  Read Job 2 Online | Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD...
 weight: 2
 ---
 

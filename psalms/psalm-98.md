@@ -1,7 +1,8 @@
 ---
 title: "Psalm 98 KJV | Read the Bible Online"
 linkTitle: "98"
-description: "Read Psalm 98 Online | O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory..."
+description: >
+  Read Psalm 98 Online | O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory...
 weight: 98
 ---
 

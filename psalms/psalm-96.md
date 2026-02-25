@@ -1,7 +1,8 @@
 ---
 title: "Psalm 96 KJV | Read the Bible Online"
 linkTitle: "96"
-description: "Read Psalm 96 Online | O sing unto the LORD a new song: sing unto the LORD, all the earth..."
+description: >
+  Read Psalm 96 Online | O sing unto the LORD a new song: sing unto the LORD, all the earth...
 weight: 96
 ---
 

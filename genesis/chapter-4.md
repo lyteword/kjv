@@ -1,7 +1,8 @@
 ---
 title: "Genesis 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Genesis 4 Online | And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD..."
+description: >
+  Read Genesis 4 Online | And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD...
 weight: 4
 ---
 

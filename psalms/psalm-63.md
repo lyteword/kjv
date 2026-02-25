@@ -1,7 +1,8 @@
 ---
 title: "Psalm 63 KJV | Read the Bible Online"
 linkTitle: "63"
-description: "Read Psalm 63 Online | O God, thou *art* my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is..."
+description: >
+  Read Psalm 63 Online | O God, thou *art* my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is...
 weight: 63
 ---
 

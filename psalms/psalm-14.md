@@ -1,7 +1,8 @@
 ---
 title: "Psalm 14 KJV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Psalm 14 Online | The fool hath said in his heart, *There is* no God. They are corrupt, they have done abominable works, *there is* none that doeth good..."
+description: >
+  Read Psalm 14 Online | The fool hath said in his heart, *There is* no God. They are corrupt, they have done abominable works, *there is* none that doeth good...
 weight: 14
 ---
 

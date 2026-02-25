@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 14 KJV | Read the Bible Online"
 linkTitle: "14"
-description: "Read 2 Samuel 14 Online | Now Joab the son of Zeruiah perceived that the king’s heart *was* toward Absalom..."
+description: >
+  Read 2 Samuel 14 Online | Now Joab the son of Zeruiah perceived that the king’s heart *was* toward Absalom...
 weight: 14
 ---
 

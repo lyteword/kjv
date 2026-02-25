@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Song Of Solomon 6 Online | Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee..."
+description: >
+  Read Song Of Solomon 6 Online | Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee...
 weight: 6
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Numbers 21 KJV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Numbers 21 Online | And *when* king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took *some* of them prisoners..."
+description: >
+  Read Numbers 21 Online | And *when* king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took *some* of them prisoners...
 weight: 21
 ---
 

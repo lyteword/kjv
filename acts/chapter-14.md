@@ -1,7 +1,8 @@
 ---
 title: "Acts 14 KJV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Acts 14 Online | And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed..."
+description: >
+  Read Acts 14 Online | And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed...
 weight: 14
 ---
 

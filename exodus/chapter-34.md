@@ -1,7 +1,8 @@
 ---
 title: "Exodus 34 KJV | Read the Bible Online"
 linkTitle: "34"
-description: "Read Exodus 34 Online | And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon *these* tables the words that were in the first tables, which thou brakest..."
+description: >
+  Read Exodus 34 Online | And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon *these* tables the words that were in the first tables, which thou brakest...
 weight: 34
 ---
 

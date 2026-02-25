@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Leviticus 11 Online | And the LORD spake unto Moses and to Aaron, saying unto them..."
+description: >
+  Read Leviticus 11 Online | And the LORD spake unto Moses and to Aaron, saying unto them...
 weight: 11
 ---
 

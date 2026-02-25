@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read 2 Chronicles 2 Online | And Solomon determined to build an house for the name of the LORD, and an house for his kingdom..."
+description: >
+  Read 2 Chronicles 2 Online | And Solomon determined to build an house for the name of the LORD, and an house for his kingdom...
 weight: 2
 ---
 

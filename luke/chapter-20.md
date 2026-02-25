@@ -1,7 +1,8 @@
 ---
 title: "Luke 20 KJV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Luke 20 Online | And it came to pass, *that* on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon *him* with the elders..."
+description: >
+  Read Luke 20 Online | And it came to pass, *that* on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon *him* with the elders...
 weight: 20
 ---
 

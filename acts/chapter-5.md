@@ -1,7 +1,8 @@
 ---
 title: "Acts 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Acts 5 Online | But a certain man named Ananias, with Sapphira his wife, sold a possession..."
+description: >
+  Read Acts 5 Online | But a certain man named Ananias, with Sapphira his wife, sold a possession...
 weight: 5
 ---
 

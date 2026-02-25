@@ -1,7 +1,8 @@
 ---
 title: "Exodus 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Exodus 1 Online | Now these *are* the names of the children of Israel, which came into Egypt; every man and his household came with Jacob..."
+description: >
+  Read Exodus 1 Online | Now these *are* the names of the children of Israel, which came into Egypt; every man and his household came with Jacob...
 weight: 1
 ---
 

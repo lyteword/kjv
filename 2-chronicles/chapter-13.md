@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 13 KJV | Read the Bible Online"
 linkTitle: "13"
-description: "Read 2 Chronicles 13 Online | Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah..."
+description: >
+  Read 2 Chronicles 13 Online | Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah...
 weight: 13
 ---
 

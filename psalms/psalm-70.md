@@ -1,7 +1,8 @@
 ---
 title: "Psalm 70 KJV | Read the Bible Online"
 linkTitle: "70"
-description: "Read Psalm 70 Online | *Make haste*, O God, to deliver me; make haste to help me, O LORD..."
+description: >
+  Read Psalm 70 Online | *Make haste*, O God, to deliver me; make haste to help me, O LORD...
 weight: 70
 ---
 

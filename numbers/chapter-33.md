@@ -1,7 +1,8 @@
 ---
 title: "Numbers 33 KJV | Read the Bible Online"
 linkTitle: "33"
-description: "Read Numbers 33 Online | These *are* the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron..."
+description: >
+  Read Numbers 33 Online | These *are* the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron...
 weight: 33
 ---
 

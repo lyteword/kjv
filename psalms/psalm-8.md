@@ -1,7 +1,8 @@
 ---
 title: "Psalm 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Psalm 8 Online | O LORD our Lord, how excellent *is* thy name in all the earth! who hast set thy glory above the heavens..."
+description: >
+  Read Psalm 8 Online | O LORD our Lord, how excellent *is* thy name in all the earth! who hast set thy glory above the heavens...
 weight: 8
 ---
 

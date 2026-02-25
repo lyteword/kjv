@@ -1,7 +1,8 @@
 ---
 title: "Psalm 20 KJV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Psalm 20 Online | The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee..."
+description: >
+  Read Psalm 20 Online | The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee...
 weight: 20
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 46 KJV | Read the Bible Online"
 linkTitle: "46"
-description: "Read Isaiah 46 Online | Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages *were* heavy loaden; *they are* a burden to the weary *beast*..."
+description: >
+  Read Isaiah 46 Online | Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages *were* heavy loaden; *they are* a burden to the weary *beast*...
 weight: 46
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Acts 28 KJV | Read the Bible Online"
 linkTitle: "28"
-description: "Read Acts 28 Online | And when they were escaped, then they knew that the island was called Melita..."
+description: >
+  Read Acts 28 Online | And when they were escaped, then they knew that the island was called Melita...
 weight: 28
 ---
 

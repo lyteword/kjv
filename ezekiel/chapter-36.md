@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 36 KJV | Read the Bible Online"
 linkTitle: "36"
-description: "Read Ezekiel 36 Online | Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD..."
+description: >
+  Read Ezekiel 36 Online | Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD...
 weight: 36
 ---
 

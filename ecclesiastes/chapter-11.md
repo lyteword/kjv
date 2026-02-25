@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Ecclesiastes 11 Online | Cast thy bread upon the waters: for thou shalt find it after many days..."
+description: >
+  Read Ecclesiastes 11 Online | Cast thy bread upon the waters: for thou shalt find it after many days...
 weight: 11
 ---
 

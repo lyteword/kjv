@@ -1,7 +1,8 @@
 ---
 title: "Joshua 12 KJV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Joshua 12 Online | Now these *are* the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east..."
+description: >
+  Read Joshua 12 Online | Now these *are* the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east...
 weight: 12
 ---
 

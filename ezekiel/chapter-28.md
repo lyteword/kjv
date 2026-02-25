@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 28 KJV | Read the Bible Online"
 linkTitle: "28"
-description: "Read Ezekiel 28 Online | The word of the LORD came again unto me, saying..."
+description: >
+  Read Ezekiel 28 Online | The word of the LORD came again unto me, saying...
 weight: 28
 ---
 

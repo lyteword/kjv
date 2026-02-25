@@ -1,7 +1,8 @@
 ---
 title: "John 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read John 8 Online | Jesus went unto the mount of Olives..."
+description: >
+  Read John 8 Online | Jesus went unto the mount of Olives...
 weight: 8
 ---
 

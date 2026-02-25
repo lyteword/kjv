@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read 1 Corinthians 9 Online | Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord..."
+description: >
+  Read 1 Corinthians 9 Online | Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord...
 weight: 9
 ---
 

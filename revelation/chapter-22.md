@@ -1,7 +1,8 @@
 ---
 title: "Revelation 22 KJV | Read the Bible Online"
 linkTitle: "22"
-description: "Read Revelation 22 Online | And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb..."
+description: >
+  Read Revelation 22 Online | And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb...
 weight: 22
 ---
 

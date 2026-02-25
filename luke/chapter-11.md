@@ -1,7 +1,8 @@
 ---
 title: "Luke 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Luke 11 Online | And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples..."
+description: >
+  Read Luke 11 Online | And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples...
 weight: 11
 ---
 

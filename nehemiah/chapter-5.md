@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Nehemiah 5 Online | And there was a great cry of the people and of their wives against their brethren the Jews..."
+description: >
+  Read Nehemiah 5 Online | And there was a great cry of the people and of their wives against their brethren the Jews...
 weight: 5
 ---
 

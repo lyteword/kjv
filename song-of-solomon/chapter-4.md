@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Song Of Solomon 4 Online | Behold, thou *art* fair, my love; behold, thou *art* fair; thou *hast* doves’ eyes within thy locks: thy hair *is* as a flock of goats, that appear from mount Gilead..."
+description: >
+  Read Song Of Solomon 4 Online | Behold, thou *art* fair, my love; behold, thou *art* fair; thou *hast* doves’ eyes within thy locks: thy hair *is* as a flock of goats, that appear from mount Gilead...
 weight: 4
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Luke 14 KJV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Luke 14 Online | And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him..."
+description: >
+  Read Luke 14 Online | And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him...
 weight: 14
 ---
 

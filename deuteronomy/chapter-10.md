@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Deuteronomy 10 Online | At that time the LORD said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood..."
+description: >
+  Read Deuteronomy 10 Online | At that time the LORD said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood...
 weight: 10
 ---
 

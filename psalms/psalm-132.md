@@ -1,7 +1,8 @@
 ---
 title: "Psalm 132 KJV | Read the Bible Online"
 linkTitle: "132"
-description: "Read Psalm 132 Online | LORD, remember David, *and* all his afflictions..."
+description: >
+  Read Psalm 132 Online | LORD, remember David, *and* all his afflictions...
 weight: 132
 ---
 

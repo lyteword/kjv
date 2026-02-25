@@ -1,7 +1,8 @@
 ---
 title: "Luke 18 KJV | Read the Bible Online"
 linkTitle: "18"
-description: "Read Luke 18 Online | And he spake a parable unto them *to this end*, that men ought always to pray, and not to faint..."
+description: >
+  Read Luke 18 Online | And he spake a parable unto them *to this end*, that men ought always to pray, and not to faint...
 weight: 18
 ---
 

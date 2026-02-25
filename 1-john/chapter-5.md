@@ -1,7 +1,8 @@
 ---
 title: "1 John 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 John 5 Online | Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him..."
+description: >
+  Read 1 John 5 Online | Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him...
 weight: 5
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read 2 Samuel 11 Online | And it came to pass, after the year was expired, at the time when kings go forth *to battle*, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem..."
+description: >
+  Read 2 Samuel 11 Online | And it came to pass, after the year was expired, at the time when kings go forth *to battle*, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem...
 weight: 11
 ---
 

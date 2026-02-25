@@ -1,7 +1,8 @@
 ---
 title: "Acts 20 KJV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Acts 20 Online | And after the uproar was ceased, Paul called unto *him* the disciples, and embraced *them*, and departed for to go into Macedonia..."
+description: >
+  Read Acts 20 Online | And after the uproar was ceased, Paul called unto *him* the disciples, and embraced *them*, and departed for to go into Macedonia...
 weight: 20
 ---
 

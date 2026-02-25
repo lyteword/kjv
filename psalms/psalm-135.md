@@ -1,7 +1,8 @@
 ---
 title: "Psalm 135 KJV | Read the Bible Online"
 linkTitle: "135"
-description: "Read Psalm 135 Online | Praise ye the LORD. Praise ye the name of the LORD; praise *him*, O ye servants of the LORD..."
+description: >
+  Read Psalm 135 Online | Praise ye the LORD. Praise ye the name of the LORD; praise *him*, O ye servants of the LORD...
 weight: 135
 ---
 

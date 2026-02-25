@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 16 KJV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Leviticus 16 Online | And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died..."
+description: >
+  Read Leviticus 16 Online | And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died...
 weight: 16
 ---
 

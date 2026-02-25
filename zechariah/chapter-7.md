@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Zechariah 7 Online | And it came to pass in the fourth year of king Darius, *that* the word of the LORD came unto Zechariah in the fourth *day* of the ninth month, *even* in Chisleu..."
+description: >
+  Read Zechariah 7 Online | And it came to pass in the fourth year of king Darius, *that* the word of the LORD came unto Zechariah in the fourth *day* of the ninth month, *even* in Chisleu...
 weight: 7
 ---
 

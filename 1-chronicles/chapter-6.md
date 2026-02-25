@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read 1 Chronicles 6 Online | The sons of Levi; Gershon, Kohath, and Merari..."
+description: >
+  Read 1 Chronicles 6 Online | The sons of Levi; Gershon, Kohath, and Merari...
 weight: 6
 ---
 

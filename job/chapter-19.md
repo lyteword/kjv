@@ -1,7 +1,8 @@
 ---
 title: "Job 19 KJV | Read the Bible Online"
 linkTitle: "19"
-description: "Read Job 19 Online | Then Job answered and said..."
+description: >
+  Read Job 19 Online | Then Job answered and said...
 weight: 19
 ---
 

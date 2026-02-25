@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read 1 Kings 11 Online | But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, *and* Hittites..."
+description: >
+  Read 1 Kings 11 Online | But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, *and* Hittites...
 weight: 11
 ---
 

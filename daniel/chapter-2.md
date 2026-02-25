@@ -1,7 +1,8 @@
 ---
 title: "Daniel 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Daniel 2 Online | And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him..."
+description: >
+  Read Daniel 2 Online | And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him...
 weight: 2
 ---
 

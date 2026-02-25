@@ -1,7 +1,8 @@
 ---
 title: "Revelation 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Revelation 8 Online | And when he had opened the seventh seal, there was silence in heaven about the space of half an hour..."
+description: >
+  Read Revelation 8 Online | And when he had opened the seventh seal, there was silence in heaven about the space of half an hour...
 weight: 8
 ---
 

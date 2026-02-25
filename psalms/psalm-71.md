@@ -1,7 +1,8 @@
 ---
 title: "Psalm 71 KJV | Read the Bible Online"
 linkTitle: "71"
-description: "Read Psalm 71 Online | In thee, O LORD, do I put my trust: let me never be put to confusion..."
+description: >
+  Read Psalm 71 Online | In thee, O LORD, do I put my trust: let me never be put to confusion...
 weight: 71
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "John 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read John 6 Online | After these things Jesus went over the sea of Galilee, which is *the sea* of Tiberias..."
+description: >
+  Read John 6 Online | After these things Jesus went over the sea of Galilee, which is *the sea* of Tiberias...
 weight: 6
 ---
 

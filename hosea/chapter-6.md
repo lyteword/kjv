@@ -1,7 +1,8 @@
 ---
 title: "Hosea 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Hosea 6 Online | Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up..."
+description: >
+  Read Hosea 6 Online | Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up...
 weight: 6
 ---
 
