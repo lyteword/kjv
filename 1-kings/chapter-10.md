@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read 1 Kings 10 Online | And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions..."
+description: >
+  Read 1 Kings 10 Online | And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions...
 weight: 10
 ---
 

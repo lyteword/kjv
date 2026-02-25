@@ -1,7 +1,8 @@
 ---
 title: "Psalm 68 KJV | Read the Bible Online"
 linkTitle: "68"
-description: "Read Psalm 68 Online | Let God arise, let his enemies be scattered: let them also that hate him flee before him..."
+description: >
+  Read Psalm 68 Online | Let God arise, let his enemies be scattered: let them also that hate him flee before him...
 weight: 68
 ---
 

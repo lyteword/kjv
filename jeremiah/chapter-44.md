@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 44 KJV | Read the Bible Online"
 linkTitle: "44"
-description: "Read Jeremiah 44 Online | The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying..."
+description: >
+  Read Jeremiah 44 Online | The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying...
 weight: 44
 ---
 

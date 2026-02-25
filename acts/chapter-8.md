@@ -1,7 +1,8 @@
 ---
 title: "Acts 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Acts 8 Online | And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judæa and Samaria, except the apostles..."
+description: >
+  Read Acts 8 Online | And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judæa and Samaria, except the apostles...
 weight: 8
 ---
 

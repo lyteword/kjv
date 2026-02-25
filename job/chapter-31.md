@@ -1,7 +1,8 @@
 ---
 title: "Job 31 KJV | Read the Bible Online"
 linkTitle: "31"
-description: "Read Job 31 Online | I made a covenant with mine eyes; why then should I think upon a maid..."
+description: >
+  Read Job 31 Online | I made a covenant with mine eyes; why then should I think upon a maid...
 weight: 31
 ---
 

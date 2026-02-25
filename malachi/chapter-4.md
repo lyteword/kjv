@@ -1,7 +1,8 @@
 ---
 title: "Malachi 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Malachi 4 Online | For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch..."
+description: >
+  Read Malachi 4 Online | For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch...
 weight: 4
 ---
 

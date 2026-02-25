@@ -1,7 +1,8 @@
 ---
 title: "Habakkuk 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Habakkuk 3 Online | A prayer of Habakkuk the prophet upon Shigionoth..."
+description: >
+  Read Habakkuk 3 Online | A prayer of Habakkuk the prophet upon Shigionoth...
 weight: 3
 ---
 

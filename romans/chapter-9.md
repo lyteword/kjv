@@ -1,7 +1,8 @@
 ---
 title: "Romans 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Romans 9 Online | I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost..."
+description: >
+  Read Romans 9 Online | I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost...
 weight: 9
 ---
 

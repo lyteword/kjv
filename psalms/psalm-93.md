@@ -1,7 +1,8 @@
 ---
 title: "Psalm 93 KJV | Read the Bible Online"
 linkTitle: "93"
-description: "Read Psalm 93 Online | The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, *wherewith* he hath girded himself: the world also is stablished, that it cannot be moved..."
+description: >
+  Read Psalm 93 Online | The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, *wherewith* he hath girded himself: the world also is stablished, that it cannot be moved...
 weight: 93
 ---
 

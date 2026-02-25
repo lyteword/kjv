@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Leviticus 5 Online | And if a soul sin, and hear the voice of swearing, and *is* a witness, whether he hath seen or known *of it;* if he do not utter *it*, then he shall bear his iniquity..."
+description: >
+  Read Leviticus 5 Online | And if a soul sin, and hear the voice of swearing, and *is* a witness, whether he hath seen or known *of it;* if he do not utter *it*, then he shall bear his iniquity...
 weight: 5
 ---
 

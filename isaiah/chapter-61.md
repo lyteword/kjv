@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 61 KJV | Read the Bible Online"
 linkTitle: "61"
-description: "Read Isaiah 61 Online | The Spirit of the Lord GOD *is* upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to *them that are* bound..."
+description: >
+  Read Isaiah 61 Online | The Spirit of the Lord GOD *is* upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to *them that are* bound...
 weight: 61
 ---
 

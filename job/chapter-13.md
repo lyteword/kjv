@@ -1,7 +1,8 @@
 ---
 title: "Job 13 KJV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Job 13 Online | Lo, mine eye hath seen all *this*, mine ear hath heard and understood it..."
+description: >
+  Read Job 13 Online | Lo, mine eye hath seen all *this*, mine ear hath heard and understood it...
 weight: 13
 ---
 

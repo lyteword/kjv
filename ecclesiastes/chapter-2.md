@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Ecclesiastes 2 Online | I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also *is* vanity..."
+description: >
+  Read Ecclesiastes 2 Online | I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also *is* vanity...
 weight: 2
 ---
 

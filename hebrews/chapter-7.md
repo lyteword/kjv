@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Hebrews 7 Online | For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him..."
+description: >
+  Read Hebrews 7 Online | For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him...
 weight: 7
 ---
 

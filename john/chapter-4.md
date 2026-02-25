@@ -1,7 +1,8 @@
 ---
 title: "John 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read John 4 Online | When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John..."
+description: >
+  Read John 4 Online | When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John...
 weight: 4
 ---
 

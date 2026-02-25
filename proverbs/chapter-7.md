@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Proverbs 7 Online | My son, keep my words, and lay up my commandments with thee..."
+description: >
+  Read Proverbs 7 Online | My son, keep my words, and lay up my commandments with thee...
 weight: 7
 ---
 

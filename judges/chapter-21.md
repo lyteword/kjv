@@ -1,7 +1,8 @@
 ---
 title: "Judges 21 KJV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Judges 21 Online | Now the men of Israel had sworn in Mizpeh, saying, There shall not any of us give his daughter unto Benjamin to wife..."
+description: >
+  Read Judges 21 Online | Now the men of Israel had sworn in Mizpeh, saying, There shall not any of us give his daughter unto Benjamin to wife...
 weight: 21
 ---
 

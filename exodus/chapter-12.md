@@ -1,7 +1,8 @@
 ---
 title: "Exodus 12 KJV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Exodus 12 Online | And the LORD spake unto Moses and Aaron in the land of Egypt, saying..."
+description: >
+  Read Exodus 12 Online | And the LORD spake unto Moses and Aaron in the land of Egypt, saying...
 weight: 12
 ---
 

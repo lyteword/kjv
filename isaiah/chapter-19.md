@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 19 KJV | Read the Bible Online"
 linkTitle: "19"
-description: "Read Isaiah 19 Online | The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it..."
+description: >
+  Read Isaiah 19 Online | The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it...
 weight: 19
 ---
 

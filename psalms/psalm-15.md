@@ -1,7 +1,8 @@
 ---
 title: "Psalm 15 KJV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Psalm 15 Online | LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill..."
+description: >
+  Read Psalm 15 Online | LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill...
 weight: 15
 ---
 

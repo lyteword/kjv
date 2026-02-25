@@ -1,7 +1,8 @@
 ---
 title: "Hosea 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Hosea 7 Online | When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, *and* the troop of robbers spoileth without..."
+description: >
+  Read Hosea 7 Online | When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, *and* the troop of robbers spoileth without...
 weight: 7
 ---
 

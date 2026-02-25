@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 16 KJV | Read the Bible Online"
 linkTitle: "16"
-description: "Read 2 Chronicles 16 Online | In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah..."
+description: >
+  Read 2 Chronicles 16 Online | In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah...
 weight: 16
 ---
 

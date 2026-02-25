@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read 2 Kings 1 Online | Then Moab rebelled against Israel after the death of Ahab..."
+description: >
+  Read 2 Kings 1 Online | Then Moab rebelled against Israel after the death of Ahab...
 weight: 1
 ---
 

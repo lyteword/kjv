@@ -1,7 +1,8 @@
 ---
 title: "2 Peter 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read 2 Peter 1 Online | Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ..."
+description: >
+  Read 2 Peter 1 Online | Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ...
 weight: 1
 ---
 

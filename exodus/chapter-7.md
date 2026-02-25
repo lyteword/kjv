@@ -1,7 +1,8 @@
 ---
 title: "Exodus 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Exodus 7 Online | And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet..."
+description: >
+  Read Exodus 7 Online | And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet...
 weight: 7
 ---
 

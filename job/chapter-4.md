@@ -1,7 +1,8 @@
 ---
 title: "Job 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Job 4 Online | Then Eliphaz the Temanite answered and said..."
+description: >
+  Read Job 4 Online | Then Eliphaz the Temanite answered and said...
 weight: 4
 ---
 

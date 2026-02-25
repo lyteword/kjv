@@ -1,7 +1,8 @@
 ---
 title: "Joshua 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Joshua 6 Online | Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in..."
+description: >
+  Read Joshua 6 Online | Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in...
 weight: 6
 ---
 

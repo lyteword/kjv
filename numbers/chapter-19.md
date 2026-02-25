@@ -1,7 +1,8 @@
 ---
 title: "Numbers 19 KJV | Read the Bible Online"
 linkTitle: "19"
-description: "Read Numbers 19 Online | And the LORD spake unto Moses and unto Aaron, saying..."
+description: >
+  Read Numbers 19 Online | And the LORD spake unto Moses and unto Aaron, saying...
 weight: 19
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 26 KJV | Read the Bible Online"
 linkTitle: "26"
-description: "Read Psalm 26 Online | Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; *therefore* I shall not slide..."
+description: >
+  Read Psalm 26 Online | Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; *therefore* I shall not slide...
 weight: 26
 ---
 

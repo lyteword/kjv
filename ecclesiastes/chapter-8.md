@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Ecclesiastes 8 Online | Who *is* as the wise *man*? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed..."
+description: >
+  Read Ecclesiastes 8 Online | Who *is* as the wise *man*? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed...
 weight: 8
 ---
 

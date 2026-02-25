@@ -1,7 +1,8 @@
 ---
 title: "Esther 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Esther 10 Online | And the king Ahasuerus laid a tribute upon the land, and *upon* the isles of the sea..."
+description: >
+  Read Esther 10 Online | And the king Ahasuerus laid a tribute upon the land, and *upon* the isles of the sea...
 weight: 10
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Acts 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Acts 2 Online | And when the day of Pentecost was fully come, they were all with one accord in one place..."
+description: >
+  Read Acts 2 Online | And when the day of Pentecost was fully come, they were all with one accord in one place...
 weight: 2
 ---
 

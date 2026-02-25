@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 56 KJV | Read the Bible Online"
 linkTitle: "56"
-description: "Read Isaiah 56 Online | Thus saith the LORD, Keep ye judgment, and do justice: for my salvation *is* near to come, and my righteousness to be revealed..."
+description: >
+  Read Isaiah 56 Online | Thus saith the LORD, Keep ye judgment, and do justice: for my salvation *is* near to come, and my righteousness to be revealed...
 weight: 56
 ---
 

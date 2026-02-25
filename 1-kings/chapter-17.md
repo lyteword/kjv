@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 17 KJV | Read the Bible Online"
 linkTitle: "17"
-description: "Read 1 Kings 17 Online | And Elijah the Tishbite, *who was* of the inhabitants of Gilead, said unto Ahab, *As* the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word..."
+description: >
+  Read 1 Kings 17 Online | And Elijah the Tishbite, *who was* of the inhabitants of Gilead, said unto Ahab, *As* the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word...
 weight: 17
 ---
 

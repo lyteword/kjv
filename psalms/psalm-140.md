@@ -1,7 +1,8 @@
 ---
 title: "Psalm 140 KJV | Read the Bible Online"
 linkTitle: "140"
-description: "Read Psalm 140 Online | Deliver me, O LORD, from the evil man: preserve me from the violent man..."
+description: >
+  Read Psalm 140 Online | Deliver me, O LORD, from the evil man: preserve me from the violent man...
 weight: 140
 ---
 

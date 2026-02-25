@@ -1,7 +1,8 @@
 ---
 title: "Mark 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Mark 2 Online | And again he entered into Capernaum after *some* days; and it was noised that he was in the house..."
+description: >
+  Read Mark 2 Online | And again he entered into Capernaum after *some* days; and it was noised that he was in the house...
 weight: 2
 ---
 

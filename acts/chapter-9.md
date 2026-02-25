@@ -1,7 +1,8 @@
 ---
 title: "Acts 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Acts 9 Online | And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest..."
+description: >
+  Read Acts 9 Online | And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest...
 weight: 9
 ---
 

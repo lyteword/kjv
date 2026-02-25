@@ -1,7 +1,8 @@
 ---
 title: "Numbers 23 KJV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Numbers 23 Online | And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams..."
+description: >
+  Read Numbers 23 Online | And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams...
 weight: 23
 ---
 

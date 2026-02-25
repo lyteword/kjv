@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 47 KJV | Read the Bible Online"
 linkTitle: "47"
-description: "Read Ezekiel 47 Online | Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house *stood toward* the east, and the waters came down from under from the right side of the house, at the south *side* of the altar..."
+description: >
+  Read Ezekiel 47 Online | Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house *stood toward* the east, and the waters came down from under from the right side of the house, at the south *side* of the altar...
 weight: 47
 ---
 

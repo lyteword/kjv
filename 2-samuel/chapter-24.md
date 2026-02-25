@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 24 KJV | Read the Bible Online"
 linkTitle: "24"
-description: "Read 2 Samuel 24 Online | And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah..."
+description: >
+  Read 2 Samuel 24 Online | And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah...
 weight: 24
 ---
 

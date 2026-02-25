@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 33 KJV | Read the Bible Online"
 linkTitle: "33"
-description: "Read Ezekiel 33 Online | Again the word of the LORD came unto me, saying..."
+description: >
+  Read Ezekiel 33 Online | Again the word of the LORD came unto me, saying...
 weight: 33
 ---
 

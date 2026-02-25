@@ -1,7 +1,8 @@
 ---
 title: "Job 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Job 7 Online | *Is there* not an appointed time to man upon earth? *are not* his days also like the days of an hireling..."
+description: >
+  Read Job 7 Online | *Is there* not an appointed time to man upon earth? *are not* his days also like the days of an hireling...
 weight: 7
 ---
 

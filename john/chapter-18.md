@@ -1,7 +1,8 @@
 ---
 title: "John 18 KJV | Read the Bible Online"
 linkTitle: "18"
-description: "Read John 18 Online | When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples..."
+description: >
+  Read John 18 Online | When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples...
 weight: 18
 ---
 

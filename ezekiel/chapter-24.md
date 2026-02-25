@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 24 KJV | Read the Bible Online"
 linkTitle: "24"
-description: "Read Ezekiel 24 Online | Again in the ninth year, in the tenth month, in the tenth *day* of the month, the word of the LORD came unto me, saying..."
+description: >
+  Read Ezekiel 24 Online | Again in the ninth year, in the tenth month, in the tenth *day* of the month, the word of the LORD came unto me, saying...
 weight: 24
 ---
 

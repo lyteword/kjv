@@ -1,7 +1,8 @@
 ---
 title: "Matthew 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Matthew 7 Online | Judge not, that ye be not judged..."
+description: >
+  Read Matthew 7 Online | Judge not, that ye be not judged...
 weight: 7
 ---
 

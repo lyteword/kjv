@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Leviticus 10 Online | And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the LORD, which he commanded them not..."
+description: >
+  Read Leviticus 10 Online | And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the LORD, which he commanded them not...
 weight: 10
 ---
 

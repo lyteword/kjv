@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read 1 Kings 2 Online | Now the days of David drew nigh that he should die; and he charged Solomon his son, saying..."
+description: >
+  Read 1 Kings 2 Online | Now the days of David drew nigh that he should die; and he charged Solomon his son, saying...
 weight: 2
 ---
 

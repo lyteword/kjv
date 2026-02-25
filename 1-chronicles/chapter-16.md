@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 16 KJV | Read the Bible Online"
 linkTitle: "16"
-description: "Read 1 Chronicles 16 Online | So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God..."
+description: >
+  Read 1 Chronicles 16 Online | So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God...
 weight: 16
 ---
 

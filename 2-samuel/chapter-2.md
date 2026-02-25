@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read 2 Samuel 2 Online | And it came to pass after this, that David enquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron..."
+description: >
+  Read 2 Samuel 2 Online | And it came to pass after this, that David enquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron...
 weight: 2
 ---
 

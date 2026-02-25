@@ -1,7 +1,8 @@
 ---
 title: "Exodus 23 KJV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Exodus 23 Online | Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness..."
+description: >
+  Read Exodus 23 Online | Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness...
 weight: 23
 ---
 

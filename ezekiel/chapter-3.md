@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Ezekiel 3 Online | Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel..."
+description: >
+  Read Ezekiel 3 Online | Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel...
 weight: 3
 ---
 

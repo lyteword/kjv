@@ -1,7 +1,8 @@
 ---
 title: "John 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read John 10 Online | Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber..."
+description: >
+  Read John 10 Online | Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber...
 weight: 10
 ---
 

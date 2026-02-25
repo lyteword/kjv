@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 22 KJV | Read the Bible Online"
 linkTitle: "22"
-description: "Read Isaiah 22 Online | The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops..."
+description: >
+  Read Isaiah 22 Online | The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops...
 weight: 22
 ---
 

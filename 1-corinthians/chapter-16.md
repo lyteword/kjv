@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 16 KJV | Read the Bible Online"
 linkTitle: "16"
-description: "Read 1 Corinthians 16 Online | Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye..."
+description: >
+  Read 1 Corinthians 16 Online | Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye...
 weight: 16
 ---
 

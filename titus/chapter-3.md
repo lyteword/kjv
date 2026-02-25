@@ -1,7 +1,8 @@
 ---
 title: "Titus 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Titus 3 Online | Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work..."
+description: >
+  Read Titus 3 Online | Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work...
 weight: 3
 ---
 

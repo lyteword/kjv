@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 31 KJV | Read the Bible Online"
 linkTitle: "31"
-description: "Read Deuteronomy 31 Online | And Moses went and spake these words unto all Israel..."
+description: >
+  Read Deuteronomy 31 Online | And Moses went and spake these words unto all Israel...
 weight: 31
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 121 KJV | Read the Bible Online"
 linkTitle: "121"
-description: "Read Psalm 121 Online | I will lift up mine eyes unto the hills, from whence cometh my help..."
+description: >
+  Read Psalm 121 Online | I will lift up mine eyes unto the hills, from whence cometh my help...
 weight: 121
 ---
 

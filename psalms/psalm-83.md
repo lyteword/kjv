@@ -1,7 +1,8 @@
 ---
 title: "Psalm 83 KJV | Read the Bible Online"
 linkTitle: "83"
-description: "Read Psalm 83 Online | Keep not thou silence, O God: hold not thy peace, and be not still, O God..."
+description: >
+  Read Psalm 83 Online | Keep not thou silence, O God: hold not thy peace, and be not still, O God...
 weight: 83
 ---
 

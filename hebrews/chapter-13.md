@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 13 KJV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Hebrews 13 Online | Let brotherly love continue..."
+description: >
+  Read Hebrews 13 Online | Let brotherly love continue...
 weight: 13
 ---
 

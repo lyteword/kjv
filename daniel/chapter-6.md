@@ -1,7 +1,8 @@
 ---
 title: "Daniel 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Daniel 6 Online | It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom..."
+description: >
+  Read Daniel 6 Online | It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom...
 weight: 6
 ---
 

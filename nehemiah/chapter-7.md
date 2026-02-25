@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Nehemiah 7 Online | Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed..."
+description: >
+  Read Nehemiah 7 Online | Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed...
 weight: 7
 ---
 

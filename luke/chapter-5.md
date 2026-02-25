@@ -1,7 +1,8 @@
 ---
 title: "Luke 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Luke 5 Online | And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret..."
+description: >
+  Read Luke 5 Online | And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret...
 weight: 5
 ---
 

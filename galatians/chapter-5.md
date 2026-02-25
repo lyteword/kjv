@@ -1,7 +1,8 @@
 ---
 title: "Galatians 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Galatians 5 Online | Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage..."
+description: >
+  Read Galatians 5 Online | Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage...
 weight: 5
 ---
 

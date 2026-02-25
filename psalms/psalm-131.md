@@ -1,7 +1,8 @@
 ---
 title: "Psalm 131 KJV | Read the Bible Online"
 linkTitle: "131"
-description: "Read Psalm 131 Online | LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me..."
+description: >
+  Read Psalm 131 Online | LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me...
 weight: 131
 ---
 

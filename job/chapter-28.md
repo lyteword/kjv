@@ -1,7 +1,8 @@
 ---
 title: "Job 28 KJV | Read the Bible Online"
 linkTitle: "28"
-description: "Read Job 28 Online | Surely there is a vein for the silver, and a place for gold *where* they fine *it*..."
+description: >
+  Read Job 28 Online | Surely there is a vein for the silver, and a place for gold *where* they fine *it*...
 weight: 28
 ---
 

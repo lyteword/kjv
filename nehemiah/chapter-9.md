@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Nehemiah 9 Online | Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them..."
+description: >
+  Read Nehemiah 9 Online | Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them...
 weight: 9
 ---
 

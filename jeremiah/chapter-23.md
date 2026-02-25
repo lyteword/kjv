@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 23 KJV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Jeremiah 23 Online | Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the LORD..."
+description: >
+  Read Jeremiah 23 Online | Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the LORD...
 weight: 23
 ---
 

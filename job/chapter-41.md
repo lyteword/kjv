@@ -1,7 +1,8 @@
 ---
 title: "Job 41 KJV | Read the Bible Online"
 linkTitle: "41"
-description: "Read Job 41 Online | Canst thou draw out leviathan with an hook? or his tongue with a cord *which* thou lettest down..."
+description: >
+  Read Job 41 Online | Canst thou draw out leviathan with an hook? or his tongue with a cord *which* thou lettest down...
 weight: 41
 ---
 

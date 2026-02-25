@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 32 KJV | Read the Bible Online"
 linkTitle: "32"
-description: "Read Deuteronomy 32 Online | Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth..."
+description: >
+  Read Deuteronomy 32 Online | Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth...
 weight: 32
 ---
 

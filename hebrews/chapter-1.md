@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Hebrews 1 Online | God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets..."
+description: >
+  Read Hebrews 1 Online | God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets...
 weight: 1
 ---
 

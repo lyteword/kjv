@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read 2 Corinthians 11 Online | Would to God ye could bear with me a little in *my* folly: and indeed bear with me..."
+description: >
+  Read 2 Corinthians 11 Online | Would to God ye could bear with me a little in *my* folly: and indeed bear with me...
 weight: 11
 ---
 

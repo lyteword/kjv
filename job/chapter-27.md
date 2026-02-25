@@ -1,7 +1,8 @@
 ---
 title: "Job 27 KJV | Read the Bible Online"
 linkTitle: "27"
-description: "Read Job 27 Online | Moreover Job continued his parable, and said..."
+description: >
+  Read Job 27 Online | Moreover Job continued his parable, and said...
 weight: 27
 ---
 

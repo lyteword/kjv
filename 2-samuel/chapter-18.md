@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 18 KJV | Read the Bible Online"
 linkTitle: "18"
-description: "Read 2 Samuel 18 Online | And David numbered the people that *were* with him, and set captains of thousands and captains of hundreds over them..."
+description: >
+  Read 2 Samuel 18 Online | And David numbered the people that *were* with him, and set captains of thousands and captains of hundreds over them...
 weight: 18
 ---
 

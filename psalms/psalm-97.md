@@ -1,7 +1,8 @@
 ---
 title: "Psalm 97 KJV | Read the Bible Online"
 linkTitle: "97"
-description: "Read Psalm 97 Online | The LORD reigneth; let the earth rejoice; let the multitude of isles be glad *thereof*..."
+description: >
+  Read Psalm 97 Online | The LORD reigneth; let the earth rejoice; let the multitude of isles be glad *thereof*...
 weight: 97
 ---
 

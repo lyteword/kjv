@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Samuel 3 Online | And the child Samuel ministered unto the LORD before Eli. And the word of the LORD was precious in those days; *there was* no open vision..."
+description: >
+  Read 1 Samuel 3 Online | And the child Samuel ministered unto the LORD before Eli. And the word of the LORD was precious in those days; *there was* no open vision...
 weight: 3
 ---
 

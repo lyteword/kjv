@@ -1,7 +1,8 @@
 ---
 title: "Psalm 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Psalm 4 Online | Hear me when I call, O God of my righteousness: thou hast enlarged me *when I was* in distress; have mercy upon me, and hear my prayer..."
+description: >
+  Read Psalm 4 Online | Hear me when I call, O God of my righteousness: thou hast enlarged me *when I was* in distress; have mercy upon me, and hear my prayer...
 weight: 4
 ---
 

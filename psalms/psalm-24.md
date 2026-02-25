@@ -1,7 +1,8 @@
 ---
 title: "Psalm 24 KJV | Read the Bible Online"
 linkTitle: "24"
-description: "Read Psalm 24 Online | The earth *is* the LORD’s, and the fulness thereof; the world, and they that dwell therein..."
+description: >
+  Read Psalm 24 Online | The earth *is* the LORD’s, and the fulness thereof; the world, and they that dwell therein...
 weight: 24
 ---
 

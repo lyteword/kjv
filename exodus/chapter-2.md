@@ -1,7 +1,8 @@
 ---
 title: "Exodus 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Exodus 2 Online | And there went a man of the house of Levi, and took *to wife* a daughter of Levi..."
+description: >
+  Read Exodus 2 Online | And there went a man of the house of Levi, and took *to wife* a daughter of Levi...
 weight: 2
 ---
 

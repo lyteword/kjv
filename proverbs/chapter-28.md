@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 28 KJV | Read the Bible Online"
 linkTitle: "28"
-description: "Read Proverbs 28 Online | The wicked flee when no man pursueth: but the righteous are bold as a lion..."
+description: >
+  Read Proverbs 28 Online | The wicked flee when no man pursueth: but the righteous are bold as a lion...
 weight: 28
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 69 KJV | Read the Bible Online"
 linkTitle: "69"
-description: "Read Psalm 69 Online | Save me, O God; for the waters are come in unto *my* soul..."
+description: >
+  Read Psalm 69 Online | Save me, O God; for the waters are come in unto *my* soul...
 weight: 69
 ---
 

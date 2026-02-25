@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 15 KJV | Read the Bible Online"
 linkTitle: "15"
-description: "Read 1 Chronicles 15 Online | And *David* made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent..."
+description: >
+  Read 1 Chronicles 15 Online | And *David* made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent...
 weight: 15
 ---
 

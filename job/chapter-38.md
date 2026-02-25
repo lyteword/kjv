@@ -1,7 +1,8 @@
 ---
 title: "Job 38 KJV | Read the Bible Online"
 linkTitle: "38"
-description: "Read Job 38 Online | Then the LORD answered Job out of the whirlwind, and said..."
+description: >
+  Read Job 38 Online | Then the LORD answered Job out of the whirlwind, and said...
 weight: 38
 ---
 

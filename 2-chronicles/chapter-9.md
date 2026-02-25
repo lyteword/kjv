@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read 2 Chronicles 9 Online | And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart..."
+description: >
+  Read 2 Chronicles 9 Online | And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart...
 weight: 9
 ---
 

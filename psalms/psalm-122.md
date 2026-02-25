@@ -1,7 +1,8 @@
 ---
 title: "Psalm 122 KJV | Read the Bible Online"
 linkTitle: "122"
-description: "Read Psalm 122 Online | I was glad when they said unto me, Let us go into the house of the LORD..."
+description: >
+  Read Psalm 122 Online | I was glad when they said unto me, Let us go into the house of the LORD...
 weight: 122
 ---
 

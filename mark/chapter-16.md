@@ -1,7 +1,8 @@
 ---
 title: "Mark 16 KJV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Mark 16 Online | And when the sabbath was past, Mary Magdalene, and Mary the *mother* of James, and Salome, had bought sweet spices, that they might come and anoint him..."
+description: >
+  Read Mark 16 Online | And when the sabbath was past, Mary Magdalene, and Mary the *mother* of James, and Salome, had bought sweet spices, that they might come and anoint him...
 weight: 16
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read 1 Kings 6 Online | And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which *is* the second month, that he began to build the house of the LORD..."
+description: >
+  Read 1 Kings 6 Online | And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which *is* the second month, that he began to build the house of the LORD...
 weight: 6
 ---
 

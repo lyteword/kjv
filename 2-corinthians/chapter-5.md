@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read 2 Corinthians 5 Online | For we know that if our earthly house of *this* tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens..."
+description: >
+  Read 2 Corinthians 5 Online | For we know that if our earthly house of *this* tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens...
 weight: 5
 ---
 

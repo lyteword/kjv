@@ -1,7 +1,8 @@
 ---
 title: "Exodus 25 KJV | Read the Bible Online"
 linkTitle: "25"
-description: "Read Exodus 25 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Exodus 25 Online | And the LORD spake unto Moses, saying...
 weight: 25
 ---
 

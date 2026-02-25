@@ -1,7 +1,8 @@
 ---
 title: "Psalm 37 KJV | Read the Bible Online"
 linkTitle: "37"
-description: "Read Psalm 37 Online | Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity..."
+description: >
+  Read Psalm 37 Online | Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity...
 weight: 37
 ---
 

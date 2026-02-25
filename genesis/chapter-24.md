@@ -1,7 +1,8 @@
 ---
 title: "Genesis 24 KJV | Read the Bible Online"
 linkTitle: "24"
-description: "Read Genesis 24 Online | And Abraham was old, *and* well stricken in age: and the LORD had blessed Abraham in all things..."
+description: >
+  Read Genesis 24 Online | And Abraham was old, *and* well stricken in age: and the LORD had blessed Abraham in all things...
 weight: 24
 ---
 

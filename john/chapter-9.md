@@ -1,7 +1,8 @@
 ---
 title: "John 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read John 9 Online | And as *Jesus* passed by, he saw a man which was blind from *his* birth..."
+description: >
+  Read John 9 Online | And as *Jesus* passed by, he saw a man which was blind from *his* birth...
 weight: 9
 ---
 

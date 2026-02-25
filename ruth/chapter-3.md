@@ -1,7 +1,8 @@
 ---
 title: "Ruth 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Ruth 3 Online | Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee..."
+description: >
+  Read Ruth 3 Online | Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee...
 weight: 3
 ---
 

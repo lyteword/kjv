@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 12 KJV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Ezekiel 12 Online | The word of the LORD also came unto me, saying..."
+description: >
+  Read Ezekiel 12 Online | The word of the LORD also came unto me, saying...
 weight: 12
 ---
 

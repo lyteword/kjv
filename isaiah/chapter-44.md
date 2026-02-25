@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 44 KJV | Read the Bible Online"
 linkTitle: "44"
-description: "Read Isaiah 44 Online | Yet now hear, O Jacob my servant; and Israel, whom I have chosen..."
+description: >
+  Read Isaiah 44 Online | Yet now hear, O Jacob my servant; and Israel, whom I have chosen...
 weight: 44
 ---
 

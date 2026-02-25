@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Isaiah 7 Online | And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, *that* Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it..."
+description: >
+  Read Isaiah 7 Online | And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, *that* Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it...
 weight: 7
 ---
 

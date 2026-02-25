@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 22 KJV | Read the Bible Online"
 linkTitle: "22"
-description: "Read Proverbs 22 Online | A *good* name *is* rather to be chosen than great riches, *and* loving favour rather than silver and gold..."
+description: >
+  Read Proverbs 22 Online | A *good* name *is* rather to be chosen than great riches, *and* loving favour rather than silver and gold...
 weight: 22
 ---
 

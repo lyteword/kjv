@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 19 KJV | Read the Bible Online"
 linkTitle: "19"
-description: "Read Leviticus 19 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Leviticus 19 Online | And the LORD spake unto Moses, saying...
 weight: 19
 ---
 

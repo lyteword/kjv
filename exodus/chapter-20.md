@@ -1,7 +1,8 @@
 ---
 title: "Exodus 20 KJV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Exodus 20 Online | And God spake all these words, saying..."
+description: >
+  Read Exodus 20 Online | And God spake all these words, saying...
 weight: 20
 ---
 

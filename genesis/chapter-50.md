@@ -1,7 +1,8 @@
 ---
 title: "Genesis 50 KJV | Read the Bible Online"
 linkTitle: "50"
-description: "Read Genesis 50 Online | And Joseph fell upon his father’s face, and wept upon him, and kissed him..."
+description: >
+  Read Genesis 50 Online | And Joseph fell upon his father’s face, and wept upon him, and kissed him...
 weight: 50
 ---
 

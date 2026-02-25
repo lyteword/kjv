@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 19 KJV | Read the Bible Online"
 linkTitle: "19"
-description: "Read 2 Samuel 19 Online | And it was told Joab, Behold, the king weepeth and mourneth for Absalom..."
+description: >
+  Read 2 Samuel 19 Online | And it was told Joab, Behold, the king weepeth and mourneth for Absalom...
 weight: 19
 ---
 

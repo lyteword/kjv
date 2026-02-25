@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Ezekiel 8 Online | And it came to pass in the sixth year, in the sixth *month*, in the fifth *day* of the month, *as* I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord GOD fell there upon me..."
+description: >
+  Read Ezekiel 8 Online | And it came to pass in the sixth year, in the sixth *month*, in the fifth *day* of the month, *as* I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord GOD fell there upon me...
 weight: 8
 ---
 

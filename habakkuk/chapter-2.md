@@ -1,7 +1,8 @@
 ---
 title: "Habakkuk 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Habakkuk 2 Online | I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved..."
+description: >
+  Read Habakkuk 2 Online | I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved...
 weight: 2
 ---
 

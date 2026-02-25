@@ -1,7 +1,8 @@
 ---
 title: "Amos 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Amos 8 Online | Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit..."
+description: >
+  Read Amos 8 Online | Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit...
 weight: 8
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read 1 Samuel 9 Online | Now there was a man of Benjamin, whose name *was* Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power..."
+description: >
+  Read 1 Samuel 9 Online | Now there was a man of Benjamin, whose name *was* Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power...
 weight: 9
 ---
 

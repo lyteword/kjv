@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 32 KJV | Read the Bible Online"
 linkTitle: "32"
-description: "Read Ezekiel 32 Online | And it came to pass in the twelfth year, in the twelfth month, in the first *day* of the month, *that* the word of the LORD came unto me, saying..."
+description: >
+  Read Ezekiel 32 Online | And it came to pass in the twelfth year, in the twelfth month, in the first *day* of the month, *that* the word of the LORD came unto me, saying...
 weight: 32
 ---
 

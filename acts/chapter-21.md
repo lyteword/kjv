@@ -1,7 +1,8 @@
 ---
 title: "Acts 21 KJV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Acts 21 Online | And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the *day* following unto Rhodes, and from thence unto Patara..."
+description: >
+  Read Acts 21 Online | And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the *day* following unto Rhodes, and from thence unto Patara...
 weight: 21
 ---
 

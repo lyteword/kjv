@@ -1,7 +1,8 @@
 ---
 title: "Psalm 123 KJV | Read the Bible Online"
 linkTitle: "123"
-description: "Read Psalm 123 Online | Unto thee lift I up mine eyes, O thou that dwellest in the heavens..."
+description: >
+  Read Psalm 123 Online | Unto thee lift I up mine eyes, O thou that dwellest in the heavens...
 weight: 123
 ---
 

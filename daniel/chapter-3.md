@@ -1,7 +1,8 @@
 ---
 title: "Daniel 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Daniel 3 Online | Nebuchadnezzar the king made an image of gold, whose height *was* threescore cubits, *and* the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon..."
+description: >
+  Read Daniel 3 Online | Nebuchadnezzar the king made an image of gold, whose height *was* threescore cubits, *and* the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon...
 weight: 3
 ---
 

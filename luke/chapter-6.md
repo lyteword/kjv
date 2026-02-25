@@ -1,7 +1,8 @@
 ---
 title: "Luke 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Luke 6 Online | And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing *them* in *their* hands..."
+description: >
+  Read Luke 6 Online | And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing *them* in *their* hands...
 weight: 6
 ---
 

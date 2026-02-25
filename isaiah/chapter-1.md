@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Isaiah 1 Online | The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, *and* Hezekiah, kings of Judah..."
+description: >
+  Read Isaiah 1 Online | The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, *and* Hezekiah, kings of Judah...
 weight: 1
 ---
 

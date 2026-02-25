@@ -1,7 +1,8 @@
 ---
 title: "1 Thessalonians 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read 1 Thessalonians 1 Online | Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians *which is* in God the Father and *in* the Lord Jesus Christ: Grace *be* unto you, and peace, from God our Father, and the Lord Jesus Christ..."
+description: >
+  Read 1 Thessalonians 1 Online | Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians *which is* in God the Father and *in* the Lord Jesus Christ: Grace *be* unto you, and peace, from God our Father, and the Lord Jesus Christ...
 weight: 1
 ---
 

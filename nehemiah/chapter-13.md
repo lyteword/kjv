@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 13 KJV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Nehemiah 13 Online | On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever..."
+description: >
+  Read Nehemiah 13 Online | On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever...
 weight: 13
 ---
 

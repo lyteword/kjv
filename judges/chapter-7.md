@@ -1,7 +1,8 @@
 ---
 title: "Judges 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Judges 7 Online | Then Jerubbaal, who *is* Gideon, and all the people that *were* with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley..."
+description: >
+  Read Judges 7 Online | Then Jerubbaal, who *is* Gideon, and all the people that *were* with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley...
 weight: 7
 ---
 

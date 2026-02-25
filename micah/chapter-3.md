@@ -1,7 +1,8 @@
 ---
 title: "Micah 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Micah 3 Online | And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; *Is it* not for you to know judgment..."
+description: >
+  Read Micah 3 Online | And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; *Is it* not for you to know judgment...
 weight: 3
 ---
 

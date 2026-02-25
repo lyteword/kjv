@@ -1,7 +1,8 @@
 ---
 title: "Psalm 55 KJV | Read the Bible Online"
 linkTitle: "55"
-description: "Read Psalm 55 Online | Give ear to my prayer, O God; and hide not thyself from my supplication..."
+description: >
+  Read Psalm 55 Online | Give ear to my prayer, O God; and hide not thyself from my supplication...
 weight: 55
 ---
 

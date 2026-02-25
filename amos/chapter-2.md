@@ -1,7 +1,8 @@
 ---
 title: "Amos 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Amos 2 Online | Thus saith the LORD; For three transgressions of Moab, and for four, I will not turn away *the punishment* thereof; because he burned the bones of the king of Edom into lime..."
+description: >
+  Read Amos 2 Online | Thus saith the LORD; For three transgressions of Moab, and for four, I will not turn away *the punishment* thereof; because he burned the bones of the king of Edom into lime...
 weight: 2
 ---
 

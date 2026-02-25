@@ -1,7 +1,8 @@
 ---
 title: "Mark 13 KJV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Mark 13 Online | And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings *are here*..."
+description: >
+  Read Mark 13 Online | And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings *are here*...
 weight: 13
 ---
 

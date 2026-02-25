@@ -1,7 +1,8 @@
 ---
 title: "Job 17 KJV | Read the Bible Online"
 linkTitle: "17"
-description: "Read Job 17 Online | My breath is corrupt, my days are extinct, the graves *are ready* for me..."
+description: >
+  Read Job 17 Online | My breath is corrupt, my days are extinct, the graves *are ready* for me...
 weight: 17
 ---
 

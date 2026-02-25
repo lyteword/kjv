@@ -1,7 +1,8 @@
 ---
 title: "Psalm 40 KJV | Read the Bible Online"
 linkTitle: "40"
-description: "Read Psalm 40 Online | I waited patiently for the LORD; and he inclined unto me, and heard my cry..."
+description: >
+  Read Psalm 40 Online | I waited patiently for the LORD; and he inclined unto me, and heard my cry...
 weight: 40
 ---
 

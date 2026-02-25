@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 32 KJV | Read the Bible Online"
 linkTitle: "32"
-description: "Read Isaiah 32 Online | Behold, a king shall reign in righteousness, and princes shall rule in judgment..."
+description: >
+  Read Isaiah 32 Online | Behold, a king shall reign in righteousness, and princes shall rule in judgment...
 weight: 32
 ---
 

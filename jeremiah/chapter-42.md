@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 42 KJV | Read the Bible Online"
 linkTitle: "42"
-description: "Read Jeremiah 42 Online | Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even unto the greatest, came near..."
+description: >
+  Read Jeremiah 42 Online | Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even unto the greatest, came near...
 weight: 42
 ---
 

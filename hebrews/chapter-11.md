@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Hebrews 11 Online | Now faith is the substance of things hoped for, the evidence of things not seen..."
+description: >
+  Read Hebrews 11 Online | Now faith is the substance of things hoped for, the evidence of things not seen...
 weight: 11
 ---
 

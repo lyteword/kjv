@@ -1,7 +1,8 @@
 ---
 title: "Exodus 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Exodus 5 Online | And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness..."
+description: >
+  Read Exodus 5 Online | And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness...
 weight: 5
 ---
 

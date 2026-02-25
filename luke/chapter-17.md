@@ -1,7 +1,8 @@
 ---
 title: "Luke 17 KJV | Read the Bible Online"
 linkTitle: "17"
-description: "Read Luke 17 Online | Then said he unto the disciples, It is impossible but that offences will come: but woe *unto him*, through whom they come..."
+description: >
+  Read Luke 17 Online | Then said he unto the disciples, It is impossible but that offences will come: but woe *unto him*, through whom they come...
 weight: 17
 ---
 

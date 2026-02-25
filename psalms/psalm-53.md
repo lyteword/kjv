@@ -1,7 +1,8 @@
 ---
 title: "Psalm 53 KJV | Read the Bible Online"
 linkTitle: "53"
-description: "Read Psalm 53 Online | The fool hath said in his heart, *There is* no God. Corrupt are they, and have done abominable iniquity: *there is* none that doeth good..."
+description: >
+  Read Psalm 53 Online | The fool hath said in his heart, *There is* no God. Corrupt are they, and have done abominable iniquity: *there is* none that doeth good...
 weight: 53
 ---
 

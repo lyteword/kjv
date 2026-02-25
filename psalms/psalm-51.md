@@ -1,7 +1,8 @@
 ---
 title: "Psalm 51 KJV | Read the Bible Online"
 linkTitle: "51"
-description: "Read Psalm 51 Online | Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions..."
+description: >
+  Read Psalm 51 Online | Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions...
 weight: 51
 ---
 

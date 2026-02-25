@@ -1,7 +1,8 @@
 ---
 title: "Romans 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Romans 4 Online | What shall we say then that Abraham our father, as pertaining to the flesh, hath found..."
+description: >
+  Read Romans 4 Online | What shall we say then that Abraham our father, as pertaining to the flesh, hath found...
 weight: 4
 ---
 

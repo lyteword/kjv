@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 41 KJV | Read the Bible Online"
 linkTitle: "41"
-description: "Read Ezekiel 41 Online | Afterward he brought me to the temple, and measured the posts, six cubits broad on the one side, and six cubits broad on the other side, *which was* the breadth of the tabernacle..."
+description: >
+  Read Ezekiel 41 Online | Afterward he brought me to the temple, and measured the posts, six cubits broad on the one side, and six cubits broad on the other side, *which was* the breadth of the tabernacle...
 weight: 41
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Galatians 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Galatians 2 Online | Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with *me* also..."
+description: >
+  Read Galatians 2 Online | Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with *me* also...
 weight: 2
 ---
 

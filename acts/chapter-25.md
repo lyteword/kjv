@@ -1,7 +1,8 @@
 ---
 title: "Acts 25 KJV | Read the Bible Online"
 linkTitle: "25"
-description: "Read Acts 25 Online | Now when Festus was come into the province, after three days he ascended from Cæsarea to Jerusalem..."
+description: >
+  Read Acts 25 Online | Now when Festus was come into the province, after three days he ascended from Cæsarea to Jerusalem...
 weight: 25
 ---
 

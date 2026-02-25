@@ -1,7 +1,8 @@
 ---
 title: "Numbers 16 KJV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Numbers 16 Online | Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took *men:..."
+description: >
+  Read Numbers 16 Online | Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took *men:...
 weight: 16
 ---
 

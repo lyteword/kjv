@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 30 KJV | Read the Bible Online"
 linkTitle: "30"
-description: "Read Proverbs 30 Online | The words of Agur the son of Jakeh, *even* the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal..."
+description: >
+  Read Proverbs 30 Online | The words of Agur the son of Jakeh, *even* the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal...
 weight: 30
 ---
 

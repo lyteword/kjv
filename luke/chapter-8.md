@@ -1,7 +1,8 @@
 ---
 title: "Luke 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Luke 8 Online | And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve *were* with him..."
+description: >
+  Read Luke 8 Online | And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve *were* with him...
 weight: 8
 ---
 

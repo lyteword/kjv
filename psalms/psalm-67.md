@@ -1,7 +1,8 @@
 ---
 title: "Psalm 67 KJV | Read the Bible Online"
 linkTitle: "67"
-description: "Read Psalm 67 Online | God be merciful unto us, and bless us; *and* cause his face to shine upon us; Selah..."
+description: >
+  Read Psalm 67 Online | God be merciful unto us, and bless us; *and* cause his face to shine upon us; Selah...
 weight: 67
 ---
 

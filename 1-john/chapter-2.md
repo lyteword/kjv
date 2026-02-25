@@ -1,7 +1,8 @@
 ---
 title: "1 John 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read 1 John 2 Online | My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous..."
+description: >
+  Read 1 John 2 Online | My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous...
 weight: 2
 ---
 

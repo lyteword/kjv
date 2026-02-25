@@ -1,7 +1,8 @@
 ---
 title: "John 17 KJV | Read the Bible Online"
 linkTitle: "17"
-description: "Read John 17 Online | These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee..."
+description: >
+  Read John 17 Online | These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee...
 weight: 17
 ---
 

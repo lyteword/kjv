@@ -1,7 +1,8 @@
 ---
 title: "Numbers 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Numbers 1 Online | And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first *day* of the second month, in the second year after they were come out of the land of Egypt, saying..."
+description: >
+  Read Numbers 1 Online | And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first *day* of the second month, in the second year after they were come out of the land of Egypt, saying...
 weight: 1
 ---
 

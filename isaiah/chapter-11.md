@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Isaiah 11 Online | And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots..."
+description: >
+  Read Isaiah 11 Online | And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots...
 weight: 11
 ---
 

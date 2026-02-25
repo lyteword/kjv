@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read 2 Corinthians 2 Online | But I determined this with myself, that I would not come again to you in heaviness..."
+description: >
+  Read 2 Corinthians 2 Online | But I determined this with myself, that I would not come again to you in heaviness...
 weight: 2
 ---
 

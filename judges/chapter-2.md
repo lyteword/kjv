@@ -1,7 +1,8 @@
 ---
 title: "Judges 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Judges 2 Online | And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you..."
+description: >
+  Read Judges 2 Online | And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you...
 weight: 2
 ---
 

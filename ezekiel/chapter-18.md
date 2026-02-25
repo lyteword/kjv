@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 18 KJV | Read the Bible Online"
 linkTitle: "18"
-description: "Read Ezekiel 18 Online | The word of the LORD came unto me again, saying..."
+description: >
+  Read Ezekiel 18 Online | The word of the LORD came unto me again, saying...
 weight: 18
 ---
 

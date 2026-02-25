@@ -1,7 +1,8 @@
 ---
 title: "Psalm 87 KJV | Read the Bible Online"
 linkTitle: "87"
-description: "Read Psalm 87 Online | His foundation *is* in the holy mountains..."
+description: >
+  Read Psalm 87 Online | His foundation *is* in the holy mountains...
 weight: 87
 ---
 

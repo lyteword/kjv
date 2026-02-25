@@ -1,7 +1,8 @@
 ---
 title: "Titus 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Titus 2 Online | But speak thou the things which become sound doctrine..."
+description: >
+  Read Titus 2 Online | But speak thou the things which become sound doctrine...
 weight: 2
 ---
 

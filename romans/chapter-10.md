@@ -1,7 +1,8 @@
 ---
 title: "Romans 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Romans 10 Online | Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved..."
+description: >
+  Read Romans 10 Online | Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved...
 weight: 10
 ---
 

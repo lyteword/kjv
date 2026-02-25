@@ -1,7 +1,8 @@
 ---
 title: "Judges 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Judges 5 Online | Then sang Deborah and Barak the son of Abinoam on that day, saying..."
+description: >
+  Read Judges 5 Online | Then sang Deborah and Barak the son of Abinoam on that day, saying...
 weight: 5
 ---
 

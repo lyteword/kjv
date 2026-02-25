@@ -1,7 +1,8 @@
 ---
 title: "Colossians 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Colossians 2 Online | For I would that ye knew what great conflict I have for you, and *for* them at Laodicea, and *for* as many as have not seen my face in the flesh..."
+description: >
+  Read Colossians 2 Online | For I would that ye knew what great conflict I have for you, and *for* them at Laodicea, and *for* as many as have not seen my face in the flesh...
 weight: 2
 ---
 

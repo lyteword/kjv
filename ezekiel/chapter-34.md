@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 34 KJV | Read the Bible Online"
 linkTitle: "34"
-description: "Read Ezekiel 34 Online | And the word of the LORD came unto me, saying..."
+description: >
+  Read Ezekiel 34 Online | And the word of the LORD came unto me, saying...
 weight: 34
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Mark 9 KJV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Mark 9 Online | And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power..."
+description: >
+  Read Mark 9 Online | And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power...
 weight: 9
 ---
 

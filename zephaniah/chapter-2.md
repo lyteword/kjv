@@ -1,7 +1,8 @@
 ---
 title: "Zephaniah 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Zephaniah 2 Online | Gather yourselves together, yea, gather together, O nation not desired..."
+description: >
+  Read Zephaniah 2 Online | Gather yourselves together, yea, gather together, O nation not desired...
 weight: 2
 ---
 

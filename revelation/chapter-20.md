@@ -1,7 +1,8 @@
 ---
 title: "Revelation 20 KJV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Revelation 20 Online | And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand..."
+description: >
+  Read Revelation 20 Online | And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand...
 weight: 20
 ---
 

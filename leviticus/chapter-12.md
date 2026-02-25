@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 12 KJV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Leviticus 12 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Leviticus 12 Online | And the LORD spake unto Moses, saying...
 weight: 12
 ---
 

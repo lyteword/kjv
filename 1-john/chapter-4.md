@@ -1,7 +1,8 @@
 ---
 title: "1 John 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 John 4 Online | Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world..."
+description: >
+  Read 1 John 4 Online | Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world...
 weight: 4
 ---
 

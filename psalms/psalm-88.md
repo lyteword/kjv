@@ -1,7 +1,8 @@
 ---
 title: "Psalm 88 KJV | Read the Bible Online"
 linkTitle: "88"
-description: "Read Psalm 88 Online | O LORD God of my salvation, I have cried day *and* night before thee..."
+description: >
+  Read Psalm 88 Online | O LORD God of my salvation, I have cried day *and* night before thee...
 weight: 88
 ---
 

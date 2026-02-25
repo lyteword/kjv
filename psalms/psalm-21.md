@@ -1,7 +1,8 @@
 ---
 title: "Psalm 21 KJV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Psalm 21 Online | The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice..."
+description: >
+  Read Psalm 21 Online | The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice...
 weight: 21
 ---
 

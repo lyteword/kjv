@@ -1,7 +1,8 @@
 ---
 title: "Psalm 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Psalm 11 Online | In the LORD put I my trust: how say ye to my soul, Flee *as* a bird to your mountain..."
+description: >
+  Read Psalm 11 Online | In the LORD put I my trust: how say ye to my soul, Flee *as* a bird to your mountain...
 weight: 11
 ---
 

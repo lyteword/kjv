@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 23 KJV | Read the Bible Online"
 linkTitle: "23"
-description: "Read 2 Kings 23 Online | And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem..."
+description: >
+  Read 2 Kings 23 Online | And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem...
 weight: 23
 ---
 

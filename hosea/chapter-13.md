@@ -1,7 +1,8 @@
 ---
 title: "Hosea 13 KJV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Hosea 13 Online | When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died..."
+description: >
+  Read Hosea 13 Online | When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died...
 weight: 13
 ---
 

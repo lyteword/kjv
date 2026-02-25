@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 14 KJV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Leviticus 14 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Leviticus 14 Online | And the LORD spake unto Moses, saying...
 weight: 14
 ---
 

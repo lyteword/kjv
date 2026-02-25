@@ -1,7 +1,8 @@
 ---
 title: "James 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read James 3 Online | My brethren, be not many masters, knowing that we shall receive the greater condemnation..."
+description: >
+  Read James 3 Online | My brethren, be not many masters, knowing that we shall receive the greater condemnation...
 weight: 3
 ---
 

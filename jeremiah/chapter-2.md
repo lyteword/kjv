@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Jeremiah 2 Online | Moreover the word of the LORD came to me, saying..."
+description: >
+  Read Jeremiah 2 Online | Moreover the word of the LORD came to me, saying...
 weight: 2
 ---
 

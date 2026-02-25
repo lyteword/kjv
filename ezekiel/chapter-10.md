@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Ezekiel 10 Online | Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne..."
+description: >
+  Read Ezekiel 10 Online | Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne...
 weight: 10
 ---
 

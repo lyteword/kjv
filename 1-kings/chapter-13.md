@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 13 KJV | Read the Bible Online"
 linkTitle: "13"
-description: "Read 1 Kings 13 Online | And, behold, there came a man of God out of Judah by the word of the LORD unto Beth-el: and Jeroboam stood by the altar to burn incense..."
+description: >
+  Read 1 Kings 13 Online | And, behold, there came a man of God out of Judah by the word of the LORD unto Beth-el: and Jeroboam stood by the altar to burn incense...
 weight: 13
 ---
 

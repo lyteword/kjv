@@ -1,7 +1,8 @@
 ---
 title: "Exodus 40 KJV | Read the Bible Online"
 linkTitle: "40"
-description: "Read Exodus 40 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Exodus 40 Online | And the LORD spake unto Moses, saying...
 weight: 40
 ---
 

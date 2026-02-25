@@ -1,7 +1,8 @@
 ---
 title: "Psalm 80 KJV | Read the Bible Online"
 linkTitle: "80"
-description: "Read Psalm 80 Online | Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest *between* the cherubims, shine forth..."
+description: >
+  Read Psalm 80 Online | Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest *between* the cherubims, shine forth...
 weight: 80
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Job 32 KJV | Read the Bible Online"
 linkTitle: "32"
-description: "Read Job 32 Online | So these three men ceased to answer Job, because he *was* righteous in his own eyes..."
+description: >
+  Read Job 32 Online | So these three men ceased to answer Job, because he *was* righteous in his own eyes...
 weight: 32
 ---
 

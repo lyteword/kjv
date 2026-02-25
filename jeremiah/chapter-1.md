@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Jeremiah 1 Online | The words of Jeremiah the son of Hilkiah, of the priests that *were* in Anathoth in the land of Benjamin..."
+description: >
+  Read Jeremiah 1 Online | The words of Jeremiah the son of Hilkiah, of the priests that *were* in Anathoth in the land of Benjamin...
 weight: 1
 ---
 

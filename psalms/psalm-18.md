@@ -1,7 +1,8 @@
 ---
 title: "Psalm 18 KJV | Read the Bible Online"
 linkTitle: "18"
-description: "Read Psalm 18 Online | I will love thee, O LORD, my strength..."
+description: >
+  Read Psalm 18 Online | I will love thee, O LORD, my strength...
 weight: 18
 ---
 

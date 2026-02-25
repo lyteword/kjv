@@ -1,7 +1,8 @@
 ---
 title: "John 21 KJV | Read the Bible Online"
 linkTitle: "21"
-description: "Read John 21 Online | After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he *himself*..."
+description: >
+  Read John 21 Online | After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he *himself*...
 weight: 21
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Hosea 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Hosea 1 Online | The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, *and* Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel..."
+description: >
+  Read Hosea 1 Online | The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, *and* Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel...
 weight: 1
 ---
 

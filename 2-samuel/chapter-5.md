@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read 2 Samuel 5 Online | Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we *are* thy bone and thy flesh..."
+description: >
+  Read 2 Samuel 5 Online | Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we *are* thy bone and thy flesh...
 weight: 5
 ---
 

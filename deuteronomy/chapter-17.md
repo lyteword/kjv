@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 17 KJV | Read the Bible Online"
 linkTitle: "17"
-description: "Read Deuteronomy 17 Online | Thou shalt not sacrifice unto the LORD thy God *any* bullock, or sheep, wherein is blemish, *or* any evilfavouredness: for that *is* an abomination unto the LORD thy God..."
+description: >
+  Read Deuteronomy 17 Online | Thou shalt not sacrifice unto the LORD thy God *any* bullock, or sheep, wherein is blemish, *or* any evilfavouredness: for that *is* an abomination unto the LORD thy God...
 weight: 17
 ---
 

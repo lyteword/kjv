@@ -1,7 +1,8 @@
 ---
 title: "Luke 21 KJV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Luke 21 Online | And he looked up, and saw the rich men casting their gifts into the treasury..."
+description: >
+  Read Luke 21 Online | And he looked up, and saw the rich men casting their gifts into the treasury...
 weight: 21
 ---
 

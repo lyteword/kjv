@@ -1,7 +1,8 @@
 ---
 title: "Joshua 15 KJV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Joshua 15 Online | *This* then was the lot of the tribe of the children of Judah by their families; *even* to the border of Edom the wilderness of Zin southward *was* the uttermost part of the south coast..."
+description: >
+  Read Joshua 15 Online | *This* then was the lot of the tribe of the children of Judah by their families; *even* to the border of Edom the wilderness of Zin southward *was* the uttermost part of the south coast...
 weight: 15
 ---
 

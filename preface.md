@@ -1,6 +1,7 @@
 ---
 title: "Preface to the King James Version | Read Online"
-description: "Read the original essay prefixed to the King James Version"
+description: >
+  Read the original essay prefixed to the King James Version
 linkTitle: "Preface"
 sidebar:
   exclude: true

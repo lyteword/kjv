@@ -1,7 +1,8 @@
 ---
 title: "Genesis 42 KJV | Read the Bible Online"
 linkTitle: "42"
-description: "Read Genesis 42 Online | Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another..."
+description: >
+  Read Genesis 42 Online | Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another...
 weight: 42
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 75 KJV | Read the Bible Online"
 linkTitle: "75"
-description: "Read Psalm 75 Online | Unto thee, O God, do we give thanks, *unto thee* do we give thanks: for *that* thy name is near thy wondrous works declare..."
+description: >
+  Read Psalm 75 Online | Unto thee, O God, do we give thanks, *unto thee* do we give thanks: for *that* thy name is near thy wondrous works declare...
 weight: 75
 ---
 

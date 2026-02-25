@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 14 KJV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Isaiah 14 Online | For the LORD will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob..."
+description: >
+  Read Isaiah 14 Online | For the LORD will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob...
 weight: 14
 ---
 

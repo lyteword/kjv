@@ -1,7 +1,8 @@
 ---
 title: "Psalm 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Psalm 10 Online | Why standest thou afar off, O LORD? *why* hidest thou *thyself* in times of trouble..."
+description: >
+  Read Psalm 10 Online | Why standest thou afar off, O LORD? *why* hidest thou *thyself* in times of trouble...
 weight: 10
 ---
 

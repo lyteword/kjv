@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 20 KJV | Read the Bible Online"
 linkTitle: "20"
-description: "Read 2 Kings 20 Online | In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live..."
+description: >
+  Read 2 Kings 20 Online | In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live...
 weight: 20
 ---
 

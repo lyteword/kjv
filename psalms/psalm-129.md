@@ -1,7 +1,8 @@
 ---
 title: "Psalm 129 KJV | Read the Bible Online"
 linkTitle: "129"
-description: "Read Psalm 129 Online | Many a time have they afflicted me from my youth, may Israel now say..."
+description: >
+  Read Psalm 129 Online | Many a time have they afflicted me from my youth, may Israel now say...
 weight: 129
 ---
 

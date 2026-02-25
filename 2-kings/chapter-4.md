@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 4 KJV | Read the Bible Online"
 linkTitle: "4"
-description: "Read 2 Kings 4 Online | Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen..."
+description: >
+  Read 2 Kings 4 Online | Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen...
 weight: 4
 ---
 

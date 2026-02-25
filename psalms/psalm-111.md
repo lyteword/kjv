@@ -1,7 +1,8 @@
 ---
 title: "Psalm 111 KJV | Read the Bible Online"
 linkTitle: "111"
-description: "Read Psalm 111 Online | Praise ye the LORD. I will praise the LORD with *my* whole heart, in the assembly of the upright, and *in* the congregation..."
+description: >
+  Read Psalm 111 Online | Praise ye the LORD. I will praise the LORD with *my* whole heart, in the assembly of the upright, and *in* the congregation...
 weight: 111
 ---
 

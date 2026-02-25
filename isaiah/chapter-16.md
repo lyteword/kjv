@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 16 KJV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Isaiah 16 Online | Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion..."
+description: >
+  Read Isaiah 16 Online | Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion...
 weight: 16
 ---
 

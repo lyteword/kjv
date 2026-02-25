@@ -1,7 +1,8 @@
 ---
 title: "Numbers 17 KJV | Read the Bible Online"
 linkTitle: "17"
-description: "Read Numbers 17 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Numbers 17 Online | And the LORD spake unto Moses, saying...
 weight: 17
 ---
 

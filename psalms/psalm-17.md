@@ -1,7 +1,8 @@
 ---
 title: "Psalm 17 KJV | Read the Bible Online"
 linkTitle: "17"
-description: "Read Psalm 17 Online | Hear the right, O LORD, attend unto my cry, give ear unto my prayer, *that goeth* not out of feigned lips..."
+description: >
+  Read Psalm 17 Online | Hear the right, O LORD, attend unto my cry, give ear unto my prayer, *that goeth* not out of feigned lips...
 weight: 17
 ---
 

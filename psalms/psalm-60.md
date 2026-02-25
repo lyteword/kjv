@@ -1,7 +1,8 @@
 ---
 title: "Psalm 60 KJV | Read the Bible Online"
 linkTitle: "60"
-description: "Read Psalm 60 Online | O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again..."
+description: >
+  Read Psalm 60 Online | O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again...
 weight: 60
 ---
 

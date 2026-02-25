@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read 1 Chronicles 11 Online | Then all Israel gathered themselves to David unto Hebron, saying, Behold, we *are* thy bone and thy flesh..."
+description: >
+  Read 1 Chronicles 11 Online | Then all Israel gathered themselves to David unto Hebron, saying, Behold, we *are* thy bone and thy flesh...
 weight: 11
 ---
 

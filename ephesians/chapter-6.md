@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Ephesians 6 Online | Children, obey your parents in the Lord: for this is right..."
+description: >
+  Read Ephesians 6 Online | Children, obey your parents in the Lord: for this is right...
 weight: 6
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 40 KJV | Read the Bible Online"
 linkTitle: "40"
-description: "Read Isaiah 40 Online | Comfort ye, comfort ye my people, saith your God..."
+description: >
+  Read Isaiah 40 Online | Comfort ye, comfort ye my people, saith your God...
 weight: 40
 ---
 

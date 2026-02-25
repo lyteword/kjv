@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Ezekiel 7 Online | Moreover the word of the LORD came unto me, saying..."
+description: >
+  Read Ezekiel 7 Online | Moreover the word of the LORD came unto me, saying...
 weight: 7
 ---
 

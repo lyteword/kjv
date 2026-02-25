@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 12 KJV | Read the Bible Online"
 linkTitle: "12"
-description: "Read 1 Samuel 12 Online | And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you..."
+description: >
+  Read 1 Samuel 12 Online | And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you...
 weight: 12
 ---
 

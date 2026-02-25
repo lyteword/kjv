@@ -1,7 +1,8 @@
 ---
 title: "Job 42 KJV | Read the Bible Online"
 linkTitle: "42"
-description: "Read Job 42 Online | Then Job answered the LORD, and said..."
+description: >
+  Read Job 42 Online | Then Job answered the LORD, and said...
 weight: 42
 ---
 

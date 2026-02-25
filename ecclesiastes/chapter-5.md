@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Ecclesiastes 5 Online | Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil..."
+description: >
+  Read Ecclesiastes 5 Online | Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil...
 weight: 5
 ---
 

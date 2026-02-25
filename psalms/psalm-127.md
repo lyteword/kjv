@@ -1,7 +1,8 @@
 ---
 title: "Psalm 127 KJV | Read the Bible Online"
 linkTitle: "127"
-description: "Read Psalm 127 Online | Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh *but* in vain..."
+description: >
+  Read Psalm 127 Online | Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh *but* in vain...
 weight: 127
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read 2 Samuel 10 Online | And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead..."
+description: >
+  Read 2 Samuel 10 Online | And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead...
 weight: 10
 ---
 

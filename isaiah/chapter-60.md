@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 60 KJV | Read the Bible Online"
 linkTitle: "60"
-description: "Read Isaiah 60 Online | Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee..."
+description: >
+  Read Isaiah 60 Online | Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee...
 weight: 60
 ---
 

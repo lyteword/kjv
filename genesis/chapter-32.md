@@ -1,7 +1,8 @@
 ---
 title: "Genesis 32 KJV | Read the Bible Online"
 linkTitle: "32"
-description: "Read Genesis 32 Online | And Jacob went on his way, and the angels of God met him..."
+description: >
+  Read Genesis 32 Online | And Jacob went on his way, and the angels of God met him...
 weight: 32
 ---
 

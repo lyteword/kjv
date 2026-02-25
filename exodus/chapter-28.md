@@ -1,7 +1,8 @@
 ---
 title: "Exodus 28 KJV | Read the Bible Online"
 linkTitle: "28"
-description: "Read Exodus 28 Online | And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest’s office, *even* Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons..."
+description: >
+  Read Exodus 28 Online | And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest’s office, *even* Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons...
 weight: 28
 ---
 

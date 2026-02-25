@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 Samuel 5 Online | And the Philistines took the ark of God, and brought it from Eben-ezer unto Ashdod..."
+description: >
+  Read 1 Samuel 5 Online | And the Philistines took the ark of God, and brought it from Eben-ezer unto Ashdod...
 weight: 5
 ---
 

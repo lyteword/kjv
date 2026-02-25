@@ -1,7 +1,8 @@
 ---
 title: "Psalm 108 KJV | Read the Bible Online"
 linkTitle: "108"
-description: "Read Psalm 108 Online | O God, my heart is fixed; I will sing and give praise, even with my glory..."
+description: >
+  Read Psalm 108 Online | O God, my heart is fixed; I will sing and give praise, even with my glory...
 weight: 108
 ---
 

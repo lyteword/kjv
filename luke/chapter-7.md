@@ -1,7 +1,8 @@
 ---
 title: "Luke 7 KJV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Luke 7 Online | Now when he had ended all his sayings in the audience of the people, he entered into Capernaum..."
+description: >
+  Read Luke 7 Online | Now when he had ended all his sayings in the audience of the people, he entered into Capernaum...
 weight: 7
 ---
 

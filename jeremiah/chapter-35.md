@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 35 KJV | Read the Bible Online"
 linkTitle: "35"
-description: "Read Jeremiah 35 Online | The word which came unto Jeremiah from the LORD in the days of Jehoiakim the son of Josiah king of Judah, saying..."
+description: >
+  Read Jeremiah 35 Online | The word which came unto Jeremiah from the LORD in the days of Jehoiakim the son of Josiah king of Judah, saying...
 weight: 35
 ---
 

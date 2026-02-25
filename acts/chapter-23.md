@@ -1,7 +1,8 @@
 ---
 title: "Acts 23 KJV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Acts 23 Online | And Paul, earnestly beholding the council, said, Men *and* brethren, I have lived in all good conscience before God until this day..."
+description: >
+  Read Acts 23 Online | And Paul, earnestly beholding the council, said, Men *and* brethren, I have lived in all good conscience before God until this day...
 weight: 23
 ---
 

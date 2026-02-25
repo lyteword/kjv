@@ -1,7 +1,8 @@
 ---
 title: "Genesis 23 KJV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Genesis 23 Online | And Sarah was an hundred and seven and twenty years old: *these were* the years of the life of Sarah..."
+description: >
+  Read Genesis 23 Online | And Sarah was an hundred and seven and twenty years old: *these were* the years of the life of Sarah...
 weight: 23
 ---
 

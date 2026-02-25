@@ -1,7 +1,8 @@
 ---
 title: "John 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read John 1 Online | In the beginning was the Word, and the Word was with God, and the Word was God..."
+description: >
+  Read John 1 Online | In the beginning was the Word, and the Word was with God, and the Word was God...
 weight: 1
 ---
 

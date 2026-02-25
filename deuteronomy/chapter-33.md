@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 33 KJV | Read the Bible Online"
 linkTitle: "33"
-description: "Read Deuteronomy 33 Online | And this *is* the blessing, wherewith Moses the man of God blessed the children of Israel before his death..."
+description: >
+  Read Deuteronomy 33 Online | And this *is* the blessing, wherewith Moses the man of God blessed the children of Israel before his death...
 weight: 33
 ---
 

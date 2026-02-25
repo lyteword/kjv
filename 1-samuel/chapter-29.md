@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 29 KJV | Read the Bible Online"
 linkTitle: "29"
-description: "Read 1 Samuel 29 Online | Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which *is* in Jezreel..."
+description: >
+  Read 1 Samuel 29 Online | Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which *is* in Jezreel...
 weight: 29
 ---
 

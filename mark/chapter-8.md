@@ -1,7 +1,8 @@
 ---
 title: "Mark 8 KJV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Mark 8 Online | In those days the multitude being very great, and having nothing to eat, Jesus called his disciples *unto him*, and saith unto them..."
+description: >
+  Read Mark 8 Online | In those days the multitude being very great, and having nothing to eat, Jesus called his disciples *unto him*, and saith unto them...
 weight: 8
 ---
 

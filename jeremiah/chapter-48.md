@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 48 KJV | Read the Bible Online"
 linkTitle: "48"
-description: "Read Jeremiah 48 Online | Against Moab thus saith the LORD of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded *and* taken: Misgab is confounded and dismayed..."
+description: >
+  Read Jeremiah 48 Online | Against Moab thus saith the LORD of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded *and* taken: Misgab is confounded and dismayed...
 weight: 48
 ---
 

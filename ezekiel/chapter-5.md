@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 5 KJV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Ezekiel 5 Online | And thou, son of man, take thee a sharp knife, take thee a barber’s razor, and cause *it* to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the *hair*..."
+description: >
+  Read Ezekiel 5 Online | And thou, son of man, take thee a sharp knife, take thee a barber’s razor, and cause *it* to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the *hair*...
 weight: 5
 ---
 

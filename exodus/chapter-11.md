@@ -1,7 +1,8 @@
 ---
 title: "Exodus 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Exodus 11 Online | And the LORD said unto Moses, Yet will I bring one plague *more* upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let *you* go, he shall surely thrust you out hence altogether..."
+description: >
+  Read Exodus 11 Online | And the LORD said unto Moses, Yet will I bring one plague *more* upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let *you* go, he shall surely thrust you out hence altogether...
 weight: 11
 ---
 

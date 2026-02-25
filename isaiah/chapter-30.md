@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 30 KJV | Read the Bible Online"
 linkTitle: "30"
-description: "Read Isaiah 30 Online | Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin..."
+description: >
+  Read Isaiah 30 Online | Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin...
 weight: 30
 ---
 

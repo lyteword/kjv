@@ -1,7 +1,8 @@
 ---
 title: "Esther 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Esther 2 Online | After these things, when the wrath of king Ahasuerus was appeased, he remembered Vashti, and what she had done, and what was decreed against her..."
+description: >
+  Read Esther 2 Online | After these things, when the wrath of king Ahasuerus was appeased, he remembered Vashti, and what she had done, and what was decreed against her...
 weight: 2
 ---
 

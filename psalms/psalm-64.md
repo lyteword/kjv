@@ -1,7 +1,8 @@
 ---
 title: "Psalm 64 KJV | Read the Bible Online"
 linkTitle: "64"
-description: "Read Psalm 64 Online | Hear my voice, O God, in my prayer: preserve my life from fear of the enemy..."
+description: >
+  Read Psalm 64 Online | Hear my voice, O God, in my prayer: preserve my life from fear of the enemy...
 weight: 64
 ---
 

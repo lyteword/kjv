@@ -1,7 +1,8 @@
 ---
 title: "Matthew 3 KJV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Matthew 3 Online | In those days came John the Baptist, preaching in the wilderness of Judaea..."
+description: >
+  Read Matthew 3 Online | In those days came John the Baptist, preaching in the wilderness of Judaea...
 weight: 3
 ---
 

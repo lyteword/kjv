@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 45 KJV | Read the Bible Online"
 linkTitle: "45"
-description: "Read Ezekiel 45 Online | Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length *shall be* the length of five and twenty thousand *reeds*, and the breadth *shall be* ten thousand. This *shall be* holy in all the borders thereof round about..."
+description: >
+  Read Ezekiel 45 Online | Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length *shall be* the length of five and twenty thousand *reeds*, and the breadth *shall be* ten thousand. This *shall be* holy in all the borders thereof round about...
 weight: 45
 ---
 

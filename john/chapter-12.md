@@ -1,7 +1,8 @@
 ---
 title: "John 12 KJV | Read the Bible Online"
 linkTitle: "12"
-description: "Read John 12 Online | Then Jesus six days before the passover came to Bethany, where Lazarus was which had been dead, whom he raised from the dead..."
+description: >
+  Read John 12 Online | Then Jesus six days before the passover came to Bethany, where Lazarus was which had been dead, whom he raised from the dead...
 weight: 12
 ---
 

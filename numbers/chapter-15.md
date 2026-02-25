@@ -1,7 +1,8 @@
 ---
 title: "Numbers 15 KJV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Numbers 15 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Numbers 15 Online | And the LORD spake unto Moses, saying...
 weight: 15
 ---
 

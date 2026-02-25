@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read 2 Samuel 6 Online | Again, David gathered together all *the* chosen *men* of Israel, thirty thousand..."
+description: >
+  Read 2 Samuel 6 Online | Again, David gathered together all *the* chosen *men* of Israel, thirty thousand...
 weight: 6
 ---
 

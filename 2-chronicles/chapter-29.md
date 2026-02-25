@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 29 KJV | Read the Bible Online"
 linkTitle: "29"
-description: "Read 2 Chronicles 29 Online | Hezekiah began to reign *when he was* five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother’s name *was* Abijah, the daughter of Zechariah..."
+description: >
+  Read 2 Chronicles 29 Online | Hezekiah began to reign *when he was* five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother’s name *was* Abijah, the daughter of Zechariah...
 weight: 29
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 10 KJV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Zechariah 10 Online | Ask ye of the LORD rain in the time of the latter rain; *so* the LORD shall make bright clouds, and give them showers of rain, to every one grass in the field..."
+description: >
+  Read Zechariah 10 Online | Ask ye of the LORD rain in the time of the latter rain; *so* the LORD shall make bright clouds, and give them showers of rain, to every one grass in the field...
 weight: 10
 ---
 

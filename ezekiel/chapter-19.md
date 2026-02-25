@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 19 KJV | Read the Bible Online"
 linkTitle: "19"
-description: "Read Ezekiel 19 Online | Moreover take thou up a lamentation for the princes of Israel..."
+description: >
+  Read Ezekiel 19 Online | Moreover take thou up a lamentation for the princes of Israel...
 weight: 19
 ---
 

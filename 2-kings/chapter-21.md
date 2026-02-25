@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 21 KJV | Read the Bible Online"
 linkTitle: "21"
-description: "Read 2 Kings 21 Online | Manasseh *was* twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother’s name *was* Hephzi-bah..."
+description: >
+  Read 2 Kings 21 Online | Manasseh *was* twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother’s name *was* Hephzi-bah...
 weight: 21
 ---
 

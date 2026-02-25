@@ -1,7 +1,8 @@
 ---
 title: "Psalm 33 KJV | Read the Bible Online"
 linkTitle: "33"
-description: "Read Psalm 33 Online | Rejoice in the LORD, O ye righteous: *for* praise is comely for the upright..."
+description: >
+  Read Psalm 33 Online | Rejoice in the LORD, O ye righteous: *for* praise is comely for the upright...
 weight: 33
 ---
 

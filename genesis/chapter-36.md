@@ -1,7 +1,8 @@
 ---
 title: "Genesis 36 KJV | Read the Bible Online"
 linkTitle: "36"
-description: "Read Genesis 36 Online | Now these *are* the generations of Esau, who *is* Edom..."
+description: >
+  Read Genesis 36 Online | Now these *are* the generations of Esau, who *is* Edom...
 weight: 36
 ---
 

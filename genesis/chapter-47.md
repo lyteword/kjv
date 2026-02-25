@@ -1,7 +1,8 @@
 ---
 title: "Genesis 47 KJV | Read the Bible Online"
 linkTitle: "47"
-description: "Read Genesis 47 Online | Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they *are* in the land of Goshen..."
+description: >
+  Read Genesis 47 Online | Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they *are* in the land of Goshen...
 weight: 47
 ---
 

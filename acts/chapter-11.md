@@ -1,7 +1,8 @@
 ---
 title: "Acts 11 KJV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Acts 11 Online | And the apostles and brethren that were in Judæa heard that the Gentiles had also received the word of God..."
+description: >
+  Read Acts 11 Online | And the apostles and brethren that were in Judæa heard that the Gentiles had also received the word of God...
 weight: 11
 ---
 

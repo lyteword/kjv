@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 12 KJV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Jeremiah 12 Online | Righteous *art* thou, O LORD, when I plead with thee: yet let me talk with thee of *thy* judgments: Wherefore doth the way of the wicked prosper? *wherefore* are all they happy that deal very treacherously..."
+description: >
+  Read Jeremiah 12 Online | Righteous *art* thou, O LORD, when I plead with thee: yet let me talk with thee of *thy* judgments: Wherefore doth the way of the wicked prosper? *wherefore* are all they happy that deal very treacherously...
 weight: 12
 ---
 

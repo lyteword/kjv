@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 17 KJV | Read the Bible Online"
 linkTitle: "17"
-description: "Read 1 Samuel 17 Online | Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which *belongeth* to Judah, and pitched between Shochoh and Azekah, in Ephes-dammim..."
+description: >
+  Read 1 Samuel 17 Online | Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which *belongeth* to Judah, and pitched between Shochoh and Azekah, in Ephes-dammim...
 weight: 17
 ---
 

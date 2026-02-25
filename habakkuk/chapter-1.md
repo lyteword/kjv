@@ -1,7 +1,8 @@
 ---
 title: "Habakkuk 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Habakkuk 1 Online | The burden which Habakkuk the prophet did see..."
+description: >
+  Read Habakkuk 1 Online | The burden which Habakkuk the prophet did see...
 weight: 1
 ---
 

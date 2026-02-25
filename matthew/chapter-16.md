@@ -1,7 +1,8 @@
 ---
 title: "Matthew 16 KJV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Matthew 16 Online | The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven..."
+description: >
+  Read Matthew 16 Online | The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven...
 weight: 16
 ---
 

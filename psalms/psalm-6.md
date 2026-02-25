@@ -1,7 +1,8 @@
 ---
 title: "Psalm 6 KJV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Psalm 6 Online | O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure..."
+description: >
+  Read Psalm 6 Online | O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure...
 weight: 6
 ---
 

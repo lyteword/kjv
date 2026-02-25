@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 12 KJV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Isaiah 12 Online | And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me..."
+description: >
+  Read Isaiah 12 Online | And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me...
 weight: 12
 ---
 

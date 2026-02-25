@@ -1,7 +1,8 @@
 ---
 title: "Malachi 2 KJV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Malachi 2 Online | And now, O ye priests, this commandment *is* for you..."
+description: >
+  Read Malachi 2 Online | And now, O ye priests, this commandment *is* for you...
 weight: 2
 ---
 

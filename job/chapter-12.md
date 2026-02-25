@@ -1,7 +1,8 @@
 ---
 title: "Job 12 KJV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Job 12 Online | And Job answered and said..."
+description: >
+  Read Job 12 Online | And Job answered and said...
 weight: 12
 ---
 

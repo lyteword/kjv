@@ -1,7 +1,8 @@
 ---
 title: "3 John 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read 3 John 1 Online | The elder unto the wellbeloved Gaius, whom I love in the truth..."
+description: >
+  Read 3 John 1 Online | The elder unto the wellbeloved Gaius, whom I love in the truth...
 weight: 1
 ---
 

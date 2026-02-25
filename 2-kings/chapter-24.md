@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 24 KJV | Read the Bible Online"
 linkTitle: "24"
-description: "Read 2 Kings 24 Online | In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him..."
+description: >
+  Read 2 Kings 24 Online | In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him...
 weight: 24
 ---
 

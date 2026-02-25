@@ -1,7 +1,8 @@
 ---
 title: "Numbers 28 KJV | Read the Bible Online"
 linkTitle: "28"
-description: "Read Numbers 28 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Numbers 28 Online | And the LORD spake unto Moses, saying...
 weight: 28
 ---
 

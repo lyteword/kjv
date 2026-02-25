@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 1 KJV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Nehemiah 1 Online | The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace..."
+description: >
+  Read Nehemiah 1 Online | The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace...
 weight: 1
 ---
 

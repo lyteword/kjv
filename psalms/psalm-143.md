@@ -1,7 +1,8 @@
 ---
 title: "Psalm 143 KJV | Read the Bible Online"
 linkTitle: "143"
-description: "Read Psalm 143 Online | Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, *and* in thy righteousness..."
+description: >
+  Read Psalm 143 Online | Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, *and* in thy righteousness...
 weight: 143
 ---
 

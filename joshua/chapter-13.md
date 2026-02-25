@@ -1,7 +1,8 @@
 ---
 title: "Joshua 13 KJV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Joshua 13 Online | Now Joshua was old *and* stricken in years; and the LORD said unto him, Thou art old *and* stricken in years, and there remaineth yet very much land to be possessed..."
+description: >
+  Read Joshua 13 Online | Now Joshua was old *and* stricken in years; and the LORD said unto him, Thou art old *and* stricken in years, and there remaineth yet very much land to be possessed...
 weight: 13
 ---
 

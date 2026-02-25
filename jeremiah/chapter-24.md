@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 24 KJV | Read the Bible Online"
 linkTitle: "24"
-description: "Read Jeremiah 24 Online | The LORD shewed me, and, behold, two baskets of figs *were* set before the temple of the LORD, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon..."
+description: >
+  Read Jeremiah 24 Online | The LORD shewed me, and, behold, two baskets of figs *were* set before the temple of the LORD, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon...
 weight: 24
 ---
 
