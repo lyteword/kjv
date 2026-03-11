@@ -7,7 +7,10 @@ sidebar:
   exclude: true
 cascade:
   toc: true
+layout: single-section
 ---
+
+# King James Version
 
 The King James Version (KJV), also known as the King James Bible or the Authorized Version, is an Early Modern English translation of the Christian Bible. It was commissioned in 1604 for the Church of England and published in 1611 under the authority of King James VI and I. Renowned for its dignified and enduring style, the KJV has been used continuously for more than four hundred years. It has had a lasting influence on English literature, Christian theology, worship practices, and the development of common English expressions, making it one of the most influential Bible translations in history.
 
