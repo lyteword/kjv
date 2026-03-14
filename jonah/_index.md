@@ -1,7 +1,13 @@
 ---
-title: Jonah
+title: "Jonah KJV | Read the Bible Online"
+linkTitle: "Jonah"
 weight: 32
+description: >
+  Read Jonah from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Jonah
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

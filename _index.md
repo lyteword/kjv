@@ -1,5 +1,5 @@
 ---
-title: "King James Version (KJV) | Read the Bible Online"
+title: "King James Version (KJV) | Read the Bible Online KJV | Read the Bible Online"
 linkTitle: "KJV"
 description: >
   The King James Version (KJV), also known as the King James Bible or the Authorized Version, is an Early Modern English translation of the Christian Bible.

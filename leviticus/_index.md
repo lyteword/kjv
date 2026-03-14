@@ -1,7 +1,13 @@
 ---
-title: Leviticus
+title: "Leviticus KJV | Read the Bible Online"
+linkTitle: "Leviticus"
 weight: 3
+description: >
+  Read Leviticus from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Leviticus
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

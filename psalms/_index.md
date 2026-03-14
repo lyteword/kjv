@@ -1,7 +1,13 @@
 ---
-title: Psalms
+title: "Psalms KJV | Read the Bible Online"
+linkTitle: "Psalms"
 weight: 19
+description: >
+  Read Psalms from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Psalms
 
 {{< cards >}}
 {{< card link="./psalm-1" title="Psalm 1" icon="book-open" >}}

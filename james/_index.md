@@ -1,7 +1,13 @@
 ---
-title: James
+title: "James KJV | Read the Bible Online"
+linkTitle: "James"
 weight: 59
+description: >
+  Read James from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# James
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

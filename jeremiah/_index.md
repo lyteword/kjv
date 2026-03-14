@@ -1,7 +1,13 @@
 ---
-title: Jeremiah
+title: "Jeremiah KJV | Read the Bible Online"
+linkTitle: "Jeremiah"
 weight: 24
+description: >
+  Read Jeremiah from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Jeremiah
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

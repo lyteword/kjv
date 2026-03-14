@@ -1,7 +1,13 @@
 ---
-title: 1 Kings
+title: "1 Kings KJV | Read the Bible Online"
+linkTitle: "1 Kings"
 weight: 11
+description: >
+  Read 1 Kings from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# 1 Kings
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

@@ -1,7 +1,13 @@
 ---
-title: Hosea
+title: "Hosea KJV | Read the Bible Online"
+linkTitle: "Hosea"
 weight: 28
+description: >
+  Read Hosea from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Hosea
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

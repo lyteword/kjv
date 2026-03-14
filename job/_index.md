@@ -1,7 +1,13 @@
 ---
-title: Job
+title: "Job KJV | Read the Bible Online"
+linkTitle: "Job"
 weight: 18
+description: >
+  Read Job from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Job
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

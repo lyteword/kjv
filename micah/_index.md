@@ -1,7 +1,13 @@
 ---
-title: Micah
+title: "Micah KJV | Read the Bible Online"
+linkTitle: "Micah"
 weight: 33
+description: >
+  Read Micah from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Micah
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

@@ -1,7 +1,13 @@
 ---
-title: 2 Corinthians
+title: "2 Corinthians KJV | Read the Bible Online"
+linkTitle: "2 Corinthians"
 weight: 47
+description: >
+  Read 2 Corinthians from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# 2 Corinthians
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

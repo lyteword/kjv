@@ -1,7 +1,13 @@
 ---
-title: Nehemiah
+title: "Nehemiah KJV | Read the Bible Online"
+linkTitle: "Nehemiah"
 weight: 16
+description: >
+  Read Nehemiah from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Nehemiah
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

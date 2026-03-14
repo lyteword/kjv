@@ -1,7 +1,13 @@
 ---
-title: Ruth
+title: "Ruth KJV | Read the Bible Online"
+linkTitle: "Ruth"
 weight: 8
+description: >
+  Read Ruth from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Ruth
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

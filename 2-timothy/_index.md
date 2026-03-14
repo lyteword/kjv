@@ -1,7 +1,13 @@
 ---
-title: 2 Timothy
+title: "2 Timothy KJV | Read the Bible Online"
+linkTitle: "2 Timothy"
 weight: 55
+description: >
+  Read 2 Timothy from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# 2 Timothy
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

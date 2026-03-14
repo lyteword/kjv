@@ -1,7 +1,13 @@
 ---
-title: Colossians
+title: "Colossians KJV | Read the Bible Online"
+linkTitle: "Colossians"
 weight: 51
+description: >
+  Read Colossians from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Colossians
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
