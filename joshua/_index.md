@@ -1,7 +1,13 @@
 ---
-title: Joshua
+title: "Joshua KJV | Read the Bible Online"
+linkTitle: "Joshua"
 weight: 6
+description: >
+  Read Joshua from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Joshua
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

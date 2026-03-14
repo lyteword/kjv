@@ -1,7 +1,13 @@
 ---
-title: 2 Chronicles
+title: "2 Chronicles KJV | Read the Bible Online"
+linkTitle: "2 Chronicles"
 weight: 14
+description: >
+  Read 2 Chronicles from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# 2 Chronicles
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

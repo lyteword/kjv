@@ -1,7 +1,13 @@
 ---
-title: 2 Kings
+title: "2 Kings KJV | Read the Bible Online"
+linkTitle: "2 Kings"
 weight: 12
+description: >
+  Read 2 Kings from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# 2 Kings
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

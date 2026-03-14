@@ -1,7 +1,13 @@
 ---
-title: Deuteronomy
+title: "Deuteronomy KJV | Read the Bible Online"
+linkTitle: "Deuteronomy"
 weight: 5
+description: >
+  Read Deuteronomy from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Deuteronomy
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

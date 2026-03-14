@@ -1,7 +1,13 @@
 ---
-title: Galatians
+title: "Galatians KJV | Read the Bible Online"
+linkTitle: "Galatians"
 weight: 48
+description: >
+  Read Galatians from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Galatians
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

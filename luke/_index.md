@@ -1,7 +1,13 @@
 ---
-title: Luke
+title: "Luke KJV | Read the Bible Online"
+linkTitle: "Luke"
 weight: 42
+description: >
+  Read Luke from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Luke
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

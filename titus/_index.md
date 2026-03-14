@@ -1,7 +1,13 @@
 ---
-title: Titus
+title: "Titus KJV | Read the Bible Online"
+linkTitle: "Titus"
 weight: 56
+description: >
+  Read Titus from the King James Version (KJV) Online
+layout: single-section
 ---
+
+# Titus
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
