@@ -22,7 +22,7 @@ weight: 6
 
 **⁷** Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. 
 
-**⁸** For he that soweth to his flesh shall of the flesh reap corruption; but he tha t soweth to the Spirit shall of the Spirit reap life everlasting. 
+**⁸** For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting. 
 
 **⁹** And let us not be weary in well doing: for in due season we shall reap, if we faint not. 
 
